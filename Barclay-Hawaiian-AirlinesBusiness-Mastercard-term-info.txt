@@ -1,0 +1,288 @@
+                            Terms and Conditions                            #CCA
+TC {font-family: Arial, Helvetica, sans-serif; font: .8em; margin-top: 1%; margi
+n-left: 3%; margin-right: 3%}#CCATC table { border-bottom: solid black 1px; bord
+er-top: solid black 1px; border-left: solid black 0px; border-right: solid black
+ 1px;}#CCATC p {font-family: Arial, Helvetica, sans-serif;}#CCATC td { border-bo
+ttom: solid black 0px; border-top: solid black 0px; border-left: solid black 1px
+; font-family: Arial, Helvetica, sans-serif; font-size: 12px; horizontal-align: 
+left; vertical-align: top; padding: 6px}#CCATC .no-border { border: 0px;}#CCATC 
+.top-border { border-top: solid black 1px;}.aprRate {font-size: 1.4em;}p.firstLi
+ne {text-indent: -25px; margin-left: 2em;}p.indentLines {margin-left: 25px;}ol {
+margin-left: 3em; padding-left: 4em;}Rates and FeesAnnual Percentage Rate (APR) 
+for Purchases17.49% variable or 26.49% variable, depending on our review of your
+ application and credit history.This APR will vary with the market based on the 
+Prime Rate.APR for Balance Transfers17.49% variable or 26.49% variable, dependin
+g on our review of your application and credit history. This APR will vary with 
+the market based on the Prime Rate.APR for Cash Advances26.74%This APR will vary
+ with the market based on the Prime Rate.Variable Rate InformationYour APR may v
+ary. The rate is determined monthly by adding the Prime Rate and:12.74% or 21.74
+% for Purchases and this rate will not be lower than 12.74% or 21.74% respective
+ly.12.74% or 21.74% for Balance Transfers and this rate will not be lower than 1
+2.74% or 21.74% respectively. 21.99% for Cash Advances and Convenience Checks an
+d this rate will not be lower than 21.99%. See explanation below.**Grace PeriodA
+t least 20 days Grace Period for Purchases from the Statement Closing Date on yo
+ur periodic statement (provided you pay your previous balance in full by the due
+ date). The Grace Period does not apply to Cash Advances, Balance Transfers or C
+onvenience Checks.Minimum Finance Charge$1.00Method of Computing the Balance for
+ PurchasesAverage Daily Balance (including new purchases) FeesAnnual Fee$89Trans
+action Fees: Balance TransferEither $5 or 3% of the amount of each transfer, whi
+chever is greater.Cash AdvanceEither $10 or 3% of the amount of each cash advanc
+e, whichever is greater.Convenience CheckEither $5 or 3% of the amount of each C
+heck, whichever is greater.Foreign Transaction0% of the U.S. Dollar amount.Penal
+ty Fees: Late PaymentFor Account balances less than $250: $19.   For Account bal
+ances equal to or greater than $250: $39.Returned Payment $39Returned Convenienc
+e Check $39Over-the-Credit-Line $0Stop Convenience Check Payment $39Electronic P
+ayment $15Administrative$3 for Statement Copy$5 for other documentsResearch - $1
+5 per hour**The Prime Rate used in determining the APRs used on your Account eac
+h billing cycle is the highest rate published in the Money Rates column of The W
+all Street Journal on the last business day of each month. The variable APRs, wh
+ich are subject to a minimum APR, are current as of 03/30/2018 using a Prime Rat
+e of 4.75%.Barclays Bank Delaware ("Barclaycard") reserves the right to change t
+he APR and other Charges as described above after your Account is opened, and in
+ accordance with the Business Card Agreement and Delaware law. Barclaycard reser
+ves the right to change at any time the benefits and features associated with yo
+ur card or Account after your Account is opened.  We will allocate payments to l
+ower APR balances before higher APR balances.Authorization: When you (the "Signi
+ng Individual") submit this Application for this business credit card account (t
+he "Account") from Barclays Bank Delaware, located in Wilmington, Delaware, you 
+agree to the following: (1) that you are either a sole proprietor or an authoriz
+ed representative, officer, partner, employee or agent of the business identifie
+d on the Application (the "Business"); (2) that you are at least 18 years of age
+ and a permanent resident of the United States, and have truthfully and complete
+ly provided the information on this Application; (3) you have reviewed and accep
+t the terms and conditions provided on this Application; (4) the use of any Acco
+unt opened or any card issued in connection with this offer will constitute your
+ acceptance of and will be subject to the terms and conditions of the Business C
+ard Agreement that will be sent to you with your card(s);(5) the cards and the A
+ccount will be used solely for business purposes and will not be used for person
+al, family or household purposes; (6) you and the Business are jointly and sever
+ally liable for all charges on the Account (which means that you are personally 
+liable for all amounts due on the Account);  (7) you certify that you have the a
+uthority to permit us to issue cards containing the Business name; and (8) you u
+nderstand that the terms of the Account are subject to change as provided in the
+ Business Card Agreement.About Your Credit Report: You agree that Barclaycard ha
+s the right to obtain a current consumer and business credit report in connectio
+n with our review of your Application and, subsequently, in connection with a re
+quested charge to your Account, the renewal of your Account, or a change in your
+ credit line; and that we have the right to report to others our credit experien
+ce with you. Upon your request, we will tell you the name and address of each cr
+edit reporting agency from which we obtained a credit report about you or your b
+usinessImportant Information About Procedures for Opening a New Account: To help
+ the government fight the funding of terrorism and money laundering activities, 
+Federal law requires all financial institutions to obtain, verify, and record in
+formation that identifies each person who opens an Account. What this means to y
+ou: When you apply for an Account, we will ask for your name, address, date of b
+irth, and other information that will allow us to identify you. We may also ask 
+to see copies of identifying documents.Omission: Omission of any information req
+uested on this Application may result in a denial of credit.Your Telephone Numbe
+r: By providing your telephone number, at the time you apply or anytime thereaft
+er, you authorize Barclaycard and its affiliates, agents and independent contrac
+tors to contact you regarding your Account at such number using any means of com
+munication, including, but not limited to calls placed to your cell, mobile or o
+ther phone using an automated dialing service, prerecorded messages or text mess
+ages. Standard text messaging and/or calling charges may apply.Offer Availabilit
+y: This offer is available only to applicants who are permanent residents of the
+ United States, with the exception of Puerto Rico. This offer may not be availab
+le to you if you already have a credit card account with Barclaycard.Credit Perf
+ormance: After your Account is opened, we will periodically review your credit p
+erformance. If you do not maintain your credit performance with us, we may chang
+e your Account terms.Dispute Resolution: You agree that any dispute between us w
+ill be resolved by binding Arbitration.Transferring Your Balances. Here's How it
+ Works: Upon approval of your Application we will provide you with your Business
+ Card Agreement and, to the extent permitted by your credit line, process the Ba
+lance Transfer to the credit card account which you have requested (minimum $100
+, maximum $20,000). Only balances from other business credit card accounts or ot
+her business related expenses may be transferred. We reserve the right to round 
+up your requested Balance Transfer amount to the nearest whole dollar amount. Th
+e credit available on your Account will be reduced by the amount of the Balance 
+Transfer and any related fees. Your other credit card account(s) will not be clo
+sed, even if you have paid your entire balance. You must contact the other credi
+t card company to close your other account. We reserve the right to decline to p
+rocess any Balance Transfer request. We will not process a request to transfer a
+ balance from any other account you may have with us or our affiliates. It is po
+ssible that your credit line amount may be lower than the Balance Transfer(s) re
+quested. If this should occur, we will process Balance Transfers up to $250 belo
+w the available credit. There is a fee for Balance Transfer unless the offer sta
+tes otherwise. A Balance Transfer may take up to 4 weeks to post to your other c
+redit card accounts. Continue to pay each creditor until the Balance Transfer ap
+pears on the other account(s) as a credit.  You should not transfer the amount o
+f any disputed purchase or other charge on the other account.  If you do so, you
+ may lose your dispute rights as to that transaction.Information Sharing:Barclay
+s' Privacy Policy is available online at www.HawaiianBusinessCard.com. I agree t
+hat Barclays Bank Delaware, Hawaiian Airlines and Bank of Hawaii may share infor
+mation about me and my Account to the extent needed to administer the Hawaiian A
+irlines® Business MasterCard® in conjunction with the Hawaiian Airlines® MasterC
+ard® Rewards Program.HAWAIIAN AIRLINES® BUSINESS MASTERCARD® REWARDS PROGRAM RUL
+ESThis document contains the official Rewards Program Rules (“Program Rules”) fo
+r the Hawaiian Airlines MasterCard Program (the “Program”) and includes importan
+t conditions and limitations. Use of your Hawaiian Airlines MasterCard Account c
+onstitutes your acceptance of each of the terms described below. Please read the
+se Program Rules and keep this document in a safe place. Capitalized terms not d
+efined in these Program Rules have the meaning ascribed to them in the Business 
+Card Agreement.Program Administration The Program is administered by Barclays Ba
+nk Delaware (Barclaycard) located in Wilmington, DE (“we”, “us” or “our”). Barcl
+aycard is solely responsible for all credit and eligibility standards and determ
+ination of account issuance. HawaiianMiles® is a frequent flyer program offered 
+by Hawaiian Airlines and is not a product or program of Barclaycard. Hawaiian Ai
+rlines is solely responsible for establishing the terms and conditions of your p
+articipation and mileage accumulation in the Program and may change the Program 
+Rules at any time with or without prior notice. To qualify for participation in 
+the Program and to maintain an account in good standing: • You must maintain an 
+open and active Credit Card Account that is not in default under your Business C
+ard Agreement with us. • You must pay your annual fee. • Your Credit Card Accoun
+t cannot have been inactive for 6 billing cycles in a row (representing approxim
+ately 6 months). “Inactive” means you have no balance, no payments and no transa
+ctions.Earning HawaiianMiles40,000 bonus Miles will be awarded in the first bill
+ing cycle in which you have made a purchase within ninety (90) days of Account o
+pening (that is not later returned or rescinded).  Bonus miles will be awarded a
+t the close of the Cardmember’s billing statement after the qualifying purchase(
+s) have posted. You earn HawaiianMiles on retail Purchases with the Hawaiian Air
+lines MasterCard (the “Card”), less credits, returns and adjustments (“Net Purch
+ases”) made by you and/or any employees who transact with the Card. All Hawaiian
+Miles will be applied to the Primary Cardmember’s HawaiianMiles account.Cardmemb
+ers will receive one (1) HawaiianMile for every one U.S. dollar ($1.00) of Net P
+urchases made on the Account rounded to the nearest dollar and two (2) HawaiianM
+iles for every one U.S. dollar ($1.00) of Net Purchases directly from Hawaiian A
+irlines. HA Vacation Packages and Duty Free purchases made in-flight on Hawaiian
+ Airlines are not considered direct purchases from Hawaiian Airlines and therefo
+re do not qualify for the two HawaiianMiles for every one U.S. dollar ($1.00) of
+ Net Purchases. From time to time,  Barclaycard (“We”) may offer bonuses or Hawa
+iianMiles or other premiums (for example, First Use HawaiianMiles, First Use Cer
+tificates) to new Hawaiian Airlines MasterCard Cardmembers. Unless otherwise sta
+ted in the offer, these bonuses and /or Rewards are intended for persons who are
+ not and have not previously been Hawaiian Airlines MasterCard Cardmembers. You 
+understand and agree that, unless we otherwise state, you are no longer eligible
+ to receive these bonuses and/or Rewards for any new Hawaiian Airlines MasterCar
+d account you open after this Account is opened. If you receive a bonus or Rewar
+d for which you are not eligible, we may revoke the bonus or Reward, or reduce y
+our HawaiianMiles by the amount of the bonus or Reward, or charge your Account f
+or the fair value of the bonus or Reward, at our option.Balance Transfers, Cash 
+Advances, Quasi-Cash Transactions (transactions in highly liquid assets, e.g. as
+sets that are directly convertible to cash such as, but not limited to, money or
+ders, travelers checks, foreign currency and lottery tickets), fees, interest ch
+arges, and unauthorized/fraudulent transactions do not earn HawaiianMiles. There
+ is no limit to the total HawaiianMiles you can earn as long as the Program cont
+inues and the Cardmember’s Credit Card Account is open and in good standing. Bar
+claycard reserves the right, at its sole discretion, to disqualify any Cardmembe
+r from participating in the Program and to invalidate any or all HawaiianMiles e
+arned for abuse, fraud, or any violation of the Program Rules.Redeeming Hawaiian
+MilesTo redeem HawaiianMiles for flights on Hawaiian Airlines, sign-in to your H
+awaiianMiles account at HawaiianAirlines.com. Visit HawaiianAirlines.com for mor
+e details about Hawaiian Airlines redemption policies and procedures. Standard H
+awaiianMiles Term and Conditions apply. See HawaiianAirlines.com for complete te
+rms.  Important Information about HawaiianMilesEarned HawaiianMiles do not expir
+e if there is HawaiianMiles account activity (earnings or redemptions).  If ther
+e is no activity within 18 consecutive months, Hawaiian Airlines will expire the
+ HawaiianMiles accrued on a member’s account. You have no property rights or oth
+er legal interest in HawaiianMiles. HawaiianMiles have no cash value. You are so
+lely responsible for any taxes that may be owed as a result of HawaiianMiles ear
+ned and/or redeemed. Please consult your tax advisor if you have tax questions a
+bout the Program. Barclaycard does not provide tax advice. If the Cardmember is 
+not credited for earned HawaiianMiles or other benefits, once identified, the ea
+rned HawaiianMiles or other benefits will be credited. If HawaiianMiles or other
+ benefits are not available, a comparable benefit will be provided as determined
+ by us. The Program is subject to all applicable laws and regulations. The redem
+ption of HawaiianMiles is void where prohibited by law. The sale or barter of an
+y Reward offered through the Program is expressly prohibited.HawaiianMiles Restr
+ictions You may not earn HawaiianMiles associated with your credit card during a
+ billing cycle in which any of the following occur: • You fail to make the Minim
+um Payment Due by the Payment Due Date. • Your Credit Card Account becomes delin
+quent. • Your Credit Card Account is not in good standing as defined in the Busi
+ness Card Agreement.HawaiianMiles Forfeiture We require that your Credit Card Ac
+count be open and that you maintain your account in good standing to participate
+ in this rewards program. If your Credit Card Account is closed, you will forfei
+t your HawaiianMiles earned in that billing cycle.  You may forfeit your Hawaiia
+nMiles associated with your Credit Card Account if any of the following occur:• 
+Your Credit Card Account becomes seriously delinquent, as determined by Barclayc
+ard at its sole discretion. • You or we close your Credit Card Account for any r
+eason. • There is fraudulent activity on this Credit Card Account. Call the numb
+er on the back of your Card if you need more information. • Violation of the Haw
+aiianMiles Program terms and conditions.Program MembershipIf you included the Pr
+imary Cardmember’s HawaiianMiles membership number in the application, we will a
+dd that number to your Credit Card Account automatically. If the membership numb
+er that you provided is found to be invalid or you did not provide us with a mem
+bership number, a new HawaiianMiles membership account number will be assigned t
+o the Primary Cardmember. Only one HawaiianMiles Program membership will be esta
+blished regardless of whether your Account is an individual account or an accoun
+t with an authorized user.Companion Travel DiscountYou are eligible to receive a
+ single one-time 50% discount toward one published full coach round-trip fare fo
+r a companion. This discount is good on roundtrip coach travel between Hawaii an
+d North America booked directly with Hawaiian Airlines through the Primary Cardm
+ember’s HawaiianMiles account. The discount will be off of one published full co
+ach roundtrip base fare for a companion, which does not include taxes, fees, or 
+surcharges, with the purchase of one published full coach roundtrip fare.  Addit
+ional taxes, fees and charges including Passenger Facility Charge, Federal Excis
+e Taxes, Canadian VAT/GST and customs/immigration charges apply to all tickets p
+urchased and are not included in the base fare. Additional cost of $3.80 USD ZP 
+tax per segment applied to each ticket purchase, a $2.50 USD per enplanement  Se
+ptember 11 Security Fee (not to exceed $10 USD) and PFC surcharge of $3-$4.50 US
+D where applicable will be applied to each ticket purchase.Primary Cardmember mu
+st be one of the passengers on the flight record. Both passengers (Primary Cardm
+ember and companion) must be booked for travel on the same flight record, fare a
+nd class of service, and must travel on all flight segments together. Offer must
+ be redeemed through the Primary Cardmember’s HawaiianMiles account. Tickets mus
+t be purchased with your Hawaiian Airlines MasterCard. Offer is valid for all Ha
+waiian Airlines flights between Hawaii and North America.  The offer is not vali
+d on Neighbor Island flights.Offer is not valid on First Class or Extra Comfort 
+fares, or open tickets. Offer is not valid on codeshare flights with partner air
+lines. Offer is not valid on multi-city flights. Offer may not be combined with,
+ applied to, or applied towards HawaiianMiles flight awards redeemed using Hawai
+ianMiles. The one-time 50% companion discount offer is good for 13 months from t
+he time the Credit Card Account is opened and is subject to change. Companion tr
+avel discounts have no cash value and cannot be transferred or sold. Visit Hawai
+ianAirlines.com/MasterCardDiscount for more information on how to redeem your tr
+avel discount. Standard HA eCertificate Terms and Conditions apply. See Hawaiian
+Airlines.com for complete terms. Annual Spend Bonus HawaiianMilesYou are eligibl
+e to earn up to a maximum of 40,000 annual bonus HawaiianMiles based on annual s
+pend. Annual bonus HawaiianMiles are either:20,000 Bonus HawaiianMiles with $50K
+-$99K annual spend40,000 Bonus HawaiianMiles with $100K or more annual spendA ma
+ximum of 40,000 annual bonus HawaiianMiles can be earned per year regardless of 
+the amount of Net Purchases made. HawaiianMiles will be applied annually at the 
+account cycle date of your anniversary month. HawaiianMiles ShareMilesAs a Hawai
+ian Airlines MasterCard Primary Cardmember, you can receive HawaiianMiles from f
+riends and family online at HawaiianAirlines.com. You must have a current email 
+address on file within your HawaiianMiles account to receive HawaiianMiles trans
+ferred with the ShareMiles program. Hawaiian Airlines MasterCard Cardmembers may
+ receive HawaiianMiles transferred from friends and family up to a maximum of te
+n (10) times per calendar year. The HawaiianMiles transferer must be a current H
+awaiianMiles account holder and may perform an unlimited amount of transfer tran
+sactions using the ShareMiles program. There are no transaction fees for Hawaiia
+nMiles transfers, no charges per mile, or no minimum or maximum number of Hawaii
+anMiles transferred for cardmembers. Full terms and conditions for the sharing o
+f HawaiianMiles are available at HawaiianAirlines.com/HawaiianMiles/terms-and-co
+nditions/.HawaiianMiles Select PartnersYou may earn up to 10 extra HawaiianMiles
+ per one dollar spent at select HawaiianMiles partners. Payments for purchases a
+t select HawaiianMiles partners must be made with your Hawaiian Airlines MasterC
+ard. If any part of the payment is made with cash, check, or by means other than
+ your Hawaiian Airlines MasterCard, you will earn extra HawaiianMiles only on th
+e amount paid with your Hawaiian Airlines MasterCard. HawaiianMiles will be cred
+ited only to the Primary Cardmember’s HawaiianMiles account. Please allow 4-6 we
+eks for HawaiianMiles to post to your HawaiianMiles account. Participating Hawai
+ianMiles select partners are subject to change at any time.  Visit partners.hawa
+iianair.com for partner listing and restrictions.Limitation and Release of Liabi
+lityHawaiian Airlines is not a party to the Business Card Agreement between Barc
+laycard and the Cardmember, does not participate in any extension of credit, has
+ no authority regarding the Credit Card Account and is not responsible for any g
+oods or services offered by Barclaycard. Barclaycard is not responsible for any 
+goods or services offered by Hawaiian Airlines. You authorize Barclaycard to sha
+re information about your Account with Hawaiian Airlines and the HawaiianMiles p
+rogram to the extent needed to administer the HawaiianMiles Program. You also ag
+ree that Barclaycard may share Account information as set forth in Barclaycard’s
+ Privacy Policy. By participating in the HawaiianMiles Program and accepting and
+ using HawaiianMiles earned via the Program, you and any other beneficiary of th
+e HawaiianMiles Program release, discharge and hold harmless Barclaycard, Hawaii
+an Airlines and their respective subsidiaries, affiliates, agents, administrator
+s, employees, officers, directors, successors and assignees from all claims, dam
+ages or liability including, but not limited to, physical injury or death arisin
+g out of participation in the HawaiianMiles Program.Important General Program Di
+sclosures We are not responsible for typographical errors or omissions in this d
+ocument. HawaiianMiles cannot be combined with other discount or reward programs
+ unless specifically authorized by us. We reserve the right to correct inaccurat
+e rewards values represented on statements or our website, at our sole discretio
+n. We may, at our sole discretion, cancel, modify, restrict, or terminate the Pr
+ogram or any aspects or features of the Program at any time without prior notice
+. All interpretations of Program Rules shall be at our sole discretion. For the 
+most current information, visit HawaiianAirlines.com/HawaiianMiles/terms-and-con
+ditions/. Customer ServiceIf you have any questions about your rewards program, 
+please contact the customer service phone number on the back of your card.      
+                  

@@ -1,0 +1,425 @@
+                            Terms and Conditions                            #CCA
+TC {font-family: Arial, Helvetica, sans-serif; font: .8em; margin-top: 1%; margi
+n-left: 3%; margin-right: 3%}#CCATC table { border-bottom: solid black 1px; bord
+er-top: solid black 1px; border-left: solid black 0px; border-right: solid black
+ 1px;}#CCATC p {font-family: Arial, Helvetica, sans-serif;}#CCATC td { border-bo
+ttom: solid black 0px; border-top: solid black 0px; border-left: solid black 1px
+; font-family: Arial, Helvetica, sans-serif; font-size: 12px; horizontal-align: 
+left; vertical-align: top; padding: 6px}#CCATC .no-border { border: 0px;}#CCATC 
+.top-border { border-top: solid black 1px;}.aprRate {font-size: 1.4em;}p.firstLi
+ne {text-indent: -25px; margin-left: 2em;}p.indentLines {margin-left: 25px;}ol {
+margin-left: 3em; padding-left: 4em;}Interest Rates and Interest ChargesAnnual P
+ercentage Rate (APR) for Purchases17.49%, 21.49% or 26.49%, based on your credit
+ worthiness.This APR will vary with the market based on the Prime Rate.APR for B
+alance Transfers0% introductory APR for the first fifteen billing cycles followi
+ng each balance transfer that posts to your account within 45 days of account op
+ening.After that, (and for balance transfers that do not post within 45 days of 
+account opening) your APR will be 17.49%, 21.49%, or 26.49% based on your credit
+ worthiness. This APR will vary with the market based on the Prime Rate.APR for 
+Cash Advances26.74%This APR will vary with the market based on the Prime Rate.Ho
+w to Avoid Paying Interest on PurchasesYour due date is at least 23 days after t
+he close of each billing cycle. We will not charge you interest on purchases if 
+you pay your entire balance by the due date each month.Minimum Interest ChargeIf
+ you are charged interest, the charge will be no less than $0.50For Credit Card 
+Tips from the Consumer Financial Protection BureauTo learn more about factors to
+ consider when applying for or using a credit card, visit the website of the Con
+sumer Financial Protection Bureau at http://www.consumerfinance.gov/learnmore. F
+eesAnnual Fee$95Transaction Fees: Balance TransferEither $5 or 3% of the amount 
+of each transfer, whichever is greater.Cash AdvanceEither $10 or 5% of the amoun
+t of each cash advance, whichever is greater.Foreign Transaction0% of each trans
+action in U.S. dollars.Penalty Fees: Late PaymentUp to $37 (the amount of the fe
+e varies by state, see below) Returned PaymentUp to $37 (the amount of the fee v
+aries by state, see below)  How We Will Calculate Your Balance: We use a method 
+called "daily balance (including new purchases)". If you are a resident of Iowa 
+at the time the account is opened, we use a method called "average daily balance
+ (including new purchases)". Terms and Conditions Continued:Important Informatio
+n about the AAdvantage Aviator Red Credit Card Program: Offers may vary. Please 
+carefully review the reward benefits (such as bonus miles/points and how miles/p
+oints are earned), interest rates and account fees and terms of this particular 
+offer before applying.Fees that Vary by State:Late Payment Fee:  Up to $37 (Up t
+o $15 for residents of Iowa at time of account opening). Returned Payment: Up to
+ $37 (Up to $15 for residents of Iowa at time of account opening).Agreement: The
+ use of any account opened in connection with this offer will constitute accepta
+nce of and will be subject to the Cardmember Agreement that will be sent to you.
+ The APRs, fees, and other account terms, as well as the benefits and features a
+ssociated with the account are subject to change to the extent permitted by law.
+  ++Your Telephone Numbers:  By providing us with a telephone number(s), at the 
+time you apply or anytime thereafter, you authorize us and our affiliates and ag
+ents, to contact you at that number about your account or other products or serv
+ices, and to use an automated dialing service, pre-recorded message or text mess
+age. Standard text messaging and/or calling charges may apply.About This Offer: 
+You must be at least 18 years of age. This offer is available only to applicants
+ who are residents of the United States, with the exception of the US territorie
+s.  You may not be eligible for this offer if you currently have or previously h
+ad an account with us in this Program. In addition, you may not be eligible for 
+this offer if, at any time during our relationship with you as the issuer of an 
+account in this Program, we have cause, as determined by us in our sole discreti
+on, to suspect that the account is being obtained or will be used for abusive or
+ gaming activity (such as, but not limited to, obtaining or using the account to
+ maximize rewards earned in a manner that is not consistent with typical consume
+r activity and/or multiple credit card account applications/openings). If at the
+ time of your application you do not meet the credit or income criteria previous
+ly established for this offer, or the income you report is insufficient based on
+ your current obligations, we will not be able to open an account for you. Pleas
+e review the materials provided with your card for details.About Your Credit Rep
+ort: You agree that we have a right to obtain a credit report in connection with
+ our review of your application, and if we establish an account for you, to admi
+nister your account.  You agree that we may report to others our credit experien
+ce with you. If you ask, we will tell the names and addresses of any credit bure
+aus from which we obtained a report about you. About the Variable APRs on Your A
+ccount: We use the highest Prime Rate listed in the The Wall Street Journal on t
+he last business day of each month. For the non-promotional purchase and balance
+ transfer APR, we add either 12.74%, 16.74% or 21.74% to the Prime Rate based on
+ your creditworthiness. For the cash advance APR, we add 21.99% to the Prime Rat
+e. See your Cardmember Agreement for more detail. The APRs noted above are curre
+nt as of 03/30/2018 using a Prime Rate of 4.75%.Important Information About Proc
+edures for Opening a New Account: To help the government fight the funding of te
+rrorism and money laundering activities, Federal law requires all financial inst
+itutions to obtain, verify, and record information that identifies each person w
+ho opens an account. What this means to you: When you apply for an account, we w
+ill ask for your name, street address, date of birth, social security number, an
+d other information that will allow us to identify you. We may also ask to see c
+opies of identifying documents. We also ask for country of citizenship.Balance T
+ransfers. Here's How it Works: To request a balance transfer please enter the 15
+/16 digit account number from the Mastercard, Visa, American Express, or Discove
+r Card account that you want us to process a balance transfer from. If the total
+ amount you request exceeds the assigned credit line on your new account, we may
+ either decline the request or send a partial payment to your creditor(s). The a
+mount of available credit on your new account will be reduced by the amount tran
+sferred and the related balance transfer fees. We reserve the right to decline t
+o process any requested balance transfer. We will not process a request to trans
+fer a balance from any other account you may have with us. Balance transfers inc
+ur interest from the transaction date. You should not transfer the amount of any
+ disputed purchase or other charge. If you do, you may lose your dispute rights.
+Upon approval of your application we will process the requested balance transfer
+ payment to the account(s) which you have requested on the 10th day after we've 
+mailed you your card; during this 10 day time period you may cancel your balance
+ transfer by contacting us at the number on the back of your card. A balance tra
+nsfer may take up to 4 weeks to post to your other accounts. Continue to pay eac
+h creditor until the balance transfer appears on the other account as a credit. 
+If you would like to complete a balance transfer from another account that is no
+t a Visa, Mastercard, American Express or Discover Card account, please call the
+ phone number on the back of your new credit card once you are approved. Balance
+ transfers are subject to availability. We may deny balance transfer requests at
+ any time and for any reason.Avoiding Interest on Purchases: We will not charge 
+you interest on any purchases if you pay your entire balance by the due date eac
+h month. In addition, during this introductory period we will not charge you int
+erest on purchases if you pay by the due date each month your outstanding statem
+ent balance minus any new 0% introductory APR Balance Transfer balances. To avoi
+d a late fee, you should pay at least the minimum payment due on your account ea
+ch month.Credit Limit: We do not permit applicants to request a specific credit 
+limit. We do not consider a request for a balance transfer made with an applicat
+ion to be a request for a particular credit limit. We determine the credit limit
+ on your account independent of and prior to processing any balance transfer req
+uest.Cash Equivalent Purchases: The purchase of money orders, travelers' checks,
+ foreign currency, lottery tickets, gambling chips, wire transfers and other sim
+ilar transactions are treated as cash advances. Please see your Cardmember Agree
+ment for details.New York Residents: New York residents may contact the New York
+ State Department of Financial Services by telephone (800) 342-3736, or visit th
+e website, www.dfs.ny.gov, for free information on comparative credit card rates
+, fees and grace periods. Notice to Ohio Residents: The Ohio laws against discri
+mination require that all creditors make credit equally available to all creditw
+orthy customers, and that credit reporting agencies maintain separate credit his
+tories on each individual upon request.  The Ohio Civil Rights Commission admini
+sters compliance with this law.Notice to Married Wisconsin Residents: No marital
+ property agreement, unilateral statement or court decree under Wisconsin's mari
+tal property law will adversely affect our interests unless before your account 
+is opened, you give us a copy of the agreement, statement or decree or we have a
+ctual knowledge of it.  You understand that we may be required to give notice of
+ this account to your spouse.About Us and This Credit Card Program: This credit 
+card program is issued and administered by Barclays Bank Delaware (Barclaycard),
+ located in Wilmington, DE. Any account opened in response to this application s
+hall be governed by the laws of the State of Delaware. Mastercard is a registere
+d trademark of Mastercard International Incorporated, and is used by us pursuant
+ to a license. Express Delivery: If you are approved for an account your card wi
+ll be sent via next day FedEx delivery after your account is opened if your requ
+est for express delivery is made before 3:00pm ET of that day. If the request is
+ made after 3:00pm ET delivery will be made the following day. Delivery will be 
+made only to your home address and a signature is required. If you added an addi
+tional card user(s) on your application the additional card(s) cannot be express
+ed delivered.The information contained in these disclosures is accurate as of 03
+/30/2018 and may change after this date.Information Sharing: Barclaycard’s Priva
+cy Policy is available online at BarclaycardUS.com.  You agree that Barclaycard,
+ American Airlines® and, Rewards Network may share information about you and you
+r account to the extent needed to administer the AAdvantage® Aviator® Red World 
+Elite Mastercard credit card program in conjunction with the American Airlines A
+Advantage® Program and the AAdvantage® Dining ProgramSM.American Airlines AAdvan
+tage® Aviator® Red Mastercard® Reward RulesThis document contains the official R
+eward Rules for the AAdvantage® Aviator® Red Mastercard® Account (the “Account”)
+ issued by Barclays Bank Delaware (“Barclaycard”, “we”, “us” or “our”) and inclu
+des important conditions and limitations (the “Reward Rules”). Please read the R
+eward Rules and keep this document in a safe place.AAdvantage® is a frequent fly
+er program offered by American Airlines (the “Program”) and is not a product or 
+program of Barclaycard.  American Airlines is solely responsible for establishin
+g the terms and conditions of your participation and mileage accumulation in the
+ Program. Terms and conditions of the Program are published by American Airlines
+ at aa.com.“You, “your” or “primary cardmember” means the person who applied for
+ the Account. Use of your Account constitutes your acceptance of each of the ter
+ms described below and the terms of the Cardmember Agreement.  Capitalized terms
+ not defined in these Reward Rules have the meaning ascribed to them in the Card
+member Agreement. Reward Rules AdministrationThe Reward Rules are administered b
+y Barclaycard.  We are solely responsible for all credit and eligibility standar
+ds and determination of Account issuance.   To maintain your eligibility for par
+ticipation in the Program through use of the Account:You must maintain an open a
+nd active Account that is not in default under your Cardmember Agreement with us
+.Your Account cannot have been inactive for 6 billing cycles in a row (represent
+ing approximately 6 months). “Inactive” means you have no balance, no payments a
+nd no transactions.You must pay your annual fee.You must be an individual (corpo
+rations, partnerships, and other entities may not participate) and use the Accou
+nt only for personal, family or household expenses.Program Membership       If y
+our AAdvantage® number was included in the application, we will add that number 
+to your Account automatically.If the AAdvantage® number that you provided is fou
+nd to be invalid, or you did not provide us with an AAdvantage® number, you cons
+ent to and will be enrolled in the AAdvantage® Program and a new AAdvantage® num
+ber will be assigned to you.Only one AAdvantage® number will be applied per Acco
+unt, and assigned as the primary cardmember on that Account.Important Informatio
+n about AAdvantage® MilesAAdvantage® miles earned through use of the Account are
+ transferred to your AAdvantage® account after the close of each billing stateme
+nt.  Your AAdvantage® account is subject to the AAdvantage® Program terms and co
+nditions, located at https://www.aa.com/i18n/aadvantage-program/terms-and-condit
+ions.jsp, which includes expiration and forfeiture policies.You have no property
+ rights or other legal interest in AAdvantage® miles. Miles have no cash value o
+r value of any kind until they are fully redeemed. Miles may not be assigned, tr
+ansferred or pledged.You are responsible for any tax liability related to partic
+ipating in the Program.If you are not credited for earned AAdvantage® miles or o
+ther benefits, once identified, the earned AAdvantage® miles or other benefits w
+ill be credited. If AAdvantage® miles or other benefits are not available, a com
+parable benefit will be provided as determined by us.In the event of any abusive
+, gaming or fraudulent activity related to the Account, as determined by us in o
+ur sole discretion, we reserve the right to make corresponding AAdvantage® miles
+ adjustments to the miles accrued in the Program through use of the Account and/
+or to cancel your Account at any time.Participation in the Program and use of yo
+ur Account are subject to all applicable laws and regulations. The redemption of
+ AAdvantage® miles is void where prohibited by law. The sale or barter of any re
+ward offered through the Program earned through use of the Account, other than b
+y us, is expressly prohibited.Miles RestrictionsYou may not earn AAdvantage® mil
+es through use of the Account during a billing cycle in which any of the followi
+ng occur:You fail to make the Minimum Payment Due by its Payment Due Date.Your A
+ccount becomes delinquent.Your Account is otherwise in default under your Cardme
+mber Agreement with us. (Your account is not in good standing.)You, or any autho
+rized users on the Account, engage in any illegal activity through the use of yo
+ur Account or engage in activity that is deemed to be abusive or gaming conduct,
+ as determined by us in our sole discretion.Miles ForfeitureAAdvantage® miles ea
+rned through use of the Account that have not yet been sent to your AAdvantage® 
+account may be forfeited if any of the following occur:Your Account becomes seri
+ously delinquent, as determined by us in our sole discretion.You or we close you
+r Account for any reason.You, or any authorized users on the Account, engage in 
+fraudulent activity on your Account.You, or any authorized users on the Account,
+ engage in any illegal activity on your Account, or engage in activity that is d
+eemed to be abusive or gaming conduct, as determined by us in our sole discretio
+n.We reserve the right, at our sole discretion, to disqualify any cardmember fro
+m participating in the Program through use of the Account and to invalidate any 
+or all AAdvantage® miles earned through use of the Account as a result of abuse,
+ fraud, or any violation of the Reward Rules.Earning MilesYou  earn AAdvantage® 
+miles on retail Purchases made with your Account, less credits, returns and adju
+stments (“Net Purchases”) made by you and/or any authorized user(s) of the Accou
+nt.You earn Two (2) AAdvantage® miles for every one dollar ($1.00) of Net Purcha
+ses made with the Account, rounded up or down to the nearest dollar, on eligible
+ tickets, goods and services purchased directly from American Airlines (“America
+n Purchases”). Eligible American Purchases are items billed by American Airlines
+ as merchant of record booked through American Airlines channels (aa.com, Americ
+an Airlines Reservations, American Airlines Vacations reservations, Airpass, and
+ American Airlines airport and city ticket counters). Products or services that 
+do not qualify as American Purchases are car rentals and hotel reservations (exc
+ept taxes and charges paid when redeeming miles for car/hotel), purchase of elit
+e status boost or renewal, and AA CargoSM products and services.You earn One (1)
+ AAdvantage® mile for every one dollar ($1.00) of Net Purchases made with the Ac
+count everywhere else Mastercard is accepted.Miles earned will be posted to the 
+primary cardmember’s AAdvantage® account within 8-10 weeks.Balance Transfers, Ca
+sh Advances, Cash Equivalent Transactions (transactions in highly liquid assets,
+ e.g. assets that are directly convertible to cash such as, but not limited to, 
+money orders, travelers checks, foreign currency, gambling chips and lottery tic
+kets), Purchases made by or for a business or for a business purpose, fees, inte
+rest charges, and unauthorized/fraudulent transactions do not earn AAdvantage® m
+iles.There is no limit to the number of AAdvantage® miles you can earn through u
+se of the Account as long as the Program continues and your Account remains open
+ and in good standing.Additional Benefits of your AccountFirst Purchase AAdvanta
+ge® Bonus MilesThe primary cardmember will earn fifty thousand (50,000) AAdvanta
+ge® bonus miles after a first purchase is made on the Account within ninety (90)
+ days of Account opening and the annual fee has been paid. This one-time AAdvant
+age® bonus mileage offer is valid for first-time cardmembers with new accounts o
+nly. Existing cardmembers, existing accounts, and previous cardmember with accou
+nts closed in the past 24 months may not be eligible for this offer. This is a l
+imited-time offer and may be canceled at any time without notice.  Please allow 
+4-6 weeks for  AAdvantage® bonus miles to be deposited into your AAdvantage® acc
+ount after the qualifying purchase has posted and your annual fee has been paid.
+$100 American Airlines Flight DiscountEarn a $100 American Airlines Flight Disco
+unt (the “Flight Discount”) after you spend $30,000 or more in Purchases on your
+ Account during your cardmembership year (each 12 month period through and inclu
+ding your Account anniversary date) and your Account remains open for at least 4
+5 days after your anniversary. The Flight Discount expires one year from date of
+ issue. The Flight Discount is redeemable toward the initial ticket purchase of 
+air travel wholly on flights marketed and operated by American Airlines, or on A
+merican Eagle® flights marketed by American Airlines and operated by Air Wiscons
+in Airlines Corporation, Compass Airlines, LLC, Envoy Air Inc., ExpressJet Airli
+nes, Inc., Mesa Airlines, Inc., Piedmont Airlines, Inc., PSA Airlines, Inc., Rep
+ublic Airline Inc., SkyWest Airlines, Inc., or Trans States Airlines, LLC for it
+ineraries sold and originating in the U.S., Puerto Rico and U.S. Virgin Islands.
+ The Flight Discount is also redeemable for air travel on any oneworld® carrier 
+or American Airlines codeshare flight.The Flight Discount is redeemable online a
+t aa.com, or by calling American Airlines Reservations. A booking fee may apply 
+for travel booked through American Airlines Reservations. The Flight Discount is
+ redeemable only toward the purchase of the base airfare and directly associated
+ taxes, fees and charges that are collected as part of the fare calculation for 
+travel. The Flight Discount may not be used for flight products and/or services 
+that are sold separately or non-flight products and/or services sold by American
+ Airlines. If the ticket price is greater than the value of the Flight Discount,
+ the difference must be paid only with a credit, debit or charge card, or with A
+merican Airlines Gift Cards. If travel booked with the Flight Discount is cancel
+led or changed by the cardmember, the Flight Discount will be forfeited and the 
+cardmember will be responsible for any applicable fare difference and the applic
+able change fee. The Flight Discount will not be replaced for any reason. The Fl
+ight Discount is non-refundable, may not be sold and has no cash redemption valu
+e. Flight Discount will be awarded only if the $30,000 in Purchases requirement 
+was met during your cardmembership year and your Account remains open for at lea
+st 45 days after your anniversary.   Please allow 8-12 weeks for delivery of the
+ Flight Discount.Free Checked BagPrimary cardmembers may check one bag free of c
+harge when traveling on domestic itineraries marketed and operated by American A
+irlines or on American Eagle® domestic itineraries marketed by American Airlines
+ and operated by Air Wisconsin Airlines Corporation, Compass Airlines, LLC, Envo
+y Air Inc., ExpressJet Airlines, Inc., Mesa Airlines, Inc., Piedmont Airlines, I
+nc., PSA Airlines, Inc., Republic Airline Inc., SkyWest Airlines, Inc., or Trans
+ States Airlines, LLC. This benefit will not be available for travel on codeshar
+e flights booked with an American Airlines flight number but operated by another
+ airline.Up to four (4) customers traveling with the eligible primary cardmember
+ will also get their first checked bag free of charge if they are listed in the 
+same reservation.For this benefit to apply, the Account must be open 7 days prio
+r to air travel AND reservation must include the primary cardmember’s AAdvantage
+® number 7 days prior to air travel. If your Account is closed for any reason, t
+hese benefits will be cancelled. This benefit cannot be combined with any existi
+ng AAdvantage® elite program benefits, or Premium cabin benefits, including any 
+waiver of baggage charges. The First Checked Bag benefit does not apply to overw
+eight or oversized bags. Please see aa.com for baggage weight and size restricti
+ons. Applicable terms and conditions are subject to change without notice.Prefer
+red BoardingEligible cardmembers will board after Priority boarding is complete,
+ but before the rest of economy boarding. The boarding benefit will display on y
+our American Airlines boarding pass as Group 5. Up to four (4) companions travel
+ing with and listed in the same reservation as the primary cardmember are eligib
+le to board at the same time as the primary cardmember.  For this benefit to app
+ly, the Account must be open 7 days prior to air travel AND, reservation must in
+clude the primary cardmember's American Airlines AAdvantage® number 7 days prior
+ to air travel. If your credit card Account is closed for any reason, this benef
+it will be cancelled.  This benefit applies to flights marketed and operated by 
+American Airlines or on flights marketed by American Airlines and operated by Co
+mpass Airlines, LLC, Envoy Air Inc., ExpressJet Airlines, Inc., Republic Airline
+ Inc., SkyWest Airlines, Inc., Air Wisconsin Airlines Corporation, Mesa Airlines
+, Inc., PSA Airlines, Inc., Piedmont Airlines, Inc., or Trans States Airlines, L
+LC.  This benefit will not be available for travel on codeshare flights booked w
+ith an American Airlines flight number but operated by another airline. Applicab
+le terms and conditions are subject to change without notice.25% Statement Credi
+t for Inflight PurchasesPrimary cardmembers whose Accounts are in good standing 
+will qualify for a 25% savings on eligible inflight Purchases.  Eligible Purchas
+es include the inflight purchase of food and beverages on American Airlines oper
+ated flights when purchased using the Account. Savings does not apply to any oth
+er inflight Purchases, such as wireless internet access or inflight Entertainmen
+t. This offer is available on eligible flights as long as supplies last. This be
+nefit applies to domestic flights marketing and operated by American Airlines an
+d operated by Compass Airlines, LLC, Envoy Air Inc., ExpressJet Airlines, Inc., 
+Republic Airline Inc., SkyWest Airlines, Inc., Air Wisconsin Airlines Corporatio
+n, Mesa Airlines, Inc., PSA Airlines, Inc., Piedmont Airlines, Inc., or Trans St
+ates Airlines, LLC where credit card transactions are accepted. This benefit wil
+l not be available for travel on codeshare flights booked with an American Airli
+nes flight number but operated by another airline. This savings will appear as a
+n Account statement credit 6-8 weeks after the Purchase is posted to the Account
+. Additional terms, conditions and restrictions may apply. Applicable terms and 
+conditions are subject to change without notice.10% of your redeemed miles back 
+(10,000 maximum per calendar year)The AAdvantage® bonus miles the primary cardme
+mber earns through this benefit will be based on 10% of the total AAdvantage® mi
+les the primary cardmember redeems during the calendar year, regardless of wheth
+er the redeemed AAdvantage® miles were earned through the Account. The maximum n
+umber of AAdvantage® bonus miles that can be earned annually from this benefit i
+s 10,000 AAdvantage® bonus miles per calendar year and per AAdvantage® account, 
+regardless of how many total AAdvantage® miles you redeem in that calendar year,
+ and regardless of how many AAdvantage® co-branded credit cards you have. This b
+enefit only applies to AAdvantage® miles redeemed from the primary cardmember's 
+AAdvantage® account. For this benefit to apply, your Account must be open and ac
+tive at the time of redemption. Discover all the ways to redeem AAdvantage® mile
+s at aa.com/redeem. AAdvantage® bonus miles typically post 6-8 weeks after your 
+redemption to the primary cardmember’s AAdvantage® account. Reduced Mileage Awar
+dsThe Reduced Mileage Awards program allows primary cardmembers to redeem AAdvan
+tage® miles for discounted round trip or one-way travel on MileSAAver® awards to
+ destinations selected every other month. The MileSAAver® discount is 7,500 AAdv
+antage® miles round trip or 3,750 AAdvantage® miles one-way for this Account if 
+travel booked is greater than 500 miles in distance. If travel booked is less th
+an or equal to 500 miles in distance, which qualifies for a short haul MileSAAve
+r award, the mileage discount will be 2,000 AAdvantage® miles round trip or 1,00
+0 AAdvantage® miles one-way for this Account.Redemption of AAdvantage® miles tow
+ard Reduced Mileage Awards applies only to bookings made by phone through Americ
+an Airlines Reservations or through airport or city ticket centers. An award ser
+vice charge fee may apply per person. Flights and availability are subject to ch
+ange without notice. For the complete list of Reduced Mileage Awards, visit aa.c
+om/reducedmileageawards.Elite Qualifying DollarsThe primary cardmember may earn 
+$3,000 Elite Qualifying Dollars (“EQDs”) after spending $25,000 in Net Purchases
+ that post to the AAdvantage® Aviator® Red account from January 1st through Dece
+mber 31st each calendar year. A primary cardmember may earn the maximum $3,000 E
+QDs per calendar year through the AAdvantage®Aviator® Red account, unless the ca
+rdmember has already earned the maximum number of EQDs through other AAdvantage®
+ co-branded credit cards. EQDs earned are in addition to the AAdvantage® miles e
+arned for Net Purchases made on the AAdvantage® Aviator® Red account. Net Purcha
+ses exclude returned goods and services, cash advances, convenience checks, tran
+sferred balances, credits, fees and interest charges. Net Purchases made by auth
+orized users through additional cards on the primary cardmember’s AAdvantage® Av
+iator® Red account will count toward the primary cardmember’s qualifying spend. 
+EQDs earned as a result of this benefit will typically be posted to the primary 
+cardmember’s AAdvantage® account 6-8 weeks after meeting the spend requirement. 
+EQDs will not count toward Million MilerSM status. EQDs cannot be redeemed for a
+ward travel, AAdvantage® miles or any other AAdvantage® program awards. EQDs ear
+ned with the AAdvantage® Aviator® Red account qualify toward the primary cardmem
+ber’s AAdvantage® program elite status earning requirements each calendar year, 
+subject to the limits under the Reward Rules and the AAdvantage® program. Full d
+etails on elite status and qualifications are available in the AAdvantage® secti
+on of aa.com.AAdvantage® DiningSM ProgramYour Account is automatically enrolled 
+in the AAdvantage® DiningSM Program. The AAdvantage® DiningSM Program is a way f
+or AAdvantage® members to earn additional AAdvantage® miles by dining out at eli
+gible bars or restaurants. You can earn even more miles by creating an AAdvantag
+e® DiningSM profile. If you have provided us with a valid email address, you wil
+l be sent a welcome email from Rewards Network with additional information. Your
+ AAdvantage® DiningSM membership is subject to the terms and conditions and priv
+acy policy located at aa.rewardsnetwork.com. Applicable terms and conditions are
+ subject to change without notice.Responsibility of the Parties/Information Shar
+ingAmerican Airlines is not a party to the Cardmember Agreement between you and 
+Barclaycard, does not participate in any extension of credit, has no authority r
+egarding the Account and is not responsible for any goods or services offered by
+ Barclaycard. Barclaycard has no authority regarding the Program and is not resp
+onsible for any goods or services offered by American Airlines. You authorize Ba
+rclaycard to share information about your Account with American Airlines and its
+ affiliates and authorize American Airlines to share information about your Prog
+ram membership, to the extent needed to administer the Program and the Account. 
+You also agree that Barclaycard may share Account information as set forth in Ba
+rclaycard’s Privacy Policy.Limitation and Release of LiabilityBy participating i
+n the Program through use of the Account and accepting and using rewards earned 
+through the Program through use of the Account, you or any other beneficiary of 
+the Program or Account release, discharge and hold harmless Barclaycard and thei
+r respective parent companies, subsidiaries, affiliates, agents, administrators,
+ employees, officers, directors, successors and assignees from all claims, damag
+es or liability including, but not limited to, physical injury or death, arising
+ out of participation in the Program through use of the Account or travel taken 
+or use of products purchased in connection with the Program through use of the A
+ccount. Barclaycard is not responsible for unauthorized redemptions. Barclaycard
+ has no liability in case of disagreement over issuance of rewards or a cardmemb
+er’s right to possess rewards.Important General Program DisclosuresAmerican Airl
+ines reserves the right to change the AAdvantage® program and its terms and cond
+itions at any time without notice, and to end the AAdvantage® Program with six m
+onths’ notice. Any such changes may affect your ability to use the awards or mil
+eage credits that you have accumulated. Unless specified, AAdvantage® miles earn
+ed through use of the Account do not count toward elite-status qualification or 
+AAdvantage® Million MilerSM status. American Airlines is not responsible for pro
+ducts or services offered by other participating companies. For complete details
+ about the AAdvantage® program, visit aa.com/aadvantage.Barclaycard is not respo
+nsible for typographical errors or omissions in this document. AAdvantage® miles
+ earned through the Account cannot be combined with other discount or reward pro
+grams unless specifically authorized by us.  Barclaycard reserves the right to c
+orrect inaccurate rewards values represented on statements or our website, at ou
+r sole discretion. We may, at our sole discretion, cancel, modify, restrict, or 
+terminate the Reward Rules or any aspects or features of the Reward Rules at any
+ time without prior notice. All interpretations of the Reward Rules shall be in 
+our sole discretion.A portion of all travel booked on American Airlines may be A
+merican Eagle® service, operated by Compass Airlines, LLC, Envoy Air Inc., Expre
+ssJet Airlines, Inc., Republic Airline Inc., SkyWest Airlines, Inc., Air Wiscons
+in Airlines Corporation, Mesa Airlines, Inc., PSA Airlines, Inc., Piedmont Airli
+nes, Inc., or Trans States Airlines, LLC.American Airlines, American Eagle, AAdv
+antage, AAdvantage Million Miler, MileSAAver, Business Extra, the Flight Symbol 
+logo and the Tail Design are marks of American Airlines, Inc.Customer ServiceIf 
+you have any questions about your Account, please contact the customer service p
+hone number on the back of your card.©2018 Barclays Bank Delaware (Barclaycard),
+ Member FDIC                        

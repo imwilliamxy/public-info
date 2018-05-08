@@ -1,0 +1,317 @@
+                            Terms and Conditions                            #CCA
+TC {font-family: Arial, Helvetica, sans-serif; font: .8em; margin-top: 1%; margi
+n-left: 3%; margin-right: 3%}#CCATC table { border-bottom: solid black 1px; bord
+er-top: solid black 1px; border-left: solid black 0px; border-right: solid black
+ 1px;}#CCATC p {font-family: Arial, Helvetica, sans-serif;}#CCATC td { border-bo
+ttom: solid black 0px; border-top: solid black 0px; border-left: solid black 1px
+; font-family: Arial, Helvetica, sans-serif; font-size: 12px; horizontal-align: 
+left; vertical-align: top; padding: 6px}#CCATC .no-border { border: 0px;}#CCATC 
+.top-border { border-top: solid black 1px;}.aprRate {font-size: 1.4em;}p.firstLi
+ne {text-indent: -25px; margin-left: 2em;}p.indentLines {margin-left: 25px;}ol {
+margin-left: 3em; padding-left: 4em;}Rates and FeesAnnual Percentage Rate (APR) 
+for Purchases17.49% variable or 21.49% variable, depending on our review of your
+ application and credit history.This APR will vary with the market based on the 
+Prime Rate.APR for Balance Transfers17.49% variable or 21.49% variable, dependin
+g on our review of your application and credit history. This APR will vary with 
+the market based on the Prime Rate.APR for Cash Advances26.74%This APR will vary
+ with the market based on the Prime Rate.Variable Rate InformationYour APR may v
+ary. The rate is determined monthly by adding the Prime Rate and:12.74% or 16.74
+% for Purchases and this rate will not be lower than 12.74% or 16.74% respective
+ly.12.74% or 16.74% for Balance Transfers and this rate will not be lower than 1
+2.74% or 16.74% respectively. 21.99% for Cash Advances and Convenience Checks an
+d this rate will not be lower than 21.99%. See explanation below.**Grace PeriodA
+t least 20 days Grace Period for Purchases from the Statement Closing Date on yo
+ur periodic statement (provided you pay your previous balance in full by the due
+ date). The Grace Period does not apply to Cash Advances, Balance Transfers or C
+onvenience Checks.Minimum Finance Charge$1.00Method of Computing the Balance for
+ PurchasesAverage Daily Balance (including new purchases) FeesAnnual Fee$99Trans
+action Fees: Balance TransferEither $5 or 3% of the amount of each transfer, whi
+chever is greater.Cash AdvanceEither $10 or 3% of the amount of each cash advanc
+e, whichever is greater.Convenience CheckEither $5 or 3% of the amount of each C
+heck, whichever is greater.Foreign Transaction0% of the U.S. Dollar amount.Penal
+ty Fees: Late PaymentFor Account balances less than $250: $19.   For Account bal
+ances equal to or greater than $250: $39.Returned Payment $39Returned Convenienc
+e Check $39Over-the-Credit-Line $0Stop Convenience Check Payment $29Electronic P
+ayment $15Administrative$3 for Statement Copy$5 for other documentsResearch - $1
+5 per hour**The Prime Rate used in determining the APRs used on your Account eac
+h billing cycle is the highest rate published in the Money Rates column of The W
+all Street Journal on the last business day of each month. The variable APRs, wh
+ich are subject to a minimum APR, are current as of 03/30/2018 using a Prime Rat
+e of 4.75%.Barclays Bank Delaware ("Barclaycard") reserves the right to change t
+he APR and other Charges as described above after your Account is opened, and in
+ accordance with the Business Card Agreement and Delaware law. Barclaycard reser
+ves the right to change at any time the benefits and features associated with yo
+ur card or Account after your Account is opened.  We will allocate payments to l
+ower APR balances before higher APR balances.Authorization: When you (the "Signi
+ng Individual") submit this Application for this business credit card account (t
+he "Account") from Barclays Bank Delaware, located in Wilmington, Delaware, you 
+agree to the following: (1) that you are either a sole proprietor or an authoriz
+ed representative, officer, partner, employee or agent of the business identifie
+d on the Application (the "Business"); (2) that you are at least 18 years of age
+ and a permanent resident of the United States, and have truthfully and complete
+ly provided the information on this Application; (3) you have reviewed and accep
+t the terms and conditions provided on this Application; (4) the use of any Acco
+unt opened or any card issued in connection with this offer will constitute your
+ acceptance of and will be subject to the terms and conditions of the Business C
+ard Agreement that will be sent to you with your card(s);(5) the cards and the A
+ccount will be used solely for business purposes and will not be used for person
+al, family or household purposes; (6) you and the Business are jointly and sever
+ally liable for all charges on the Account (which means that you are personally 
+liable for all amounts due on the Account);  (7) you certify that you have the a
+uthority to permit us to issue cards containing the Business name; and (8) you u
+nderstand that the terms of the Account are subject to change as provided in the
+ Business Card Agreement.About Your Credit Report: You agree that Barclaycard ha
+s the right to obtain a current consumer and business credit report in connectio
+n with our review of your Application and, subsequently, in connection with a re
+quested charge to your Account, the renewal of your Account, or a change in your
+ credit line; and that we have the right to report to others our credit experien
+ce with you. Upon your request, we will tell you the name and address of each cr
+edit reporting agency from which we obtained a credit report about you or your b
+usinessImportant Information About Procedures for Opening a New Account: To help
+ the government fight the funding of terrorism and money laundering activities, 
+Federal law requires all financial institutions to obtain, verify, and record in
+formation that identifies each person who opens an Account. What this means to y
+ou: When you apply for an Account, we will ask for your name, address, date of b
+irth, and other information that will allow us to identify you. We may also ask 
+to see copies of identifying documents.Omission: Omission of any information req
+uested on this Application may result in a denial of credit.Your Telephone Numbe
+r: By providing your telephone number, at the time you apply or anytime thereaft
+er, you authorize Barclaycard and its affiliates, agents and independent contrac
+tors to contact you regarding your Account at such number using any means of com
+munication, including, but not limited to calls placed to your cell, mobile or o
+ther phone using an automated dialing service, prerecorded messages or text mess
+ages. Standard text messaging and/or calling charges may apply.Offer Availabilit
+y: This offer is available only to applicants who are permanent residents of the
+ United States, with the exception of Puerto Rico. This offer may not be availab
+le to you if you already have a credit card account with Barclaycard.Credit Perf
+ormance: After your Account is opened, we will periodically review your credit p
+erformance. If you do not maintain your credit performance with us, we may chang
+e your Account terms.Dispute Resolution: You agree that any dispute between us w
+ill be resolved by binding Arbitration.Transferring Your Balances. Here's How it
+ Works: Upon approval of your Application we will provide you with your Business
+ Card Agreement and, to the extent permitted by your credit line, process the Ba
+lance Transfer to the credit card account which you have requested (minimum $100
+, maximum $20,000). Only balances from other business credit card accounts or ot
+her business related expenses may be transferred. We reserve the right to round 
+up your requested Balance Transfer amount to the nearest whole dollar amount. Th
+e credit available on your Account will be reduced by the amount of the Balance 
+Transfer and any related fees. Your other credit card account(s) will not be clo
+sed, even if you have paid your entire balance. You must contact the other credi
+t card company to close your other account. We reserve the right to decline to p
+rocess any Balance Transfer request. We will not process a request to transfer a
+ balance from any other account you may have with us or our affiliates. It is po
+ssible that your credit line amount may be lower than the Balance Transfer(s) re
+quested. If this should occur, we will process Balance Transfers up to $250 belo
+w the available credit. There is a fee for Balance Transfer unless the offer sta
+tes otherwise. A Balance Transfer may take up to 4 weeks to post to your other c
+redit card accounts. Continue to pay each creditor until the Balance Transfer ap
+pears on the other account(s) as a credit.  You should not transfer the amount o
+f any disputed purchase or other charge on the other account.  If you do so, you
+ may lose your dispute rights as to that transaction.Information Sharing:  Barcl
+aycard’s Privacy Policy is available online at jetbluebusinesscard.com. You agre
+e that Barclaycard and JetBlue may share information about you and your account 
+to the extent needed to administer the JetBlue Business Card in conjunction with
+ the JetBlue TrueBlue Program.THE JETBLUE® BUSINESS MASTERCARD® (JetBlue Busines
+s Card) REWARD RULESThis document contains the official Reward Rules for the Jet
+Blue Business Card Account (the “Account”) issued by Barclays Bank Delaware (“Ba
+rclaycard”, “we”, “us”, or “our”) and includes important conditions and limitati
+ons (the “Reward Rules”). Please read the Reward Rules and keep this document in
+ a safe place.TrueBlue is a frequent flyer program offered by JetBlue Airways Co
+rporation (the “Program”) and is not a product or program of Barclaycard. JetBlu
+e Airways Corporation is solely responsible for establishing the terms and condi
+tions of your participation and points accumulation in the Program. Terms and co
+nditions of the Program are published by JetBlue Airways Corporation at jetblue.
+com and JetBlue Airways Corporation reserves the right to change the Program at 
+any time with or without prior notice, and to end the Program with 6 months’ not
+ice.“You”, “your” or “primary cardmember” means the person who applied for the A
+ccount. Use of your Account constitutes your acceptance of each of the terms des
+cribed below. Capitalized terms not defined in these Reward Rules have the meani
+ng ascribed to them in the Business Card Agreement.  Reward Rules Administration
+The Reward Rules are administered by Barclaycard. We are solely responsible for 
+all credit and eligibility standards and determination of Account issuance. To m
+aintain your eligibility for participation in the Program through use of the Acc
+ount:You must maintain an open and active Account that is not in default under y
+our Business Card Agreement with us.Your Account cannot have been inactive for 1
+2 billing cycles in a row (representing approximately 12 months). “Inactive” mea
+ns you have no balance, no payments and no transactions.You must pay your annual
+ fee.Program MembershipIf your TrueBlue membership number was included in the ap
+plication, we will add that number to your Account automatically.If the TrueBlue
+ membership number that you provided is found to be invalid or you did not provi
+de us with a TrueBlue membership number, a new TrueBlue membership account numbe
+r will be assigned to you.Only one TrueBlue membership number will be establishe
+d per Account, and will be assigned to you. Important Information about TrueBlue
+ PointsTrueBlue points awarded to your True Blue membership account do not expir
+e.You have no property rights or other legal interest in TrueBlue points. Points
+ have no cash value or value of any kind until they are fully redeemed. Points m
+ay not be assigned, transferred or pledged.You are responsible for any tax liabi
+lity related to participating in the Program.If you are not credited for earned 
+TrueBlue points or other benefits, once identified, the earned TrueBlue points o
+r other benefits will be credited. If TrueBlue points or other benefits are not 
+available, a comparable benefit will be provided as determined by us.In the even
+t of any abusive, gaming or fraudulent activity related to the Account, as deter
+mined by us in our sole discretion, we reserve the right to make corresponding a
+djustments to the points accrued in the Program and/or to cancel your Account at
+ any time.The Program is subject to all applicable laws and regulations. The red
+emption of TrueBlue points is void where prohibited by law. The sale or barter o
+f any reward offered through the Program, other than by us, is expressly prohibi
+ted.Points RestrictionsYou may not earn TrueBlue points during a billing cycle i
+n which any of the following occur:You fail to make the Minimum Payment Due by i
+ts Payment Due Date.Your Account becomes delinquent.Your Account is otherwise in
+ default under your Business Card Agreement with us (your Account is not in good
+ standing).You, or any Cardmember on the Account, engage in any illegal activity
+ through the use of the Account or engage in activity that is deemed to be abusi
+ve or gaming conduct, as determined by us in our sole discretion.Points Forfeitu
+reYour TrueBlue points may be forfeited if any of the following occur:Your Accou
+nt becomes seriously delinquent, as determined by us at our sole discretion.You 
+or we close your Account for any reason.You, or any Cardmember on the Account, e
+ngage in fraudulent activity on your Account.Your Account is otherwise in defaul
+t under your Business Card Agreement with us (your Account is not in good standi
+ng).You, or any Cardmember on the Account, engage in any illegal activity on you
+r Account, or engage in activity that is deemed to be abusive or gaming conduct,
+ as determined by us in our sole discretion.We reserve the right, at our sole di
+scretion, to disqualify any Cardmember from participating in the Program and to 
+invalidate any or all points earned for abuse, fraud, or any violation of the Re
+ward Rules.Earning PointsYou earn TrueBlue points on purchases made with the Acc
+ount, less credits, returns and adjustments (“Net Purchases”), by you and/or any
+ Cardmember on the Account.You earn six (6) TrueBlue points for every one dollar
+ ($1.00) of eligible Net Purchases made with the Account, rounded up or down to 
+the nearest dollar, on tickets, goods and services purchased directly from JetBl
+ue Airways (“JetBlue Purchases”). Eligible JetBlue Purchases are items billed by
+ JetBlue as merchant of record booked through JetBlue channels (JetBlue.com, Jet
+Blue reservations, JetBlue Getaways and JetBlue airport ticket counters). Produc
+ts or services that do not qualify as JetBlue Purchases are non-JetBlue Getaway 
+car rentals, hotel reservations, purchases of TrueBlue points, and duty free pur
+chases. Points earned will be posted to your TrueBlue membership account in 4-6 
+weeks.You earn two (2) TrueBlue points for every one dollar ($1.00) of Net Purch
+ases made with the Account, rounded up or down to the nearest dollar, on goods a
+nd services purchased directly at restaurants and office supply stores, as deter
+mined by the merchant category description. Qualifying restaurant purchases are 
+categorized as: Restaurants and Fast Food Restaurants. Office supply stores are 
+defined as stand-alone merchants that primarily sell stationery and office suppl
+ies for business consumption. Purchases must be submitted by merchants using the
+ eligible merchant category codes for restaurants and office supply stores to qu
+alify for the 2 points. Barclaycard is not responsible for incorrectly coded pur
+chases.You earn one (1) TrueBlue point for every one dollar ($1.00) of Net Purch
+ases made with the Account everywhere else.From time to time, we may offer bonus
+es of TrueBlue points or other premiums (for example, TrueBlue Bonus points) to 
+new JetBlue Business Card Cardmembers. Unless otherwise stated in the offer, the
+se bonuses and /or rewards are intended for persons who are not and have not pre
+viously been JetBlue cardmembers. You understand and agree that, unless we other
+wise state, you are no longer eligible to receive these bonuses and/or rewards f
+or any new JetBlue Mastercard account you open after this Account is opened. If 
+you receive a bonus or reward for which you are not eligible, we may revoke the 
+bonus or reward, or reduce your TrueBlue points by the amount of the bonus or re
+ward, or charge your Account for the fair value of the bonus or reward, at our o
+ption.Balance transfers, cash advances, cash equivalent transactions (transactio
+ns in highly liquid assets, e.g. assets that are directly convertible to cash su
+ch as, but not limited to, money orders, traveler’s checks, foreign currency, ga
+mbling chips and lottery tickets), fees, finance charges, and unauthorized/fraud
+ulent transactions do not earn TrueBlue points.There is no limit to the number o
+f TrueBlue points you can earn as long as the Program continues and your Account
+ remains open and in good standing.Additional Benefits of Your AccountBonus True
+Blue Points  You will earn forty thousand (40,000) bonus TrueBlue points after y
+ou spend $1,000 in Net Purchases on your Account within ninety (90) days of Acco
+unt opening. This one-time bonus points offer is valid for first-time cardmember
+s with new accounts only. Existing cardmembers and existing accounts are not eli
+gible for this offer. This is a limited-time offer and may be canceled at any ti
+me without notice. Please allow 4-6 weeks for bonus points to be deposited into 
+your TrueBlue account after qualifying transactions have posted.Free First Check
+ed BagYou and up to 3 travel companions listed on the same reservation who have 
+purchased Blue fares each receive their first checked bag free on JetBlue operat
+ed flights that do not include first checked bag free. All ticket purchases (ori
+ginal and exchanges) must be made with the JetBlue Business Card Account, and yo
+ur TrueBlue member number must be entered at the time of booking. Applicable ove
+rweight and excess baggage fees will apply. See jetblue.com/travel/baggage/ for 
+more information on JetBlue’s checked baggage policy. For benefit to apply the A
+ccount must be open 7 days prior to air travel AND the reservation must include 
+your TrueBlue member number 7 days prior to air travel. If your Account is close
+d for any reason, these benefits will be cancelled. Eligible business owners who
+ have purchased a Blue fare will get their first checked bag free of charge for 
+flights operated by JetBlue that do not include first checked bag free. In addit
+ion, up to 3 companions traveling with you who have purchased a Blue fare will a
+lso get their first checked bag free of charge if they are listed in the same re
+servation. This benefit will not be available for travel on codeshare flights bo
+oked with a JetBlue flight number but operated by another airline. Waiver of bag
+ fee does not apply to overweight or oversized bags. This benefit cannot be comb
+ined with any existing TrueBlue program benefits, including any waiver of baggag
+e charges. Please see jetblue.com/travel/baggage for baggage weight and size res
+trictions. Applicable terms and conditions are subject to change without notice.
+MosaicMosaic is a TrueBlue loyalty program which offers additional points, benef
+its and exclusive offers from participating partners. You will qualify for Mosai
+c after spending $50,000 in Net Purchases that post to your Account’s January th
+rough December billing statements. Mosaic is earned in addition to the TrueBlue 
+points earned for Net Purchases made on the Account. Net Purchases exclude retur
+ned goods and services, cash advances, convenience checks, transferred balances,
+ credits, fees and finance charges. Purchases made by all Cardmembers on the Acc
+ount will count toward your qualifying spend. Please allow 4-6 weeks for Mosaic 
+once you have qualified. Once you qualify for Mosaic, you will be eligible for t
+he remainder of the current calendar year and the following calendar year. See j
+etblue.com for full details on the Mosaic program.Anniversary TrueBlue Bonus Poi
+ntsOn your Account anniversary, 5,000 TrueBlue bonus points will be credited to 
+your TrueBlue membership account as long as your Account remains open and in goo
+d standing. A maximum of 5,000 anniversary TrueBlue bonus points can be earned p
+er year regardless of the amount of Net Purchases made. TrueBlue bonus points ty
+pically post 4-6 weeks after your Account anniversary.50% Savings on Inflight Pu
+rchasesCardmembers in good standing will qualify for a 50% savings on eligible i
+nflight purchases.  Eligible purchases include the inflight purchase of cocktail
+s, beer, wine, meals, and JetBlue movies (not Fly-Fi®) on JetBlue-operated fligh
+ts when purchased on their Account. Savings does not apply to any other inflight
+ purchases, such as wireless internet access, or duty free. This offer is availa
+ble on eligible flights as long as supplies last. This savings will appear as an
+ Account statement credit 4-6 weeks after the transaction is posted to the cardm
+ember’s Account.Get 10% Points Back When You RedeemYou will earn 10% of your poi
+nts back as a redemption bonus, to use toward your next redemption, every time y
+ou redeem. There is no maximum number of TrueBlue bonus points that can be earne
+d annually from this benefit. This benefit only applies to TrueBlue points redee
+med from your TrueBlue membership account. For benefit to apply, your Account mu
+st be open at the time of redemption. TrueBlue redemption bonus points typically
+ post 4-6 weeks after your redemption.$100 Statement Credit After Purchasing a G
+etaway PackageFor each calendar year that you purchase a JetBlue Getaways vacati
+on package of $100 or more with your Account at jetblue.com or 1-800-JETBLUE, yo
+u will receive a $100 statement credit. Your purchase must be $100 or more, less
+ returns and credits, to receive this benefit. Limit of one $100 statement credi
+t per calendar year per Account. Your Account will be billed for the full price 
+of the JetBlue Getaways vacation package. The statement credit will appear 6-8 w
+eeks after the qualifying transaction is posted to your Account. Your Account wi
+ll not be eligible to receive the statement credit if it is closed or in default
+ under your Business Card Agreement at the time of fulfillment.Responsibility of
+ the Parties/Information SharingJetBlue Airways Corporation is not a party to th
+e Business Card Agreement between you and Barclaycard, does not participate in a
+ny extension of credit, has no authority regarding the Account and is not respon
+sible for any goods or services offered by Barclaycard. Barclaycard is not respo
+nsible for any goods or services offered by JetBlue Airways Corporation. You aut
+horize Barclaycard to share information about your Account with JetBlue Airways 
+Corporation to the extent needed to administer the Program. You also agree that 
+Barclaycard may share Account information as set forth in Barclaycard’s Privacy 
+Policy.Limitation and Release of LiabilityBy participating in the Program and ac
+cepting and using rewards earned through the Program, you or any other beneficia
+ry of the Program release, discharge and hold harmless Barclaycard and its paren
+t companies, subsidiaries, affiliates, agents, administrators, employees, office
+rs, directors, successors and assignees from all claims, damages or liability in
+cluding, but not limited to, physical injury or death, arising out of participat
+ion in the Program or travel taken or use of products purchased in connection wi
+th the Program. Barclaycard is not responsible for unauthorized redemptions on y
+our Account. Barclaycard has no liability in case of disagreement over issuance 
+of rewards or a cardmember’s right to possess rewards.Important General Program 
+DisclosuresJetBlue Airways Corporation reserves the right to change the TrueBlue
+ Program and its terms and conditions at any time without notice, and to end the
+ TrueBlue Program with 6 months’ notice. Any such changes may affect your abilit
+y to use the points, awards or mileage credits that you have accumulated. Unless
+ specified, TrueBlue points earned through use of the JetBlue Business Card do n
+ot count toward Mosaic qualification. JetBlue Airways Corporation is not respons
+ible for products or services offered by other participating companies. For comp
+lete details about the TrueBlue Program, visit jetblue.com. Barclaycard is not r
+esponsible for typographical errors or omissions in this document. Points cannot
+ be combined with other discount or reward programs unless specifically authoriz
+ed by us. Barclaycard reserves the right to correct inaccurate rewards values re
+presented on statements or our website, at our sole discretion. We may, at our s
+ole discretion, cancel, modify, restrict, or terminate the Reward Rules or any a
+spects or features of the Reward Rules to you at any time without prior notice. 
+All interpretations of Reward Rules shall be at our sole discretion. JetBlue Air
+ways and TrueBlue are trademarks of JetBlue Airways, Inc. The JetBlue Business C
+ard is issued by Barclaycard pursuant to a license by Mastercard International I
+ncorporated. Mastercard and Business Mastercard are registered trademarks of Mas
+tercard International Incorporated.Customer ServiceIf you have any questions abo
+ut your Account, please contact the customer service phone number on the back of
+ your card. ©2018 Barclays Bank Delaware (Barclaycard), Member FDIC             
+           
