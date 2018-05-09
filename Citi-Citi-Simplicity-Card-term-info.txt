@@ -1,0 +1,9 @@
+.errortext{COLOR: red; FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE:12px
+ ;}TD.footer {COLOR: #000000;FONT-FAMILY: arial, helvetica;FONT-SIZE: 10px}A.foo
+ter:link {COLOR: #3c3c8e;FONT-FAMILY: arial, helvetica;FONT-SIZE: 10px}A.footer:
+active {COLOR: #3c3c8e;FONT-FAMILY: arial, helvetica;FONT-SIZE: 10px}A.footer:vi
+sited {COLOR: #3c3c8e;FONT-FAMILY: arial, helvetica;FONT-SIZE: 10px}            
+                                          A system error has caused a delay in p
+rocessing your application. Please try again later.                             
+                                                         Citi.comPrivacyTerms an
+d ConditionsCopyright © 2014 Citigroup
