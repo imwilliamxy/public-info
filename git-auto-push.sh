@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ENV="PROD"
+ENV="DEV"
 
 if [ "$ENV" = "PROD" ] ;then
 	cd /home/xingyong/projects/public-info
