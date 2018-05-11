@@ -5,7 +5,7 @@ ENV="PROD"
 if [ "$ENV" = "PROD" ] ;then
 	cd /home/xingyong/projects/public-info
 	#echo $ENV
-	echo "prod env"
+#	echo "prod env"
 elif [ "$ENV" = "DEV" ] ;then
 	cd /home/matrix/projects/public-info
 	#echo $ENV
