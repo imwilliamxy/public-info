@@ -14,7 +14,6 @@ else
 	exit -1
 fi
 
-echo "running..."
 git add .
 git commit -m 'info change'
 git push
