@@ -1,743 +1,559 @@
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF">
 
-      
 
 
 
 
 
 
+UDAP T&C
 
- 
 
 
 
 
 
 
-
-
-
-  
-
-
-    
- 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-  
-
-
-
- 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-<table width="100%" border="0" cellspacing="0" cellpadding="3">
-	<tbody><tr>
-		<td>
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="GENERATOR" content="IBM Software Development Platform">
-<meta http-equiv="Content-Style-Type" content="text/css">
-
-<title>UDAP T&amp;C</title>
-
-
-
-
-
-
-
-
-
-
-
-<br>
-<div id="embedTNCSTART"></div>
-       <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="margin-left: auto; margin-rigpooledHt: auto;">
-              <tbody><tr>
-                     <td align="left">
-                            <table class="TableBorder" width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="margin-left: auto; margin-rigpooledHt: auto;">
-                                   <tbody><tr><td align="center" class="HeadingStyle">
                                    
                                                  CITI DISCLOSURES
                                    
-                                   </td></tr>
-                            </tbody></table>
-                            <table class="TableBorder" width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="margin-left: auto; margin-rigpooledHt: auto;">
-                                   <tbody><tr><td align="center" class="HeadingStyleSolid">
+                                   
+
+
+
                                    
                                                  Interest Rates and Interest Charges
                                    
-                                   </td></tr>
-                            </tbody></table>
-                            <table class="TableBorder" width="100%" cellpadding="0" cellspacing="0" align="center" style="margin-left: auto; margin-rigpooledHt: auto;">
                                    
-                                   <tbody><tr>
-                                          <td width="25%" class="TDStyle">
-                            
-                                                 <b>Annual Percentage Rate (APR) for Purchases</b>
-                                                 
-                        </td>
-                                          <td width="75%" class="TDStyleBTPara">
-                                                 
-                                                                                                
-                                                        <p class="BTindent"><b><span class="PurAPR">16.74%</span>.</b>
-                                                        
-                                                 
 
-                                                 
-                                                 
+
+
+
+Annual Percentage Rate (APR) for Purchases
+
+
+16.74%.
+
                                                         
-                                                        <br><br>
-                                                        
-                                                        This APR will vary with the market based on the Prime Rate.<sup><span class="smalltext">a</span></sup></p>
-                                                 
-                                          </td>                              
-                                   </tr>
-                                   
-                                   
-                                   <tr>
-                                          <td width="25%" class="TDStyle">
-                                          
-                                                 <b>APR for Balance Transfers</b>
-                                          
-                                          </td>
-                                          <td width="75%" class="TDStyleBTPara">
-                                          
-                                                 <p class="BTindent"><b><span class="PurAPR">16.74%.</span></b> Balance transfers must be completed within 2 months from date of account opening.
+                                                        This APR will vary with the market based on the Prime Rate.a
+
+
+
+
+APR for Balance Transfers
+
+
+16.74%. Balance transfers must be completed within 2 months from date of account opening.
                                                  
                                                  
                                                  
                                                  
-                                                 <br><br>
-                                                 
-                                                 This APR will vary with the market based on the Prime Rate.<sup><span class="smalltext">a</span></sup></p>
-                                                 
-                                          </td>                              
-                                   </tr>
-                                   
-                                   
-                                   <tr>
-                                          <td width="25%" class="TDStyle">
-                                          
-                                                 <b>APR for Cash Advances</b>
-                                          
-                                          </td>
-                                          <td width="75%" class="TDStyleBTPara">
-                                          
-                                                 <p class="BTindent"><b>26.74%</b>
                                                  
                                                  
-                                                 <br><br>This APR will vary with the market based on the Prime Rate.<sup><span class="smalltext">b</span></sup></p>
-                                                 
-                                          </td>                              
-                                   </tr>
-                                   
-                                   
-                                   <tr>
-                                          <td width="25%" class="TDStyle">
-                                          
-                                                 <b>Penalty APR and When it Applies</b>
-                                          
-                                          </td>
-                                          <td width="75%" class="TDStyleBTPara">
-                                          
-                                                 <p class="PenaltyAPRindent">Up to <b>29.99%</b>, based on your creditworthiness.
+                                                 This APR will vary with the market based on the Prime Rate.a
+
+
+
+
+APR for Cash Advances
+
+
+26.74%
+This APR will vary with the market based on the Prime Rate.b
+
+
+
+
+Penalty APR and When it Applies
+
+
+Up to 29.99%, based on your creditworthiness.
                                                                                                                 
                                                  
-                                                 This APR will vary with the market based on the Prime Rate.<sup><span class="smalltext">c</span></sup>
-                                                 </p>
-                                                 
-                                                 <p class="PenaltyAPRindent2">This APR may be applied to your account if you:<br>
+                                                 This APR will vary with the market based on the Prime Rate.c
+
+This APR may be applied to your account if you:
                                                   
                                                  
-                                                 (1) Make a late payment or <br>(2) Make a payment that is returned.<br>
-                                                 </p> 
-                                                 
-                                                 <br><p class="PenaltyAPRindent1"><b>How Long Will the Penalty APR Apply?</b> If your APRs are increased for either of these reasons, the Penalty APR may apply indefinitely.<br>
-                                                      
-                                          </p></td>                              
-                                   </tr>
-                                   
-                                   
-                                   <tr>
-                                          <td width="25%" class="TDStyle">
-                                          
-                                                 <b>How to Avoid Paying Interest on Purchases</b>
-                                          
-                                          </td>
-                                          <td width="75%" class="TDStyleBTPara">
-                                          
-                                                 <p class="PenaltyAPRindent">Your due date is at least 23 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month. </p>
-                                                 
-                                          </td>                              
-                                   </tr>
-                                   
-                                   
-                                   <tr>
-                                          <td width="25%" class="TDStyle">
-                                                 
-                                                 <b>Minimum Interest Charge</b>
-                                                 
-                                          </td>
-                                          <td width="75%" class="TDStyleBTPara">
-                                                 
-                                                 <p class="PenaltyAPRindent">If you are charged interest, the charge will be no less than 50 cents.</p>
-                                                 
-                                          </td>         
-                                   </tr>
-                                   
-                                   
-                                   <tr>
-                                          <td width="25%" class="TDStyle">
-                                          
-                                                 <b>For Credit Card Tips from the Consumer Financial Protection Bureau</b>
-                                          
-                                          </td>
-                                          <td width="75%" class="TDStyleBTPara">
-                                          
-                            <p class="PenaltyAPRindent3">To learn more about factors to consider when applying for or using a credit card, visit the website of the Consumer Financial Protection Bureau at  
+                                                 (1) Make a late payment or (2) Make a payment that is returned.
+
+How Long Will the Penalty APR Apply? If your APRs are increased for either of these reasons, the Penalty APR may apply indefinitely.
+
+
+
+
+How to Avoid Paying Interest on Purchases
+
+
+Your due date is at least 23 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month. 
+
+
+
+
+Minimum Interest Charge
+
+
+If you are charged interest, the charge will be no less than 50 cents.
+
+
+
+
+For Credit Card Tips from the Consumer Financial Protection Bureau
+
+
+To learn more about factors to consider when applying for or using a credit card, visit the website of the Consumer Financial Protection Bureau at  
                                
                      
-                    <a href="#" class="ddLink" onclick="window.open('/cards/credit/application/View.action?docId=LeavingSiteSpeedBump&amp;langId=EN&amp;speedbump=Y&amp;SI=10','popup','width=650,height=400,resizable,scrollbars')"><font size="3">http://www.consumerfinance.gov/learnmore.</font></a></p>
-                            
-                            </td>         
-                                   </tr>
-                                   
-                            </tbody></table>
-                     </td>
-              </tr>
-       </tbody></table>
-       <br><br>
-       <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="margin-left: auto; margin-rigpooledHt: auto;">
-              <tbody><tr>
-                     <td align="left">
-                            <table class="TableBorder" width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="margin-left: auto; margin-rigpooledHt: auto;">
-                                   <tbody><tr><td align="center" class="HeadingStyle"></td></tr>
-                            </tbody></table>
-                            <table class="TableBorder" width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="margin-left: auto; margin-rigpooledHt: auto;">
-                                   <tbody><tr><td align="center" class="HeadingStyleSolid">
+                    http://www.consumerfinance.gov/learnmore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                    
                                                  Fees
                                           
-                                   </td></tr>
-                            </tbody></table>
-                            <table class="TableBorder" width="100%" cellpadding="0" border="0" cellspacing="0" align="center" style="margin-left: auto; margin-rigpooledHt: auto;">
                                    
-                                   <tbody><tr>
-                                          <td width="25%" class="TDStyle" colspan="2">
-                                              
-                                                 <b><b>Annual Fee</b><b> 
-                                                 
-                                          </b></b></td>
-                                          <td width="75%" class="TDStyle">
-                                                 
-                                                 <p class="PenaltyAPRindent" style="padding-left: 10px;"><b>No annual fee for this credit card with your paid Costco Membership.</b></p>
-                                                 
-                                          </td>                              
-                                   </tr>
-                                   
-                                   
-                                   <tr>
-                                          <td width="25%" class="TDStyle1" valign="top" colspan="2">
-                                              
-                                                 <b><b>Transaction Fees</b></b> 
-                                                 
-                                          </td>
-                                          <td width="75%" class="TDStyle1"></td>
-                                   </tr>
-                                   <tr>
-                                          <td width="3%" class="TDStyle4" valign="top">•</td>
-                                          <td width="22%" class="TDStyle2" valign="top">
+
+
+
+
+Annual Fee
+
+
+No annual fee for this credit card with your paid Costco Membership.
+
+
+
+
+Transaction Fees
+
+
+
+
+•
+
                                                  
                                                  Balance Transfer
                                                  
-                                          </td>
-                                          <td width="75%" class="TDStyle2" valign="top">
+                                          
+
+Either $5 or 3% of the amount of each transfer, whichever is greater.
                                                  
-                                                 <p class="PenaltyAPRindent" style="padding-left: 10px;">Either <b>$5</b> or <b>3%</b> of the amount of each transfer, whichever is greater.
                                                  
-                                                 </p>
-                                          </td>
-                                   </tr>
-                                   <tr>
-                                          <td width="3%" class="TDStyle4" valign="top">•</td>
-                                          <td width="22%" class="TDStyle2" valign="top">
+
+
+
+•
+
                                                  
                                                  Cash Advance
                                                  
-                                          </td>
-                                          <td width="75%" class="TDStyle2" valign="top">
                                           
-                                                 <p class="PenaltyAPRindent" style="padding-left: 10px;">Either <b>$10</b> or <b>5%</b> of the amount of each cash advance, whichever is greater.</p>
-                                                 
-                                          </td>
-                                   </tr>
-                                   <tr>
-                                          <td width="3%" class="TDStyle5" valign="top">•</td>
-                                          <td width="22%" class="TDStyle3" valign="top">
+
+Either $10 or 5% of the amount of each cash advance, whichever is greater.
+
+
+
+•
+
                                                  
                                                  Foreign Purchase Transaction
                                                  
-                                          </td>
-                                          <td width="75%" class="TDStyle3" valign="top">
-                                                 
-                                                 <p class="PenaltyAPRindent" style="padding-left: 10px;"><b>None.</b></p>
-                                                                    
-                                          </td>                              
-                                   </tr>
-                                   
-                                   
-                                   
-                                   <tr>
-                                          <td width="25%" class="TDStyle1" valign="top" colspan="2" style="border-top-style:solid;">
-                                              
-                                                 <b><b>Penalty Fees</b></b> 
-                                                 
-                                          </td>
-                                          <td width="75%" class="TDStyle1"></td>
-                                   </tr>
-                                   <tr>
-                                                 <td width="3%" class="TDStyle4" valign="top">•</td>
-                                                 <td width="22%" class="TDStyle2" valign="top">
-                                                        
-                                                        Late Payment
-                                                 </td>
-                                                 <td width="75%" class="TDStyle2" valign="top">
-                                                        
-                                                        <p class="PenaltyAPRindent" style="padding-left: 10px;">Up to <b>$37</b></p>
                                           
-                                          </td>
-                                   </tr>
-                                   <tr>
-                                          <td width="3%" class="TDStyle5" valign="top">•</td>
-                                          <td width="22%" class="TDStyle3" valign="top">
-                                                 
-                                                 Returned Payment
-                                          </td>
-                                          <td width="75%" class="TDStyle3" valign="top">
-                                                 
-                                                 <p class="PenaltyAPRindent" style="padding-left: 10px;">Up to <b>$37</b></p> 
-                                                                    
-                                          </td>                              
-                                   </tr>
-                                                                      
-                                   
-                            </tbody></table>
-                     </td>
-              </tr>
-       </tbody></table>
-       <br><br>
-<table width="100%" align="center">
-	<tbody><tr>
-		<td class="TDStyleNonBox">
-		 <b>How We Will Calculate Your Balance:</b> We use a method called "daily balance (including new transactions)."<br>
-		<br>
-		  <b>Loss of Introductory APR:</b> We may end your introductory APR and apply the Penalty APR if you make a late payment.<br>
-		<br>
-		   For more information call Citibank at 1-877-625-6382. New York residents may contact the New York State Department of Financial Services at (800) 342-3736 or www.dfs.ny.gov for comparative information on credit card rates, fees and grace periods.<br>
-		<br>
-		  <b>Payment Allocation:</b> We may apply the portion of your payments up to your minimum payment due to lower APR balances first. Generally, payments above your Minimum Payment Due will be applied to your highest APR balance first.<br>
-		<br>
-		<!--#P0057661_AT&T Product Value Prop Refresh changes start  -->
-		 <!--C-1076327-UPDATE TO THE ONLINE SCHUMER 2015 AUG mTPR changes starts-->
-		
-		<b>Prime Rate:</b> The variable rates shown here are accurate based on a 4.75% Prime Rate.  <!--C-1076327-UPDATE TO THE ONLINE SCHUMER 2015 AUG mTPR changes ends-->
 
-		<!--P0057661_AT&T Product Value Prop Refresh changes start --> 
-		<!--C-1084613 Update Online Schumer Boxes mTPR JAN 2016 STARTS-->
+None.
 
 
-		<table>
-			<tbody><tr>
-				<td class="FootNote">
-				 
-              	 
-              		<sup><span class="smalltext">a</span></sup> We add 11.99% to the Prime Rate to determine the Purchase/Balance Transfer APR. 
-              	 
-              	
-               		
-				
-				</td>
-			</tr>
-			<tr>
-				<td class="FootNote">
-				
-					<sup><span class="smalltext">b</span></sup> We add 21.99% to the Prime Rate to determine the Cash Advances APR. 
-				
-				</td>
-			</tr>
-			<tr>
-				<td class="FootNote">
-				
-					<sup><span class="smalltext">c</span></sup> We add up to 26.74% to the Prime Rate to determine the Penalty APR. 
-				
-				</td>
-			</tr>
-			<tr>
-				<td>
-				Variable rate APRs will not exceed 29.99%.
-				</td>
-			</tr>
-		</tbody></table>
-
-		<!--C-1084613 Update Online Schumer Boxes mTPR JAN 2016 ENDS-->
-		</td>
-	</tr>
-</tbody></table>
-
-
-
-
-
- 
-		
-		
-						 
-			
-			
-			
-		</td>
-	</tr>
-</tbody></table>
-
-
-
-	
-		 
-
-
-
-
- 
-  
-
- 
+                                                                                   
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               t   r   >   
+                                                                                                                                                                           t   d       w   i   d   t   h   =   "   2   5   %   "       c   l   a   s   s   =   "   T   D   S   t   y   l   e   1   "       v   a   l   i   g   n   =   "   t   o   p   "       c   o   l   s   p   a   n   =   "   2   "       s   t   y   l   e   =   "   b   o   r   d   e   r   -   t   o   p   -   s   t   y   l   e   :   s   o   l   i   d   ;   "   >   
+                                                                                                                                                                                           
+                                                                                                                                                                                                       b   >   b   >   P   e   n   a   l   t   y       F   e   e   s   /   b   >   /   b   >       
+                                                                                                                                                                                                       
+                                                                                                                                                                           /   t   d   >   
+                                                                                                                                                                           t   d       w   i   d   t   h   =   "   7   5   %   "       c   l   a   s   s   =   "   T   D   S   t   y   l   e   1   "   >   /   t   d   >   
+                                                                                                                                               /   t   r   >   
+                                                                                                                                               t   r   >   
+                                                                                                                                                                                                       t   d       w   i   d   t   h   =   "   3   %   "       c   l   a   s   s   =   "   T   D   S   t   y   l   e   4   "       v   a   l   i   g   n   =   "   t   o   p   "   >   "   /   t   d   >   
+                                                                                                                                                                                                       t   d       w   i   d   t   h   =   "   2   2   %   "       c   l   a   s   s   =   "   T   D   S   t   y   l   e   2   "       v   a   l   i   g   n   =   "   t   o   p   "   >   
+                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                   L   a   t   e       P   a   y   m   e   n   t   
+                                                                                                                                                                                                       /   t   d   >   
+                                                                                                                                                                                                       t   d       w   i   d   t   h   =   "   7   5   %   "       c   l   a   s   s   =   "   T   D   S   t   y   l   e   2   "       v   a   l   i   g   n   =   "   t   o   p   "   >   
+                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                   p       c   l   a   s   s   =   "   P   e   n   a   l   t   y   A   P   R   i   n   d   e   n   t   "       s   t   y   l   e   =   "   p   a   d   d   i   n   g   -   l   e   f   t   :       1   0   p   x   ;   "   >   U   p       t   o       b   >   $   3   7   /   b   >   /   p   >   
+                                                                                                                                                                           
+                                                                                                                                                                           /   t   d   >   
+                                                                                                                                               /   t   r   >   
+                                                                                                                                               t   r   >   
+                                                                                                                                                                           t   d       w   i   d   t   h   =   "   3   %   "       c   l   a   s   s   =   "   T   D   S   t   y   l   e   5   "       v   a   l   i   g   n   =   "   t   o   p   "   >   "   /   t   d   >   
+                                                                                                                                                                           t   d       w   i   d   t   h   =   "   2   2   %   "       c   l   a   s   s   =   "   T   D   S   t   y   l   e   3   "       v   a   l   i   g   n   =   "   t   o   p   "   >   
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       R   e   t   u   r   n   e   d       P   a   y   m   e   n   t   
+                                                                                                                                                                           /   t   d   >   
+                                                                                                                                                                           t   d       w   i   d   t   h   =   "   7   5   %   "       c   l   a   s   s   =   "   T   D   S   t   y   l   e   3   "       v   a   l   i   g   n   =   "   t   o   p   "   >   
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       p       c   l   a   s   s   =   "   P   e   n   a   l   t   y   A   P   R   i   n   d   e   n   t   "       s   t   y   l   e   =   "   p   a   d   d   i   n   g   -   l   e   f   t   :       1   0   p   x   ;   "   >   U   p       t   o       b   >   $   3   7   /   b   >   /   p   >       
+                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                           /   t   d   >                                                                                                                           
+                                                                                                                                               /   t   r   >   
+                                                                                                                                                                                                                                                                                           
+                                                                                                                                               
+                                                                                                                   /   t   b   o   d   y   >   /   t   a   b   l   e   >   
+                                                                                       /   t   d   >   
+                                                           /   t   r   >   
+                               /   t   b   o   d   y   >   /   t   a   b   l   e   >   
+                               b   r   >   b   r   >   
+   t   a   b   l   e       w   i   d   t   h   =   "   1   0   0   %   "       a   l   i   g   n   =   "   c   e   n   t   e   r   "   >   
+   	   t   b   o   d   y   >   t   r   >   
+   	   	   t   d       c   l   a   s   s   =   "   T   D   S   t   y   l   e   N   o   n   B   o   x   "   >   
+   	   	       b   >   H   o   w       W   e       W   i   l   l       C   a   l   c   u   l   a   t   e       Y   o   u   r       B   a   l   a   n   c   e   :   /   b   >       W   e       u   s   e       a       m   e   t   h   o   d       c   a   l   l   e   d       "   d   a   i   l   y       b   a   l   a   n   c   e       (   i   n   c   l   u   d   i   n   g       n   e   w       t   r   a   n   s   a   c   t   i   o   n   s   )   .   "   b   r   >   
+   	   	   b   r   >   
+   	   	           b   >   L   o   s   s       o   f       I   n   t   r   o   d   u   c   t   o   r   y       A   P   R   :   /   b   >       W   e       m   a   y       e   n   d       y   o   u   r       i   n   t   r   o   d   u   c   t   o   r   y       A   P   R       a   n   d       a   p   p   l   y       t   h   e       P   e   n   a   l   t   y       A   P   R       i   f       y   o   u       m   a   k   e       a       l   a   t   e       p   a   y   m   e   n   t   .   b   r   >   
+   	   	   b   r   >   
+   	   	               F   o   r       m   o   r   e       i   n   f   o   r   m   a   t   i   o   n       c   a   l   l       C   i   t   i   b   a   n   k       a   t       1   -   8   7   7   -   6   2   5   -   6   3   8   2   .       N   e   w       Y   o   r   k       r   e   s   i   d   e   n   t   s       m   a   y       c   o   n   t   a   c   t       t   h   e       N   e   w       Y   o   r   k       S   t   a   t   e       D   e   p   a   r   t   m   e   n   t       o   f       F   i   n   a   n   c   i   a   l       S   e   r   v   i   c   e   s       a   t       (   8   0   0   )       3   4   2   -   3   7   3   6       o   r       w   w   w   .   d   f   s   .   n   y   .   g   o   v       f   o   r       c   o   m   p   a   r   a   t   i   v   e       i   n   f   o   r   m   a   t   i   o   n       o   n       c   r   e   d   i   t       c   a   r   d       r   a   t   e   s   ,       f   e   e   s       a   n   d       g   r   a   c   e       p   e   r   i   o   d   s   .   b   r   >   
+   	   	   b   r   >   
+   	   	           b   >   P   a   y   m   e   n   t       A   l   l   o   c   a   t   i   o   n   :   /   b   >       W   e       m   a   y       a   p   p   l   y       t   h   e       p   o   r   t   i   o   n       o   f       y   o   u   r       p   a   y   m   e   n   t   s       u   p       t   o       y   o   u   r       m   i   n   i   m   u   m       p   a   y   m   e   n   t       d   u   e       t   o       l   o   w   e   r       A   P   R       b   a   l   a   n   c   e   s       f   i   r   s   t   .       G   e   n   e   r   a   l   l   y   ,       p   a   y   m   e   n   t   s       a   b   o   v   e       y   o   u   r       M   i   n   i   m   u   m       P   a   y   m   e   n   t       D   u   e       w   i   l   l       b   e       a   p   p   l   i   e   d       t   o       y   o   u   r       h   i   g   h   e   s   t       A   P   R       b   a   l   a   n   c   e       f   i   r   s   t   .   b   r   >   
+   	   	   b   r   >   
+   	   	   !   -   -   #   P   0   0   5   7   6   6   1   _   A   T   &T       P   r   o   d   u   c   t       V   a   l   u   e       P   r   o   p       R   e   f   r   e   s   h       c   h   a   n   g   e   s       s   t   a   r   t           -   -   >   
+   	   	       !   -   -   C   -   1   0   7   6   3   2   7   -   U   P   D   A   T   E       T   O       T   H   E       O   N   L   I   N   E       S   C   H   U   M   E   R       2   0   1   5       A   U   G       m   T   P   R       c   h   a   n   g   e   s       s   t   a   r   t   s   -   -   >   
+   	   	   
+   	   	   b   >   P   r   i   m   e       R   a   t   e   :   /   b   >       T   h   e       v   a   r   i   a   b   l   e       r   a   t   e   s       s   h   o   w   n       h   e   r   e       a   r   e       a   c   c   u   r   a   t   e       b   a   s   e   d       o   n       a       4   .   7   5   %       P   r   i   m   e       R   a   t   e   .           !   -   -   C   -   1   0   7   6   3   2   7   -   U   P   D   A   T   E       T   O       T   H   E       O   N   L   I   N   E       S   C   H   U   M   E   R       2   0   1   5       A   U   G       m   T   P   R       c   h   a   n   g   e   s       e   n   d   s   -   -   >   
    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <div class="termsAndConditions">
-        <div class="termsHeader">
-	Costco Anywhere Visa<sup><span class="smalltext">®</span></sup> Card by Citi Terms &amp; Conditions
-</div>
-        <div class="container">
-            <div class="col-xs-12 termsSubHeader termsSubHeader1">
-	<p class="termsSubHeaderText">This offer is valid for new accounts only. You must be at least 18 years of age. If you're married, you may apply for a separate account.
-Citibank, N.A., Sioux Falls, SD, ("Citi," "we" or "us") is the issuer of your account. Please allow 4 weeks from date of submission to process your Card Account application.
-	</p>
-	<hr>
-</div>
-<div class="col-xs-12 termsSubHeader termsSubHeader2">
-	<p class="termsSubHeaderText">
-		By submitting this application, you request that Citi establish a Costco Anywhere Visa<sup><span class="smalltext">®</span></sup> Card by Citi account (the "Card Account") to you and any authorized users you have designated. You agree that all information provided in this application must be verifiable and accurate.
-The Card Account is governed by the terms of the card agreement ("Card Agreement") provided when the Card Account is issued.
-	</p>
-	<hr>
-</div>
-            <div class="col-xs-12 termsColumn">
-                <div class="termsSection termsCostco termsMembershipSection">
-    <h2>Costco Membership</h2>
-
-            <p>
-                The Card Account is only available if you have a current Costco membership in your name. We may cancel your Card Account and participation in the Costco Cash Rewards Program if you do not maintain your Costco membership. You must maintain your Costco membership to redeem Costco Cash Rewards earned with the Card Account. Each authorized user must also have a Costco membership in his or her name.
-            </p>
-    
-</div><div class="termsSection termsCostco termsMembershipSection">
-
-    <h2>Auto Bill of Costco Membership Fee</h2>
-            <p>
-                If you are the Primary Member on your Costco membership and your application is approved, your Costco membership fee will automatically renew and be charged to your Costco Anywhere Visa Card annually on the first day of your renewal month until you choose a different form of payment or cancel your Costco membership, and will qualify toward your annual credit card reward certificate. Membership fees will be charged based on your membership level ($60/yr for Gold Star and Business Members, plus a $60/yr upgrade fee for Executive Members) and $60/yr for each Affiliate Business Member, if any, plus applicable taxes. If you wish to pay your Costco membership fee with a different form of payment or cancel your Costco membership, please visit the Costco Membership Counter or call Costco at 1-800-774-2678, before the first day of your renewal month. Visit <a href="#" class="ddLink" onclick="window.open('/cards/credit/application/View.action?docId=LeavingSiteSpeedBump&amp;langId=EN&amp;speedbump=Y&amp;SI=4','popup','width=650,height=400,resizable,scrollbars')">Costco.com</a> for more information about Costco's membership terms.
-            </p>
-</div><div class="termsSection termsIdentityVerficationSection">
-<h2>Identity Verification</h2>
-            <p>
-                IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT - To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. This means that we will ask for your name, address, date of birth, and other information that will allow us to identify you when you open an account. We may also ask to see your driver's license or other identifying documents; and obtain identification information about you or any authorized user you add to your account.
-            </p>
-
-</div><div class="termsSection termsCommon termsCreditReportSection">
-	<h2>Credit Reports</h2>
-	<p>
-		You authorize us to get credit reports and other information about you from consumer reporting agencies and other sources, 
-		for such purposes as: determining whether to issue you a Card Account, administering, reviewing and renewing the Card Account, 
-		credit line increases or decreases, collection and other servicing of the Card Account, and offering other products and services 
-		and for any other uses permitted by law. If you ask us, we'll tell you whether or not we requested a credit bureau report and the 
-		names and addresses of any credit bureaus that provided us with such reports. From time to time, we may report negative information 
-		about your Card Account behavior, like delinquencies, to consumer reporting agencies.
-	</p>
-</div>
-
-<div class="termsSection termsCreditInfoSection">
-    <h2>Credit Information</h2>
-    <p>To receive a Card Account, you must meet our applicable criteria bearing on creditworthiness.</p> 
-    <p>Your credit limit will be determined based on the following:</p>
-    <ul>
-        <li>Your annual salary and wages</li>
-        <li>Any other annual income</li>
-        <li>A review of your debt, including the debt listed on your credit report</li>
-    </ul>
-    <p>We'll inform you of your credit limit when you receive your credit card. Some limits may be as low as $500. Please note that cash advances may be limited to a portion of your credit limit.</p>
-    
-</div>  <div class="termsSection termsCardAgreementSection"> 
-<h2>Card Agreement</h2>
-
-            <p>
-                If you are approved for a Card Account, you'll receive a Card Agreement before you can use your Card Account. 
-                The terms of the Card Agreement will take effect once you use your Card Account. Even if you do not use your Card Account, 
-                the Card Agreement will take effect if you do not cancel your Card Account within 30 days after we send you the Card Agreement. 
-                We have the right to make changes to the terms of your Card Account (including rates and fees) in accordance with the Card Agreement.
-            </p>
-</div><div class="termsSection termsInfoSharingSection">
-<h2>Information Sharing</h2>
-<p>By applying for the Card Account, you agree to allow Costco to send membership information and spending information, such as your annual spending at Costco and various Costco transaction amounts over the past 12 months, to Citi. By completing this application, you also authorize Citi to share with Costco the contact information you provided to us on the application as well as experiential and transactional information regarding your activity with Citi.
-</p></div><div class="termsSection termsSpecialNoticesSection">
-<h2>Special Notices</h2>
-
-            <p>
-                <span class="font-bold">Notice to Ohio Residents:</span> The Ohio laws against discrimination require that all creditors make credit equally available to all 
-                creditworthy customers, and that credit reporting agencies maintain separate credit histories on each individual upon request. 
-                The Ohio Civil Rights Commission administers compliance with this law.
-            </p>
-
-            <p>
-                <span class="font-bold">Notice to Wisconsin Residents:</span> No marital property agreement, unilateral statement, or court decree adversely affects our rights, unless you give us a copy of such agreement, statement or court order before we grant you credit, or we have actual knowledge of its terms before your account is opened.</p></div><div class="termsSection termsImportantAuthUserSection">
- <h2>Important Information About Adding An Authorized User</h2>
-
-            <p><span class="font-bold">Before adding an authorized user to your Card Account you should know:</span></p>
-
-            <ul>
-                <li>You're responsible for all charges made or allowed to the Card Account by the authorized user.</li>
-                <li>Authorized users have access to your Card Account information.</li>
-                <li>
-                    Before adding an authorized user, you must let him/her know that we may report Card Account performance 
-                    to the credit reporting agencies in the authorized user's name.
-                </li>
-            </ul>
-
-            <p>
-             If we ask for information about the authorized user, you must obtain their permission to share their information with us and for us to share it as allowed by applicable law.
-            </p></div><div class="termsSection termsBalanceTransInfoSection">
-<h2>Balance Transfer Information</h2>
-
-            <p>
-                <span class="font-bold">How to Make Balance Transfers</span>
-            </p>
-
-            <ul class="numbered-list">
-                <li>
-                   After receiving your card, you can call the customer service number on the back of your card to transfer balances. Balance transfers are made available at our discretion. All balance transfers are subject to the standard purchase APR unless an introductory and/or other promotional rate applies.
-                </li>
-                <li>
-                    If we give you the option to transfer a balance with your application, it will take at least 14 days after your Card Account is opened to process any balance transfer payments. During this time, you may cancel or modify your balance transfer request by calling the number on the back of your card.
-                </li>
-                <li>
-                    You may transfer any amount, but the total amount of your balance transfer plus balance transfer fees must be less than your available credit limit. Be sure you don't transfer any disputed purchase or other charge amount because you may lose your dispute rights. You cannot transfer balances from other accounts issued by Citi or its affiliates. If you are unsure of the issuer on the account, please visit <a href="https://www.citi.com/affiliatesproducts" target="_blank">www.citi.com/affiliatesproducts</a> for a list of Citi products and affiliates.</li>
-<li>Continue to make payments on your other accounts until you have confirmed this balance transfer has been received. Once approved, we'll pay the amount of the balance transfer directly to that issuer. The available credit limit for your new card will be reduced by the total amount of the transfers, including fees we approve.</li>
-            </ul>
-
-            <p><span class="font-bold">Things You Should Know About Your Balance Transfer Offer:</span></p>
-
-   <p>If you transfer a balance with this offer, interest will be charged on purchases made with your credit card unless your purchases have a 0% APR or you pay the New Balance shown on your statement (including the amount of your balance transfer) in full by the payment due date each billing period.</p>
-<p>If you default under your Card Agreement you may lose any promotional APR on the balance transfer.</p>
-
-</div><div class="termsSection termsCostco termsCostcoCashSection">
-            <h2>Costco Cash Rewards Program Terms</h2>
-
-            <p> 
-                Your Card Account will earn Costco Cash Rewards based on your purchases that can be redeemed for merchandise or cash back at any U.S. Costco warehouse, including Puerto Rico ("Costco Cash Rewards"). 
-            </p>    
-
-            <p><span class="font-bold">Earning Costco Cash Rewards on Purchases:</span> You'll earn Costco Cash Rewards for purchases using your Card Account, minus returns and refunds, as follows:</p>
-
-
-            <ul>
-                <li>4% cash back on eligible gas worldwide, including gas at  Costco, for the first $7,000 per year in gas purchases and then 1% thereafter.
-                    <ul class="oddDotList">
-                        <li><span class="font-bold">Certain Non-Qualifying Purchases.</span> You will only earn 1% cash back, not 4%, for gas purchased at superstores, supermarkets, convenience stores and warehouse clubs other than Costco or for fuel used for non-automobile purposes.</li>
-                    </ul>
-                </li>
-                <li>
-                    3% cash back on restaurant (including cafes, bars, lounges  and fast food restaurants) and eligible travel purchases worldwide, including airfare, hotels, car rentals, travel  agencies, cruise lines and Costco Travel.
-                    <ul class="oddDotList">
-                        <li><span class="font-bold">Certain Non-Qualifying Purchases.</span> You will only earn 1%, not 3%, for purchases made at bakeries and certain restaurants/cafes inside department stores, grocery or warehouse clubs.</li>
-                    </ul>
-                </li>
-                <li>
-                    2% cash back on all other purchases from Costco and <a href="#" class="ddLink" onclick="window.open('/cards/credit/application/View.action?docId=LeavingSiteSpeedBump&amp;langId=EN&amp;speedbump=Y&amp;SI=4','popup','width=650,height=400,resizable,scrollbars')">Costco.com</a>.
-                </li>
-                <li>
-                    1% cash back on all other purchases, including the non-qualifying purchases listed above.
-                </li>
-            </ul>
-
-            <p><span class="font-bold">Merchant Classification:</span> Each merchant - that is a retailer, business or any other place where you can make a purchase - is assigned a code that indicates the merchant's area of business. For example, restaurants are generally assigned a specific merchant code. We don't assign or have any control over merchant codes. Codes are chosen and assigned by a third party, who may change the codes from time to time. When you make a purchase at a merchant, we're provided the code for that merchant. If the code matches a category that gives you additional Costco Cash Rewards - for example, if the merchant code tells us that you made a purchase at a restaurant - we'll give you the additional Costco Cash Rewards for that purchase. Because we don't control what code a merchant is assigned, sometimes a purchase that you think fits a certain category may not earn additional Costco Cash Rewards. For example, a restaurant located within a large retail outlet may not be assigned a "restaurant" code, but rather a "retailer" code. This means that even though you receive additional Costco Cash Rewards for purchases at "restaurants," you won't earn additional Costco Cash Rewards for purchases at that restaurant.</p>
-
-            <p><span class="font-bold">What doesn't qualify as a purchase?:</span> The following types of transactions don't qualify as purchases that earn Costco Cash Rewards:</p>
-
-            <ul type="circle">
-                <li>Use of checks that access your Card Account</li>
-                <li>Balance transfers</li>
-                <li>Cash advances</li>
-                <li>
-                    Travelers checks, foreign currency purchases, money orders, wire transfers and similar cash-like transactions
-                </li>
-                <li>Lottery tickets, gaming chips and similar betting transactions</li>
-                <li>Interest and account fees</li>
-                <li>Unauthorized charges</li>
-                <li>Items returned for credit</li>
-            </ul>
-
-            <p><span class="font-bold">Returns:</span> Returned items may result in credits being applied to your Card Account which will reduce or may eliminate accumulated Costco Cash Rewards and may result in a negative cash rewards balance. If your Card Account has a negative Costco Cash Rewards balance, any newly earned Costco Cash Rewards will be used to offset such negative Costco Cash Rewards balance until such balance has been brought to zero.</p>
-
-            <p>You must maintain your Costco Membership to receive and redeem your Costco Cash Rewards.</p>
-
-            <p><span class="font-bold">Redeeming Costco Cash Rewards:</span> Your reward is distributed annually, in the form of a credit card reward certificate, once your February billing statement closes, and is redeemable through December 31 of the year issued in a single transaction at any U.S. Costco warehouse, including in Puerto Rico, for merchandise or cash back. The credit card reward certificate will contain your Costco Cash Rewards balance based on your eligible purchases during the annual reward period. The annual reward period is based on January through December billing statements. Should you choose to redeem only a portion of the certificate for merchandise, you will receive the remaining balance in cash at the Costco warehouse register upon checkout. Some warehouses may not permit the credit card reward certificate to be redeemed for alcohol purchases. Requests for cash may be fulfilled in the form of a check at  Costco's  discretion. Your credit card reward certificate must be redeemed in person on or prior to its expiration date of December 31 in the year in which it is issued. Any Costco Cash Rewards you have earned on purchases made by authorized users on your Card Account will be added to your Costco Cash Rewards total. Only you, the primary cardmember, are eligible to receive the annual credit card reward certificate; however, you or anyone you authorize may redeem the certificate. <span class="font-bold">You will not receive a credit card reward certificate if your reward is less than $1 or your account is closed at the time your credit card reward certificate is scheduled to be sent; any Costco Cash Rewards that had been accrued at that time will be forfeited. You must maintain your Costco Membership to redeem your credit card reward certificate.</span></p>
-
-            <p><span class="font-bold">Account Closure:</span> If we close your Card Account, you will no longer be able to earn Costco Cash Rewards, and you will forfeit any Costco Cash Rewards accumulated, but not yet distributed. If you close or convert your Card Account prior to receiving the credit card reward certificate in your February billing statement, any earned Costco Cash Rewards will be forfeited.</p>
-
-            <p><span class="font-bold">Forfeiture:</span> All Costco Cash Rewards not disbursed via an annual credit card reward certificate due to the reward amount being less than $1, the account status (including account closure), or other reasons, will be forfeited. Additionally, any Costco Cash Rewards not redeemed by December 31 of the year of issuance of the credit card reward certificate will be forfeited.</p>
-            <p><span class="font-bold">Value of Costco Cash Rewards:</span> Costco Cash Rewards have no cash value until such time as they are redeemed at a Costco warehouse.</p>
-
-            <p><span class="font-bold">Property Rights:</span> You have no property rights or other legal interests in Costco Cash Rewards. Costco Cash Rewards may not be transferred to any other person including through such events as inheritance, bankruptcy or divorce. Costco Cash Rewards cannot be assigned or pledged.</p>
-
-            <p><span class="font-bold">Changes to Program Rules:</span> We may make changes to the Costco Cash Rewards Program at any time without notice. We will give you 30 days' written notice if we make any of the following changes: a change that negatively affects the number of Costco Cash Rewards you can earn, a change that negatively affects how/when you may lose your Costco Cash Rewards, a change that negatively affects how you can exercise your rights with respect to Costco Cash Rewards, or if we cancel the program.</p>
-
-            <p><span class="font-bold">Fraud:</span> If we see evidence of fraud, misuse, abuse, or suspicious activity, we will investigate and, if we determine that fraud, misuse or abuse has occurred, we may take actions against you. These actions may include, without limitation:</p>
-
-            <ul type="circle">
-                <li>Taking away the Costco Cash Rewards you earned because of fraud, misuse or abuse</li>
-                <li>Preventing you from earning Costco Cash Rewards</li>
-                <li>Suspending or closing your Costco Cash Rewards Account</li>
-                <li>Taking legal action to recover Costco Cash Rewards redeemed because of such activity and to recover our monetary losses, including litigation costs and damages</li>
-            </ul>
-
-            <p>Some examples of fraud, misuse, abuse and suspicious activity include:</p>
-
-            <ul type="circle">
-                
-                <li>Using your Card Account in an abusive manner for the primary purpose of acquiring Costco Cash Rewards </li>
-                <li>Using your Consumer Card Account other than primarily for personal, consumer or household purposes</li> 
-                    
-            </ul>
-
-</div>         
-            
-            </div>
-        </div>
-    </div>
-
-	
-	
-
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="3">
-	<tbody><tr><td>
-	<div align="right">
-	<a href="javascript:self.close()">Close</a>          
-	</div>
-	</td></tr>
-	</tbody></table>
-	
-	
-	<script type="text/javascript" src="/cards/wv/JRS/ACQ/js/terms.js"></script>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	  
-
-
-
- 
- 
- </body>
+   	   	   !   -   -   P   0   0   5   7   6   6   1   _   A   T   &T       P   r   o   d   u   c   t       V   a   l   u   e       P   r   o   p       R   e   f   r   e   s   h       c   h   a   n   g   e   s       s   t   a   r   t       -   -   >       
+   	   	   !   -   -   C   -   1   0   8   4   6   1   3       U   p   d   a   t   e       O   n   l   i   n   e       S   c   h   u   m   e   r       B   o   x   e   s       m   T   P   R       J   A   N       2   0   1   6       S   T   A   R   T   S   -   -   >   
+   
+   
+   	   	   t   a   b   l   e   >   
+   	   	   	   t   b   o   d   y   >   t   r   >   
+   	   	   	   	   t   d       c   l   a   s   s   =   "   F   o   o   t   N   o   t   e   "   >   
+   	   	   	   	       
+                                                           	       
+                                                           	   	   s   u   p   >   s   p   a   n       c   l   a   s   s   =   "   s   m   a   l   l   t   e   x   t   "   >   a   /   s   p   a   n   >   /   s   u   p   >       W   e       a   d   d       1   1   .   9   9   %       t   o       t   h   e       P   r   i   m   e       R   a   t   e       t   o       d   e   t   e   r   m   i   n   e       t   h   e       P   u   r   c   h   a   s   e   /   B   a   l   a   n   c   e       T   r   a   n   s   f   e   r       A   P   R   .       
+                                                           	       
+                                                           	   
+                                                               	   	   
+   	   	   	   	   
+   	   	   	   	   /   t   d   >   
+   	   	   	   /   t   r   >   
+   	   	   	   t   r   >   
+   	   	   	   	   t   d       c   l   a   s   s   =   "   F   o   o   t   N   o   t   e   "   >   
+   	   	   	   	   
+   	   	   	   	   	   s   u   p   >   s   p   a   n       c   l   a   s   s   =   "   s   m   a   l   l   t   e   x   t   "   >   b   /   s   p   a   n   >   /   s   u   p   >       W   e       a   d   d       2   1   .   9   9   %       t   o       t   h   e       P   r   i   m   e       R   a   t   e       t   o       d   e   t   e   r   m   i   n   e       t   h   e       C   a   s   h       A   d   v   a   n   c   e   s       A   P   R   .       
+   	   	   	   	   
+   	   	   	   	   /   t   d   >   
+   	   	   	   /   t   r   >   
+   	   	   	   t   r   >   
+   	   	   	   	   t   d       c   l   a   s   s   =   "   F   o   o   t   N   o   t   e   "   >   
+   	   	   	   	   
+   	   	   	   	   	   s   u   p   >   s   p   a   n       c   l   a   s   s   =   "   s   m   a   l   l   t   e   x   t   "   >   c   /   s   p   a   n   >   /   s   u   p   >       W   e       a   d   d       u   p       t   o       2   6   .   7   4   %       t   o       t   h   e       P   r   i   m   e       R   a   t   e       t   o       d   e   t   e   r   m   i   n   e       t   h   e       P   e   n   a   l   t   y       A   P   R   .       
+   	   	   	   	   
+   	   	   	   	   /   t   d   >   
+   	   	   	   /   t   r   >   
+   	   	   	   t   r   >   
+   	   	   	   	   t   d   >   
+   	   	   	   	   V   a   r   i   a   b   l   e       r   a   t   e       A   P   R   s       w   i   l   l       n   o   t       e   x   c   e   e   d       2   9   .   9   9   %   .   
+   	   	   	   	   /   t   d   >   
+   	   	   	   /   t   r   >   
+   	   	   /   t   b   o   d   y   >   /   t   a   b   l   e   >   
+   
+   	   	   !   -   -   C   -   1   0   8   4   6   1   3       U   p   d   a   t   e       O   n   l   i   n   e       S   c   h   u   m   e   r       B   o   x   e   s       m   T   P   R       J   A   N       2   0   1   6       E   N   D   S   -   -   >   
+   	   	   /   t   d   >   
+   	   /   t   r   >   
+   /   t   b   o   d   y   >   /   t   a   b   l   e   >   
+   
+   
+   
+   
+   
+       
+   	   	   
+   	   	   
+   	   	   	   	   	   	       
+   	   	   	   
+   	   	   	   
+   	   	   	   
+   	   	   /   t   d   >   
+   	   /   t   r   >   
+   /   t   b   o   d   y   >   /   t   a   b   l   e   >   
+   
+   
+   
+   	   
+   	   	       
+   
+   
+   
+   
+       
+           
+   
+       
+               
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+                   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   A   n   d   C   o   n   d   i   t   i   o   n   s   "   >   
+                                   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   H   e   a   d   e   r   "   >   
+   	   C   o   s   t   c   o       A   n   y   w   h   e   r   e       V   i   s   a   s   u   p   >   s   p   a   n       c   l   a   s   s   =   "   s   m   a   l   l   t   e   x   t   "   >   ®   /   s   p   a   n   >   /   s   u   p   >       C   a   r   d       b   y       C   i   t   i       T   e   r   m   s       &a   m   p   ;       C   o   n   d   i   t   i   o   n   s   
+   /   d   i   v   >   
+                                   d   i   v       c   l   a   s   s   =   "   c   o   n   t   a   i   n   e   r   "   >   
+                                                   d   i   v       c   l   a   s   s   =   "   c   o   l   -   x   s   -   1   2       t   e   r   m   s   S   u   b   H   e   a   d   e   r       t   e   r   m   s   S   u   b   H   e   a   d   e   r   1   "   >   
+   	   p       c   l   a   s   s   =   "   t   e   r   m   s   S   u   b   H   e   a   d   e   r   T   e   x   t   "   >   T   h   i   s       o   f   f   e   r       i   s       v   a   l   i   d       f   o   r       n   e   w       a   c   c   o   u   n   t   s       o   n   l   y   .       Y   o   u       m   u   s   t       b   e       a   t       l   e   a   s   t       1   8       y   e   a   r   s       o   f       a   g   e   .       I   f       y   o   u   '   r   e       m   a   r   r   i   e   d   ,       y   o   u       m   a   y       a   p   p   l   y       f   o   r       a       s   e   p   a   r   a   t   e       a   c   c   o   u   n   t   .   
+   C   i   t   i   b   a   n   k   ,       N   .   A   .   ,       S   i   o   u   x       F   a   l   l   s   ,       S   D   ,       (   "   C   i   t   i   ,   "       "   w   e   "       o   r       "   u   s   "   )       i   s       t   h   e       i   s   s   u   e   r       o   f       y   o   u   r       a   c   c   o   u   n   t   .       P   l   e   a   s   e       a   l   l   o   w       4       w   e   e   k   s       f   r   o   m       d   a   t   e       o   f       s   u   b   m   i   s   s   i   o   n       t   o       p   r   o   c   e   s   s       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       a   p   p   l   i   c   a   t   i   o   n   .   
+   	   /   p   >   
+   	   h   r   >   
+   /   d   i   v   >   
+   d   i   v       c   l   a   s   s   =   "   c   o   l   -   x   s   -   1   2       t   e   r   m   s   S   u   b   H   e   a   d   e   r       t   e   r   m   s   S   u   b   H   e   a   d   e   r   2   "   >   
+   	   p       c   l   a   s   s   =   "   t   e   r   m   s   S   u   b   H   e   a   d   e   r   T   e   x   t   "   >   
+   	   	   B   y       s   u   b   m   i   t   t   i   n   g       t   h   i   s       a   p   p   l   i   c   a   t   i   o   n   ,       y   o   u       r   e   q   u   e   s   t       t   h   a   t       C   i   t   i       e   s   t   a   b   l   i   s   h       a       C   o   s   t   c   o       A   n   y   w   h   e   r   e       V   i   s   a   s   u   p   >   s   p   a   n       c   l   a   s   s   =   "   s   m   a   l   l   t   e   x   t   "   >   ®   /   s   p   a   n   >   /   s   u   p   >       C   a   r   d       b   y       C   i   t   i       a   c   c   o   u   n   t       (   t   h   e       "   C   a   r   d       A   c   c   o   u   n   t   "   )       t   o       y   o   u       a   n   d       a   n   y       a   u   t   h   o   r   i   z   e   d       u   s   e   r   s       y   o   u       h   a   v   e       d   e   s   i   g   n   a   t   e   d   .       Y   o   u       a   g   r   e   e       t   h   a   t       a   l   l       i   n   f   o   r   m   a   t   i   o   n       p   r   o   v   i   d   e   d       i   n       t   h   i   s       a   p   p   l   i   c   a   t   i   o   n       m   u   s   t       b   e       v   e   r   i   f   i   a   b   l   e       a   n   d       a   c   c   u   r   a   t   e   .   
+   T   h   e       C   a   r   d       A   c   c   o   u   n   t       i   s       g   o   v   e   r   n   e   d       b   y       t   h   e       t   e   r   m   s       o   f       t   h   e       c   a   r   d       a   g   r   e   e   m   e   n   t       (   "   C   a   r   d       A   g   r   e   e   m   e   n   t   "   )       p   r   o   v   i   d   e   d       w   h   e   n       t   h   e       C   a   r   d       A   c   c   o   u   n   t       i   s       i   s   s   u   e   d   .   
+   	   /   p   >   
+   	   h   r   >   
+   /   d   i   v   >   
+                                                   d   i   v       c   l   a   s   s   =   "   c   o   l   -   x   s   -   1   2       t   e   r   m   s   C   o   l   u   m   n   "   >   
+                                                                   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   C   o   s   t   c   o       t   e   r   m   s   M   e   m   b   e   r   s   h   i   p   S   e   c   t   i   o   n   "   >   
+                   h   2   >   C   o   s   t   c   o       M   e   m   b   e   r   s   h   i   p   /   h   2   >   
+   
+                                                   p   >   
+                                                                   T   h   e       C   a   r   d       A   c   c   o   u   n   t       i   s       o   n   l   y       a   v   a   i   l   a   b   l   e       i   f       y   o   u       h   a   v   e       a       c   u   r   r   e   n   t       C   o   s   t   c   o       m   e   m   b   e   r   s   h   i   p       i   n       y   o   u   r       n   a   m   e   .       W   e       m   a   y       c   a   n   c   e   l       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       a   n   d       p   a   r   t   i   c   i   p   a   t   i   o   n       i   n       t   h   e       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       P   r   o   g   r   a   m       i   f       y   o   u       d   o       n   o   t       m   a   i   n   t   a   i   n       y   o   u   r       C   o   s   t   c   o       m   e   m   b   e   r   s   h   i   p   .       Y   o   u       m   u   s   t       m   a   i   n   t   a   i   n       y   o   u   r       C   o   s   t   c   o       m   e   m   b   e   r   s   h   i   p       t   o       r   e   d   e   e   m       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       e   a   r   n   e   d       w   i   t   h       t   h   e       C   a   r   d       A   c   c   o   u   n   t   .       E   a   c   h       a   u   t   h   o   r   i   z   e   d       u   s   e   r       m   u   s   t       a   l   s   o       h   a   v   e       a       C   o   s   t   c   o       m   e   m   b   e   r   s   h   i   p       i   n       h   i   s       o   r       h   e   r       n   a   m   e   .   
+                                                   /   p   >   
+                   
+   /   d   i   v   >   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   C   o   s   t   c   o       t   e   r   m   s   M   e   m   b   e   r   s   h   i   p   S   e   c   t   i   o   n   "   >   
+   
+                   h   2   >   A   u   t   o       B   i   l   l       o   f       C   o   s   t   c   o       M   e   m   b   e   r   s   h   i   p       F   e   e   /   h   2   >   
+                                                   p   >   
+                                                                   I   f       y   o   u       a   r   e       t   h   e       P   r   i   m   a   r   y       M   e   m   b   e   r       o   n       y   o   u   r       C   o   s   t   c   o       m   e   m   b   e   r   s   h   i   p       a   n   d       y   o   u   r       a   p   p   l   i   c   a   t   i   o   n       i   s       a   p   p   r   o   v   e   d   ,       y   o   u   r       C   o   s   t   c   o       m   e   m   b   e   r   s   h   i   p       f   e   e       w   i   l   l       a   u   t   o   m   a   t   i   c   a   l   l   y       r   e   n   e   w       a   n   d       b   e       c   h   a   r   g   e   d       t   o       y   o   u   r       C   o   s   t   c   o       A   n   y   w   h   e   r   e       V   i   s   a       C   a   r   d       a   n   n   u   a   l   l   y       o   n       t   h   e       f   i   r   s   t       d   a   y       o   f       y   o   u   r       r   e   n   e   w   a   l       m   o   n   t   h       u   n   t   i   l       y   o   u       c   h   o   o   s   e       a       d   i   f   f   e   r   e   n   t       f   o   r   m       o   f       p   a   y   m   e   n   t       o   r       c   a   n   c   e   l       y   o   u   r       C   o   s   t   c   o       m   e   m   b   e   r   s   h   i   p   ,       a   n   d       w   i   l   l       q   u   a   l   i   f   y       t   o   w   a   r   d       y   o   u   r       a   n   n   u   a   l       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e   .       M   e   m   b   e   r   s   h   i   p       f   e   e   s       w   i   l   l       b   e       c   h   a   r   g   e   d       b   a   s   e   d       o   n       y   o   u   r       m   e   m   b   e   r   s   h   i   p       l   e   v   e   l       (   $   6   0   /   y   r       f   o   r       G   o   l   d       S   t   a   r       a   n   d       B   u   s   i   n   e   s   s       M   e   m   b   e   r   s   ,       p   l   u   s       a       $   6   0   /   y   r       u   p   g   r   a   d   e       f   e   e       f   o   r       E   x   e   c   u   t   i   v   e       M   e   m   b   e   r   s   )       a   n   d       $   6   0   /   y   r       f   o   r       e   a   c   h       A   f   f   i   l   i   a   t   e       B   u   s   i   n   e   s   s       M   e   m   b   e   r   ,       i   f       a   n   y   ,       p   l   u   s       a   p   p   l   i   c   a   b   l   e       t   a   x   e   s   .       I   f       y   o   u       w   i   s   h       t   o       p   a   y       y   o   u   r       C   o   s   t   c   o       m   e   m   b   e   r   s   h   i   p       f   e   e       w   i   t   h       a       d   i   f   f   e   r   e   n   t       f   o   r   m       o   f       p   a   y   m   e   n   t       o   r       c   a   n   c   e   l       y   o   u   r       C   o   s   t   c   o       m   e   m   b   e   r   s   h   i   p   ,       p   l   e   a   s   e       v   i   s   i   t       t   h   e       C   o   s   t   c   o       M   e   m   b   e   r   s   h   i   p       C   o   u   n   t   e   r       o   r       c   a   l   l       C   o   s   t   c   o       a   t       1   -   8   0   0   -   7   7   4   -   2   6   7   8   ,       b   e   f   o   r   e       t   h   e       f   i   r   s   t       d   a   y       o   f       y   o   u   r       r   e   n   e   w   a   l       m   o   n   t   h   .       V   i   s   i   t       a       h   r   e   f   =   "   #   "       c   l   a   s   s   =   "   d   d   L   i   n   k   "       o   n   c   l   i   c   k   =   "   w   i   n   d   o   w   .   o   p   e   n   (   '   /   c   a   r   d   s   /   c   r   e   d   i   t   /   a   p   p   l   i   c   a   t   i   o   n   /   V   i   e   w   .   a   c   t   i   o   n   ?   d   o   c   I   d   =   L   e   a   v   i   n   g   S   i   t   e   S   p   e   e   d   B   u   m   p   &a   m   p   ;   l   a   n   g   I   d   =   E   N   &a   m   p   ;   s   p   e   e   d   b   u   m   p   =   Y   &a   m   p   ;   S   I   =   4   '   ,   '   p   o   p   u   p   '   ,   '   w   i   d   t   h   =   6   5   0   ,   h   e   i   g   h   t   =   4   0   0   ,   r   e   s   i   z   a   b   l   e   ,   s   c   r   o   l   l   b   a   r   s   '   )   "   >   C   o   s   t   c   o   .   c   o   m   /   a   >       f   o   r       m   o   r   e       i   n   f   o   r   m   a   t   i   o   n       a   b   o   u   t       C   o   s   t   c   o   '   s       m   e   m   b   e   r   s   h   i   p       t   e   r   m   s   .   
+                                                   /   p   >   
+   /   d   i   v   >   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   I   d   e   n   t   i   t   y   V   e   r   f   i   c   a   t   i   o   n   S   e   c   t   i   o   n   "   >   
+   h   2   >   I   d   e   n   t   i   t   y       V   e   r   i   f   i   c   a   t   i   o   n   /   h   2   >   
+                                                   p   >   
+                                                                   I   M   P   O   R   T   A   N   T       I   N   F   O   R   M   A   T   I   O   N       A   B   O   U   T       P   R   O   C   E   D   U   R   E   S       F   O   R       O   P   E   N   I   N   G       A       N   E   W       A   C   C   O   U   N   T       -       T   o       h   e   l   p       t   h   e       g   o   v   e   r   n   m   e   n   t       f   i   g   h   t       t   h   e       f   u   n   d   i   n   g       o   f       t   e   r   r   o   r   i   s   m       a   n   d       m   o   n   e   y       l   a   u   n   d   e   r   i   n   g       a   c   t   i   v   i   t   i   e   s   ,       f   e   d   e   r   a   l       l   a   w       r   e   q   u   i   r   e   s       a   l   l       f   i   n   a   n   c   i   a   l       i   n   s   t   i   t   u   t   i   o   n   s       t   o       o   b   t   a   i   n   ,       v   e   r   i   f   y   ,       a   n   d       r   e   c   o   r   d       i   n   f   o   r   m   a   t   i   o   n       t   h   a   t       i   d   e   n   t   i   f   i   e   s       e   a   c   h       p   e   r   s   o   n       w   h   o       o   p   e   n   s       a   n       a   c   c   o   u   n   t   .       T   h   i   s       m   e   a   n   s       t   h   a   t       w   e       w   i   l   l       a   s   k       f   o   r       y   o   u   r       n   a   m   e   ,       a   d   d   r   e   s   s   ,       d   a   t   e       o   f       b   i   r   t   h   ,       a   n   d       o   t   h   e   r       i   n   f   o   r   m   a   t   i   o   n       t   h   a   t       w   i   l   l       a   l   l   o   w       u   s       t   o       i   d   e   n   t   i   f   y       y   o   u       w   h   e   n       y   o   u       o   p   e   n       a   n       a   c   c   o   u   n   t   .       W   e       m   a   y       a   l   s   o       a   s   k       t   o       s   e   e       y   o   u   r       d   r   i   v   e   r   '   s       l   i   c   e   n   s   e       o   r       o   t   h   e   r       i   d   e   n   t   i   f   y   i   n   g       d   o   c   u   m   e   n   t   s   ;       a   n   d       o   b   t   a   i   n       i   d   e   n   t   i   f   i   c   a   t   i   o   n       i   n   f   o   r   m   a   t   i   o   n       a   b   o   u   t       y   o   u       o   r       a   n   y       a   u   t   h   o   r   i   z   e   d       u   s   e   r       y   o   u       a   d   d       t   o       y   o   u   r       a   c   c   o   u   n   t   .   
+                                                   /   p   >   
+   
+   /   d   i   v   >   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   C   o   m   m   o   n       t   e   r   m   s   C   r   e   d   i   t   R   e   p   o   r   t   S   e   c   t   i   o   n   "   >   
+   	   h   2   >   C   r   e   d   i   t       R   e   p   o   r   t   s   /   h   2   >   
+   	   p   >   
+   	   	   Y   o   u       a   u   t   h   o   r   i   z   e       u   s       t   o       g   e   t       c   r   e   d   i   t       r   e   p   o   r   t   s       a   n   d       o   t   h   e   r       i   n   f   o   r   m   a   t   i   o   n       a   b   o   u   t       y   o   u       f   r   o   m       c   o   n   s   u   m   e   r       r   e   p   o   r   t   i   n   g       a   g   e   n   c   i   e   s       a   n   d       o   t   h   e   r       s   o   u   r   c   e   s   ,       
+   	   	   f   o   r       s   u   c   h       p   u   r   p   o   s   e   s       a   s   :       d   e   t   e   r   m   i   n   i   n   g       w   h   e   t   h   e   r       t   o       i   s   s   u   e       y   o   u       a       C   a   r   d       A   c   c   o   u   n   t   ,       a   d   m   i   n   i   s   t   e   r   i   n   g   ,       r   e   v   i   e   w   i   n   g       a   n   d       r   e   n   e   w   i   n   g       t   h   e       C   a   r   d       A   c   c   o   u   n   t   ,       
+   	   	   c   r   e   d   i   t       l   i   n   e       i   n   c   r   e   a   s   e   s       o   r       d   e   c   r   e   a   s   e   s   ,       c   o   l   l   e   c   t   i   o   n       a   n   d       o   t   h   e   r       s   e   r   v   i   c   i   n   g       o   f       t   h   e       C   a   r   d       A   c   c   o   u   n   t   ,       a   n   d       o   f   f   e   r   i   n   g       o   t   h   e   r       p   r   o   d   u   c   t   s       a   n   d       s   e   r   v   i   c   e   s       
+   	   	   a   n   d       f   o   r       a   n   y       o   t   h   e   r       u   s   e   s       p   e   r   m   i   t   t   e   d       b   y       l   a   w   .       I   f       y   o   u       a   s   k       u   s   ,       w   e   '   l   l       t   e   l   l       y   o   u       w   h   e   t   h   e   r       o   r       n   o   t       w   e       r   e   q   u   e   s   t   e   d       a       c   r   e   d   i   t       b   u   r   e   a   u       r   e   p   o   r   t       a   n   d       t   h   e       
+   	   	   n   a   m   e   s       a   n   d       a   d   d   r   e   s   s   e   s       o   f       a   n   y       c   r   e   d   i   t       b   u   r   e   a   u   s       t   h   a   t       p   r   o   v   i   d   e   d       u   s       w   i   t   h       s   u   c   h       r   e   p   o   r   t   s   .       F   r   o   m       t   i   m   e       t   o       t   i   m   e   ,       w   e       m   a   y       r   e   p   o   r   t       n   e   g   a   t   i   v   e       i   n   f   o   r   m   a   t   i   o   n       
+   	   	   a   b   o   u   t       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       b   e   h   a   v   i   o   r   ,       l   i   k   e       d   e   l   i   n   q   u   e   n   c   i   e   s   ,       t   o       c   o   n   s   u   m   e   r       r   e   p   o   r   t   i   n   g       a   g   e   n   c   i   e   s   .   
+   	   /   p   >   
+   /   d   i   v   >   
+   
+   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   C   r   e   d   i   t   I   n   f   o   S   e   c   t   i   o   n   "   >   
+                   h   2   >   C   r   e   d   i   t       I   n   f   o   r   m   a   t   i   o   n   /   h   2   >   
+                   p   >   T   o       r   e   c   e   i   v   e       a       C   a   r   d       A   c   c   o   u   n   t   ,       y   o   u       m   u   s   t       m   e   e   t       o   u   r       a   p   p   l   i   c   a   b   l   e       c   r   i   t   e   r   i   a       b   e   a   r   i   n   g       o   n       c   r   e   d   i   t   w   o   r   t   h   i   n   e   s   s   .   /   p   >       
+                   p   >   Y   o   u   r       c   r   e   d   i   t       l   i   m   i   t       w   i   l   l       b   e       d   e   t   e   r   m   i   n   e   d       b   a   s   e   d       o   n       t   h   e       f   o   l   l   o   w   i   n   g   :   /   p   >   
+                   u   l   >   
+                                   l   i   >   Y   o   u   r       a   n   n   u   a   l       s   a   l   a   r   y       a   n   d       w   a   g   e   s   /   l   i   >   
+                                   l   i   >   A   n   y       o   t   h   e   r       a   n   n   u   a   l       i   n   c   o   m   e   /   l   i   >   
+                                   l   i   >   A       r   e   v   i   e   w       o   f       y   o   u   r       d   e   b   t   ,       i   n   c   l   u   d   i   n   g       t   h   e       d   e   b   t       l   i   s   t   e   d       o   n       y   o   u   r       c   r   e   d   i   t       r   e   p   o   r   t   /   l   i   >   
+                   /   u   l   >   
+                   p   >   W   e   '   l   l       i   n   f   o   r   m       y   o   u       o   f       y   o   u   r       c   r   e   d   i   t       l   i   m   i   t       w   h   e   n       y   o   u       r   e   c   e   i   v   e       y   o   u   r       c   r   e   d   i   t       c   a   r   d   .       S   o   m   e       l   i   m   i   t   s       m   a   y       b   e       a   s       l   o   w       a   s       $   5   0   0   .       P   l   e   a   s   e       n   o   t   e       t   h   a   t       c   a   s   h       a   d   v   a   n   c   e   s       m   a   y       b   e       l   i   m   i   t   e   d       t   o       a       p   o   r   t   i   o   n       o   f       y   o   u   r       c   r   e   d   i   t       l   i   m   i   t   .   /   p   >   
+                   
+   /   d   i   v   >           d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   C   a   r   d   A   g   r   e   e   m   e   n   t   S   e   c   t   i   o   n   "   >       
+   h   2   >   C   a   r   d       A   g   r   e   e   m   e   n   t   /   h   2   >   
+   
+                                                   p   >   
+                                                                   I   f       y   o   u       a   r   e       a   p   p   r   o   v   e   d       f   o   r       a       C   a   r   d       A   c   c   o   u   n   t   ,       y   o   u   '   l   l       r   e   c   e   i   v   e       a       C   a   r   d       A   g   r   e   e   m   e   n   t       b   e   f   o   r   e       y   o   u       c   a   n       u   s   e       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t   .       
+                                                                   T   h   e       t   e   r   m   s       o   f       t   h   e       C   a   r   d       A   g   r   e   e   m   e   n   t       w   i   l   l       t   a   k   e       e   f   f   e   c   t       o   n   c   e       y   o   u       u   s   e       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t   .       E   v   e   n       i   f       y   o   u       d   o       n   o   t       u   s   e       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t   ,       
+                                                                   t   h   e       C   a   r   d       A   g   r   e   e   m   e   n   t       w   i   l   l       t   a   k   e       e   f   f   e   c   t       i   f       y   o   u       d   o       n   o   t       c   a   n   c   e   l       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       w   i   t   h   i   n       3   0       d   a   y   s       a   f   t   e   r       w   e       s   e   n   d       y   o   u       t   h   e       C   a   r   d       A   g   r   e   e   m   e   n   t   .       
+                                                                   W   e       h   a   v   e       t   h   e       r   i   g   h   t       t   o       m   a   k   e       c   h   a   n   g   e   s       t   o       t   h   e       t   e   r   m   s       o   f       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       (   i   n   c   l   u   d   i   n   g       r   a   t   e   s       a   n   d       f   e   e   s   )       i   n       a   c   c   o   r   d   a   n   c   e       w   i   t   h       t   h   e       C   a   r   d       A   g   r   e   e   m   e   n   t   .   
+                                                   /   p   >   
+   /   d   i   v   >   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   I   n   f   o   S   h   a   r   i   n   g   S   e   c   t   i   o   n   "   >   
+   h   2   >   I   n   f   o   r   m   a   t   i   o   n       S   h   a   r   i   n   g   /   h   2   >   
+   p   >   B   y       a   p   p   l   y   i   n   g       f   o   r       t   h   e       C   a   r   d       A   c   c   o   u   n   t   ,       y   o   u       a   g   r   e   e       t   o       a   l   l   o   w       C   o   s   t   c   o       t   o       s   e   n   d       m   e   m   b   e   r   s   h   i   p       i   n   f   o   r   m   a   t   i   o   n       a   n   d       s   p   e   n   d   i   n   g       i   n   f   o   r   m   a   t   i   o   n   ,       s   u   c   h       a   s       y   o   u   r       a   n   n   u   a   l       s   p   e   n   d   i   n   g       a   t       C   o   s   t   c   o       a   n   d       v   a   r   i   o   u   s       C   o   s   t   c   o       t   r   a   n   s   a   c   t   i   o   n       a   m   o   u   n   t   s       o   v   e   r       t   h   e       p   a   s   t       1   2       m   o   n   t   h   s   ,       t   o       C   i   t   i   .       B   y       c   o   m   p   l   e   t   i   n   g       t   h   i   s       a   p   p   l   i   c   a   t   i   o   n   ,       y   o   u       a   l   s   o       a   u   t   h   o   r   i   z   e       C   i   t   i       t   o       s   h   a   r   e       w   i   t   h       C   o   s   t   c   o       t   h   e       c   o   n   t   a   c   t       i   n   f   o   r   m   a   t   i   o   n       y   o   u       p   r   o   v   i   d   e   d       t   o       u   s       o   n       t   h   e       a   p   p   l   i   c   a   t   i   o   n       a   s       w   e   l   l       a   s       e   x   p   e   r   i   e   n   t   i   a   l       a   n   d       t   r   a   n   s   a   c   t   i   o   n   a   l       i   n   f   o   r   m   a   t   i   o   n       r   e   g   a   r   d   i   n   g       y   o   u   r       a   c   t   i   v   i   t   y       w   i   t   h       C   i   t   i   .   
+   /   p   >   /   d   i   v   >   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   S   p   e   c   i   a   l   N   o   t   i   c   e   s   S   e   c   t   i   o   n   "   >   
+   h   2   >   S   p   e   c   i   a   l       N   o   t   i   c   e   s   /   h   2   >   
+   
+                                                   p   >   
+                                                                   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   N   o   t   i   c   e       t   o       O   h   i   o       R   e   s   i   d   e   n   t   s   :   /   s   p   a   n   >       T   h   e       O   h   i   o       l   a   w   s       a   g   a   i   n   s   t       d   i   s   c   r   i   m   i   n   a   t   i   o   n       r   e   q   u   i   r   e       t   h   a   t       a   l   l       c   r   e   d   i   t   o   r   s       m   a   k   e       c   r   e   d   i   t       e   q   u   a   l   l   y       a   v   a   i   l   a   b   l   e       t   o       a   l   l       
+                                                                   c   r   e   d   i   t   w   o   r   t   h   y       c   u   s   t   o   m   e   r   s   ,       a   n   d       t   h   a   t       c   r   e   d   i   t       r   e   p   o   r   t   i   n   g       a   g   e   n   c   i   e   s       m   a   i   n   t   a   i   n       s   e   p   a   r   a   t   e       c   r   e   d   i   t       h   i   s   t   o   r   i   e   s       o   n       e   a   c   h       i   n   d   i   v   i   d   u   a   l       u   p   o   n       r   e   q   u   e   s   t   .       
+                                                                   T   h   e       O   h   i   o       C   i   v   i   l       R   i   g   h   t   s       C   o   m   m   i   s   s   i   o   n       a   d   m   i   n   i   s   t   e   r   s       c   o   m   p   l   i   a   n   c   e       w   i   t   h       t   h   i   s       l   a   w   .   
+                                                   /   p   >   
+   
+                                                   p   >   
+                                                                   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   N   o   t   i   c   e       t   o       W   i   s   c   o   n   s   i   n       R   e   s   i   d   e   n   t   s   :   /   s   p   a   n   >       N   o       m   a   r   i   t   a   l       p   r   o   p   e   r   t   y       a   g   r   e   e   m   e   n   t   ,       u   n   i   l   a   t   e   r   a   l       s   t   a   t   e   m   e   n   t   ,       o   r       c   o   u   r   t       d   e   c   r   e   e       a   d   v   e   r   s   e   l   y       a   f   f   e   c   t   s       o   u   r       r   i   g   h   t   s   ,       u   n   l   e   s   s       y   o   u       g   i   v   e       u   s       a       c   o   p   y       o   f       s   u   c   h       a   g   r   e   e   m   e   n   t   ,       s   t   a   t   e   m   e   n   t       o   r       c   o   u   r   t       o   r   d   e   r       b   e   f   o   r   e       w   e       g   r   a   n   t       y   o   u       c   r   e   d   i   t   ,       o   r       w   e       h   a   v   e       a   c   t   u   a   l       k   n   o   w   l   e   d   g   e       o   f       i   t   s       t   e   r   m   s       b   e   f   o   r   e       y   o   u   r       a   c   c   o   u   n   t       i   s       o   p   e   n   e   d   .   /   p   >   /   d   i   v   >   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   I   m   p   o   r   t   a   n   t   A   u   t   h   U   s   e   r   S   e   c   t   i   o   n   "   >   
+       h   2   >   I   m   p   o   r   t   a   n   t       I   n   f   o   r   m   a   t   i   o   n       A   b   o   u   t       A   d   d   i   n   g       A   n       A   u   t   h   o   r   i   z   e   d       U   s   e   r   /   h   2   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   B   e   f   o   r   e       a   d   d   i   n   g       a   n       a   u   t   h   o   r   i   z   e   d       u   s   e   r       t   o       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       y   o   u       s   h   o   u   l   d       k   n   o   w   :   /   s   p   a   n   >   /   p   >   
+   
+                                                   u   l   >   
+                                                                   l   i   >   Y   o   u   '   r   e       r   e   s   p   o   n   s   i   b   l   e       f   o   r       a   l   l       c   h   a   r   g   e   s       m   a   d   e       o   r       a   l   l   o   w   e   d       t   o       t   h   e       C   a   r   d       A   c   c   o   u   n   t       b   y       t   h   e       a   u   t   h   o   r   i   z   e   d       u   s   e   r   .   /   l   i   >   
+                                                                   l   i   >   A   u   t   h   o   r   i   z   e   d       u   s   e   r   s       h   a   v   e       a   c   c   e   s   s       t   o       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       i   n   f   o   r   m   a   t   i   o   n   .   /   l   i   >   
+                                                                   l   i   >   
+                                                                                   B   e   f   o   r   e       a   d   d   i   n   g       a   n       a   u   t   h   o   r   i   z   e   d       u   s   e   r   ,       y   o   u       m   u   s   t       l   e   t       h   i   m   /   h   e   r       k   n   o   w       t   h   a   t       w   e       m   a   y       r   e   p   o   r   t       C   a   r   d       A   c   c   o   u   n   t       p   e   r   f   o   r   m   a   n   c   e       
+                                                                                   t   o       t   h   e       c   r   e   d   i   t       r   e   p   o   r   t   i   n   g       a   g   e   n   c   i   e   s       i   n       t   h   e       a   u   t   h   o   r   i   z   e   d       u   s   e   r   '   s       n   a   m   e   .   
+                                                                   /   l   i   >   
+                                                   /   u   l   >   
+   
+                                                   p   >   
+                                                       I   f       w   e       a   s   k       f   o   r       i   n   f   o   r   m   a   t   i   o   n       a   b   o   u   t       t   h   e       a   u   t   h   o   r   i   z   e   d       u   s   e   r   ,       y   o   u       m   u   s   t       o   b   t   a   i   n       t   h   e   i   r       p   e   r   m   i   s   s   i   o   n       t   o       s   h   a   r   e       t   h   e   i   r       i   n   f   o   r   m   a   t   i   o   n       w   i   t   h       u   s       a   n   d       f   o   r       u   s       t   o       s   h   a   r   e       i   t       a   s       a   l   l   o   w   e   d       b   y       a   p   p   l   i   c   a   b   l   e       l   a   w   .   
+                                                   /   p   >   /   d   i   v   >   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   B   a   l   a   n   c   e   T   r   a   n   s   I   n   f   o   S   e   c   t   i   o   n   "   >   
+   h   2   >   B   a   l   a   n   c   e       T   r   a   n   s   f   e   r       I   n   f   o   r   m   a   t   i   o   n   /   h   2   >   
+   
+                                                   p   >   
+                                                                   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   H   o   w       t   o       M   a   k   e       B   a   l   a   n   c   e       T   r   a   n   s   f   e   r   s   /   s   p   a   n   >   
+                                                   /   p   >   
+   
+                                                   u   l       c   l   a   s   s   =   "   n   u   m   b   e   r   e   d   -   l   i   s   t   "   >   
+                                                                   l   i   >   
+                                                                               A   f   t   e   r       r   e   c   e   i   v   i   n   g       y   o   u   r       c   a   r   d   ,       y   o   u       c   a   n       c   a   l   l       t   h   e       c   u   s   t   o   m   e   r       s   e   r   v   i   c   e       n   u   m   b   e   r       o   n       t   h   e       b   a   c   k       o   f       y   o   u   r       c   a   r   d       t   o       t   r   a   n   s   f   e   r       b   a   l   a   n   c   e   s   .       B   a   l   a   n   c   e       t   r   a   n   s   f   e   r   s       a   r   e       m   a   d   e       a   v   a   i   l   a   b   l   e       a   t       o   u   r       d   i   s   c   r   e   t   i   o   n   .       A   l   l       b   a   l   a   n   c   e       t   r   a   n   s   f   e   r   s       a   r   e       s   u   b   j   e   c   t       t   o       t   h   e       s   t   a   n   d   a   r   d       p   u   r   c   h   a   s   e       A   P   R       u   n   l   e   s   s       a   n       i   n   t   r   o   d   u   c   t   o   r   y       a   n   d   /   o   r       o   t   h   e   r       p   r   o   m   o   t   i   o   n   a   l       r   a   t   e       a   p   p   l   i   e   s   .   
+                                                                   /   l   i   >   
+                                                                   l   i   >   
+                                                                                   I   f       w   e       g   i   v   e       y   o   u       t   h   e       o   p   t   i   o   n       t   o       t   r   a   n   s   f   e   r       a       b   a   l   a   n   c   e       w   i   t   h       y   o   u   r       a   p   p   l   i   c   a   t   i   o   n   ,       i   t       w   i   l   l       t   a   k   e       a   t       l   e   a   s   t       1   4       d   a   y   s       a   f   t   e   r       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       i   s       o   p   e   n   e   d       t   o       p   r   o   c   e   s   s       a   n   y       b   a   l   a   n   c   e       t   r   a   n   s   f   e   r       p   a   y   m   e   n   t   s   .       D   u   r   i   n   g       t   h   i   s       t   i   m   e   ,       y   o   u       m   a   y       c   a   n   c   e   l       o   r       m   o   d   i   f   y       y   o   u   r       b   a   l   a   n   c   e       t   r   a   n   s   f   e   r       r   e   q   u   e   s   t       b   y       c   a   l   l   i   n   g       t   h   e       n   u   m   b   e   r       o   n       t   h   e       b   a   c   k       o   f       y   o   u   r       c   a   r   d   .   
+                                                                   /   l   i   >   
+                                                                   l   i   >   
+                                                                                   Y   o   u       m   a   y       t   r   a   n   s   f   e   r       a   n   y       a   m   o   u   n   t   ,       b   u   t       t   h   e       t   o   t   a   l       a   m   o   u   n   t       o   f       y   o   u   r       b   a   l   a   n   c   e       t   r   a   n   s   f   e   r       p   l   u   s       b   a   l   a   n   c   e       t   r   a   n   s   f   e   r       f   e   e   s       m   u   s   t       b   e       l   e   s   s       t   h   a   n       y   o   u   r       a   v   a   i   l   a   b   l   e       c   r   e   d   i   t       l   i   m   i   t   .       B   e       s   u   r   e       y   o   u       d   o   n   '   t       t   r   a   n   s   f   e   r       a   n   y       d   i   s   p   u   t   e   d       p   u   r   c   h   a   s   e       o   r       o   t   h   e   r       c   h   a   r   g   e       a   m   o   u   n   t       b   e   c   a   u   s   e       y   o   u       m   a   y       l   o   s   e       y   o   u   r       d   i   s   p   u   t   e       r   i   g   h   t   s   .       Y   o   u       c   a   n   n   o   t       t   r   a   n   s   f   e   r       b   a   l   a   n   c   e   s       f   r   o   m       o   t   h   e   r       a   c   c   o   u   n   t   s       i   s   s   u   e   d       b   y       C   i   t   i       o   r       i   t   s       a   f   f   i   l   i   a   t   e   s   .       I   f       y   o   u       a   r   e       u   n   s   u   r   e       o   f       t   h   e       i   s   s   u   e   r       o   n       t   h   e       a   c   c   o   u   n   t   ,       p   l   e   a   s   e       v   i   s   i   t       a       h   r   e   f   =   "   h   t   t   p   s   :   /   /   w   w   w   .   c   i   t   i   .   c   o   m   /   a   f   f   i   l   i   a   t   e   s   p   r   o   d   u   c   t   s   "       t   a   r   g   e   t   =   "   _   b   l   a   n   k   "   >   w   w   w   .   c   i   t   i   .   c   o   m   /   a   f   f   i   l   i   a   t   e   s   p   r   o   d   u   c   t   s   /   a   >       f   o   r       a       l   i   s   t       o   f       C   i   t   i       p   r   o   d   u   c   t   s       a   n   d       a   f   f   i   l   i   a   t   e   s   .   /   l   i   >   
+   l   i   >   C   o   n   t   i   n   u   e       t   o       m   a   k   e       p   a   y   m   e   n   t   s       o   n       y   o   u   r       o   t   h   e   r       a   c   c   o   u   n   t   s       u   n   t   i   l       y   o   u       h   a   v   e       c   o   n   f   i   r   m   e   d       t   h   i   s       b   a   l   a   n   c   e       t   r   a   n   s   f   e   r       h   a   s       b   e   e   n       r   e   c   e   i   v   e   d   .       O   n   c   e       a   p   p   r   o   v   e   d   ,       w   e   '   l   l       p   a   y       t   h   e       a   m   o   u   n   t       o   f       t   h   e       b   a   l   a   n   c   e       t   r   a   n   s   f   e   r       d   i   r   e   c   t   l   y       t   o       t   h   a   t       i   s   s   u   e   r   .       T   h   e       a   v   a   i   l   a   b   l   e       c   r   e   d   i   t       l   i   m   i   t       f   o   r       y   o   u   r       n   e   w       c   a   r   d       w   i   l   l       b   e       r   e   d   u   c   e   d       b   y       t   h   e       t   o   t   a   l       a   m   o   u   n   t       o   f       t   h   e       t   r   a   n   s   f   e   r   s   ,       i   n   c   l   u   d   i   n   g       f   e   e   s       w   e       a   p   p   r   o   v   e   .   /   l   i   >   
+                                                   /   u   l   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   T   h   i   n   g   s       Y   o   u       S   h   o   u   l   d       K   n   o   w       A   b   o   u   t       Y   o   u   r       B   a   l   a   n   c   e       T   r   a   n   s   f   e   r       O   f   f   e   r   :   /   s   p   a   n   >   /   p   >   
+   
+               p   >   I   f       y   o   u       t   r   a   n   s   f   e   r       a       b   a   l   a   n   c   e       w   i   t   h       t   h   i   s       o   f   f   e   r   ,       i   n   t   e   r   e   s   t       w   i   l   l       b   e       c   h   a   r   g   e   d       o   n       p   u   r   c   h   a   s   e   s       m   a   d   e       w   i   t   h       y   o   u   r       c   r   e   d   i   t       c   a   r   d       u   n   l   e   s   s       y   o   u   r       p   u   r   c   h   a   s   e   s       h   a   v   e       a       0   %       A   P   R       o   r       y   o   u       p   a   y       t   h   e       N   e   w       B   a   l   a   n   c   e       s   h   o   w   n       o   n       y   o   u   r       s   t   a   t   e   m   e   n   t       (   i   n   c   l   u   d   i   n   g       t   h   e       a   m   o   u   n   t       o   f       y   o   u   r       b   a   l   a   n   c   e       t   r   a   n   s   f   e   r   )       i   n       f   u   l   l       b   y       t   h   e       p   a   y   m   e   n   t       d   u   e       d   a   t   e       e   a   c   h       b   i   l   l   i   n   g       p   e   r   i   o   d   .   /   p   >   
+   p   >   I   f       y   o   u       d   e   f   a   u   l   t       u   n   d   e   r       y   o   u   r       C   a   r   d       A   g   r   e   e   m   e   n   t       y   o   u       m   a   y       l   o   s   e       a   n   y       p   r   o   m   o   t   i   o   n   a   l       A   P   R       o   n       t   h   e       b   a   l   a   n   c   e       t   r   a   n   s   f   e   r   .   /   p   >   
+   
+   /   d   i   v   >   d   i   v       c   l   a   s   s   =   "   t   e   r   m   s   S   e   c   t   i   o   n       t   e   r   m   s   C   o   s   t   c   o       t   e   r   m   s   C   o   s   t   c   o   C   a   s   h   S   e   c   t   i   o   n   "   >   
+                                                   h   2   >   C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       P   r   o   g   r   a   m       T   e   r   m   s   /   h   2   >   
+   
+                                                   p   >       
+                                                                   Y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       w   i   l   l       e   a   r   n       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       b   a   s   e   d       o   n       y   o   u   r       p   u   r   c   h   a   s   e   s       t   h   a   t       c   a   n       b   e       r   e   d   e   e   m   e   d       f   o   r       m   e   r   c   h   a   n   d   i   s   e       o   r       c   a   s   h       b   a   c   k       a   t       a   n   y       U   .   S   .       C   o   s   t   c   o       w   a   r   e   h   o   u   s   e   ,       i   n   c   l   u   d   i   n   g       P   u   e   r   t   o       R   i   c   o       (   "   C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   "   )   .       
+                                                   /   p   >                   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   E   a   r   n   i   n   g       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       o   n       P   u   r   c   h   a   s   e   s   :   /   s   p   a   n   >       Y   o   u   '   l   l       e   a   r   n       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       f   o   r       p   u   r   c   h   a   s   e   s       u   s   i   n   g       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t   ,       m   i   n   u   s       r   e   t   u   r   n   s       a   n   d       r   e   f   u   n   d   s   ,       a   s       f   o   l   l   o   w   s   :   /   p   >   
+   
+   
+                                                   u   l   >   
+                                                                   l   i   >   4   %       c   a   s   h       b   a   c   k       o   n       e   l   i   g   i   b   l   e       g   a   s       w   o   r   l   d   w   i   d   e   ,       i   n   c   l   u   d   i   n   g       g   a   s       a   t           C   o   s   t   c   o   ,       f   o   r       t   h   e       f   i   r   s   t       $   7   ,   0   0   0       p   e   r       y   e   a   r       i   n       g   a   s       p   u   r   c   h   a   s   e   s       a   n   d       t   h   e   n       1   %       t   h   e   r   e   a   f   t   e   r   .   
+                                                                                   u   l       c   l   a   s   s   =   "   o   d   d   D   o   t   L   i   s   t   "   >   
+                                                                                                   l   i   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   C   e   r   t   a   i   n       N   o   n   -   Q   u   a   l   i   f   y   i   n   g       P   u   r   c   h   a   s   e   s   .   /   s   p   a   n   >       Y   o   u       w   i   l   l       o   n   l   y       e   a   r   n       1   %       c   a   s   h       b   a   c   k   ,       n   o   t       4   %   ,       f   o   r       g   a   s       p   u   r   c   h   a   s   e   d       a   t       s   u   p   e   r   s   t   o   r   e   s   ,       s   u   p   e   r   m   a   r   k   e   t   s   ,       c   o   n   v   e   n   i   e   n   c   e       s   t   o   r   e   s       a   n   d       w   a   r   e   h   o   u   s   e       c   l   u   b   s       o   t   h   e   r       t   h   a   n       C   o   s   t   c   o       o   r       f   o   r       f   u   e   l       u   s   e   d       f   o   r       n   o   n   -   a   u   t   o   m   o   b   i   l   e       p   u   r   p   o   s   e   s   .   /   l   i   >   
+                                                                                   /   u   l   >   
+                                                                   /   l   i   >   
+                                                                   l   i   >   
+                                                                                   3   %       c   a   s   h       b   a   c   k       o   n       r   e   s   t   a   u   r   a   n   t       (   i   n   c   l   u   d   i   n   g       c   a   f   e   s   ,       b   a   r   s   ,       l   o   u   n   g   e   s           a   n   d       f   a   s   t       f   o   o   d       r   e   s   t   a   u   r   a   n   t   s   )       a   n   d       e   l   i   g   i   b   l   e       t   r   a   v   e   l       p   u   r   c   h   a   s   e   s       w   o   r   l   d   w   i   d   e   ,       i   n   c   l   u   d   i   n   g       a   i   r   f   a   r   e   ,       h   o   t   e   l   s   ,       c   a   r       r   e   n   t   a   l   s   ,       t   r   a   v   e   l           a   g   e   n   c   i   e   s   ,       c   r   u   i   s   e       l   i   n   e   s       a   n   d       C   o   s   t   c   o       T   r   a   v   e   l   .   
+                                                                                   u   l       c   l   a   s   s   =   "   o   d   d   D   o   t   L   i   s   t   "   >   
+                                                                                                   l   i   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   C   e   r   t   a   i   n       N   o   n   -   Q   u   a   l   i   f   y   i   n   g       P   u   r   c   h   a   s   e   s   .   /   s   p   a   n   >       Y   o   u       w   i   l   l       o   n   l   y       e   a   r   n       1   %   ,       n   o   t       3   %   ,       f   o   r       p   u   r   c   h   a   s   e   s       m   a   d   e       a   t       b   a   k   e   r   i   e   s       a   n   d       c   e   r   t   a   i   n       r   e   s   t   a   u   r   a   n   t   s   /   c   a   f   e   s       i   n   s   i   d   e       d   e   p   a   r   t   m   e   n   t       s   t   o   r   e   s   ,       g   r   o   c   e   r   y       o   r       w   a   r   e   h   o   u   s   e       c   l   u   b   s   .   /   l   i   >   
+                                                                                   /   u   l   >   
+                                                                   /   l   i   >   
+                                                                   l   i   >   
+                                                                                   2   %       c   a   s   h       b   a   c   k       o   n       a   l   l       o   t   h   e   r       p   u   r   c   h   a   s   e   s       f   r   o   m       C   o   s   t   c   o       a   n   d       a       h   r   e   f   =   "   #   "       c   l   a   s   s   =   "   d   d   L   i   n   k   "       o   n   c   l   i   c   k   =   "   w   i   n   d   o   w   .   o   p   e   n   (   '   /   c   a   r   d   s   /   c   r   e   d   i   t   /   a   p   p   l   i   c   a   t   i   o   n   /   V   i   e   w   .   a   c   t   i   o   n   ?   d   o   c   I   d   =   L   e   a   v   i   n   g   S   i   t   e   S   p   e   e   d   B   u   m   p   &a   m   p   ;   l   a   n   g   I   d   =   E   N   &a   m   p   ;   s   p   e   e   d   b   u   m   p   =   Y   &a   m   p   ;   S   I   =   4   '   ,   '   p   o   p   u   p   '   ,   '   w   i   d   t   h   =   6   5   0   ,   h   e   i   g   h   t   =   4   0   0   ,   r   e   s   i   z   a   b   l   e   ,   s   c   r   o   l   l   b   a   r   s   '   )   "   >   C   o   s   t   c   o   .   c   o   m   /   a   >   .   
+                                                                   /   l   i   >   
+                                                                   l   i   >   
+                                                                                   1   %       c   a   s   h       b   a   c   k       o   n       a   l   l       o   t   h   e   r       p   u   r   c   h   a   s   e   s   ,       i   n   c   l   u   d   i   n   g       t   h   e       n   o   n   -   q   u   a   l   i   f   y   i   n   g       p   u   r   c   h   a   s   e   s       l   i   s   t   e   d       a   b   o   v   e   .   
+                                                                   /   l   i   >   
+                                                   /   u   l   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   M   e   r   c   h   a   n   t       C   l   a   s   s   i   f   i   c   a   t   i   o   n   :   /   s   p   a   n   >       E   a   c   h       m   e   r   c   h   a   n   t       -       t   h   a   t       i   s       a       r   e   t   a   i   l   e   r   ,       b   u   s   i   n   e   s   s       o   r       a   n   y       o   t   h   e   r       p   l   a   c   e       w   h   e   r   e       y   o   u       c   a   n       m   a   k   e       a       p   u   r   c   h   a   s   e       -       i   s       a   s   s   i   g   n   e   d       a       c   o   d   e       t   h   a   t       i   n   d   i   c   a   t   e   s       t   h   e       m   e   r   c   h   a   n   t   '   s       a   r   e   a       o   f       b   u   s   i   n   e   s   s   .       F   o   r       e   x   a   m   p   l   e   ,       r   e   s   t   a   u   r   a   n   t   s       a   r   e       g   e   n   e   r   a   l   l   y       a   s   s   i   g   n   e   d       a       s   p   e   c   i   f   i   c       m   e   r   c   h   a   n   t       c   o   d   e   .       W   e       d   o   n   '   t       a   s   s   i   g   n       o   r       h   a   v   e       a   n   y       c   o   n   t   r   o   l       o   v   e   r       m   e   r   c   h   a   n   t       c   o   d   e   s   .       C   o   d   e   s       a   r   e       c   h   o   s   e   n       a   n   d       a   s   s   i   g   n   e   d       b   y       a       t   h   i   r   d       p   a   r   t   y   ,       w   h   o       m   a   y       c   h   a   n   g   e       t   h   e       c   o   d   e   s       f   r   o   m       t   i   m   e       t   o       t   i   m   e   .       W   h   e   n       y   o   u       m   a   k   e       a       p   u   r   c   h   a   s   e       a   t       a       m   e   r   c   h   a   n   t   ,       w   e   '   r   e       p   r   o   v   i   d   e   d       t   h   e       c   o   d   e       f   o   r       t   h   a   t       m   e   r   c   h   a   n   t   .       I   f       t   h   e       c   o   d   e       m   a   t   c   h   e   s       a       c   a   t   e   g   o   r   y       t   h   a   t       g   i   v   e   s       y   o   u       a   d   d   i   t   i   o   n   a   l       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       -       f   o   r       e   x   a   m   p   l   e   ,       i   f       t   h   e       m   e   r   c   h   a   n   t       c   o   d   e       t   e   l   l   s       u   s       t   h   a   t       y   o   u       m   a   d   e       a       p   u   r   c   h   a   s   e       a   t       a       r   e   s   t   a   u   r   a   n   t       -       w   e   '   l   l       g   i   v   e       y   o   u       t   h   e       a   d   d   i   t   i   o   n   a   l       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       f   o   r       t   h   a   t       p   u   r   c   h   a   s   e   .       B   e   c   a   u   s   e       w   e       d   o   n   '   t       c   o   n   t   r   o   l       w   h   a   t       c   o   d   e       a       m   e   r   c   h   a   n   t       i   s       a   s   s   i   g   n   e   d   ,       s   o   m   e   t   i   m   e   s       a       p   u   r   c   h   a   s   e       t   h   a   t       y   o   u       t   h   i   n   k       f   i   t   s       a       c   e   r   t   a   i   n       c   a   t   e   g   o   r   y       m   a   y       n   o   t       e   a   r   n       a   d   d   i   t   i   o   n   a   l       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   .       F   o   r       e   x   a   m   p   l   e   ,       a       r   e   s   t   a   u   r   a   n   t       l   o   c   a   t   e   d       w   i   t   h   i   n       a       l   a   r   g   e       r   e   t   a   i   l       o   u   t   l   e   t       m   a   y       n   o   t       b   e       a   s   s   i   g   n   e   d       a       "   r   e   s   t   a   u   r   a   n   t   "       c   o   d   e   ,       b   u   t       r   a   t   h   e   r       a       "   r   e   t   a   i   l   e   r   "       c   o   d   e   .       T   h   i   s       m   e   a   n   s       t   h   a   t       e   v   e   n       t   h   o   u   g   h       y   o   u       r   e   c   e   i   v   e       a   d   d   i   t   i   o   n   a   l       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       f   o   r       p   u   r   c   h   a   s   e   s       a   t       "   r   e   s   t   a   u   r   a   n   t   s   ,   "       y   o   u       w   o   n   '   t       e   a   r   n       a   d   d   i   t   i   o   n   a   l       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       f   o   r       p   u   r   c   h   a   s   e   s       a   t       t   h   a   t       r   e   s   t   a   u   r   a   n   t   .   /   p   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   W   h   a   t       d   o   e   s   n   '   t       q   u   a   l   i   f   y       a   s       a       p   u   r   c   h   a   s   e   ?   :   /   s   p   a   n   >       T   h   e       f   o   l   l   o   w   i   n   g       t   y   p   e   s       o   f       t   r   a   n   s   a   c   t   i   o   n   s       d   o   n   '   t       q   u   a   l   i   f   y       a   s       p   u   r   c   h   a   s   e   s       t   h   a   t       e   a   r   n       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   :   /   p   >   
+   
+                                                   u   l       t   y   p   e   =   "   c   i   r   c   l   e   "   >   
+                                                                   l   i   >   U   s   e       o   f       c   h   e   c   k   s       t   h   a   t       a   c   c   e   s   s       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t   /   l   i   >   
+                                                                   l   i   >   B   a   l   a   n   c   e       t   r   a   n   s   f   e   r   s   /   l   i   >   
+                                                                   l   i   >   C   a   s   h       a   d   v   a   n   c   e   s   /   l   i   >   
+                                                                   l   i   >   
+                                                                                   T   r   a   v   e   l   e   r   s       c   h   e   c   k   s   ,       f   o   r   e   i   g   n       c   u   r   r   e   n   c   y       p   u   r   c   h   a   s   e   s   ,       m   o   n   e   y       o   r   d   e   r   s   ,       w   i   r   e       t   r   a   n   s   f   e   r   s       a   n   d       s   i   m   i   l   a   r       c   a   s   h   -   l   i   k   e       t   r   a   n   s   a   c   t   i   o   n   s   
+                                                                   /   l   i   >   
+                                                                   l   i   >   L   o   t   t   e   r   y       t   i   c   k   e   t   s   ,       g   a   m   i   n   g       c   h   i   p   s       a   n   d       s   i   m   i   l   a   r       b   e   t   t   i   n   g       t   r   a   n   s   a   c   t   i   o   n   s   /   l   i   >   
+                                                                   l   i   >   I   n   t   e   r   e   s   t       a   n   d       a   c   c   o   u   n   t       f   e   e   s   /   l   i   >   
+                                                                   l   i   >   U   n   a   u   t   h   o   r   i   z   e   d       c   h   a   r   g   e   s   /   l   i   >   
+                                                                   l   i   >   I   t   e   m   s       r   e   t   u   r   n   e   d       f   o   r       c   r   e   d   i   t   /   l   i   >   
+                                                   /   u   l   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   R   e   t   u   r   n   s   :   /   s   p   a   n   >       R   e   t   u   r   n   e   d       i   t   e   m   s       m   a   y       r   e   s   u   l   t       i   n       c   r   e   d   i   t   s       b   e   i   n   g       a   p   p   l   i   e   d       t   o       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       w   h   i   c   h       w   i   l   l       r   e   d   u   c   e       o   r       m   a   y       e   l   i   m   i   n   a   t   e       a   c   c   u   m   u   l   a   t   e   d       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       a   n   d       m   a   y       r   e   s   u   l   t       i   n       a       n   e   g   a   t   i   v   e       c   a   s   h       r   e   w   a   r   d   s       b   a   l   a   n   c   e   .       I   f       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       h   a   s       a       n   e   g   a   t   i   v   e       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       b   a   l   a   n   c   e   ,       a   n   y       n   e   w   l   y       e   a   r   n   e   d       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       w   i   l   l       b   e       u   s   e   d       t   o       o   f   f   s   e   t       s   u   c   h       n   e   g   a   t   i   v   e       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       b   a   l   a   n   c   e       u   n   t   i   l       s   u   c   h       b   a   l   a   n   c   e       h   a   s       b   e   e   n       b   r   o   u   g   h   t       t   o       z   e   r   o   .   /   p   >   
+   
+                                                   p   >   Y   o   u       m   u   s   t       m   a   i   n   t   a   i   n       y   o   u   r       C   o   s   t   c   o       M   e   m   b   e   r   s   h   i   p       t   o       r   e   c   e   i   v   e       a   n   d       r   e   d   e   e   m       y   o   u   r       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   .   /   p   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   R   e   d   e   e   m   i   n   g       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   :   /   s   p   a   n   >       Y   o   u   r       r   e   w   a   r   d       i   s       d   i   s   t   r   i   b   u   t   e   d       a   n   n   u   a   l   l   y   ,       i   n       t   h   e       f   o   r   m       o   f       a       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e   ,       o   n   c   e       y   o   u   r       F   e   b   r   u   a   r   y       b   i   l   l   i   n   g       s   t   a   t   e   m   e   n   t       c   l   o   s   e   s   ,       a   n   d       i   s       r   e   d   e   e   m   a   b   l   e       t   h   r   o   u   g   h       D   e   c   e   m   b   e   r       3   1       o   f       t   h   e       y   e   a   r       i   s   s   u   e   d       i   n       a       s   i   n   g   l   e       t   r   a   n   s   a   c   t   i   o   n       a   t       a   n   y       U   .   S   .       C   o   s   t   c   o       w   a   r   e   h   o   u   s   e   ,       i   n   c   l   u   d   i   n   g       i   n       P   u   e   r   t   o       R   i   c   o   ,       f   o   r       m   e   r   c   h   a   n   d   i   s   e       o   r       c   a   s   h       b   a   c   k   .       T   h   e       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e       w   i   l   l       c   o   n   t   a   i   n       y   o   u   r       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       b   a   l   a   n   c   e       b   a   s   e   d       o   n       y   o   u   r       e   l   i   g   i   b   l   e       p   u   r   c   h   a   s   e   s       d   u   r   i   n   g       t   h   e       a   n   n   u   a   l       r   e   w   a   r   d       p   e   r   i   o   d   .       T   h   e       a   n   n   u   a   l       r   e   w   a   r   d       p   e   r   i   o   d       i   s       b   a   s   e   d       o   n       J   a   n   u   a   r   y       t   h   r   o   u   g   h       D   e   c   e   m   b   e   r       b   i   l   l   i   n   g       s   t   a   t   e   m   e   n   t   s   .       S   h   o   u   l   d       y   o   u       c   h   o   o   s   e       t   o       r   e   d   e   e   m       o   n   l   y       a       p   o   r   t   i   o   n       o   f       t   h   e       c   e   r   t   i   f   i   c   a   t   e       f   o   r       m   e   r   c   h   a   n   d   i   s   e   ,       y   o   u       w   i   l   l       r   e   c   e   i   v   e       t   h   e       r   e   m   a   i   n   i   n   g       b   a   l   a   n   c   e       i   n       c   a   s   h       a   t       t   h   e       C   o   s   t   c   o       w   a   r   e   h   o   u   s   e       r   e   g   i   s   t   e   r       u   p   o   n       c   h   e   c   k   o   u   t   .       S   o   m   e       w   a   r   e   h   o   u   s   e   s       m   a   y       n   o   t       p   e   r   m   i   t       t   h   e       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e       t   o       b   e       r   e   d   e   e   m   e   d       f   o   r       a   l   c   o   h   o   l       p   u   r   c   h   a   s   e   s   .       R   e   q   u   e   s   t   s       f   o   r       c   a   s   h       m   a   y       b   e       f   u   l   f   i   l   l   e   d       i   n       t   h   e       f   o   r   m       o   f       a       c   h   e   c   k       a   t           C   o   s   t   c   o   '   s           d   i   s   c   r   e   t   i   o   n   .       Y   o   u   r       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e       m   u   s   t       b   e       r   e   d   e   e   m   e   d       i   n       p   e   r   s   o   n       o   n       o   r       p   r   i   o   r       t   o       i   t   s       e   x   p   i   r   a   t   i   o   n       d   a   t   e       o   f       D   e   c   e   m   b   e   r       3   1       i   n       t   h   e       y   e   a   r       i   n       w   h   i   c   h       i   t       i   s       i   s   s   u   e   d   .       A   n   y       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       y   o   u       h   a   v   e       e   a   r   n   e   d       o   n       p   u   r   c   h   a   s   e   s       m   a   d   e       b   y       a   u   t   h   o   r   i   z   e   d       u   s   e   r   s       o   n       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       w   i   l   l       b   e       a   d   d   e   d       t   o       y   o   u   r       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       t   o   t   a   l   .       O   n   l   y       y   o   u   ,       t   h   e       p   r   i   m   a   r   y       c   a   r   d   m   e   m   b   e   r   ,       a   r   e       e   l   i   g   i   b   l   e       t   o       r   e   c   e   i   v   e       t   h   e       a   n   n   u   a   l       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e   ;       h   o   w   e   v   e   r   ,       y   o   u       o   r       a   n   y   o   n   e       y   o   u       a   u   t   h   o   r   i   z   e       m   a   y       r   e   d   e   e   m       t   h   e       c   e   r   t   i   f   i   c   a   t   e   .       s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   Y   o   u       w   i   l   l       n   o   t       r   e   c   e   i   v   e       a       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e       i   f       y   o   u   r       r   e   w   a   r   d       i   s       l   e   s   s       t   h   a   n       $   1       o   r       y   o   u   r       a   c   c   o   u   n   t       i   s       c   l   o   s   e   d       a   t       t   h   e       t   i   m   e       y   o   u   r       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e       i   s       s   c   h   e   d   u   l   e   d       t   o       b   e       s   e   n   t   ;       a   n   y       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       t   h   a   t       h   a   d       b   e   e   n       a   c   c   r   u   e   d       a   t       t   h   a   t       t   i   m   e       w   i   l   l       b   e       f   o   r   f   e   i   t   e   d   .       Y   o   u       m   u   s   t       m   a   i   n   t   a   i   n       y   o   u   r       C   o   s   t   c   o       M   e   m   b   e   r   s   h   i   p       t   o       r   e   d   e   e   m       y   o   u   r       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e   .   /   s   p   a   n   >   /   p   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   A   c   c   o   u   n   t       C   l   o   s   u   r   e   :   /   s   p   a   n   >       I   f       w   e       c   l   o   s   e       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t   ,       y   o   u       w   i   l   l       n   o       l   o   n   g   e   r       b   e       a   b   l   e       t   o       e   a   r   n       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   ,       a   n   d       y   o   u       w   i   l   l       f   o   r   f   e   i   t       a   n   y       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       a   c   c   u   m   u   l   a   t   e   d   ,       b   u   t       n   o   t       y   e   t       d   i   s   t   r   i   b   u   t   e   d   .       I   f       y   o   u       c   l   o   s   e       o   r       c   o   n   v   e   r   t       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       p   r   i   o   r       t   o       r   e   c   e   i   v   i   n   g       t   h   e       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e       i   n       y   o   u   r       F   e   b   r   u   a   r   y       b   i   l   l   i   n   g       s   t   a   t   e   m   e   n   t   ,       a   n   y       e   a   r   n   e   d       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       w   i   l   l       b   e       f   o   r   f   e   i   t   e   d   .   /   p   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   F   o   r   f   e   i   t   u   r   e   :   /   s   p   a   n   >       A   l   l       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       n   o   t       d   i   s   b   u   r   s   e   d       v   i   a       a   n       a   n   n   u   a   l       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e       d   u   e       t   o       t   h   e       r   e   w   a   r   d       a   m   o   u   n   t       b   e   i   n   g       l   e   s   s       t   h   a   n       $   1   ,       t   h   e       a   c   c   o   u   n   t       s   t   a   t   u   s       (   i   n   c   l   u   d   i   n   g       a   c   c   o   u   n   t       c   l   o   s   u   r   e   )   ,       o   r       o   t   h   e   r       r   e   a   s   o   n   s   ,       w   i   l   l       b   e       f   o   r   f   e   i   t   e   d   .       A   d   d   i   t   i   o   n   a   l   l   y   ,       a   n   y       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       n   o   t       r   e   d   e   e   m   e   d       b   y       D   e   c   e   m   b   e   r       3   1       o   f       t   h   e       y   e   a   r       o   f       i   s   s   u   a   n   c   e       o   f       t   h   e       c   r   e   d   i   t       c   a   r   d       r   e   w   a   r   d       c   e   r   t   i   f   i   c   a   t   e       w   i   l   l       b   e       f   o   r   f   e   i   t   e   d   .   /   p   >   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   V   a   l   u   e       o   f       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   :   /   s   p   a   n   >       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       h   a   v   e       n   o       c   a   s   h       v   a   l   u   e       u   n   t   i   l       s   u   c   h       t   i   m   e       a   s       t   h   e   y       a   r   e       r   e   d   e   e   m   e   d       a   t       a       C   o   s   t   c   o       w   a   r   e   h   o   u   s   e   .   /   p   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   P   r   o   p   e   r   t   y       R   i   g   h   t   s   :   /   s   p   a   n   >       Y   o   u       h   a   v   e       n   o       p   r   o   p   e   r   t   y       r   i   g   h   t   s       o   r       o   t   h   e   r       l   e   g   a   l       i   n   t   e   r   e   s   t   s       i   n       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   .       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       m   a   y       n   o   t       b   e       t   r   a   n   s   f   e   r   r   e   d       t   o       a   n   y       o   t   h   e   r       p   e   r   s   o   n       i   n   c   l   u   d   i   n   g       t   h   r   o   u   g   h       s   u   c   h       e   v   e   n   t   s       a   s       i   n   h   e   r   i   t   a   n   c   e   ,       b   a   n   k   r   u   p   t   c   y       o   r       d   i   v   o   r   c   e   .       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       c   a   n   n   o   t       b   e       a   s   s   i   g   n   e   d       o   r       p   l   e   d   g   e   d   .   /   p   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   C   h   a   n   g   e   s       t   o       P   r   o   g   r   a   m       R   u   l   e   s   :   /   s   p   a   n   >       W   e       m   a   y       m   a   k   e       c   h   a   n   g   e   s       t   o       t   h   e       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       P   r   o   g   r   a   m       a   t       a   n   y       t   i   m   e       w   i   t   h   o   u   t       n   o   t   i   c   e   .       W   e       w   i   l   l       g   i   v   e       y   o   u       3   0       d   a   y   s   '       w   r   i   t   t   e   n       n   o   t   i   c   e       i   f       w   e       m   a   k   e       a   n   y       o   f       t   h   e       f   o   l   l   o   w   i   n   g       c   h   a   n   g   e   s   :       a       c   h   a   n   g   e       t   h   a   t       n   e   g   a   t   i   v   e   l   y       a   f   f   e   c   t   s       t   h   e       n   u   m   b   e   r       o   f       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       y   o   u       c   a   n       e   a   r   n   ,       a       c   h   a   n   g   e       t   h   a   t       n   e   g   a   t   i   v   e   l   y       a   f   f   e   c   t   s       h   o   w   /   w   h   e   n       y   o   u       m   a   y       l   o   s   e       y   o   u   r       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   ,       a       c   h   a   n   g   e       t   h   a   t       n   e   g   a   t   i   v   e   l   y       a   f   f   e   c   t   s       h   o   w       y   o   u       c   a   n       e   x   e   r   c   i   s   e       y   o   u   r       r   i   g   h   t   s       w   i   t   h       r   e   s   p   e   c   t       t   o       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   ,       o   r       i   f       w   e       c   a   n   c   e   l       t   h   e       p   r   o   g   r   a   m   .   /   p   >   
+   
+                                                   p   >   s   p   a   n       c   l   a   s   s   =   "   f   o   n   t   -   b   o   l   d   "   >   F   r   a   u   d   :   /   s   p   a   n   >       I   f       w   e       s   e   e       e   v   i   d   e   n   c   e       o   f       f   r   a   u   d   ,       m   i   s   u   s   e   ,       a   b   u   s   e   ,       o   r       s   u   s   p   i   c   i   o   u   s       a   c   t   i   v   i   t   y   ,       w   e       w   i   l   l       i   n   v   e   s   t   i   g   a   t   e       a   n   d   ,       i   f       w   e       d   e   t   e   r   m   i   n   e       t   h   a   t       f   r   a   u   d   ,       m   i   s   u   s   e       o   r       a   b   u   s   e       h   a   s       o   c   c   u   r   r   e   d   ,       w   e       m   a   y       t   a   k   e       a   c   t   i   o   n   s       a   g   a   i   n   s   t       y   o   u   .       T   h   e   s   e       a   c   t   i   o   n   s       m   a   y       i   n   c   l   u   d   e   ,       w   i   t   h   o   u   t       l   i   m   i   t   a   t   i   o   n   :   /   p   >   
+   
+                                                   u   l       t   y   p   e   =   "   c   i   r   c   l   e   "   >   
+                                                                   l   i   >   T   a   k   i   n   g       a   w   a   y       t   h   e       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       y   o   u       e   a   r   n   e   d       b   e   c   a   u   s   e       o   f       f   r   a   u   d   ,       m   i   s   u   s   e       o   r       a   b   u   s   e   /   l   i   >   
+                                                                   l   i   >   P   r   e   v   e   n   t   i   n   g       y   o   u       f   r   o   m       e   a   r   n   i   n   g       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s   /   l   i   >   
+                                                                   l   i   >   S   u   s   p   e   n   d   i   n   g       o   r       c   l   o   s   i   n   g       y   o   u   r       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       A   c   c   o   u   n   t   /   l   i   >   
+                                                                   l   i   >   T   a   k   i   n   g       l   e   g   a   l       a   c   t   i   o   n       t   o       r   e   c   o   v   e   r       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       r   e   d   e   e   m   e   d       b   e   c   a   u   s   e       o   f       s   u   c   h       a   c   t   i   v   i   t   y       a   n   d       t   o       r   e   c   o   v   e   r       o   u   r       m   o   n   e   t   a   r   y       l   o   s   s   e   s   ,       i   n   c   l   u   d   i   n   g       l   i   t   i   g   a   t   i   o   n       c   o   s   t   s       a   n   d       d   a   m   a   g   e   s   /   l   i   >   
+                                                   /   u   l   >   
+   
+                                                   p   >   S   o   m   e       e   x   a   m   p   l   e   s       o   f       f   r   a   u   d   ,       m   i   s   u   s   e   ,       a   b   u   s   e       a   n   d       s   u   s   p   i   c   i   o   u   s       a   c   t   i   v   i   t   y       i   n   c   l   u   d   e   :   /   p   >   
+   
+                                                   u   l       t   y   p   e   =   "   c   i   r   c   l   e   "   >   
+                                                                   
+                                                                   l   i   >   U   s   i   n   g       y   o   u   r       C   a   r   d       A   c   c   o   u   n   t       i   n       a   n       a   b   u   s   i   v   e       m   a   n   n   e   r       f   o   r       t   h   e       p   r   i   m   a   r   y       p   u   r   p   o   s   e       o   f       a   c   q   u   i   r   i   n   g       C   o   s   t   c   o       C   a   s   h       R   e   w   a   r   d   s       /   l   i   >   
+                                                                   l   i   >   U   s   i   n   g       y   o   u   r       C   o   n   s   u   m   e   r       C   a   r   d       A   c   c   o   u   n   t       o   t   h   e   r       t   h   a   n       p   r   i   m   a   r   i   l   y       f   o   r       p   e   r   s   o   n   a   l   ,       c   o   n   s   u   m   e   r       o   r       h   o   u   s   e   h   o   l   d       p   u   r   p   o   s   e   s   /   l   i   >       
+                                                                                   
+                                                   /   u   l   >   
+   
+   /   d   i   v   >                                       
+                                                   
+                                                   /   d   i   v   >   
+                                   /   d   i   v   >   
+                   /   d   i   v   >   
+   
+   	   
+   	   
+   
+   
+   
+   t   a   b   l   e       w   i   d   t   h   =   "   1   0   0   %   "       b   o   r   d   e   r   =   "   0   "       c   e   l   l   s   p   a   c   i   n   g   =   "   0   "       c   e   l   l   p   a   d   d   i   n   g   =   "   3   "   >   
+   	   t   b   o   d   y   >   t   r   >   t   d   >   
+   	   d   i   v       a   l   i   g   n   =   "   r   i   g   h   t   "   >   
+   	   a       h   r   e   f   =   "   j   a   v   a   s   c   r   i   p   t   :   s   e   l   f   .   c   l   o   s   e   (   )   "   >   C   l   o   s   e   /   a   >                                           
+   	   /   d   i   v   >   
+   	   /   t   d   >   /   t   r   >   
+   	   /   t   b   o   d   y   >   /   t   a   b   l   e   >   
+   	   
+   	   
+   	   s   c   r   i   p   t       t   y   p   e   =   "   t   e   x   t   /   j   a   v   a   s   c   r   i   p   t   "       s   r   c   =   "   /   c   a   r   d   s   /   w   v   /   J   R   S   /   A   C   Q   /   j   s   /   t   e   r   m   s   .   j   s   "   >   /   s   c   r   i   p   t   >   
+   	   
+   	   
+   	   
+   	   
+   	   
+   	   
+   	   
+   	   
+   	   
+   	   
+   	           
+   
+   
+   
+       
+       
+       /   b   o   d   y   >   
