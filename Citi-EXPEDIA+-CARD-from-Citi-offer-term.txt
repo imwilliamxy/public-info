@@ -12,6 +12,7 @@ UDAP T&C
 
 
 
+
        
               
                      
@@ -21,6 +22,7 @@ UDAP T&C
                                                  CITI DISCLOSURES
                                    
                                    
+
                             
                             
                                    
@@ -28,6 +30,7 @@ UDAP T&C
                                                  Interest Rates and Interest Charges
                                    
                                    
+
                             
                             
                                    
@@ -37,6 +40,7 @@ UDAP T&C
                                                  Annual Percentage Rate (APR) for Purchases
                                                  
                         
+
                                           
                                                  
                                                                                                 
@@ -50,8 +54,10 @@ UDAP T&C
                                                         
                                                         
                                                         These APRs will vary with the market based on the Prime Rate.a
+
                                                  
-                                                                        
+                                          
+                              
                                    
                                    
                                    
@@ -61,6 +67,7 @@ UDAP T&C
                                                  APR for Balance Transfers
                                           
                                           
+
                                           
                                           
                                                  16.49% to 24.49%, based on your creditworthiness, for transfers completed within 2 months from date of account opening.
@@ -71,8 +78,10 @@ UDAP T&C
                                                  
                                                  
                                                  These APRs will vary with the market based on the Prime Rate.a
+
                                                  
-                                                                        
+                                          
+                              
                                    
                                    
                                    
@@ -82,14 +91,17 @@ UDAP T&C
                                                  APR for Cash Advances
                                           
                                           
+
                                           
                                           
                                                  26.74%
                                                  
                                                  
                                                  This APR will vary with the market based on the Prime Rate.b
+
                                                  
-                                                                        
+                                          
+                              
                                    
                                    
                                    
@@ -99,6 +111,7 @@ UDAP T&C
                                                  Penalty APR and When it Applies
                                           
                                           
+
                                           
                                           
                                                  Up to 29.99%, based on your creditworthiness.
@@ -106,16 +119,20 @@ UDAP T&C
                                                  
                                                  This APR will vary with the market based on the Prime Rate.c
                                                  
+
                                                  
                                                  This APR may be applied to your account if you:
                                                   
                                                  
                                                  (1) Make a late payment or (2) Make a payment that is returned.
-                                                  
+                                                 
+ 
                                                  
                                                  How Long Will the Penalty APR Apply? If your APRs are increased for either of these reasons, the Penalty APR may apply indefinitely.
                                                       
-                                                                        
+                                          
+
+                              
                                    
                                    
                                    
@@ -125,11 +142,14 @@ UDAP T&C
                                                  How to Avoid Paying Interest on Purchases 
                                           
                                           
+
                                           
                                           
                                                  Your due date is at least 23 days after the close of each billing cycle. We will not charge you any interest on purchases if you pay your entire balance by the due date each month.  
+
                                                  
-                                                                        
+                                          
+                              
                                    
                                    
                                    
@@ -139,11 +159,14 @@ UDAP T&C
                                                  Minimum Interest Charge
                                                  
                                           
+
                                           
                                                  
                                                  If you are charged interest, the charge will be no less than 50 cents.
+
                                                  
-                                                   
+                                          
+         
                                    
                                    
                                    
@@ -153,18 +176,22 @@ UDAP T&C
                                                  For Credit Card Tips from the Consumer Financial Protection Bureau
                                           
                                           
+
                                           
                                           
                             To learn more about factors to consider when applying for or using a credit card, visit the website of the Consumer Financial Protection Bureau at  
                                
                      
                     http://www.consumerfinance.gov/learnmore.
+
                             
-                                     
+                            
+         
                                    
                                    
                             
                      
+
               
        
        
@@ -173,6 +200,7 @@ UDAP T&C
                      
                             
                                    
+
                             
                             
                                    
@@ -180,6 +208,7 @@ UDAP T&C
                                                  Fees
                                           
                                    
+
                             
                             
                                    
@@ -189,11 +218,14 @@ UDAP T&C
                                                  Annual Fee 
                                                  
                                           
+
                                           
                                                  
                                                  None
+
                                                  
-                                                                        
+                                          
+                              
                                    
                                    
                                    
@@ -203,47 +235,61 @@ UDAP T&C
                                                  Transaction Fees 
                                                  
                                           
+
                                           
+
                                    
                                    
                                           •
+
                                           
                                                  
                                                  Balance Transfer
                                                  
                                           
+
                                           
                                                  
                                                  Either $5 or 3% of the amount of each transfer, whichever is greater.
                                                  
                                                  
+
                                           
+
                                    
                                    
                                           •
+
                                           
                                                  
                                                  Cash Advance
                                                  
                                           
+
                                           
                                           
                                                  Either $5 or 3% of the amount of each cash advance, whichever is greater.
+
                                                  
                                           
+
                                    
                                    
                                           •
+
                                           
                                                  
                                                  Foreign Purchase Transaction
                                                  
                                           
+
                                           
                                                  
                                                  3% of each purchase transaction in US dollars.
+
                                                                     
-                                                                        
+                                          
+                              
                                    
                                    
                                    
@@ -254,36 +300,47 @@ UDAP T&C
                                                  Penalty Fees 
                                                  
                                           
+
                                           
+
                                    
                                    
                                                  •
+
                                                  
                                                         
                                                         Late Payment
                                                  
+
                                                  
                                                         
                                                         Up to $35
+
                                           
                                           
+
                                    
                                    
                                           •
+
                                           
                                                  
                                                  Returned Payment
                                           
+
                                           
                                                  
-                                                 Up to $35 
+                                                 Up to $35
+ 
                                                                     
-                                                                        
+                                          
+                              
                                    
                                                                       
                                    
                             
                      
+
               
        
        
@@ -318,6 +375,7 @@ UDAP T&C
                		
 				
 				
+
 			
 			
 				
@@ -325,6 +383,7 @@ UDAP T&C
 					b We add 21.99% to the Prime Rate to determine the Cash Advances APR. 
 				
 				
+
 			
 			
 				
@@ -332,16 +391,19 @@ UDAP T&C
 					c We add up to 26.74% to the Prime Rate to determine the Penalty APR. 
 				
 				
+
 			
 			
 				
 				Variable rate APRs will not exceed 29.99%.
 				
+
 			
 		
 
 		
 		
+
 	
 
 
@@ -357,53 +419,30 @@ UDAP T&C
 			
 			
 		
-	
-
-
-
 
 	
-		 
 
-
-
-
- 
-  
-
- 
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
         
 	Expedia® + Card from Citi Terms & Conditions
+
 
         
             
 	This offer is valid for new accounts only. You must be at least 18 years of age. If you're married, you may apply for a separate account.
 Citibank, N.A., Sioux Falls, SD, ("Citi," "we" or "us") is the issuer of your account. Please allow 4 weeks from date of submission to process your Card Account application.
 	
+
 	
+
 
 
 	
 		By submitting this application, you request that Citi establish a Expedia® + Card from Citi account (the "Card Account") to you and any authorized users you have designated. You agree that all information provided in this application must be verifiable and accurate.
 The Card Account is governed by the terms of the card agreement ("Card Agreement") provided when the Card Account is issued.
 	
+
 	
+
 
             
                 
@@ -411,6 +450,8 @@ Identity Verification
             
                 IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT - To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. This means that we will ask for your name, address, date of birth, and other information that will allow us to identify you when you open an account. We may also ask to see your driver's license or other identifying documents; and obtain identification information about you or any authorized user you add to your account.
             
+
+
 
 
 	Credit Reports
@@ -425,16 +466,22 @@ Identity Verification
 
 
 
+
+
     Credit Information
-    To receive a Card Account, you must meet our applicable criteria bearing on creditworthiness. 
+    To receive a Card Account, you must meet our applicable criteria bearing on creditworthiness.
+ 
     Your revolving credit limit will be determined based on the following:
+
     
         Your annual salary and wages
         Any other annual income
         A review of your debt, including the debt listed on your credit report
     
     We'll inform you of your revolving credit limit when you receive your credit card. Some limits may be as low as $2000. Please note that cash advances may be limited to a portion of your revolving credit limit.
+
     
+
    
 Card Agreement
 
@@ -445,9 +492,13 @@ Card Agreement
                 We have the right to make changes to the terms of your Card Account (including rates and fees) in accordance with the Card Agreement.
             
 
+
+
 Information Sharing
 
    You authorize us to report to Expedia, Inc., Expedia®+ bonus points earned with us. You also authorize us to share with Expedia experiential and transactional information regarding your activity with us.   
+
+
 
 
 Special Notices
@@ -458,11 +509,15 @@ Special Notices
                 The Ohio Civil Rights Commission administers compliance with this law.
             
 
+
             
                 Notice to Wisconsin Residents: No marital property agreement, unilateral statement, or court decree adversely affects our rights, unless you give us a copy of such agreement, statement or court order before we grant you credit, or we have actual knowledge of its terms before your account is opened.
+
+
  Important Information About Adding An Authorized User
 
             Before adding an authorized user to your Card Account you should know:
+
 
             
                 You're responsible for all charges made or allowed to the Card Account by the authorized user.
@@ -476,11 +531,14 @@ Special Notices
             
              If we ask for information about the authorized user, you must obtain their permission to share their information with us and for us to share it as allowed by applicable law.
             
+
+
 Balance Transfer Information
 
             
                 How to Make Balance Transfers
             
+
 
             
                 
@@ -496,8 +554,12 @@ Continue to make payments on your other accounts until you have confirmed this b
 
             Things You Should Know About Your Balance Transfer Offer:
 
+
    If you transfer a balance with this offer, interest will be charged on purchases made with your credit card unless your purchases have a 0% APR or you pay the New Balance shown on your statement (including the amount of your balance transfer) in full by the payment due date each billing period.
+
 If you default under your Card Agreement you may lose any promotional APR on the balance transfer.
+
+
 
  
 Additional Information
@@ -508,9 +570,13 @@ Additional Information
 
 
 
+
+
 Expedia®+ Card from Citi Terms and Conditions
 Earn Expedia+ rewards bonus points
+
 Unless you are participating in a promotional offer you will earn:
+
 
     3 Expedia+ rewards bonus points for every $1 you spend on eligible Expedia purchases, including flights, hotels, activities and travel packages
     1 Expedia+ rewards bonus point for every $1 you spend on other purchases
@@ -518,70 +584,60 @@ Unless you are participating in a promotional offer you will earn:
 
 Eligible Expedia Purchases
 
+
  Eligible Expedia Purchases must be paid in full upon reservation and include flights, Expedia Rate hotels, travel packages and activities booked on Expedia.com. Expedia Rate hotels are designated as such in your hotel search. A "travel package" is a flight + hotel, flight + hotel + car, flight + car, hotel + car, or a booking made under the "Bundle Deals" or "Vacation Packages" tab on Expedia.com. An "activity" is anything booked on the "Things to Do" or "Activities" tab on Expedia.com.
 
-The following do not qualify: Expedia Rate Hotels reserved through Expedia but paid for at the time of stay, non‐Expedia Rate Hotels, properties booked through the "Vacation Rental" tab on Expedia.com, car reservations that are not booked as part of a travel package, and cruise bookings. Sometimes transactions do not come through with the information Citi needs to recognize, that the transaction was an eligible Expedia purchase. Citi does not determine how transactions are classified on Expedia.com. Citi reserves the right to determine which purchases qualify for rewards bonus points. 
 
-Rewards Bonus Points 
+The following do not qualify: Expedia Rate Hotels reserved through Expedia but paid for at the time of stay, non‐Expedia Rate Hotels, properties booked through the "Vacation Rental" tab on Expedia.com, car reservations that are not booked as part of a travel package, and cruise bookings. Sometimes transactions do not come through with the information Citi needs to recognize, that the transaction was an eligible Expedia purchase. Citi does not determine how transactions are classified on Expedia.com. Citi reserves the right to determine which purchases qualify for rewards bonus points.
+ 
+
+Rewards Bonus Points
+ 
 
 Expedia+ bonus points will typically appear in your Expedia+ account within 6-8 weeks after you have met the purchase requirements. Once the points are available in your Expedia+ account, you may redeem for rewards. Point value and redemption options are determined by Expedia. Visit expedia.com/rewards/terms for complete Terms and Conditions of the Expedia+ program.
+
 
 Bonus points are earned on purchases made with your Expedia+ or Expedia+ Voyager Card. Balance transfers, cash advances, checks that access your card account, purchases returned/refunded for credit, unauthorized charges, interest and account fees, travelers checks, foreign currency purchases, money orders, wire transfers (and similar cash-like transactions), lottery tickets, gaming chips (and similar betting transactions) do not earn Expedia+ bonus points. If a purchase, or a portion of a purchase, is returned or refunded for credit any points awarded as a result of that purchase, or portion of a purchase, will be deducted from your Expedia+ point account balance which may result in a negative point balance.
 
 
 
 
+
 Additional Details
+
 Purchases
+
 Excludes cash advances, convenience checks, balance transfers, account fees or finance charges, disputed or unauthorized purchases/fraudulent transactions, returns or credits.
+
 Expedia+ silver status
+
 Cardmembers must be logged into their Expedia+ rewards account when booking to receive +silver benefits. Amenities at +VIP Access™ hotels vary from property to property and are not available at all locations.
+
 Elite Qualifying Nights
+
 Each billing cycle, your Expedia+ rewards account will be credited for the Elite Qualifying Hotel Nights earned during the prior billing period.
 
 
+
 Additional Information:
+
 Any benefit, reward, service, or feature offered in connection with your Expedia+ Card from Citi may change or be discontinued at any time for any reason, except as otherwise expressly indicated. Citi is not responsible for the products and services offered by other companies.
+
 Expedia+ rewards membership, earning of Expedia+ rewards bonus points and redemption of points are subject to Expedia+ rewards Terms and Conditions.
+
 ©  Expedia, Inc. All Rights reserved.
+
 Expedia, Expedia.com, and the airplane logo and the +VIP Access are either registered trademarks or trademarks of Expedia Inc. in the U.S. and/or other countries.
+
 ©  Citibank, N.A. All rights reserved.
+
 Citi, Citibank, and Citi with Arc Design are registered service marks of Citigroup Inc.
+
+
 
             
 
+
         
+
     
-
-	
-	
-
-
-
-
-	
-	
-	Close          
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	  
-
-
-
- 
- 
- 
