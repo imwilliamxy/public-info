@@ -37,10 +37,10 @@ UDAP T&C
 					
 					
 						
-                            
+
 							Annual Percentage Rate (APR) for Purchases
 							
-                        
+
 
 						
 							
@@ -172,7 +172,7 @@ UDAP T&C
 					
 					
 						
-						    
+						
 							Annual Fee 
 							
 						
@@ -189,7 +189,7 @@ UDAP T&C
 					
 					
 						
-						    
+						
 							Transaction Fees 
 							
 						
@@ -237,7 +237,7 @@ UDAP T&C
 					
 					
 						
-						    
+						
 							Penalty Fees 
 							
 						
@@ -311,11 +311,11 @@ UDAP T&C
 			
 				
 				 
-              	 
-              		a We add 11.99% to the Prime Rate to determine the Purchase APR. 
-              	 
-              	
-               		
+	 
+		a We add 11.99% to the Prime Rate to determine the Purchase APR. 
+	 
+	
+ 		
 				
 				
 
@@ -367,74 +367,74 @@ UDAP T&C
 
 
 
-             
-	     
-	          
-	     
-	              
-          
-  
-		     
+ 
+	 
+	
+	 
+	
+
+
+		 
 					
 					
 					
 				
-		       	
+		 	
 
-     
+ 
 	
 
 	
 
-        
+
 	Costco Anywhere Visa® Business Card by Citi Terms & Conditions
 
 
-        
-            
-    This offer is valid for new accounts only. You must be at least 18 years of age. Citibank, N.A., Sioux Falls, SD, ("Citi," "we" or "us") is the issuer of your account. Please allow 4 weeks from date of submission to process your Card Account application.
 
-    
+
+This offer is valid for new accounts only. You must be at least 18 years of age. Citibank, N.A., Sioux Falls, SD, ("Citi," "we" or "us") is the issuer of your account. Please allow 4 weeks from date of submission to process your Card Account application.
 
 
 
-    
-        By submitting this application, you request on behalf of yourself and the business referenced in this application (the "Business"), that Citi establish a Costco Anywhere Visa® Business Card by Citi account (the "Card Account") on behalf of you and the Business and issue a Costco Anywhere Visa Business Card by Citi ("Card") accessing such Card Account to you and any authorized users you have designated. You agree that all information provided in this application must be verifiable and accurate. Both you and the Business shall be liable individually and jointly for all charges and balances on the Card Account. The Card Account and Cards(s) are to be used for business purposes only and governed by the terms of the card agreement ("Card Agreement") provided when the Card Account is issued. The Card Agreement and its terms may be amended from time to time.
-    
-
-    
-
-
-            
-                
-    Costco Membership
-
-            
-                The Card Account is only available if you have a current Costco membership in your name. We may cancel your Card Account and participation in the Costco Cash Rewards Program if you do not maintain your Costco membership. You must maintain your Costco membership to redeem Costco Cash Rewards earned with the Card Account. Each authorized user must also have a Costco membership in his or her name.
-            
-
-    
 
 
 
-    Auto Bill of Costco Membership Fee
-            
-                If you are the Primary Member on your Costco membership and your application is approved, your Costco membership fee will automatically renew and be charged to your Costco Anywhere Visa Card annually on the first day of your renewal month until you choose a different form of payment or cancel your Costco membership, and will qualify toward your annual credit card reward certificate. Membership fees will be charged based on your membership level ($60/yr for Gold Star and Business Members, plus a $60/yr upgrade fee for Executive Members) and $60/yr for each Affiliate Business Member, if any, plus applicable taxes. If you wish to pay your Costco membership fee with a different form of payment or cancel your Costco membership, please visit the Costco Membership Counter or call Costco at 1-800-774-2678, before the first day of your renewal month. Visit Costco.com for more information about Costco's membership terms.
-            
+By submitting this application, you request on behalf of yourself and the business referenced in this application (the "Business"), that Citi establish a Costco Anywhere Visa® Business Card by Citi account (the "Card Account") on behalf of you and the Business and issue a Costco Anywhere Visa Business Card by Citi ("Card") accessing such Card Account to you and any authorized users you have designated. You agree that all information provided in this application must be verifiable and accurate. Both you and the Business shall be liable individually and jointly for all charges and balances on the Card Account. The Card Account and Cards(s) are to be used for business purposes only and governed by the terms of the card agreement ("Card Agreement") provided when the Card Account is issued. The Card Agreement and its terms may be amended from time to time.
+
+
+
+
+
+
+
+Costco Membership
+
+
+The Card Account is only available if you have a current Costco membership in your name. We may cancel your Card Account and participation in the Costco Cash Rewards Program if you do not maintain your Costco membership. You must maintain your Costco membership to redeem Costco Cash Rewards earned with the Card Account. Each authorized user must also have a Costco membership in his or her name.
+
+
+
+
+
+
+Auto Bill of Costco Membership Fee
+
+If you are the Primary Member on your Costco membership and your application is approved, your Costco membership fee will automatically renew and be charged to your Costco Anywhere Visa Card annually on the first day of your renewal month until you choose a different form of payment or cancel your Costco membership, and will qualify toward your annual credit card reward certificate. Membership fees will be charged based on your membership level ($60/yr for Gold Star and Business Members, plus a $60/yr upgrade fee for Executive Members) and $60/yr for each Affiliate Business Member, if any, plus applicable taxes. If you wish to pay your Costco membership fee with a different form of payment or cancel your Costco membership, please visit the Costco Membership Counter or call Costco at 1-800-774-2678, before the first day of your renewal month. Visit Costco.com for more information about Costco's membership terms.
+
 
 
 
 Identity Verification
-            
-                IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT - To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. This means that we will ask for your name, address, date of birth, and other information that will allow us to identify you when you open an account.  In addition, the bank must obtain the business' legal name, its street address, and its taxpayer identification number. We may also ask to see your driver's license or other identifying documents; and obtain identification information about you or any employees you add to your account.
-            
+
+IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT - To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. This means that we will ask for your name, address, date of birth, and other information that will allow us to identify you when you open an account.In addition, the bank must obtain the business' legal name, its street address, and its taxpayer identification number. We may also ask to see your driver's license or other identifying documents; and obtain identification information about you or any employees you add to your account.
 
 
 
-    Credit Reports
-    
-        You authorize us to get credit reports and other information about you and the Business from credit reporting  agencies and other sources, for such purposes as: determining whether to issue you a Card Account, verifying your identity and that of the Business, administering, reviewing and renewing the Card Account, credit line increases or decreases, collection and other servicing of the Card Account, and offering other products and services and for any other uses permitted by law. If you ask us, we'll tell you whether or not we requested credit bureau reports and the names and addresses of any credit bureaus that provided us with such reports.  From time to time, we may report Card Account information to credit reporting agencies.  
-    
+
+Credit Reports
+
+You authorize us to get credit reports and other information about you and the Business from credit reportingagencies and other sources, for such purposes as: determining whether to issue you a Card Account, verifying your identity and that of the Business, administering, reviewing and renewing the Card Account, credit line increases or decreases, collection and other servicing of the Card Account, and offering other products and services and for any other uses permitted by law. If you ask us, we'll tell you whether or not we requested credit bureau reports and the names and addresses of any credit bureaus that provided us with such reports.From time to time, we may report Card Account information to credit reporting agencies.
+
 
 
 
@@ -442,15 +442,15 @@ Credit Information
 If you are approved for a Card Account, a specific revolving credit line will be assigned based upon your credit report and/or the credit report of the Business and other information we may request. If you receive your Card and want to request a higher revolving credit line than issued, contact us. You understand that we may require that you submit additional documentation, such as the Business's financial statements, in order to process your request for a credit line increase. The Authorized Officer must be 18 years of age or older.
 
 
-   
+ 
 Card Agreement
 
-            
-                If you are approved for a Card Account, you'll receive a Card Agreement before you can use your Card Account. 
-                The terms of the Card Agreement will take effect once you use your Card Account. Even if you do not use your Card Account, 
-                the Card Agreement will take effect if you do not cancel your Card Account within 30 days after we send you the Card Agreement. 
-                We have the right to make changes to the terms of your Card Account (including rates and fees) in accordance with the Card Agreement.
-            
+
+If you are approved for a Card Account, you'll receive a Card Agreement before you can use your Card Account. 
+The terms of the Card Agreement will take effect once you use your Card Account. Even if you do not use your Card Account, 
+the Card Agreement will take effect if you do not cancel your Card Account within 30 days after we send you the Card Agreement. 
+We have the right to make changes to the terms of your Card Account (including rates and fees) in accordance with the Card Agreement.
+
 
 
 
@@ -461,131 +461,131 @@ By applying for the Card Account, you agree to allow Costco to send membership i
 
 Special Notices
 
-            
-                Notice to Ohio Residents: The Ohio laws against discrimination require that all creditors make credit equally available to all 
-                creditworthy customers, and that credit reporting agencies maintain separate credit histories on each individual upon request. 
-                The Ohio Civil Rights Commission administers compliance with this law.
-            
+
+Notice to Ohio Residents: The Ohio laws against discrimination require that all creditors make credit equally available to all 
+creditworthy customers, and that credit reporting agencies maintain separate credit histories on each individual upon request. 
+The Ohio Civil Rights Commission administers compliance with this law.
 
 
-            
-                Notice to Wisconsin Residents: No marital property agreement, unilateral statement, or court decree adversely affects our rights, unless you give us a copy of such agreement, statement or court order before we grant you credit, or we have actual knowledge of its terms before your account is opened.
+
+
+Notice to Wisconsin Residents: No marital property agreement, unilateral statement, or court decree adversely affects our rights, unless you give us a copy of such agreement, statement or court order before we grant you credit, or we have actual knowledge of its terms before your account is opened.
 
 
  Important Information About Adding An Authorized User
 
-            Before adding an authorized user to your Card Account you should know:
-
-
-            
-                You're responsible for all charges made or allowed to the Card Account by the authorized user.
-                Authorized users have access to your Card Account information.
-            
-
-            
-             If we ask for information about the authorized user, you must obtain their permission to share their information with us and for us to share it as allowed by applicable law.
-            
+Before adding an authorized user to your Card Account you should know:
 
 
 
-            Costco Cash Rewards Program Terms
-
-             
-                Your Card Account will earn Costco Cash Rewards based on your purchases that can be redeemed for merchandise or cash back at any U.S. Costco warehouse, including Puerto Rico ("Costco Cash Rewards"). 
-            
-    
-
-            Earning Costco Cash Rewards on Purchases: You'll earn Costco Cash Rewards for purchases using your Card Account, minus returns and refunds, as follows:
+You're responsible for all charges made or allowed to the Card Account by the authorized user.
+Authorized users have access to your Card Account information.
 
 
 
-            
-                4% cash back on eligible gas worldwide, including gas at  Costco, for the first $7,000 per year in gas purchases and then 1% thereafter.
-                    
-                        Certain Non-Qualifying Purchases. You will only earn 1% cash back, not 4%, for gas purchased at superstores, supermarkets, convenience stores and warehouse clubs other than Costco or for fuel used for non-automobile purposes.
-                    
-                
-                
-                    3% cash back on restaurant (including cafes, bars, lounges  and fast food restaurants) and eligible travel purchases worldwide, including airfare, hotels, car rentals, travel  agencies, cruise lines and Costco Travel.
-                    
-                        Certain Non-Qualifying Purchases. You will only earn 1%, not 3%, for purchases made at bakeries and certain restaurants/cafes inside department stores, grocery or warehouse clubs.
-                    
-                
-                
-                    2% cash back on all other purchases from Costco and Costco.com.
-                
-                
-                    1% cash back on all other purchases, including the non-qualifying purchases listed above.
-                
-            
-
-            Merchant Classification: Each merchant - that is a retailer, business or any other place where you can make a purchase - is assigned a code that indicates the merchant's area of business. For example, restaurants are generally assigned a specific merchant code. We don't assign or have any control over merchant codes. Codes are chosen and assigned by a third party, who may change the codes from time to time. When you make a purchase at a merchant, we're provided the code for that merchant. If the code matches a category that gives you additional Costco Cash Rewards - for example, if the merchant code tells us that you made a purchase at a restaurant - we'll give you the additional Costco Cash Rewards for that purchase. Because we don't control what code a merchant is assigned, sometimes a purchase that you think fits a certain category may not earn additional Costco Cash Rewards. For example, a restaurant located within a large retail outlet may not be assigned a "restaurant" code, but rather a "retailer" code. This means that even though you receive additional Costco Cash Rewards for purchases at "restaurants," you won't earn additional Costco Cash Rewards for purchases at that restaurant.
+ If we ask for information about the authorized user, you must obtain their permission to share their information with us and for us to share it as allowed by applicable law.
 
 
-            What doesn't qualify as a purchase?: The following types of transactions don't qualify as purchases that earn Costco Cash Rewards:
 
 
-            
-                Use of checks that access your Card Account
-                Balance transfers
-                Cash advances
-                
-                    Travelers checks, foreign currency purchases, money orders, wire transfers and similar cash-like transactions
-                
-                Lottery tickets, gaming chips and similar betting transactions
-                Interest and account fees
-                Unauthorized charges
-                Items returned for credit
-            
+Costco Cash Rewards Program Terms
 
-            Returns: Returned items may result in credits being applied to your Card Account which will reduce or may eliminate accumulated Costco Cash Rewards and may result in a negative cash rewards balance. If your Card Account has a negative Costco Cash Rewards balance, any newly earned Costco Cash Rewards will be used to offset such negative Costco Cash Rewards balance until such balance has been brought to zero.
+ 
+Your Card Account will earn Costco Cash Rewards based on your purchases that can be redeemed for merchandise or cash back at any U.S. Costco warehouse, including Puerto Rico ("Costco Cash Rewards"). 
 
 
-            You must maintain your Costco Membership to receive and redeem your Costco Cash Rewards.
+
+Earning Costco Cash Rewards on Purchases: You'll earn Costco Cash Rewards for purchases using your Card Account, minus returns and refunds, as follows:
 
 
-            Redeeming Costco Cash Rewards: Your reward is distributed annually, in the form of a credit card reward certificate, once your February billing statement closes, and is redeemable through December 31 of the year issued in a single transaction at any U.S. Costco warehouse, including in Puerto Rico, for merchandise or cash back. The credit card reward certificate will contain your Costco Cash Rewards balance based on your eligible purchases during the annual reward period. The annual reward period is based on January through December billing statements. Should you choose to redeem only a portion of the certificate for merchandise, you will receive the remaining balance in cash at the Costco warehouse register upon checkout. Some warehouses may not permit the credit card reward certificate to be redeemed for alcohol purchases. Requests for cash may be fulfilled in the form of a check at  Costco's  discretion. Your credit card reward certificate must be redeemed in person on or prior to its expiration date of December 31 in the year in which it is issued. Any Costco Cash Rewards you have earned on purchases made by authorized users on your Card Account will be added to your Costco Cash Rewards total. Only you, the authorized officer, are eligible to receive the annual credit card reward certificate; however, you or anyone you authorize may redeem the certificate. You will not receive a credit card reward certificate if your reward is less than $1 or your account is closed at the time your credit card reward certificate is scheduled to be sent; any Costco Cash Rewards that had been accrued at that time will be forfeited. You must maintain your Costco Membership to redeem your  credit card reward certificate.
 
 
-            Account Closure: If we close your Card Account, you will no longer be able to earn Costco Cash Rewards, and you will forfeit any Costco Cash Rewards accumulated, but not yet distributed. If you close or convert your Card Account prior to receiving the credit card reward certificate in your February billing statement, any earned Costco Cash Rewards will be forfeited.
+4% cash back on eligible gas worldwide, including gas atCostco, for the first $7,000 per year in gas purchases and then 1% thereafter.
+
+Certain Non-Qualifying Purchases. You will only earn 1% cash back, not 4%, for gas purchased at superstores, supermarkets, convenience stores and warehouse clubs other than Costco or for fuel used for non-automobile purposes.
 
 
-            Forfeiture: All Costco Cash Rewards not disbursed via an annual credit card reward certificate due to the reward amount being less than $1, the account status (including account closure), or other reasons, will be forfeited. Additionally, any Costco Cash Rewards not redeemed by December 31 of the year of issuance of the credit card reward certificate will be forfeited.
+
+3% cash back on restaurant (including cafes, bars, loungesand fast food restaurants) and eligible travel purchases worldwide, including airfare, hotels, car rentals, travelagencies, cruise lines and Costco Travel.
+
+Certain Non-Qualifying Purchases. You will only earn 1%, not 3%, for purchases made at bakeries and certain restaurants/cafes inside department stores, grocery or warehouse clubs.
+
+
+
+2% cash back on all other purchases from Costco and Costco.com.
+
+
+1% cash back on all other purchases, including the non-qualifying purchases listed above.
+
+
+
+Merchant Classification: Each merchant - that is a retailer, business or any other place where you can make a purchase - is assigned a code that indicates the merchant's area of business. For example, restaurants are generally assigned a specific merchant code. We don't assign or have any control over merchant codes. Codes are chosen and assigned by a third party, who may change the codes from time to time. When you make a purchase at a merchant, we're provided the code for that merchant. If the code matches a category that gives you additional Costco Cash Rewards - for example, if the merchant code tells us that you made a purchase at a restaurant - we'll give you the additional Costco Cash Rewards for that purchase. Because we don't control what code a merchant is assigned, sometimes a purchase that you think fits a certain category may not earn additional Costco Cash Rewards. For example, a restaurant located within a large retail outlet may not be assigned a "restaurant" code, but rather a "retailer" code. This means that even though you receive additional Costco Cash Rewards for purchases at "restaurants," you won't earn additional Costco Cash Rewards for purchases at that restaurant.
+
+
+What doesn't qualify as a purchase?: The following types of transactions don't qualify as purchases that earn Costco Cash Rewards:
+
+
+
+Use of checks that access your Card Account
+Balance transfers
+Cash advances
+
+Travelers checks, foreign currency purchases, money orders, wire transfers and similar cash-like transactions
+
+Lottery tickets, gaming chips and similar betting transactions
+Interest and account fees
+Unauthorized charges
+Items returned for credit
+
+
+Returns: Returned items may result in credits being applied to your Card Account which will reduce or may eliminate accumulated Costco Cash Rewards and may result in a negative cash rewards balance. If your Card Account has a negative Costco Cash Rewards balance, any newly earned Costco Cash Rewards will be used to offset such negative Costco Cash Rewards balance until such balance has been brought to zero.
+
+
+You must maintain your Costco Membership to receive and redeem your Costco Cash Rewards.
+
+
+Redeeming Costco Cash Rewards: Your reward is distributed annually, in the form of a credit card reward certificate, once your February billing statement closes, and is redeemable through December 31 of the year issued in a single transaction at any U.S. Costco warehouse, including in Puerto Rico, for merchandise or cash back. The credit card reward certificate will contain your Costco Cash Rewards balance based on your eligible purchases during the annual reward period. The annual reward period is based on January through December billing statements. Should you choose to redeem only a portion of the certificate for merchandise, you will receive the remaining balance in cash at the Costco warehouse register upon checkout. Some warehouses may not permit the credit card reward certificate to be redeemed for alcohol purchases. Requests for cash may be fulfilled in the form of a check atCostco'sdiscretion. Your credit card reward certificate must be redeemed in person on or prior to its expiration date of December 31 in the year in which it is issued. Any Costco Cash Rewards you have earned on purchases made by authorized users on your Card Account will be added to your Costco Cash Rewards total. Only you, the authorized officer, are eligible to receive the annual credit card reward certificate; however, you or anyone you authorize may redeem the certificate. You will not receive a credit card reward certificate if your reward is less than $1 or your account is closed at the time your credit card reward certificate is scheduled to be sent; any Costco Cash Rewards that had been accrued at that time will be forfeited. You must maintain your Costco Membership to redeem yourcredit card reward certificate.
+
+
+Account Closure: If we close your Card Account, you will no longer be able to earn Costco Cash Rewards, and you will forfeit any Costco Cash Rewards accumulated, but not yet distributed. If you close or convert your Card Account prior to receiving the credit card reward certificate in your February billing statement, any earned Costco Cash Rewards will be forfeited.
+
+
+Forfeiture: All Costco Cash Rewards not disbursed via an annual credit card reward certificate due to the reward amount being less than $1, the account status (including account closure), or other reasons, will be forfeited. Additionally, any Costco Cash Rewards not redeemed by December 31 of the year of issuance of the credit card reward certificate will be forfeited.
 
 			
-            Value of Costco Cash Rewards: Costco Cash Rewards have no cash value until such time as they are redeemed at a Costco warehouse.
+Value of Costco Cash Rewards: Costco Cash Rewards have no cash value until such time as they are redeemed at a Costco warehouse.
 
 
-            Property Rights: You have no property rights or other legal interests in Costco Cash Rewards. Costco Cash Rewards may not be transferred to any other person including through such events as inheritance, bankruptcy or divorce. Costco Cash Rewards cannot be assigned or pledged.
+Property Rights: You have no property rights or other legal interests in Costco Cash Rewards. Costco Cash Rewards may not be transferred to any other person including through such events as inheritance, bankruptcy or divorce. Costco Cash Rewards cannot be assigned or pledged.
 
 
-            Changes to Program Rules: We may make changes to the Costco Cash Rewards Program at any time without notice. We will give you 30 days' written notice if we make any of the following changes: a change that negatively affects the number of Costco Cash Rewards you can earn, a change that negatively affects how/when you may lose your Costco Cash Rewards, a change that negatively affects how you can exercise your rights with respect to Costco Cash Rewards, or if we cancel the program.
+Changes to Program Rules: We may make changes to the Costco Cash Rewards Program at any time without notice. We will give you 30 days' written notice if we make any of the following changes: a change that negatively affects the number of Costco Cash Rewards you can earn, a change that negatively affects how/when you may lose your Costco Cash Rewards, a change that negatively affects how you can exercise your rights with respect to Costco Cash Rewards, or if we cancel the program.
 
 
-            Fraud: If we see evidence of fraud, misuse, abuse, or suspicious activity, we will investigate and, if we determine that fraud, misuse or abuse has occurred, we may take actions against you. These actions may include, without limitation:
-
-
-            
-                Taking away the Costco Cash Rewards you earned because of fraud, misuse or abuse
-                Preventing you from earning Costco Cash Rewards
-                Suspending or closing your Costco Cash Rewards Account
-                Taking legal action to recover Costco Cash Rewards redeemed because of such activity and to recover our monetary losses, including litigation costs and damages
-            
-
-            Some examples of fraud, misuse, abuse and suspicious activity include:
-
-
-            
-                
-                Using your Card Account in an abusive manner for the primary purpose of acquiring Costco Cash Rewards 
-                Using your Consumer Card Account other than primarily for personal, consumer or household purposes 
-                    
-            
+Fraud: If we see evidence of fraud, misuse, abuse, or suspicious activity, we will investigate and, if we determine that fraud, misuse or abuse has occurred, we may take actions against you. These actions may include, without limitation:
 
 
 
-            
+Taking away the Costco Cash Rewards you earned because of fraud, misuse or abuse
+Preventing you from earning Costco Cash Rewards
+Suspending or closing your Costco Cash Rewards Account
+Taking legal action to recover Costco Cash Rewards redeemed because of such activity and to recover our monetary losses, including litigation costs and damages
 
-        
 
-    
+Some examples of fraud, misuse, abuse and suspicious activity include:
+
+
+
+
+Using your Card Account in an abusive manner for the primary purpose of acquiring Costco Cash Rewards 
+Using your Consumer Card Account other than primarily for personal, consumer or household purposes 
+
+
+
+
+
+
+
+
+
+
