@@ -1,4 +1,6 @@
 Payment Information
+All charges made on this charge card are due and payable when you receive your periodic statement.
+
 
 Fees
 Annual Membership Fee
@@ -18,7 +20,7 @@ Penalty Fees
  
 
 Late Payment
-1.5% then 2.99% of the past due amount (minimum: $38)
+$38 or 1.5% of the past due amount, whichever is greater. If you do not pay for two billing periods in a row, the fee is the greater of $38 or 2.99% of the past due amount.
 
 Returned Payment
 $38
