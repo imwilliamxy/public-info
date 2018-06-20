@@ -21,7 +21,7 @@ UDAP T&C
 						
 							
 														 
-								16.74%.
+								16.99%.
 								 
 														
 							
@@ -42,7 +42,7 @@ UDAP T&C
 						
 												
 						
-							23.49%
+							23.74%
 							
 							
 							This APR will vary with the market based on the Prime Rate.b							
@@ -210,7 +210,7 @@ UDAP T&C
 				
 				
 				
-					Prime Rate: The variable rates shown here are accurate based on a 4.75% Prime Rate.
+					Prime Rate: The variable rates shown here are accurate based on a 5% Prime Rate.
 				
 				
 				
