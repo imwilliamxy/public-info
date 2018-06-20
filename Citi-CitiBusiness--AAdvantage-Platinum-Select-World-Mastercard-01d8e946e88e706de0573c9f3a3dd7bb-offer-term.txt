@@ -21,7 +21,7 @@ UDAP T&C
 						
 							
 														 
-								17.24% to 25.24%, based on your creditworthiness.
+								17.49% to 25.49%, based on your creditworthiness.
 								 
 														
 							
@@ -42,7 +42,7 @@ UDAP T&C
 						
 												
 						
-							21.74%
+							21.99%
 							
 							
 							This APR will vary with the market based on the Prime Rate.b							
@@ -210,7 +210,7 @@ UDAP T&C
 				
 				
 				
-					Prime Rate: The variable rates shown here are accurate based on a 4.75% Prime Rate.
+					Prime Rate: The variable rates shown here are accurate based on a 5% Prime Rate.
 				
 				
 				
