@@ -82,6 +82,8 @@ Account ManagerAccount Managers must be at least 18 years old and have a U.S. Ma
 
 American Express Presale(s)During the specified sales period, tickets are available exclusively to all American Express® Card Members (including Prepaid and International Cards). Tickets must be purchased with an American Express Card (including Prepaid and International Cards). Standard service charges apply. Offer is subject to availability. Not all seats are available and blackout dates apply. All sales final. No refunds. No exchanges. Offer may be changed or revoked at any time at the sole discretion of American Express. Some events may not be accessible to Card Members with disabilities.
 
+American Express SeatingPlease note that the tickets available through the American Express Seating program are available to all Card Members at no additional cost. Tickets must be purchased with an American Express Card. Standard service charges apply. Offer is subject to availability. Not all seats are available and blackout dates apply. All sales final. No refunds. No exchanges. Offer may be changed or revoked at any time at the sole discretion of American Express. Some events may not be accessible to Card Members with disabilities.
+
 Amex Mobile appThe Amex® Mobile app and app features are available only for eligible Card accounts in the United States. American Express® prepaid Cards and Cards issued by non-American Express issuers are not eligible. To log in, Card Members must have an American Express user ID and password or create one in the app.
 
 Amex Mobile appiOS and Android only. See app store listings for operating system info
