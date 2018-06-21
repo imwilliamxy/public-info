@@ -1,17 +1,17 @@
 INTEREST RATES AND INTEREST CHARGES
 Annual Percentage Rate (APR) for Purchases
 
-17.24% to 26.24%, based on your creditworthiness and other factors as determined at the time of account opening. This APR will vary with the market based on the Prime Rate.
+17.49% to 26.49%, based on your creditworthiness and other factors as determined at the time of account opening. This APR will vary with the market based on the Prime Rate.
 
 
 APR for Balance Transfers
 
-17.24% to  26.24% APR on balance transfers requested within 60 days of account opening based on your creditworthiness and other factors.This APR will vary with the market based on the Prime Rate.
+17.49% to  26.49% APR on balance transfers requested within 60 days of account opening based on your creditworthiness and other factors.This APR will vary with the market based on the Prime Rate.
 
 
 APR for Cash Advances
 
-26.74%This APR will vary with the market based on the Prime Rate.
+26.99%This APR will vary with the market based on the Prime Rate.
 
 
 Penalty APR and When it Applies
@@ -26,7 +26,7 @@ Your due date is at least 25 days after the close of each billing period. We wil
 
 Plan Fee  (Fixed Finance Charge) 
 
-Up to 1.19% of each purchase moved into a plan based on the plan duration, the APR that would otherwise apply to the purchase and other factors.
+Up to 1.19% of each purchase moved into a plan based on the plan duration, the APR that would otherwise apply to the purchase and other factors.
 
 
 For Credit Card Tips from the Consumer Financial Protection Bureau
@@ -66,7 +66,7 @@ None
 
 
 How We Will Calculate Your Balance: We use a method called "average daily balance (including new purchases)."
-Loss of Introductory APR: We may end your Introductory APR and apply the Penalty APR if you do not pay at least the Minimum Payment Due within 60 days after its Payment Due Date. The variable penalty APR will not exceed 29.99%. Variable APRs for each billing period are based on the Prime Rate published in The Wall Street Journal on the Closing Date of the billing period. The Wall Street Journal may not publish the Prime Rate on that day. If it does not, we will use the Prime Rate from the previous day it was published. If the Prime Rate increases, variable APRs will increase. In that case, you may pay more interest and have a higher Minimum Payment Due. When the Prime Rate changes, the resulting changes to variable APRs take effect as of the first day of the billing period. Variable APRs are accurate as of 03/22/2018.
+Loss of Introductory APR: We may end your Introductory APR and apply the Penalty APR if you do not pay at least the Minimum Payment Due within 60 days after its Payment Due Date. The variable penalty APR will not exceed 29.99%. Variable APRs for each billing period are based on the Prime Rate published in The Wall Street Journal on the Closing Date of the billing period. The Wall Street Journal may not publish the Prime Rate on that day. If it does not, we will use the Prime Rate from the previous day it was published. If the Prime Rate increases, variable APRs will increase. In that case, you may pay more interest and have a higher Minimum Payment Due. When the Prime Rate changes, the resulting changes to variable APRs take effect as of the first day of the billing period. Variable APRs are accurate as of 06/14/2018.
 
  TERMS AND CONDITIONS View the full Card Member Agreement.
 By submitting this application, you are requesting us to open an Account in your name and to issue Card(s) as you direct. Only qualified individuals 18 or over may apply for an Account. This offer is available to US Residents.
@@ -97,7 +97,9 @@ BENEFIT TERMS
 The following benefits and services are subject to change or cancellation.
 Account ManagerAccount Managers must be at least 18 years old and have a U.S. Mailing Address and Social Security Number.
 
-American Express Presale(s)During the specified sales period, tickets are available exclusively to all American Express® Card Members(including Prepaid and International Cards). Tickets must be purchased with an American Express Card (including Prepaid and International Cards). Standard service charges apply. Offer is subject to availability. Not all seats are available and blackout dates apply. All sales final. No refunds. No exchanges. Offer may be changed or revoked at any time at the sole discretion of American Express. Some events may not be accessible to Card Members with disabilities.
+American Express Presale(s)During the specified sales period, tickets are available exclusively to all American Express® Card Members. Tickets must be purchased with an American Express Card. Standard service charges apply. Offer is subject to availability. Not all seats are available and blackout dates apply. All sales final. No refunds. No exchanges. Offer may be changed or revoked at any time at the sole discretion of American Express. Some events may not be accessible to Card Members with disabilities.
+
+American Express SeatingPlease note that the tickets available through the American Express Seating program are available to all Card Members at no additional cost. Tickets must be purchased with an American Express Card. Standard service charges apply. Offer is subject to availability. Not all seats are available and blackout dates apply. All sales final. No refunds. No exchanges. Offer may be changed or revoked at any time at the sole discretion of American Express. Some events may not be accessible to Card Members with disabilities.
 
 Amex Mobile appThe Amex® Mobile app and app features are available only for eligible Card accounts in the United States. American Express® prepaid Cards and Cards issued by non-American Express issuers are not eligible.To log in, Card Members must have an American Express user ID and password or create one in the app.
 
@@ -111,7 +113,7 @@ Dispute ResolutionNot all disputes are resolved in the Card Member's favor.
 
 Drive Off With Savings & Hilton Honors Bonus PointsA qualifying rental must meet the following: The Primary Driver's Hilton Honors number must be provided at time of reservation. The name of the member associated with the Hilton Honors number provided must match the Primary Driver's name on the rental to qualify for mileage awards. Only one Hilton Honors member per car rental will be credited with points. Special contracted corporate or promotional rates such as employee, net tour, travel agent, group, wholesale or package rates, crew, insurance/dealer replacement or other or non-revenue rentals do not qualify for points. Multiple rentals that encompass different cars on the same or consecutive days from the same location shall be counted as a single qualifying rental even if the member checks the car in and back out during the same period.
 
-Entertainment Access®Offer valid in select cities. During the specified sales period, tickets are available exclusively to all American Express® Card Members (including Prepaid and International Cards). Tickets must be purchased with an American Express Card (including Prepaid and International Cards). Standard service charges apply. Offer is subject to availability. Not all seats are available and blackout dates apply. All sales final. No refunds. No exchanges. Offer may be changed or revoked at any time at the sole discretion of American Express. Some events may not be accessible to Card Members with disabilities.
+Entertainment Access®Offer valid in select cities. During the specified sales period, tickets are available exclusively to all American Express® Card Members. Tickets must be purchased with an American Express Card. Standard service charges apply. Offer is subject to availability. Not all seats are available and blackout dates apply. All sales final. No refunds. No exchanges. Offer may be changed or revoked at any time at the sole discretion of American Express. Some events may not be accessible to Card Members with disabilities.
 
 Global Assist® HotlineWhile Global Assist® Hotline coordination and assistance services are offered at no additional charge from American Express, Card Members are responsible for the costs charged by third-party service providers. For full Terms and Conditions, see americanexpress.com/GAterms.
 
@@ -121,7 +123,7 @@ Hilton Honors Program & CopyrightHilton Honors membership, earning and redemptio
 
 Hilton Honors Upgrade to Gold StatusYou may receive an upgrade to Hilton Honors Gold status if the total eligible purchases on your Card Account during a calendar year reach $20,000 or more. A calendar year is from January 1 to December 31 regardless of when you open your Card Account. Eligible purchases are purchases for goods and services minus returns and other credits. Eligible purchases do NOT include fees or interest charges, balance transfers, cash advances, purchases of travelers checks, purchases or reloading of prepaid cards, or purchases of other cash equivalents. This upgrade to Gold status benefit is only available to the Basic Card Member; however, eligible purchases made by Additional Card Members will contribute to the purchase requirement. It will take about 10-12 weeks after the total eligible purchases level is reached for your Hilton Honors Gold status to become effective. Your upgrade to Hilton Honors Gold status is valid for the calendar year in which it was earned and the subsequent calendar year. Your Gold status will expire after that subsequent calendar year unless your total eligible purchases in that subsequent calendar year again qualifies you for Gold status, or if you qualify for Gold status under the Hilton Honors program terms. For more information on Gold status benefits or how to maintain your Gold status each year with qualifying stays, nights or Hilton Honors Base Points through the Hilton Honors Program, and for complete Terms and Conditions, visit HiltonHonors.com/MemberBenefits.
 
-Instant Card NumberInstant Card Number eligibility is based on our ability to instantly validate your identity. If you are eligible for Instant Card Number, you will receive an instant account number that you can use virtually anywhere American Express is accepted and a physical card will not be required. You may not have access to your full credit line to use anywhere the Card is accepted until after you confirm receipt of your physical Card. We will mail your card in 3-5 business days of account approval.
+Instant Card NumberInstant Card Number eligibility is based on our ability to instantly validate your identity. If you are eligible for Instant Card Number, you will receive an instant Card number that you can use virtually anywhere American Express is accepted and a physical Card will not be required. You may not have access to your full credit line to use anywhere the Card is accepted until after you confirm receipt of your physical Card. We will mail your card in 3-5 business days of account approval.
 
 No Foreign Transaction FeesAmerican Express will not charge any foreign transaction fee on the purchases you make outside of the United States with your Card. However, there may be circumstances where ATMs or merchants charge a fee on foreign transactions.
 
