@@ -193,6 +193,7 @@ Identity VerificationIMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW AC
 		and for any other uses permitted by law. If you ask us, we'll tell you whether or not we requested a credit bureau report and the 
 		names and addresses of any credit bureaus that provided us with such reports. From time to time, we may report negative information 
 		about your Card Account behavior, like delinquencies, to consumer reporting agencies.
+ 
 	Credit Information
 To receive a Card Account, you must meet our applicable criteria bearing on creditworthiness.
  
