@@ -103,7 +103,7 @@ http://www.consumerfinance.gov/learnmore.
  
  Foreign Purchase Transaction
   
- 3% of each purchase transaction in U.S. dollars.
+ 3% of each purchase transaction in U.S. dollars. 
  
  
  
@@ -139,8 +139,7 @@ http://www.consumerfinance.gov/learnmore.
 		Prime Rate: The variable rates shown here are accurate based on a 5% Prime Rate.		 
 		
 		
-			
-				
+							
 				 
 	 
 		a We add 10.24% to 20.24% to the Prime Rate to determine the Purchase/Balance Transfer APR. 
@@ -166,14 +165,6 @@ http://www.consumerfinance.gov/learnmore.
 				Variable rate APRs will not exceed 29.99%.
 							
 				
-			
- 
-		
-		
-						 
-			
-			
-			
 			
 	Citi® Double Cash Card Terms & Conditions
 	This offer is valid for new accounts only. You must be at least 18 years of age. If you're married, you may apply for a separate account.
