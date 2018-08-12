@@ -11,7 +11,7 @@ UDAP T&C
  
  Annual Percentage Rate (APR) for Purchases
   0% introductory APR for 15 months from date of account opening.   
-After that, your APR will be 14.99% to 24.99%, based on your creditworthiness. 
+After that, your APR will be 15.24% to 25.24%, based on your creditworthiness. 
  
  These APRs will vary with the market based on the Prime Rate.a 
  
@@ -22,7 +22,7 @@ After that, your APR will be 14.99% to 24.99%, based on your creditworthiness. 
  
  
  
- After that, your APR will be 14.99% to 24.99%, based on your creditworthiness. 
+ After that, your APR will be 15.24% to 25.24%, based on your creditworthiness. 
  
  
  These APRs will vary with the market based on the Prime Rate.a 
@@ -30,7 +30,7 @@ After that, your APR will be 14.99% to 24.99%, based on your creditworthiness. 
  
  
  
- APR for Cash Advances 26.74%
+ APR for Cash Advances 26.99%
  
  
  This APR will vary with the market based on the Prime Rate.b 
@@ -138,7 +138,7 @@ http://www.consumerfinance.gov/learnmore.
 		
 		 
 		
-		Prime Rate: The variable rates shown here are accurate based on a 4.75% Prime Rate.		 
+		Prime Rate: The variable rates shown here are accurate based on a 5% Prime Rate.		 
 		
 		
 			
@@ -192,6 +192,7 @@ Identity VerificationIMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW AC
 		and for any other uses permitted by law. If you ask us, we'll tell you whether or not we requested a credit bureau report and the 
 		names and addresses of any credit bureaus that provided us with such reports. From time to time, we may report negative information 
 		about your Card Account behavior, like delinquencies, to consumer reporting agencies.
+ 
 	Credit Information
 To receive a Card Account, you must meet our applicable criteria bearing on creditworthiness.
  
