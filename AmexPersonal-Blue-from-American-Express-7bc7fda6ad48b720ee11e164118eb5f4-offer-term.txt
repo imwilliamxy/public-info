@@ -26,7 +26,7 @@ Your due date is at least 25 days after the close of each billing period. We wil
 
 Plan Fee  (Fixed Finance Charge) 
 
-Up to 0.98% of each purchase moved into a plan based on the plan duration, the APR that would otherwise apply to the purchase and other factors.
+Up to 1% of each purchase moved into a plan based on the plan duration, the APR that would otherwise apply to the purchase and other factors.
 
 
 For Credit Card Tips from the Consumer Financial Protection Bureau
@@ -90,7 +90,7 @@ Notice to Delaware Residents: Service charges not in excess of those permitted b
 Blue from American Express® is issued by American Express National Bank. ©2018 American Express National Bank.
 
 
-POID CF2N:0001
+POID K00Y:9993
 
 BENEFIT TERMS
 The following benefits and services are subject to change or cancellation.
