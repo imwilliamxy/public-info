@@ -277,7 +277,8 @@ Auto Bill of Costco Membership FeeIf you are the Primary Member on your Costco m
 Identity VerificationIMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT - To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. This means that we will ask for your name, address, date of birth, and other information that will allow us to identify you when you open an account.In addition, the bank must obtain the business' legal name, its street address, and its taxpayer identification number. We may also ask to see your driver's license or other identifying documents; and obtain identification information about you or any employees you add to your account.
 Credit ReportsYou authorize us to get credit reports and other information about you and the Business from credit reportingagencies and other sources, for such purposes as: determining whether to issue you a Card Account, verifying your identity and that of the Business, administering, reviewing and renewing the Card Account, credit line increases or decreases, collection and other servicing of the Card Account, and offering other products and services and for any other uses permitted by law. If you ask us, we'll tell you whether or not we requested credit bureau reports and the names and addresses of any credit bureaus that provided us with such reports.From time to time, we may report Card Account information to credit reporting agencies.
 Credit Information
-If you are approved for a Card Account, a specific revolving credit line will be assigned based upon your credit report and/or the credit report of the Business and other information we may request. If you receive your Card and want to request a higher revolving credit line than issued, contact us. You understand that we may require that you submit additional documentation, such as the Business's financial statements, in order to process your request for a credit line increase. The Authorized Officer must be 18 years of age or older. 
+If you are approved for a Card Account, a specific revolving credit line will be assigned based upon your credit report and/or the credit report of the Business and other information we may request. If you receive your Card and want to request a higher revolving credit line than issued, contact us. You understand that we may require that you submit additional documentation, such as the Business's financial statements, in order to process your request for a credit line increase. The Authorized Officer must be 18 years of age or older.
+ 
 Card Agreement
 If you are approved for a Card Account, you'll receive a Card Agreement before you can use your Card Account. 
 The terms of the Card Agreement will take effect once you use your Card Account. Even if you do not use your Card Account, 
@@ -316,9 +317,3 @@ Taking legal action to recover Costco Cash Rewards redeemed because of such acti
 Some examples of fraud, misuse, abuse and suspicious activity include:
 Using your Card Account in an abusive manner for the primary purpose of acquiring Costco Cash Rewards 
 Using your Consumer Card Account other than primarily for personal, consumer or household purposes 
-			 
-				Close          	
-	
- 
- 
- 
