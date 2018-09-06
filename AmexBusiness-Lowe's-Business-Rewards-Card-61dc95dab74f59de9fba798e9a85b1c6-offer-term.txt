@@ -1,7 +1,7 @@
 INTEREST RATES AND INTEREST CHARGES
 Annual Percentage Rate (APR) for Purchases
 
-14.99% (Prime Rate + 9.99%), 16.99% (Prime Rate + 11.99%) or 19.99% (Prime Rate + 14.99%), based on your creditworthiness as determined at the time of account opening. This APR will vary with the market based on the Prime Rate.
+0% introductory APR for the first 6 months.After that, your APR will be 17.49% (Prime Rate + 12.49%), 21.49% (Prime Rate + 16.49%) or 26.49% (Prime Rate + 21.49%) based on your creditworthiness as determined at the time of account opening. This APR will vary with the market based on the Prime Rate.
 
 
 
@@ -70,7 +70,11 @@ Notice to Delaware Residents: Service charges not in excess of those permitted b
  
 Lowe's Business Rewards Card from American Express is issued by American Express National Bank. ©2018 American Express National Bank.Lowe's® and the gable design are registered trademarks of LF, LLC. All rights reserved.
 
-POID CG6P:0001
+POID GBP5:0001
+
+OFFER TERMS
+Welcome offer not available to applicants who have or have had this Card. We may also consider the number of American Express Cards you have opened and closed as well as other factors in making a decision on your welcome offer eligibility.
+Earn 5,000 Lowe's Business Rewards Points To be eligible to earn 5,000 Lowe's Business Rewards bonus points, you must use The Lowe's Business Rewards Card to complete $100 (the "Threshold Amount") of eligible purchases by the end of your first 30 days of Card Membership. You can earn 5,000 Lowe's Business Rewards points starting from the date your account is approved. In rare instances, your period to spend $100 may be shorter than 30 days if there is a delay in receiving your Card. Also, purchases may fall outside of the 30 day period in some cases, such as a delay in merchants submitting transactions to us or if the purchase date differs from the date you made the transaction. (For example, if you buy goods online, the purchase date may be the date the goods are shipped). Bonus points will appear on your Lowe's Business Rewards statement 8-12 weeks after you reach the Threshold Amount. If we in our sole discretion determine that you have engaged in abuse, misuse, or gaming in connection with the welcome offer in any way or that you intend to do so (for example, if you applied for one or more cards to obtain a welcome offer (s) that we did not intend for you; if you cancel or downgrade your account within 12 months after acquiring it; or if you cancel or return purchases you made to meet the Threshold Amount), we may not credit Lowe's Business Rewards points to your account. We may also cancel this Card account and other Card accounts you may have with us. Eligible purchases are purchases for goods and services minus returns and other credits. Eligible purchases do NOT include fees or interest charges, cash advances, purchases of travelers checks, purchases or reloading of prepaid cards, purchases of gift cards, person-to-person payments, or purchases of other cash equivalents. Additional terms and restrictions apply. Eligible purchases can be made by the Basic Card Member and any Additional Card Members on a single Card account. Additional Card Members on your account are not eligible for this offer. Your Card account must not be canceled or past due at the time of fulfillment of any offers. American Express reserves the right to modify or revoke offer at any time.
 
 BENEFIT TERMS
 The following benefits and services are subject to change or cancellation.
