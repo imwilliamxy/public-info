@@ -1,0 +1,235 @@
+{
+                              "contents": [
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["b9d73d28e0914610VgnVCM100000307882a2RCRD"]},
+                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
+                                    ],
+                              "cardTheme":   "false",
+                              "boxShadow":   false,
+                              "ctaType":    "link",
+                              "ctaColWidth": false,
+                              "newWindow":   false,
+                              "ctaType_2":    "link",
+                              "newWindow_2":   false,
+                              "textAlign":   "left",
+                              "textVerticalAlign":   "top",
+                              "noHorizontalPadding": false,
+                              "textEmphasis": false,
+                              "colorCode":   ""
+                            }
+                            
+                                               1. JOIN THE LOYALTY PROGRAM               
+                          
+                          
+                            
+                            
+                            {
+                              "contents": [
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["987d176231914610VgnVCM100000307882a2RCRD"]},
+                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
+                                    ],
+                              "cardTheme":   "false",
+                              "boxShadow":   false,
+                              "ctaType":    "link",
+                              "ctaColWidth": false,
+                              "newWindow":   false,
+                              "ctaType_2":    "link",
+                              "newWindow_2":   false,
+                              "textAlign":   "left",
+                              "textVerticalAlign":   "top",
+                              "noHorizontalPadding": false,
+                              "textEmphasis": false,
+                              "colorCode":   ""
+                            }
+                            
+                                               2. EARN POINTS               
+                          
+                          
+                            
+                            
+                            {
+                              "contents": [
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["0935176231914610VgnVCM100000307882a2RCRD"]},
+                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
+                                    ],
+                              "cardTheme":   "false",
+                              "boxShadow":   false,
+                              "ctaType":    "link",
+                              "ctaColWidth": false,
+                              "newWindow":   false,
+                              "ctaType_2":    "link",
+                              "newWindow_2":   false,
+                              "textAlign":   "left",
+                              "textVerticalAlign":   "top",
+                              "noHorizontalPadding": false,
+                              "textEmphasis": false,
+                              "colorCode":   ""
+                            }
+                            
+                                               3. REDEEM POINTS               
+                          
+                          
+                            
+                            
+                            {
+                              "contents": [
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["4fe8f33171914610VgnVCM100000307882a2RCRD"]},
+                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
+                                    ],
+                              "cardTheme":   "false",
+                              "boxShadow":   false,
+                              "ctaType":    "link",
+                              "ctaColWidth": false,
+                              "newWindow":   false,
+                              "ctaType_2":    "link",
+                              "newWindow_2":   false,
+                              "textAlign":   "left",
+                              "textVerticalAlign":   "top",
+                              "noHorizontalPadding": false,
+                              "textEmphasis": false,
+                              "colorCode":   ""
+                            }
+                            
+                                               4. ELITE MEMBERSHIP               
+                          
+                          
+                            
+                            
+                            {
+                              "contents": [
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["719ff33171914610VgnVCM100000307882a2RCRD"]},
+                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
+                                    ],
+                              "cardTheme":   "false",
+                              "boxShadow":   false,
+                              "ctaType":    "link",
+                              "ctaColWidth": false,
+                              "newWindow":   false,
+                              "ctaType_2":    "link",
+                              "newWindow_2":   false,
+                              "textAlign":   "left",
+                              "textVerticalAlign":   "top",
+                              "noHorizontalPadding": false,
+                              "textEmphasis": false,
+                              "colorCode":   ""
+                            }
+                            
+                                               5. REWARDING EVENTS                
+                          
+                          
+                            
+                            
+                            {
+                              "contents": [
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["78ff582db1914610VgnVCM100000307882a2RCRD"]},
+                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
+                                    ],
+                              "cardTheme":   "false",
+                              "boxShadow":   false,
+                              "ctaType":    "link",
+                              "ctaColWidth": false,
+                              "newWindow":   false,
+                              "ctaType_2":    "link",
+                              "newWindow_2":   false,
+                              "textAlign":   "left",
+                              "textVerticalAlign":   "top",
+                              "noHorizontalPadding": false,
+                              "textEmphasis": false,
+                              "colorCode":   ""
+                            }
+                            
+                                               6. CO-BRAND CREDIT CARDS               
+                          
+                          
+                            
+                            
+                            {
+                              "contents": [
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["19a6582db1914610VgnVCM100000307882a2RCRD"]},
+                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
+                                    ],
+                              "cardTheme":   "false",
+                              "boxShadow":   false,
+                              "ctaType":    "link",
+                              "ctaColWidth": false,
+                              "newWindow":   false,
+                              "ctaType_2":    "link",
+                              "newWindow_2":   false,
+                              "textAlign":   "left",
+                              "textVerticalAlign":   "top",
+                              "noHorizontalPadding": false,
+                              "textEmphasis": false,
+                              "colorCode":   ""
+                            }
+                            
+                                               7. MARRIOTT VACATION CLUB, MARRIOTT GRAND RESIDENCE CLUB, AND VISTANA SIGNATURE EXPERIENCES               
+                          
+                          
+                            
+                            
+                            {
+                              "contents": [
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["ebab5b17f1914610VgnVCM100000307882a2RCRD"]},
+                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
+                                    ],
+                              "cardTheme":   "false",
+                              "boxShadow":   false,
+                              "ctaType":    "link",
+                              "ctaColWidth": false,
+                              "newWindow":   false,
+                              "ctaType_2":    "link",
+                              "newWindow_2":   false,
+                              "textAlign":   "left",
+                              "textVerticalAlign":   "top",
+                              "noHorizontalPadding": false,
+                              "textEmphasis": false,
+                              "colorCode":   ""
+                            }
+                            
+                                               8. ADDITIONAL TERMS OF PARTICIPATION IN THE LOYALTY PROGRAM               
+                          
+                        
+                        
+                          
+                            
+                            
+                            {
+                              "contents": [
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
+                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["07cfbf36d2914610VgnVCM100000307882a2RCRD"]},
+                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
+                                    ],
+                              "cardTheme":   "false",
+                              "boxShadow":   false,
+                              "ctaType":    "link",
+                              "ctaColWidth": false,
+                              "newWindow":   false,
+                              "ctaType_2":    "link",
+                              "newWindow_2":   false,
+                              "textAlign":   "left",
+                              "textVerticalAlign":   "top",
+                              "noHorizontalPadding": false,
+                              "textEmphasis": false,
+                              "colorCode":   ""
+                            }
+                            
+                                      Effective August 18, 2018, the Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the “SPG Program”) (each a “Legacy Program”), that were previously operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the “Company”) as three separate programs, will function as one unified program (hereinafter, the “Loyalty Program”) while keeping their separate names for the time being for certain limited purposes.
+
+The Loyalty Program will operate under one set of terms and conditions as set out below unless otherwise expressly stated (the “Program Rules”).
+
+The Program Rules govern the Company’s relationship with members of the Loyalty Program (collectively, “Loyalty Program Members,” and individually, a “Loyalty Program Member,” “Member,” or “you”), including how Members manage their accounts, book reservations, achieve elite status, earn and redeem Loyalty Program points (“Points”) with participating hotels and properties (each a “Participating Property”), as well as with third party programs which have a business relationship with the Loyalty Program such as airline frequent flyer programs (“Partner Programs”).
+
+By opening a Loyalty Program membership account (“Account” or “Membership Account”), or by using either your membership card or the Membership Account number you were assigned (“Membership Number”) to receive and redeem benefits of the Loyalty Program, including, without limitation, Loyalty Program Points, you agree that:
+you have read and accept these Program Rules; and you have read and accept the Website Terms of Use which are incorporated by reference herein; and
+
+you consent to the collection, use, and disclosure of your personal data by the Company, the Loyalty Program, Participating Properties and Partner Programs, and their authorized third-party agents and licensees in accordance with the Company’s Privacy Statement.
+All Loyalty Program benefits, amenities, offers, awards and services are subject to availability and may be changed by the Company at any time without notice. The Company may terminate the Loyalty Program or any of the individual Legacy Programs, in whole or in part, with six (6) months' advance notice to all active Loyalty Members and with less than six months' notice in any jurisdiction if required to do so by applicable law. At the Company’s sole discretion, the Company may choose to substitute a similar loyalty program for any of the Legacy Programs or for the Loyalty Program at any time immediately upon notice to active Loyalty Members. If any of the Legacy Programs or the Loyalty Program are terminated, all unredeemed Points will be forfeited without any obligation or liability, and no Redemption Award claims or promotional Award claims will be honored after the conclusion of the notice period.
+
+These Program Rules supersede all previous terms and conditions applicable to the Legacy Programs or Loyalty Program. Except as otherwise expressly prohibited or limited by applicable laws, Company may at any time amend, modify or supplement these Program Rules, the structure for earning awards (“Awards,” and individually, an "Award") and Award levels at any time, with or without notice, even though such changes may affect the value of Points or Miles, or the ability to obtain certain Awards (collectively “Program Rules Changes”). Loyalty Members are responsible for remaining knowledgeable of the Program Rules and any Program Rule Changes. Your continued participation in the Loyalty Program will constitute your acceptance of any such Program Rule Changes.
