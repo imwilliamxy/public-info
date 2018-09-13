@@ -1,4 +1,3 @@
- 
 World of Hyatt
 Terms & Conditions
 (“Terms”)
@@ -13,22 +12,6 @@ For information about FIND experiences, including terms and conditions for earni
 
         
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -120,7 +103,7 @@ The Program, these Terms, and any disputes between you and Hyatt associated with
  
 VII. LIMITED OR NO PARTICIPATION BY CERTAIN PROPERTIES
  
-(a) Non-Participating Properties.  As used in these Terms, “hotel” or “resort” means any location that offers multiple rooms for overnight accommodations by more than one group of transient guest(s) in a single building or a series of inter-connected buildings on one property. Not every hotel or resort that is affiliated with Hyatt participates in the Program. At this time, the Cranwell Golf & Spa Resort is not participating in the Program and is not considered a Hyatt “hotel” or “resort” as used in these Terms. In addition, some non-hotel properties and other venues do not participate in the Program even though they are affiliated with Hyatt (e.g., exhale spas) – unless otherwise expressly specified in the terms of a particular offer related to any such non-participating property or venue.
+(a) Non-Participating Properties.  As used in these Terms, “hotel” or “resort” means any location that offers multiple rooms for overnight accommodations by more than one group of transient guest(s) in a single building or a series of inter-connected buildings on one property. Not every hotel or resort that is affiliated with Hyatt participates in the Program. At this time, the Cranwell Golf & Spa Resort is not participating in the Program and is not considered a Hyatt “hotel” or “resort” as used in these Terms. In addition, some non-hotel properties and other venues do not participate in the Program even though they are affiliated with Hyatt (e.g., exhale spas)  unless otherwise expressly specified in the terms of a particular offer related to any such non-participating property or venue.
  
 (b) Limited Participation & Oasis. Some properties and other venues that participate in the Program are not deemed a Hyatt “hotel” or “resort” for purposes of these Terms. These properties participate in the Program in a limited capacity as expressly set forth in these Terms or other communications. For example, Hyatt offers home rentals through its collaboration with Oasis Collections (“Oasis”), which is part of The Unbound Collection by Hyatt. Any residence, dwelling, lodging, or other property rented by Oasis to guest(s) for overnight accommodation is referred to in these Terms as an “Oasis Home” and collectively as “Oasis Homes.” Oasis Homes are individual, private residences and are not considered Hyatt “hotels” or “resorts” as used in these Terms. Oasis participates in the Program only in a limited capacity as expressly set forth in these Terms and other communications. While Oasis is part of the The Unbound Collection by Hyatt brand, Oasis Homes differ in how they participate in the Program from how hotels and resorts in The Unbound Collection by Hyatt participate. For complete details, please see the Appendices to these Terms.
  
@@ -158,23 +141,7 @@ Hyatt Hotels & Resorts encompasses hotels managed, franchised or leased by subsi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
-
-
 
      {{ !expanded ? '+' : '-' }} Appendix A - Points
     
@@ -214,7 +181,7 @@ I. Earning Points
  
 5. Base Points and Bonus Points; Eligible Rate. If a Member chooses to earn points for his/her stay, such Member will earn five (5) points for each whole U.S. dollar or U.S. dollar equivalent spent by the Member on an Eligible Rate. Such points will be considered “Base Points,” which means that they will be considered when calculating a Member’s progress towards elite status in the Program. Please see Appendix C  for a description of elite status and qualification requirements. A Member may also earn Base Points for payment of Eligible Incidental Charges and Eligible Non-Stay Charges, as each term is defined below. Except where expressly specified otherwise, all other points earned by a Member will be “Bonus Points.” Bonus Points include (without limitation) percentage bonuses awarded to Members with elite status (as described in Appendix C), points provided to a Member by Hyatt customer service, points earned through the Hyatt Credit Card, or by holding Qualifying Events (as defined and described in Appendix E ), points that are purchased or received by transfer or gift, and points earned through a promotional offer (unless the promotional offer expressly notes otherwise). Bonus Points may be redeemed for Program awards, but are not counted for the purposes of calculating a Member’s progress towards elite status. An “Eligible Rate” is defined as any room rate for a participating hotel, resort, or other property that is published by Hyatt (including rates found on hyatt.com without the application of a discount code, and Hyatt’s “Standard Rate,” “Volume Account Rates,” “Senior Citizen Rate,” and the monetary portion of any Points + Cash Award (as defined in Appendix B) or, for Miraval properties or Oasis Homes, published by Miraval or Oasis, respectively. When applying an Oasis Stay Credit (defined in Appendix B) to a room rate that otherwise qualifies as an Eligible Rate per the above definition, a Member will earn Base Points only on the portion of the room rate that exceeds the value of the Oasis Stay Credit(s) redeemed, if any. A portion of an Eligible Rate may reflect taxes, service charges, gratuities, and third-party charges for certain included items, and those costs may not be eligible for points. “Ineligible Rates” are all rates other than Eligible Rates and include Free Night Awards (as defined in Appendix B), complimentary nights awarded in connection with Miraval’s Authentic Circle program, rooms booked on third-party online retailers (such as Expedia.com, Travelocity.com, Hotels.com, Booking.com, Priceline.com, Tripadvisor.com, Inspirato.com, home-sharing sites, or any other third-party online/mobile travel portal or bookings made directly on Google.com and TripAdvisor Instant Book), traditional wholesale rates (examples include, without limitation, GOGO Worldwide Vacations, Pleasant Holidays, Tourico, and Hotelbeds), airline crew rates, airline employee rates, travel agency employee rates, media rates, Club at the Hyatt discount stays, Hyatt employee or employee family or friends-and-family discount rates, airline interrupted-trip vouchers, or contracted rooms. (A “contracted room” is a room that has been reserved pursuant to a written and executed agreement between a hotel or resort and a corporation, government agency, or individual for a negotiated room rate in exchange for an agreed upon number of rooms to be rented for an extended period of time.) Ineligible Rates also include (i) any night stayed at a Hyatt Residence Club resort pursuant to a Member’s Hyatt Residence Club ownership interest or any night stayed at a Miraval villa pursuant to a Member’s ownership interest in such villa (i.e., nights for which the Member does not pay an Eligible Rate as defined above) and (ii) any villa or residence rented (or occupied via authorization from the owner) at a Point Property except for nights where a Member rents the villa or residence directly from Hyatt through hyatt.com, or, for Oasis Homes, through Oasis, and pays an Eligible Rate. If you are booking through a travel agent or other third party and do not know if you are booking an Eligible Rate, please ask your travel agent or the third party about the type of booking (s)he is making for you and type of rate to be paid. Points awarded for stays at a Point Property outside the U.S. are based on local currency converted to U.S. dollars.
  
-6. Incidental Charges. Members may earn points on Eligible Incidental Charges, even when paying Ineligible Rates. Five (5) Base Points will be awarded for each whole U.S. dollar or U.S. dollar equivalent paid by a Member for Eligible Incidental Charges that are charged to the Member’s room or guest folio. “Eligible Incidental Charges” vary depending on the applicable hotel, resort, or other participating property, but generally include resort/destination fee, Oasis housekeeping or additional-cleaning fees (where applicable), spa, food, beverage and lounge expenditures (except at outlets not operated by the hotel or resort) and other charges, such as laundry, dry cleaning, and telephone. Points will not be awarded on alcoholic beverage purchases in certain jurisdictions/countries or at certain properties. Eligible Incidental Charges exclude any charge not charged to a Member’s room or guest folio or any charge paid via "resort credit" or similar credit balance provided to a guest. Eligible Incidental Charges also exclude – and, unless specified in a specific promotion, points are not awarded for – retail outlet charges, service charges, taxes, casino charges, incentive travel awards, gratuities, pay-per-view in-room movies, gift certificates/gift cards, or vouchers, or for services provided by outside vendors. Points will not be awarded for taxes or meeting or event charges charged to Member’s room or guest folio. When staying at a Hyatt Residence Club resort, a Member can earn points for Eligible Incidental Charges incurred at a nearby Hyatt location when charged back to the Member’s guest folio. When a Member has chosen to earn Partner Loyalty Points or M life Rewards Tier Credit in lieu of points, charges that would otherwise qualify as Eligible Incidental Charges charged to the Member’s room or guest folio will not earn any Base Points or Bonus Points.
+6. Incidental Charges. Members may earn points on Eligible Incidental Charges, even when paying Ineligible Rates. Five (5) Base Points will be awarded for each whole U.S. dollar or U.S. dollar equivalent paid by a Member for Eligible Incidental Charges that are charged to the Member’s room or guest folio. “Eligible Incidental Charges” vary depending on the applicable hotel, resort, or other participating property, but generally include resort/destination fee, Oasis housekeeping or additional-cleaning fees (where applicable), spa, food, beverage and lounge expenditures (except at outlets not operated by the hotel or resort) and other charges, such as laundry, dry cleaning, and telephone. Points will not be awarded on alcoholic beverage purchases in certain jurisdictions/countries or at certain properties. Eligible Incidental Charges exclude any charge not charged to a Member’s room or guest folio or any charge paid via "resort credit" or similar credit balance provided to a guest. Eligible Incidental Charges also exclude  and, unless specified in a specific promotion, points are not awarded for  retail outlet charges, service charges, taxes, casino charges, incentive travel awards, gratuities, pay-per-view in-room movies, gift certificates/gift cards, or vouchers, or for services provided by outside vendors. Points will not be awarded for taxes or meeting or event charges charged to Member’s room or guest folio. When staying at a Hyatt Residence Club resort, a Member can earn points for Eligible Incidental Charges incurred at a nearby Hyatt location when charged back to the Member’s guest folio. When a Member has chosen to earn Partner Loyalty Points or M life Rewards Tier Credit in lieu of points, charges that would otherwise qualify as Eligible Incidental Charges charged to the Member’s room or guest folio will not earn any Base Points or Bonus Points.
  
 7. Meetings/Events. When attending a meeting, event, or convention, all charges made by Members that are placed on a group “master account” or “posting master” (to be paid by a convention, association, group, or other event organizer) will not be eligible for points. Only individual Eligible Incidental Charges for which the Member personally pays or that are directly billed back to Member’s company or organization for payment (and are not settled to a group master account/posting master) are eligible for points. Direct billing may not be available in some locations.
  
@@ -242,7 +209,7 @@ Members can earn five hundred (500) Bonus Points for each qualifying rental at p
  
 II. Earning Credit with Partner Programs
  
-(a)    Electing Partner Loyalty Points. When paying an Eligible Rate for a night at a Park Hyatt, Miraval, Grand Hyatt, Hyatt Regency, Hyatt, Andaz, Hyatt Centric, The Unbound Collection by Hyatt (excluding Oasis Homes), Hyatt Place, Hyatt House, Hyatt Ziva, or Hyatt Zilara hotel or resort, Members can – in lieu of points – select to earn miles, points, or credit (“Partner Loyalty Points”) in the loyalty program of other companies with which Hyatt contracts. “Partner Loyalty Points” is used in these Terms to refer to all partner currency in a partner program, which may be referred to in the applicable program by any name or designation, including, without limitation, miles, kilometers, and points. (The term “Partner Loyalty Points” does not include M life Rewards Tier Credits, which are discussed in Appendix D.) To earn Partner Loyalty Points in a partner program, you must be both a World of Hyatt Member and a member of the applicable partner’s loyalty program at the time of the stay. Refer to world.hyatt.com for a complete list of participating partners.
+(a)    Electing Partner Loyalty Points. When paying an Eligible Rate for a night at a Park Hyatt, Miraval, Grand Hyatt, Hyatt Regency, Hyatt, Andaz, Hyatt Centric, The Unbound Collection by Hyatt (excluding Oasis Homes), Hyatt Place, Hyatt House, Hyatt Ziva, or Hyatt Zilara hotel or resort, Members can  in lieu of points  select to earn miles, points, or credit (“Partner Loyalty Points”) in the loyalty program of other companies with which Hyatt contracts. “Partner Loyalty Points” is used in these Terms to refer to all partner currency in a partner program, which may be referred to in the applicable program by any name or designation, including, without limitation, miles, kilometers, and points. (The term “Partner Loyalty Points” does not include M life Rewards Tier Credits, which are discussed in Appendix D.) To earn Partner Loyalty Points in a partner program, you must be both a World of Hyatt Member and a member of the applicable partner’s loyalty program at the time of the stay. Refer to world.hyatt.com for a complete list of participating partners.
  
 (b) Earning Rates. Rates for earning Partner Loyalty Points vary by partner. All partners award 500 Partner Loyalty Points when choosing Partner Loyalty Points for a stay during which the Member pays an Eligible Rate for at least one (1) night, except where the Program Site expressly specifies otherwise for a particular partner.
  
@@ -304,23 +271,7 @@ Details regarding Hyatt’s relationship with MGM Resorts International, includi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
-
-
 
      {{ !expanded ? '+' : '-' }} Appendix B - Awards and Program Benefits Available to All Members
     
@@ -331,8 +282,6 @@ How Members can redeem points for awards in the Program;
 The awards that are available to all Members;
 The special terms applicable to each of those awards; and
 Gifting awards to another person
-
-
 Table of Contents
 I.  Awards and Benefits Generally
 II.  Redeeming Free Night Awards, Room Upgrade Awards, Points + Cash Awards, or Oasis Stay Credits
@@ -407,7 +356,7 @@ B. Redeeming a 5-Brand Free Night Award. A 5-Brand Free Night Award is redeemab
  
 4. Club Free Night Awards: Free Night Awards for accommodations with Club lounge access (“Club Free Night Awards”) are only valid for standard Club lounge-access rooms, as defined by each participating hotel or resort, subject to availability. Club Free Night Awards are redeemable only at Hyatt hotels and resorts that offer accommodations with Club lounge access and are not valid at any Hyatt Ziva, Hyatt Zilara, Miraval, Hyatt Residence Club, Hyatt Place, or Hyatt House hotel or resort, any Oasis Home, or any M life Rewards destination.
  
-5. Additional Free Night Awards Based on Completion of Tier-Qualifying Nights or Earning of Base Points. The Program may offer additional Free Night Awards that are awarded based on the number of Base Points that are earned or Tier-Qualifying Nights (as defined in Appendix C) that are completed by a Member in a Calendar Year. There are currently two of these awards – the Category 1-4 Free Night Award and Category 1-7 Free Night Award– each of which is described in more detail in Appendix C.
+5. Additional Free Night Awards Based on Completion of Tier-Qualifying Nights or Earning of Base Points. The Program may offer additional Free Night Awards that are awarded based on the number of Base Points that are earned or Tier-Qualifying Nights (as defined in Appendix C) that are completed by a Member in a Calendar Year. There are currently two of these awards  the Category 1-4 Free Night Award and Category 1-7 Free Night Award each of which is described in more detail in Appendix C.
  
 (c) Room Upgrade Awards
  
@@ -456,23 +405,7 @@ Avis Rent-A-Car free day awards are valid for the rental of an intermediate-size
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
-
-
 
      {{ !expanded ? '+' : '-' }} Appendix C - Tiers of Elite Status
     
@@ -557,7 +490,7 @@ Explorist Club Lounge Access Awards can be tracked through the “My Awards” s
  
 (e) 72-Hour Room Availability (Restrictions and Blackout Dates Apply): Explorists will be guaranteed a room at Hyatt hotels (subject to the exclusions detailed below) for their own personal use when making a paid reservation directly with Hyatt at least seventy-two (72) hours prior to arrival (local time for the applicable hotel) that is guaranteed with a valid credit card. All reservations are subject to hotel policies. This guarantee is only applicable when the hotel is otherwise entirely sold out (including all suites), is valid for one (1) standard guest room, and is subject to the applicable hotel’s reservation requirements (e.g., minimum length of stay, special packages, and meal plans). Rooms secured under this provision are only available at the Standard Rate. Negotiated rates or other group, promotional, or discounted rates do not apply and Free Night Awards may not be redeemed for a room secured pursuant to this benefit. This guarantee is not valid during any period of extraordinary room demand and is subject to blackout periods set out by each hotel. Contracted last-room-available rates do not apply to rooms secured under this provision. Guaranteed availability for Explorists is not valid at M life Rewards destinations, Oasis Homes, Hyatt Residence Club resorts, any Hyatt hotel with a casino or any Hyatt resort. (PLEASE NOTE: The distinction between a Hyatt resort and a Hyatt hotel may not always be obvious and Members are encouraged to call Hyatt’s central reservation service for help determining a hotel’s or resort’s designation. Please visit hyatt.com for contact information.)
  
-(f) Earn a Free Night Award – Category 1-4 Hyatt Hotel or Resort: Upon completing thirty (30) Tier-Qualifying Nights or earning fifty thousand (50,000) Base Points in a Calendar Year, Members will be provided with one (1) standard-room Free Night Award redeemable at a category 1-4 Hyatt hotel or resort (“Category 1-4 Free Night Award”). (A list of Hyatt hotels and resorts, sorted by category, can be found at world.hyatt.com). The Category 1-4 Free Night Award is valid for one hundred and eighty (180) days from the date of issuance and must be redeemed for a reservation with a checkout date before the expiration of the award. (Category 1-4 Free Night Awards issued prior to January 1, 2018 are valid for one hundred and twenty (120) days from the date of issuance.) This award is available only to Members who complete the qualifying number of Tier-Qualifying Nights or earn the qualifying number of Base Points starting from launch of the  Program on March 1, 2017. While this award requires the same Tier-Qualifying Night and Base Point accrual requirements as are required to achieve Explorist status, the Category 1-4 Free Night Award is not provided as a benefit of Explorist status and a Category 1-4 Free Night Award will not be provided to Members who receive Explorist status through any means other than satisfaction of the Tier-Qualifying Night or Base Point accrual requirements (e.g., Members who receive Explorist status as part of the migration from the Hyatt Gold Passport program to the Program). Redemption of Category 1-4 Free Night Award is subject to standard-room availability at the selected hotel or resort and to all redemption terms generally applicable to Award Reservations as set out in the section of these Terms titled “Redeeming Free Night Awards, Room Upgrade Awards, or Points + Cash Awards." Category 1-4 Free Night Award is not valid at M life Rewards destinations, Oasis Homes, or any Hyatt hotel or resort classified by Hyatt (in its sole discretion) as category 5 or higher or not included in the category 1-7 classification system. Hyatt reserves the right to reclassify any hotel or resort at any time for any reason in its sole discretion. Other Free Night Awards, including those valid at category 1-4 hotels and resorts, may have different expiration and other applicable terms.
+(f) Earn a Free Night Award  Category 1-4 Hyatt Hotel or Resort: Upon completing thirty (30) Tier-Qualifying Nights or earning fifty thousand (50,000) Base Points in a Calendar Year, Members will be provided with one (1) standard-room Free Night Award redeemable at a category 1-4 Hyatt hotel or resort (“Category 1-4 Free Night Award”). (A list of Hyatt hotels and resorts, sorted by category, can be found at world.hyatt.com). The Category 1-4 Free Night Award is valid for one hundred and eighty (180) days from the date of issuance and must be redeemed for a reservation with a checkout date before the expiration of the award. (Category 1-4 Free Night Awards issued prior to January 1, 2018 are valid for one hundred and twenty (120) days from the date of issuance.) This award is available only to Members who complete the qualifying number of Tier-Qualifying Nights or earn the qualifying number of Base Points starting from launch of the  Program on March 1, 2017. While this award requires the same Tier-Qualifying Night and Base Point accrual requirements as are required to achieve Explorist status, the Category 1-4 Free Night Award is not provided as a benefit of Explorist status and a Category 1-4 Free Night Award will not be provided to Members who receive Explorist status through any means other than satisfaction of the Tier-Qualifying Night or Base Point accrual requirements (e.g., Members who receive Explorist status as part of the migration from the Hyatt Gold Passport program to the Program). Redemption of Category 1-4 Free Night Award is subject to standard-room availability at the selected hotel or resort and to all redemption terms generally applicable to Award Reservations as set out in the section of these Terms titled “Redeeming Free Night Awards, Room Upgrade Awards, or Points + Cash Awards." Category 1-4 Free Night Award is not valid at M life Rewards destinations, Oasis Homes, or any Hyatt hotel or resort classified by Hyatt (in its sole discretion) as category 5 or higher or not included in the category 1-7 classification system. Hyatt reserves the right to reclassify any hotel or resort at any time for any reason in its sole discretion. Other Free Night Awards, including those valid at category 1-4 hotels and resorts, may have different expiration and other applicable terms.
  
 (g) Special Reservation Phone Line : Explorists have access to a Hyatt reservation telephone line exclusively for use by Explorists. Explorists can find contact information for the dedicated reservation line by logging into their account.
  
@@ -589,7 +522,7 @@ V. Globalist Status
  
 Complimentary Suite Upgrade Awards can be tracked through the “My Awards” section of the Member’s account. A Member must redeem a Complimentary Suite Upgrade Award when making the underlying reservation. Complimentary Suite Upgrade Awards are not valid at any of the Suite Award Ineligible Properties or Hyatt Residence Club hotels or resorts. Complimentary Suite Upgrade Awards are redeemable only at participating Hyatt hotels and resorts that offer suite accommodations (subject to the exclusions set forth below). For purposes of this award, a suite provides for one-bedroom accommodations.  Complimentary Suite Upgrade Awards are only valid for standard suites, defined as each participating hotel’s or resort’s introductory suite category, and are subject to availability. There are a limited number of standard suites available at each hotel and resort. Complimentary Suite Upgrade Awards cannot be redeemed for premium suites (i.e., any Specialty, Premier, Presidential or Diplomatic Suites or similar suite categories), as designated by the applicable hotel or resort. Complimentary Suite Upgrade Awards are redeemable only where the designated suite to be reserved is available for the entire length of the Member’s stay.  Complimentary Suite Upgrade Awards are valid on nights for which the Member has paid an Eligible Rate or has redeemed points for a standard-room Free Night Award, a Club Free Night Award, or a Points + Cash Award, up to a maximum of seven (7) consecutive nights. Not valid in connection with any Free Night Award other than those identified above, including, without limitation, Hyatt Credit Card premium and anniversary Free Night Awards, 5-brand Free Night Awards, Category 1-7 Free Night Awards (defined below), or any other promotional Free Night Award. Complimentary Suite Upgrade Awards are not redeemable in connection with hotels or resorts that have not yet opened when the Member makes his/her reservation, even if reservations for such hotel or resort are otherwise being accepted.
  
-(i) Earn a Free Night Award – Category 1-7 Hyatt Hotel or Resort Upon achieving (or re-achieving) Globalist status by satisfying the Tier-Qualifying Night or Base Point accrual requirements detailed above, Member will be provided with one (1) standard-room Free Night Award redeemable at a category 1-7 Hyatt hotel or resort (“Category 1-7 Free Night Award”). (A list of Hyatt hotels and resorts, sorted by category, can be found at world.hyatt.com). The Category 1-7 Free Night Award is valid for one hundred and eighty (180) days from the date of issuance and must be redeemed for a reservation with a checkout date before the expiration of the award. (Category 1-7 Free Night Awards issued prior to January 1, 2018, are valid for one hundred and twenty (120) days from the date of issuance.) This award is available only to Members who complete the qualifying number of Tier-Qualifying Nights or earn the qualifying number of Base Points starting from launch of the Program on March 1, 2017. While this award requires the same Tier-Qualifying Night and Base Point accrual requirements as are required to achieve Globalist status, the Category 1-7 Free Night Award is not provided as a benefit of Globalist status and a Category 1-7 Free Night Award will not be provided to Members who receive Globalist status through any means other than satisfaction of the Tier-Qualifying Night or Base Point accrual requirements (e.g., Members who receive Globalist status as part of the migration from the legacy Hyatt Gold Passport program to this Program). Redemption of a Category 1-7 Free Night Award is subject to standard-room availability at the selected hotel or resort and to all redemption terms generally applicable to Award Reservations as set out in the section of these Terms titled “Redeeming Free Night Awards, Room Upgrade Awards, or Points + Cash Awards.” Category 1-7 Free Night Award is not valid at M life Rewards destinations, Oasis Homes, or any property that is not included by Hyatt (in its sole discretion) in the category 1-7 classification system. Other Free Night Awards, including those valid at category 1-7 hotels and resorts, may have different expiration and other applicable terms.
+(i) Earn a Free Night Award  Category 1-7 Hyatt Hotel or Resort Upon achieving (or re-achieving) Globalist status by satisfying the Tier-Qualifying Night or Base Point accrual requirements detailed above, Member will be provided with one (1) standard-room Free Night Award redeemable at a category 1-7 Hyatt hotel or resort (“Category 1-7 Free Night Award”). (A list of Hyatt hotels and resorts, sorted by category, can be found at world.hyatt.com). The Category 1-7 Free Night Award is valid for one hundred and eighty (180) days from the date of issuance and must be redeemed for a reservation with a checkout date before the expiration of the award. (Category 1-7 Free Night Awards issued prior to January 1, 2018, are valid for one hundred and twenty (120) days from the date of issuance.) This award is available only to Members who complete the qualifying number of Tier-Qualifying Nights or earn the qualifying number of Base Points starting from launch of the Program on March 1, 2017. While this award requires the same Tier-Qualifying Night and Base Point accrual requirements as are required to achieve Globalist status, the Category 1-7 Free Night Award is not provided as a benefit of Globalist status and a Category 1-7 Free Night Award will not be provided to Members who receive Globalist status through any means other than satisfaction of the Tier-Qualifying Night or Base Point accrual requirements (e.g., Members who receive Globalist status as part of the migration from the legacy Hyatt Gold Passport program to this Program). Redemption of a Category 1-7 Free Night Award is subject to standard-room availability at the selected hotel or resort and to all redemption terms generally applicable to Award Reservations as set out in the section of these Terms titled “Redeeming Free Night Awards, Room Upgrade Awards, or Points + Cash Awards.” Category 1-7 Free Night Award is not valid at M life Rewards destinations, Oasis Homes, or any property that is not included by Hyatt (in its sole discretion) in the category 1-7 classification system. Other Free Night Awards, including those valid at category 1-7 hotels and resorts, may have different expiration and other applicable terms.
  
 (j) Additional Milestone Benefits: Globalists will receive additional benefits for completing seventy (70), eighty (80), ninety (90), and one hundred (100) Tier-Qualifying Nights during a Calendar Year. For each of these milestones, a Globalist will receive his or her choice of either: (a) ten thousand (10,000) Bonus Points or (b) one (1) Complimentary Suite Upgrade Award. A Member may receive a maximum of four (4) such benefits during any Calendar Year.
  
@@ -631,23 +564,7 @@ A Lifetime Globalist will receive his or her four (4) Complimentary Suite Upgrad
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
-
-
 
      {{ !expanded ? '+' : '-' }} Appendix D - MGM Resorts International Relationship
     
@@ -696,20 +613,12 @@ When staying as a registered guest at an M life Rewards destination, a Member wi
 IV. Earning Program Points at Participating M life Rewards Destinations
  
 (a) Qualifying Expenditures. “M life-Eligible Room Spend” means the room rate charged to a Member for any M life-Eligible Night. “M life-Eligible Incidental Spend” means any incidental charges charged directly to the Member’s room/guest folio during a stay at an M life Rewards destination. Casino charges, taxes, gratuities, and charges at any retail location within an M Life Rewards destination are not M life-Eligible Incidental Spend and will not be eligible to earn points under any circumstances. Members may receive points on M life-Eligible Incidental Spend, regardless of whether their stay at the M life Rewards destination satisfies the definition of an M life-Eligible Night. Members may only earn points on a maximum of $5,000 of M life-Eligible Incidental Spend, in addition to points earned on any M life-Eligible Room Spend. M life-Eligible Room Spend and M life-Eligible Incidental Spend are referred to collectively in these Terms as “M life-Eligible Spend.”
-
-
 (b) Points Earned. Members may earn points on M life-Eligible Spend at participating M life Rewards destination. Members must provide both their Program and M life Rewards membership numbers at the time of check-in (or request retroactive credit as set forth in Section VI below). If a Member chooses to receive points in the Program, such Member will earn five (5) Base Points for each whole U.S. dollar or U.S. dollar equivalent of M life-Eligible Spend spent by the Member. Member must be a registered guest at the time the M life-Eligible Spend charges are incurred, unless otherwise specifically stated as part of a promotion or special offer. Discoverists, Explorists, and Globalists who choose to receive points for an M life-Eligible Night will also receive their respective Program point bonuses. In order for a Member to receive points, the bill for the M life-Eligible Spend charges must be in that Member’s name and the Member must personally pay for all charges (i.e., the charges must be paid by the Member in cash, using a payment device for which the Member is the named account holder or an authorized signatory, or billed back to Member’s company or organization for payment and not settled to a master account/posting master). Members will only receive points for qualifying charges after the Member has checked out of the applicable M life Rewards destination.
-
-
 (c) Multiple Rooms. A Member may earn points for up to three (3) rooms per night (Member’s room and two (2) additional rooms) within the same M life Rewards destination. The Member must be a registered guest, occupy at least one of the rooms, and, to earn points, each room must otherwise satisfy the definition of M life-Eligible Night set forth above. The Member will earn Base Points for M life-Eligible Spend on each of the rooms (subject to the $5,000 maximum on M life-Eligible Incidental Spend), but the Member will only earn a Tier-Qualifying Night(s) for one (1) room. The occupant(s) of the additional room(s) will not receive points or M life Rewards Tier Credits.
-
-
 (d) No Qualifying Events. Meetings and/or events booked and held at M life Rewards destination are not Qualifying Events pursuant to Appendix E and are not eligible to earn Bonus Points or credit towards elite status in the Program.
 
 V. Earning M life Rewards Tier Credits When Staying at a Hyatt Hotel or Resort
-
-
-When paying an Eligible Rate for a night at a Park Hyatt, Miraval, Grand Hyatt, Hyatt Regency, Hyatt, Andaz, Hyatt Centric, The Unbound Collection by Hyatt (excluding Oasis Homes), Hyatt Place, Hyatt House, Hyatt Ziva, or Hyatt Zilara hotel or resort, Members who are also a member of M life Rewards program can – in lieu of earning points or Partner Loyalty Points – elect to earn “M life Rewards Tier Credits” in the M life Rewards program. Members staying at Grand Hyatt Macau, at a Hyatt Residence Club resort, or at an Oasis Home may not earn M life Rewards Tier Credits for a stay. M life Rewards Tier Credits are not Partner Loyalty Points as defined in Appendix A to these Terms. Points earned in the Program are not eligible for conversion into M life Rewards Tier Credits. 
+When paying an Eligible Rate for a night at a Park Hyatt, Miraval, Grand Hyatt, Hyatt Regency, Hyatt, Andaz, Hyatt Centric, The Unbound Collection by Hyatt (excluding Oasis Homes), Hyatt Place, Hyatt House, Hyatt Ziva, or Hyatt Zilara hotel or resort, Members who are also a member of M life Rewards program can  in lieu of earning points or Partner Loyalty Points  elect to earn “M life Rewards Tier Credits” in the M life Rewards program. Members staying at Grand Hyatt Macau, at a Hyatt Residence Club resort, or at an Oasis Home may not earn M life Rewards Tier Credits for a stay. M life Rewards Tier Credits are not Partner Loyalty Points as defined in Appendix A to these Terms. Points earned in the Program are not eligible for conversion into M life Rewards Tier Credits. 
 
 VI. Requesting Retroactive Credit
  
@@ -722,8 +631,6 @@ VII. Redeeming Program Awards for Accommodations at M life Rewards Destinations
  Members may redeem points for a standard-room Free Night Award at an M life Rewards destination by visiting world.hyatt.com or by contacting Hyatt’s central reservation service. (Please see hyatt.com for contact information.) Free Night Awards may not be booked through MGM, an M life Rewards destination, or any other non-Hyatt channel. Room inventory available for Free Night Award redemption at participating M life Rewards destinations may be limited and, for Free Night Awards, blackout dates may apply. Resort fees, where charged by the applicable M life Rewards destination, apply to all Free Night Awards at participating M life Rewards destinations. Resort fee values and resort fee inclusions may vary by M life Rewards destination. Resort fee inclusions may be found on the resort’s page on Hyatt.com or by calling the M life Rewards destination directly. Free Night Awards redeemed for accommodations at M life Rewards destination are subject to all terms applicable to Award Reservations and standard-room Free Night Awards, respectively, all as set forth in Appendix B to these Terms. 
  
 VIII. Program Benefits and Services at Participating M life Rewards Destinations
-
-
 In-hotel Benefits offered to Members staying at Hyatt hotels and resorts are not offered when a Member stays at an M life Rewards destination.
 
 IX. Tier Reciprocity
@@ -743,8 +650,6 @@ Discoverist 
 Pearl Membership
 Membership
 Sapphire Membership
-
-
 (b) Program Reciprocity for M life Rewards Members. M life Rewards members may receive a reciprocal Program membership tier by visiting https://www.mlife.com/en/overview/preferred-partners.html and following the instructions described on that page. A reciprocal Program membership tier may only be provided as described above and may not be provided through other Hyatt or M life channels. Reciprocal Program status will be valid for at least one calendar year.
  
 The following table illustrates the reciprocal Program tier offered to M life Rewards members:
@@ -770,23 +675,7 @@ Membership
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
-
-
 
      {{ !expanded ? '+' : '-' }} Appendix E - Meetings and Events
     
@@ -876,9 +765,3 @@ $1,000 USD Credit
 
  
 When a Member redeems a Future Meeting Credit award, the corresponding number of points for that award will be automatically deducted from Member’s account within three (3) days of redemption. Future Meetings Credits may only be redeemed for a scheduled event and must be redeemed before the bill for such event has been fully paid. Future Meeting Credit(s) will be credited to the bill for the master account/posting master for the event on the day of departure. Any remaining amounts owed for the event after the Future Meeting Credit is applied are the responsibility of the party who contracted for the event. Bonus Points earned for a Qualifying Event may not be redeemed for a Future Meeting Credit towards that same Qualifying Event. In the event that the total amount of any Future Meeting Credit(s) redeemed exceeds the total amount of the master account/posting master bill for the applicable event, the remaining Future Meeting Credit will be forfeited; no cash or credit will be given for any such unused portion of a Future Meeting Credit. Future Meeting Credits may not be used as a deposit for an event. Future Meeting Credits may only be used as a credit toward a final bill, or, for fully pre-paid events, towards the final payment.
-    
-
-
-
-
-
