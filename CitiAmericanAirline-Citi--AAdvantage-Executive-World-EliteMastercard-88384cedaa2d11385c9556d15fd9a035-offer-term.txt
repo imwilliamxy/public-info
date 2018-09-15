@@ -1,6 +1,6 @@
 *Pricing
 
-The standard variable APR for purchases is 17.49% to 25.49% based on your creditworthiness. Balance transfers also are subject to the standard purchase APR. The standard variable APR for cash advances is 26.99%. The variable Penalty APR is up to 29.99% and may be applied if you make a late payment or make a payment that is returned. The annual fee for this card is $450. Minimum interest charge — $0.50. Fee for Foreign Purchases — None. Cash advance fee — either $10 or 5% of the amount of each cash advance, whichever is greater. Balance transfer fee — either $5 or 3% of the amount of each transfer, whichever is greater.↩
+The standard variable APR for purchases is [TPR1] to [TPR5] based on your creditworthiness. Balance transfers also are subject to the standard purchase APR. The standard variable APR for cash advances is [SVCA-APR]. The variable Penalty APR is up to [VDR] and may be applied if you make a late payment or make a payment that is returned. The annual fee for this card is $450. Minimum interest charge — $0.50. Fee for Foreign Purchases — None. Cash advance fee — either $10 or 5% of the amount of each cash advance, whichever is greater. Balance transfer fee — either $5 or 3% of the amount of each transfer, whichever is greater.↩
 
 
 
