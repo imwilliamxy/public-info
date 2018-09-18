@@ -127,7 +127,7 @@ http://www.consumerfinance.gov/learnmore.
  
  	
 		
-		 How We Will Calculate Your alance: We use a method called "daily balance (including current transactions)."
+		 How We Will Calculate Your Balance: We use a method called "daily balance (including current transactions)."
 		
 		Loss of Introductory APR: We may end your introductory APR and apply the Penalty APR if you make a late payment.
 		
