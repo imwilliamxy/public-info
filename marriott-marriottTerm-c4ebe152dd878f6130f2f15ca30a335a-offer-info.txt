@@ -1,11 +1,4 @@
-{
-                               "contents": [{
-                               "type": "metadata",
-                               "categories": ["/Loyalty/Metadata/Terms and Conditions"]
-                               }],
-                               "textColor": ""
-                            }
-                                Loyalty Program Terms & Conditions  
+Loyalty Program Terms & Conditions  
                           
                         
                         
@@ -16,201 +9,41 @@
                         
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["b9d73d28e0914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                                1. JOIN THE LOYALTY PROGRAM               
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["987d176231914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                                2. EARN POINTS               
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["0935176231914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                                3. REDEEM POINTS               
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["4fe8f33171914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                                4. ELITE MEMBERSHIP               
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["719ff33171914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                                5. REWARDING EVENTS                
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["78ff582db1914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                                6. CO-BRAND CREDIT CARDS               
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["19a6582db1914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                                7. MARRIOTT VACATION CLUB, MARRIOTT GRAND RESIDENCE CLUB, AND VISTANA SIGNATURE EXPERIENCES               
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["ebab5b17f1914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                                8. ADDITIONAL TERMS OF PARTICIPATION IN THE LOYALTY PROGRAM               
                           
@@ -218,26 +51,6 @@
                         
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["07cfbf36d2914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                       Effective August 18, 2018, the Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the “SPG Program”) (each a “Legacy Program”), that were previously operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the “Company”) as three separate programs, will function as one unified program (hereinafter, the “Loyalty Program”) while keeping their separate names for the time being for certain limited purposes.
 
@@ -263,26 +76,6 @@ These Program Rules supersede all previous terms and conditions applicable to th
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"false","featuredRecords":["7825bf36d2914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["7efa7d0f23914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                    Notice About Combining Multiple Accounts
      A Member with membership accounts in more than one Legacy Program will no longer be able to link these accounts, transfer Points across accounts, or have the elite status matched across Legacy Programs. The accounts will remain separate until the Member chooses to combine them into a single membership account with one number, one status, and one Points balance. For more details see Combine Accounts  and helpful Frequently Asked Questions.          
                           
@@ -296,50 +89,10 @@ These Program Rules supersede all previous terms and conditions applicable to th
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"false","featuredRecords":["aa4cdf11eb914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                    1.JOIN THE LOYALTY PROGRAM           
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["d8565d0265e14610VgnVCM100000307882a2RCRD","cd085d0265e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     1.1Eligibility.      Membership in the Loyalty Program is free and available to any individual who: (a) possesses the legal authority to agree to the Program Rules; (b) resides in a jurisdiction which legally permits participation in the Loyalty Program; (c) is not a resident of Cuba, Iran, North Korea, Sudan, Syria, or the Crimea region of Ukraine; (d) provides valid and accurate personal information when enrolling in the Loyalty Program; (e) is not already a member of the Loyalty Program (i.e., does not already have a Membership Account); and (f) has not previously been terminated from any of the three loyalty programs by the Company.
 
@@ -349,26 +102,6 @@ These Program Rules supersede all previous terms and conditions applicable to th
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["028b9361c5e14610VgnVCM100000307882a2RCRD","292fd0d6e5e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     1.2Participating Properties and Brands    1.2.a. “Participating Properties” are hotels, resorts, and other transient stay properties operated under the brands below that are owned, managed, franchised or licensed by Marriott International (“Participating Brands”) and are bookable through Marriott Channels unless otherwise stated (see 1.2.b.).  The Participating Properties include:
 
@@ -503,26 +236,6 @@ xxxiii.     ExecuStay - Points earning partner only (no Points redemption o
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["610e136916e14610VgnVCM100000307882a2RCRD","c96a57c746e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     1.3   Benefits of Membership    1.3.a.  Member Support.  Loyalty Program Members will have access to Member service telephone numbers for reservations, customer service and award redemption requests on the Member Support Website.
 
 1.3.b.    Member Rates.
@@ -574,26 +287,6 @@ C.         All Loyalty Program Rules apply.
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["844757c746e14610VgnVCM100000307882a2RCRD","0f7c92d796e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     1.4   Conditions of Enrollment    1.4.a.  Completing the Enrollment Application.  An individual may apply to enroll in the Loyalty Program by fully and accurately completing an application on the Loyalty Program website, at a Participating Property, or through another enrollment channel.  The Company may deny membership in the Loyalty Program to any applicant in its sole discretion and without written notice.
 
 1.4.b.  Individual Membership.  Only individuals are eligible for Loyalty Program membership, and each individual may maintain only one Membership Account.  All Loyalty Member accounts are individual accounts and no joint accounts are permitted.  Loyalty Program benefits are non-transferable unless expressly stated otherwise.
@@ -633,26 +326,6 @@ iii.         Credit card information included in a Member’s profile wil
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["292692d796e14610VgnVCM100000307882a2RCRD","b531d5f5c6e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     1.5   Membership Communications    1.5.a.  While the Loyalty Program will function as one unified program, the Legacy Programs will, for the time being, continue to exist as separate branded programs with unique Member communications that focus on properties and marketing opportunities associated with the relevant Legacy Program.  When enrolling in the Loyalty Program, a Member will receive communications from the Legacy Program he or she enrolled in. 
 
 1.5.b.  All Loyalty Program communications will be sent to a Member’s mailing address or email address currently provided in the Member’s Account.  Communications delivered to the address on file will be deemed to have been received one (1) business day after sending it if delivered to the Member’s email address or five (5) business days after sending it if delivered to the mailing address provided.  Members must keep their email and mailing addresses current.  Neither the Company nor the Loyalty Program shall have any responsibility for misdirected or lost mail or any consequences thereof.
@@ -667,26 +340,6 @@ iii.         Credit card information included in a Member’s profile wil
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["9dd8127817e14610VgnVCM100000307882a2RCRD","cbf3127817e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     1.6   Earning Points or Miles.      Members may earn Points (the currency of the Loyalty Program), or Miles (the currency of airline frequent flyer programs, including any currency whether it be miles, kilometers, points, etc., with the participating frequent flyer program of their choice), for eligible charges at a Participating Property in accordance with to Section 2.
 
@@ -732,50 +385,10 @@ iv.      Points issued or earned through Vistana, including, without limita
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["ccf248da11444610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                       1.6.e.  Airline Frequent Flyer Program Terms and Conditions.  The program rules of affiliated airline frequent flyer programs control the redemption and distribution of any Miles earned or transferred.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["5bd4b59957e14610VgnVCM100000307882a2RCRD","e0f4945977e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     1.7   Other Conditions of Enrollment    1.7.a.  Cancelling or Suspending Membership Accounts
 
@@ -831,50 +444,10 @@ iv.         Any Elite Membership Status and Lifetime Elite Membership Sta
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"false","featuredRecords":["38e49a752c914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                    2.EARN POINTS           
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["f85edbab88e14610VgnVCM100000307882a2RCRD","6d1a3cacb8e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     2.1      Earning Opportunities at Participating Properties    2.1.a. A Member will earn:
 
@@ -945,100 +518,20 @@ vi. A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["e2c53cacb8e14610VgnVCM100000307882a2RCRD","a5fd5ce159e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     2.2      Earn One Currency.    A Member may earn only one currency - Points or Miles.  A Member may not earn both Points and Miles for the same stay.  A Member may switch from earning Points to Miles, or vice versa, before a given Stay by updating his or her Membership profile or by contacting Member Support. A Member will begin earning the new “currency” (Points or Miles) with the next Stay. Previous earnings will not be converted to the new currency.  If the Member wishes to “convert” Points into Miles, he or she may do so in accordance with Section 3.11.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["ed39bd8d79e14610VgnVCM100000307882a2RCRD","2311bd8d79e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     2.3      Earning Miles instead of Points.      When choosing to earn Miles instead of Points for Qualifying Stays, Members must also designate a  participating airline frequent flyer program  and corresponding account number in the Member profile to which the Member’s Miles will be credited.  For details on joining participating airline frequent flyer programs, please refer to the particular airline’s loyalty program terms and conditions.  Once Miles have been awarded to the designated participating airline frequent flyer program, they may not be changed to another designated participating airline frequent flyer program or converted to Loyalty Program Points.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["ac5979cea9e14610VgnVCM100000307882a2RCRD","c94179cea9e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     2.4      Rewarding Events.    A Member can earn Points or Miles and Qualifying Nights for eligible groups, meetings and events if the Member is an eligible meeting planner pursuant to Section 5.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["0bc9189ae9e14610VgnVCM100000307882a2RCRD","8710189ae9e14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     2.5      Individual Earning for Qualifying Charges and Qualifying Nights    2.5.a.    No other person except the Member may earn Points/Miles on Qualifying Charges and Elite Night Credit on Qualifying Nights for his/her Membership Account.  Points/Miles and Elite Night Credit for a room shared by two Loyalty Program Members will only be awarded to one Loyalty Program Member.
 
@@ -1051,75 +544,15 @@ vi. A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["7e17189ae9e14610VgnVCM100000307882a2RCRD","1150f4737ae14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     2.6      Credit for Stays Completed Prior to Enrollment.    Points/Miles and Elite Night Credit may be earned for stays completed within thirty (30) days prior to the Member’s enrollment in the Loyalty Program as described further in Section 8.3, if such credit is requested through Member Support, along with a copy of the paid receipt for the stay, within sixty (60) days of the stay.  Additional documentation may be necessary.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["49495542aae14610VgnVCM100000307882a2RCRD","57883032dae14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     2.7      Foreign Exchange.    The amount of Points earned at Participating Properties where a non-U.S. dollar currency is used will be calculated based on Qualifying Charges converted to U.S. dollar at the exchange rate selected by the Company.  This may be the foreign exchange rate used by a Participating Property at check-in, at check-out or another rate selected by the Company and may not be the same rate used for currency conversions on the Member's folio.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["49733032dae14610VgnVCM100000307882a2RCRD","738b31defae14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     2.8      Transferring Points from One Account to Another    2.8.a.  In accordance with the conditions for transferring Points as described in Section 1.6.c. Members can transfer up to a maximum of 100,000 Points per calendar year between any two accounts in good standing that have each been open for at least sixty (60) days, whether sending or receiving Points.
 
@@ -1134,50 +567,10 @@ vi. A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["433131defae14610VgnVCM100000307882a2RCRD","538895434be14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     2.9      Purchase Points.      A Member may purchase or receive Points purchased by another Member for a combined maximum of 50,000 Points per calendar year.  Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000.  A Member must be in good standing to purchase and/or receive Points.  A new Member may purchase Points thirty (30) days after enrollment if the Account reflects activity including a Qualifying stay or other qualifying activity as described in Section 1.6.d.  After ninety (90) days from enrollment, a new Member is eligible to purchase Points regardless of their Account activity.  The purchase transaction may take up to forty-eight (48) hours to be completed and for the Points to be transferred to the recipient’s Account.  Once Points have been purchased, no refunds will be permitted.  Purchasing Points using a Marriott Co-Brand Credit Card may qualify for earning Points in accordance with the terms and conditions in Section 6.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["0d9095434be14610VgnVCM100000307882a2RCRD","2cc795434be14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     2.10   Earning through Partners.      Points earned in connection with the partner are subject to these Loyalty Program Rules along with any applicable terms and conditions of the partner.
 
@@ -1205,50 +598,10 @@ vi. A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"false","featuredRecords":["20e1763a7c914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                    3.REDEEM POINTS           
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["635b73378de14610VgnVCM100000307882a2RCRD","ef7c543bade14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     3.1      Redeeming Points for Awards.    A Member may redeem Points to obtain certain awards and benefits (each an “Award” or “Award Redemption”) including, without limitation, rooms at Participating Properties, Moments experiences, flights, and other services and merchandise.  A full listing of current Award Redemption options is available on the Loyalty Program website under “USE POINTS.”
 
@@ -1262,26 +615,6 @@ vi. A voucher or third-party award was redeemed for the guest room.
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["c2f5543bade14610VgnVCM100000307882a2RCRD","93987c3a0ee14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     3.2      Rooms at Participating Properties.    A Member may redeem Points for single or double standard rooms at Participating Properties (“Award Redemption Stay”) including, without limitation, for Free Night Awards, Upgrade Awards, Cash + Points Awards, and PointSaversTM Awards. 
 
@@ -1346,26 +679,6 @@ Wailea Beach Resort  Marriott - Maui, Hawaii
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["603a1c973ee14610VgnVCM100000307882a2RCRD","de599e806ee14610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     3.3      Upgrade Awards.    When using Points for an Award Redemption Stay, Members may have to redeem additional Points to reserve an upgraded room such as an ocean view room or a suite.  This “Upgrade Award” may be required for certain room types in addition to a Free Night Award in a standard room.
 
 3.3.a.  Upgrade Awards may only be used when redeeming Points for a stay at a Participating Property.  There are two types of Upgrade Awards:
@@ -1383,26 +696,6 @@ ii.          Paid Upgrade Awards.  At select Participating Properties, 
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["f0cc914583424610VgnVCM100000307882a2RCRD","103ff226c3424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     3.4        Cash + Points Awards.    Members can redeem their Points for “Cash + Points Awards” at Participating Properties when available.  Blackout dates may apply.  Participation in and availability of Cash + Points Awards are at the discretion of the Participating Property.
 
 3.4.a.  The four nights/fifth night free benefit described in Section 3.2.f. does not apply to Cash + Points Awards.
@@ -1417,26 +710,6 @@ ii.          Paid Upgrade Awards.  At select Participating Properties, 
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["91c91b64f3424610VgnVCM100000307882a2RCRD","9b051b64f3424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     3.5      PointSaversTM.    “PointSavers Awards” offer Point savings on standard Award Redemption rates and are available for limited periods of time.  Members can redeem their Points for PointSavers Awards at Participating Properties when and where available.  Participation in and availability of PointSavers Awards are at the discretion of the Participating Property.
 
@@ -1460,26 +733,6 @@ ii.          Paid Upgrade Awards.  At select Participating Properties, 
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["aaa193f134424610VgnVCM100000307882a2RCRD","bc71d3c174424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     3.6      Points Advance.    Members who seek to make an Award Redemption with an insufficient Point balance may make the Award Redemption and either (1) purchase Points (as described in  Section 2.9) to make a valid Award Redemption, provided that the aggregate amount of Points purchased and/or received as a gift by the Member is less than or equivalent to 50,000 Points per calendar year; or (2) the Member accrues sufficient Points to use Points for payment of the Award Redemption no less than fourteen (14) days prior to Member’s arrival date.
 
 3.6.a. If a purchase of Points is not an option, or if a Member does not have sufficient Points to pay for an Award Redemption with Points fourteen (14) days or less from Member’s arrival date, Member will forfeit the Award Redemption part of the reservation.  The Award Redemption may be canceled by the Loyalty Program or the Participating Property and the reservation will be converted to a cash reservation at the best available rate.
@@ -1501,26 +754,6 @@ ii.          Paid Upgrade Awards.  At select Participating Properties, 
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["304e155aa4424610VgnVCM100000307882a2RCRD","422b726dd4424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     3.7      Instant Redemptions.    Members may use Points during their stay to redeem an “Instant Redemption Award,” which they may apply as a credit against their room folio upon check-out. An Instant Redemption Award must be ordered at the Participating Property during the stay to which it will be applied and cannot be booked in advance of the stay. When a Member requests an Instant Redemption Award for a specific U.S. dollar amount or for “up to” a specific U.S. dollar amount, the Loyalty Program will deduct those Points from the Member’s Account. For a listing of the Instant Redemption Awards required to redeem specific U.S. dollar values, please refer to the Loyalty Program website under USE POINTS.
 
@@ -1555,75 +788,15 @@ ii.          Paid Upgrade Awards.  At select Participating Properties, 
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["8ed0726dd4424610VgnVCM100000307882a2RCRD","1359329335424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     3.8Moments.    Members may use Points to redeem or bid on experiences and events with the Marriott Rewards Moments program or the SPG Moments program (collectively the “Moments Program” or “Moments”) through the Moments online auction websites: www.moments.marriottrewards.com/ and www.spgmoments.com. The terms and conditions for the Moments Program can be found on these websites.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["c541329335424610VgnVCM100000307882a2RCRD","eff834ba75424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     3.9Donate Points.    A Member may redeem his/her Points toward charitable donations.  Once Points are donated, the exchange cannot be reversed or undone.  Such donation of Points is not considered a charitable donation by the United States Internal Revenue Service (“IRS”), and therefore is not deductible under United States tax rules and regulations.  A Member may select the charity of his/her choice by visiting www.giving.marriott.com. Points redeemed in connection with charitable donations are subject to the Program Rules along with any applicable terms and conditions of the partner processing the donations.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["b9bd34ba75424610VgnVCM100000307882a2RCRD","6c4134ba75424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     3.10Gift Cards and Merchandise Vouchers    3.10.a. Marriott Gift Cards. A Member may redeem his/her Points for Marriott Gift Cards (“Gift Cards”) for Participating Property stays and golf, spa or meetings expenses. Gift cards may be issued by the Company or a third-party provider and will be clearly designated as such. Gift Cards issued by a third-party provider are subject to additional terms and conditions imposed by the issuer/participating merchant, which will be provided with the Gift Card. Acceptance of the Gift Cards is the sole responsibility of participating merchants. No photocopies of Gift Cards will be honored. Gift Cards have no cash value and may not be redeemed for cash or its equivalent. Any unused portion will not be returned as cash unless a Gift Card states otherwise, or is required by law. Gift Cards are transferable unless otherwise noted on the Gift Cards. Gift Cards are void where prohibited by law. Unless otherwise stated on the Gift Card, Gift Cards purchased with Points do not include any federal, state or local taxes, which are the Member’s sole responsibility at time of redemption. The Loyalty Program, the Company, third-party providers and any other participating merchants are not responsible for replacing lost, stolen or mutilated Gift Cards. Some Gift Cards require an additional charge for shipping and handling. If applicable, Gift Cards do not include gratuities. Gift Cards will usually arrive within five to seven (5-7) business days.
 
@@ -1633,26 +806,6 @@ ii.          Paid Upgrade Awards.  At select Participating Properties, 
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["371534ba75424610VgnVCM100000307882a2RCRD","e6db5a97e5424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     3.11   Airline Frequent Flyer Programs and Other Affiliated Loyalty Programs    3.11.a. Members may redeem Points with participating airline frequent flyer programs and other airline-affiliated loyalty programs at a designated Points to Miles conversion ratio as indicated here.
 
@@ -1669,75 +822,15 @@ ii.          Paid Upgrade Awards.  At select Participating Properties, 
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["6d715a97e5424610VgnVCM100000307882a2RCRD","e1e45a97e5424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     3.12       Air and Car.    A Member may redeem his/her Points for airline tickets or car rentals from the Loyalty Program’s Air + Car partner.  More information on the Air + Car program may be obtained here. Points redeemed in connection with this partner are subject to the Loyalty Program Rules along with any applicable terms and conditions of the partner.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["0c875a97e5424610VgnVCM100000307882a2RCRD","05eb50ae56424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     3.13      Cruise.    A Member may redeem his/her Points for a cruise certificate which can be applied to the purchase of a cruise booking.  More information on the cruise program may be obtained here. Points redeemed in connection with this partner are subject to the Loyalty Program Rules along with any applicable terms and conditions of the partner.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["03bf50ae56424610VgnVCM100000307882a2RCRD","90f350ae56424610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     3.14      Hotel and Air Travel Packages    3.14.a. All Loyalty Program Rules apply to Members redeeming Points toward a hotel and flight “Travel Package.”
 
@@ -1759,50 +852,10 @@ ii.      the hotel award portion of the Travel Package is non-refundable to
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"false","featuredRecords":["470f93514d914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                    4. ELITE MEMBERSHIP           
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["bfdb2235f9734610VgnVCM100000307882a2RCRD","37f22235f9734610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     4.1  Elite Membership General    4.1.a.  Elite membership is an exclusive privilege of Loyalty Program Membership.  All Program Rules apply to Elite membership.  The Loyalty Program has the right to terminate the Elite recognition program (the “Elite Program” or the “Elite Membership Program”) at any time by providing advance notice to Members in accordance with section 1.7.d. The Loyalty Program has the right to change, limit, modify or cancel the Program Rules for the Elite Program at any time, with or without notice, pursuant to section 1.7.c.  Participating Properties outside the United States may provide alternative services and benefits to the Elite membership benefits set forth in these Program Rules, depending on local law and policy.  The ambassador service is a benefit of the Loyalty Program available to select Loyalty Program Platinum Premier Elite Members exclusively by invitation or by meeting the requirements outlined in section 4.2.b. Participation in the ambassador service will be evaluated on an annual basis.
 
@@ -1832,26 +885,6 @@ vi.         Elite Members who do not receive their Elite Benefits Guarant
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["121ecfe14a734610VgnVCM100000307882a2RCRD","f8aaea958a734610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     4.2Elite Membership Requirements    4.2.a.    Only nights personally stayed by and individually billed to an Elite Member at Participating Properties are credited toward the Elite Member’s Elite membership achievement and renewal thereof.  Pursuant to section 1.4.e. Accounts may be combined to achieve Elite membership.
 
@@ -1921,26 +954,6 @@ B.         Starwood Preferred Guest Legacy Lifetime Elite Status Achievem
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["b377ea958a734610VgnVCM100000307882a2RCRD","9a7ecd21da734610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     4.3  Elite Membership Benefits at Participating Brands    4.3.a.  Silver Elite Membership Benefits.  Silver Elite Members and above are eligible to receive the following benefits:
 
@@ -2396,50 +1409,10 @@ F.      Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"false","featuredRecords":["32ffda027d914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                    5.REWARDING EVENTS           
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["048da4c324834610VgnVCM100000307882a2RCRD","b6d2a4c324834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     5.1Rewarding Events    5.1.a.  Rewarding EventsSM (“Rewarding Events”) provides Points or Miles to eligible Loyalty Program Members who book and hold qualifying group meetings and events (“Qualifying Events” and individually, “Qualifying Event”) at Participating Properties.
 
@@ -2464,52 +1437,12 @@ In addition, for Participating Properties in Asia, Australia & Pacific Islands, 
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["3e71249564834610VgnVCM100000307882a2RCRD","f81b2874a4834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     5.2Participating Properties    5.2.a.  Participating Brands.  Rewarding Events is valid at all Participating Properties (see Section 1.2) at these Participating Brands:  The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Marriott Vacation Club, Delta Hotels, Le Méridien, Westin, Autograph Collection Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Aloft, Moxy Hotels, and Element.
 
 5.2.b.  Non-Participating Brands.  Rewarding Events is not valid at the following brands:  Design HotelsTM, Marriott Executive Apartments, Residence Inn, and TownePlace Suites.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["b8b42874a4834610VgnVCM100000307882a2RCRD","e724cf9cd4834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     5.3Earning    5.3.a.  Earning Points. Excluding special promotions or incentives, a Member will earn two Points for every one U.S. dollar ($1.00) spent on actualized Qualifying Event charges, up to a maximum of 60,000 Points as the base earning per Qualifying Event.
 
@@ -2534,26 +1467,6 @@ iv.         Platinum Premier Elite, 75% bonus, up to 105,000 Points per 
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["c80c4f8805834610VgnVCM100000307882a2RCRD","542849a935834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     5.4Qualified Events    5.4.a.  Qualifying Event Agreement.  Any Loyalty Program Member may enter into a contract agreement with a Participating Property to hold a Qualifying Event at a Participating Property (“Qualifying Event Agreement”).
 
 5.4.b.  Qualifying Event.  A Qualifying Event is an event or meeting that is booked by a Loyalty Program Member who provides his/her Membership Number in the applicable Qualifying Event Agreement and is held at a Participating Property.  A Qualifying Event will not include:  (a) any booking of guest rooms, regardless of the number of guest rooms, that is booked in any manner other than under an Qualifying Event Agreement, (b) any booking of guest rooms on behalf of an employer, client or principal that has elected (whether through an agreement with a Participating Property or otherwise) to have Points awarded to another individual or entity, c) any booking of guest rooms that are complimentary or barter rooms, (d) complimentary meetings or meeting charges or (e) any event or meeting, or booking of guest rooms by:
@@ -2573,26 +1486,6 @@ For example, any event or meeting booked by government employees, officials, emp
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["dd1149a935834610VgnVCM100000307882a2RCRD","df3b672aa5834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     5.5      Qualifying Event Charges    5.5.a.  Qualifying Event Charges.  Qualifying Event Charges include food, beverages, meeting room rental, in house audio visual equipment, and décor ordered by the Participating Property and paid for on a master account.  Guest room rate charges also qualify only when the contract has a minimum of ten (10) guest rooms actualize for at least one (1) night of the Qualifying Event (with or without catering).  Qualified guest room charges earn Points or Miles for the Member whether they are paid for on a master account or paid for by the individual guest in the room.
 
 5.5.b.  Meeting Credit eGift Cards.  Where available, meeting charges may be paid for using a Meeting Credit e-gift card.  Points redeemed in connection with these partners are subject to the Loyalty Program Rules along with any applicable terms and conditions of the partner pursuant to Section 3.10.a.  
@@ -2601,26 +1494,6 @@ For example, any event or meeting booked by government employees, officials, emp
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["ff43672aa5834610VgnVCM100000307882a2RCRD","dc30a5e2e5834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     5.6All Loyalty Program Rules Apply.    The number of Points or Miles to be awarded shall be determined in accordance with the Loyalty Program Rules in effect at the time of award.          
                           
@@ -2634,50 +1507,10 @@ For example, any event or meeting booked by government employees, officials, emp
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"false","featuredRecords":["e5ff3773cd914610VgnVCM100000307882a2RCRD","6325af29b8834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                    6.   MARRIOTT CO-BRAND CREDIT CARDS     The following cards are part of the Marriott International co-brand credit cards portfolio. These cards include legacy and new Chase, JPMorgan and American Express cards.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["17ea47f6f8834610VgnVCM100000307882a2RCRD","2ff547f6f8834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     6.1      US Chase Credit Cards    6.1.a.  Marriott Rewards Signature from Chase
 Marriott Rewards Signature Credit Card - Learn More
@@ -2700,26 +1533,6 @@ The Ritz-Carlton Rewards Credit Card - Learn More
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["fdfb21a449834610VgnVCM100000307882a2RCRD","209521a449834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     6.2      US American Express Credit Cards    6.2.a. The Starwood Preferred Guest Credit Card from American Express
 The Starwood Preferred Guest Credit Card - Learn More
 
@@ -2731,26 +1544,6 @@ The Starwood Preferred Guest American Express Luxury Credit Card - Learn More
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["f9de4eeb89834610VgnVCM100000307882a2RCRD","6b574eeb89834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     6.3      International Credit Cards    6.3.a.  The Starwood Preferred Guest Credit Card from American Express for residents of Canada
 
@@ -2782,26 +1575,6 @@ Emirates NBD Starwood Preferred Guest World Mastercard for residents of United A
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["8f4d4677c9834610VgnVCM100000307882a2RCRD","42764677c9834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     6.4      Loyalty Program Member Benefits and Exclusions    6.4.a.  Premium Internet Access.  Gold Elite, Platinum Elite, and Platinum Premier Elite Members receive enhanced in-room internet access where available at Participating Properties worldwide regardless of booking method.
 
@@ -2951,50 +1724,10 @@ Waikoloa Beach Marriott Resort & Spa
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"false","featuredRecords":["a2b5bafced914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                    7.MARRIOTT VACATION CLUB, MARRIOTT GRAND RESIDENCE CLUB AND VISTANA SIGNATURE EXPERIENCES           
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["ccc1e7fb3a834610VgnVCM100000307882a2RCRD","75b9a0e56a834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     7.1    Marriott Vacation Club and Marriott Grand Residence Club    7.1.a Marriott Vacation Club and Marriott Grand Residence Club owners eligible to participate in the Loyalty Program through ownership of a Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interest (collectively, “MVC Owners”) are subject to the Program Rules, and to any additional rules and regulations promulgated by Marriott Ownership Resorts, Inc. and/or Marriott Resorts, Travel Company, Inc. d/b/a MVC Exchange Company or their respective affiliates or subsidiaries (each an “MVC Entity”), as such rules and regulations may be modified from time to time (collectively, “MVC Rules”).
 
@@ -3022,26 +1755,6 @@ vi.      Points acquired through ownership of an interest at a Marriott Vac
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["5f22a0e56a834610VgnVCM100000307882a2RCRD","5fcb2e67ba834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     7.2Vistana Signature Experiences    7.2.a  Vistana Signature Experiences Additional Information.
 
@@ -3085,425 +1798,85 @@ vi.         Instant Redemption Awards are not available at Vistana proper
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"false","featuredRecords":["ca01fa281e914610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                    8.ADDITIONAL TERMS OF PARTICIPATION IN THE LOYALTY PROGRAM           
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["a02e4fca3b834610VgnVCM100000307882a2RCRD","e1d44fca3b834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     8.1      Monitoring Membership Accounts.    The Company reserves the right to monitor the Accounts of all Members, at any time and without notice, for compliance with Program Rules.  The Company may review all Members’ Points, Qualifying Stays, and Qualifying Nights balances and transaction history including, without limitation, requests for Loyalty Program Awards, promotional Awards and other benefits.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["4deb62308b834610VgnVCM100000307882a2RCRD","072262308b834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     8.2      Adjustments.    A Member may request credits for Points, Miles, or Qualifying Nights for Elite Status (other than Elite Night Credit earned pursuant to Section 4) that are not reflected in a Member’s Account through the Member Account Activity page on the Loyalty Program website under "Report a Missing Stay"” or, for Participating Properties only, by contacting Member Support. A Member may request credits for Points/Miles or Qualifying Nights for Elite Status earned in connection with a Qualifying Event that are not reflected in a Member's account by contacting the hotel where the Qualifying Event was held. Such a request must be received within one (1) year of the applicable Qualifying Stay, Qualifying Event or other Qualifying Charge transaction to receive any credit.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["85e160d2cc834610VgnVCM100000307882a2RCRD","bab987930d834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     8.3      New Members.    A new Member is eligible to receive Points for Qualifying Charges and for Qualifying Nights for Elite Status for stays at Participating Properties that are incurred and paid for by the Member during the thirty (30) days prior to his/her enrollment in the Loyalty Program (the “Pre-Enrollment Period”), if the Member requests the credit within sixty (60) days of the applicable Qualifying Stay or Qualifying Charge transaction.  A new Member will not receive any Points or Qualifying Nights for Elite Status for any stays that occurred prior to the Pre-Enrollment Period, even if he/she was a member under a loyalty program offered by the Company other than the current Loyalty Program, except for stays at Participating Properties that are incurred and paid for during the Pre-Enrollment Period.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["834287930d834610VgnVCM100000307882a2RCRD","0358e61d3d834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     8.4      Correction of Benefits.    At any time and in the Company’s sole discretion (including, without limitation, where a Member was not eligible to earn a specific benefit pursuant to these Program Rules), the Company may correct (i) the amount of Points or the number of Qualifying Nights credited to a Member’s Account, and (ii) any other benefit that has been credited to a Member’s Account, including, without limitation, any Elite Membership Status or Lifetime Elite Membership Status.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["382266f19d834610VgnVCM100000307882a2RCRD","5f5ce7a4cd834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     8.5      Exit of Participating Property.    If a Participating Property exits the Loyalty Program for any reason, a Member will not earn Points, Qualifying Nights for Elite Status (including, without limitation, any Points for Qualifying Stays pursuant to Section 2) for stays at such Participating Property, and any Redemption Awards, promotional Awards, other promotions and special offers will no longer be valid after the date on which the Participating Property exited the Loyalty Program, even if the reservation for a stay at the former Participating Property was made prior to that date.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["6be2e7a4cd834610VgnVCM100000307882a2RCRD","ae2a4d810e834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     8.6      Taxes.    Points, Redemption Awards, promotional Awards and other Member benefits may be subject to income or other taxes.  The Member is responsible for paying all such taxes and for making all applicable disclosures to third parties including, without limitation, the party who paid for the transaction from which the Member earned Points.  The Company will not be liable for any tax liability, duty or other charges in connection with the issuance of Points, Redemption Awards, promotional Awards and other Member benefits.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["41a04d810e834610VgnVCM100000307882a2RCRD","1e7baf4e3e834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     8.7      No Warranties or Representations, Express or Implied    The Company makes no warranties or representations, either expressed or implied, with respect to type, quality or fitness of goods or services provided through the Loyalty Program or by Participating Properties.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["5b1aafe2fe834610VgnVCM100000307882a2RCRD","7e0fafe2fe834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     8.8      Operation of the Loyalty Program.    The Company sells Points to Participating Properties and partners, redeems Points for cash (including, without limitation, Points received from Participating Properties), airline tickets and merchandise, and administers the Loyalty Program.  The Company promotes the Loyalty Program including, without limitation, by creating and launching marketing campaigns, developing and maintaining the Loyalty Program website and managing partner relationships.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["0d45afe2fe834610VgnVCM100000307882a2RCRD","50c82e8b5f834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     8.9      Not Responsible for Acts, Errors, or Omissions.    The Company is not responsible for:  (a) any loss or misdirection of, or delay in receiving, any Member application, correspondence, redemption requests, Redemption Awards or Member benefits; (b) theft or unauthorized redemption of Points or Redemption Awards or use of a Redemption Award; (c) any acts or omissions of third parties (including, without limitation, Participating Properties); or (d) any errors published in relation to the Loyalty Program, including, without limitation, any pricing or typographical errors, errors of description, errors regarding Participating Properties, and Loyalty Program affiliates, and errors in the crediting or debiting of Points from Member Accounts.  The Company reserves the right to correct, without notice, any errors.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["579a2e8b5f834610VgnVCM100000307882a2RCRD","78702e8b5f834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     8.10    Interpretation of Loyalty Program Rules.    All interpretations of these Loyalty Program Rules regarding membership are at the Company’s sole discretion, and the Company’s decisions will be final.  In the event of any discrepancy between the English version and any translated version of these Program Rules, the English language version will govern.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["cf7da657cf834610VgnVCM100000307882a2RCRD","b514a657cf834610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     8.11    Trademarks.    The Company and Participating Properties are the sole and exclusive owners or licensees of the trademarks, service marks, trade names, logos, and copyrighted or copyrightable materials of Marriott International, Inc., its affiliates, and the Participating Properties.  Members shall never, directly or indirectly, interfere with, challenge, file applications for, or claim ownership of these trademarks anywhere in the world.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["2b99cba010934610VgnVCM100000307882a2RCRD","9d2fcba010934610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     8.12    Waiver.    The Company’s waiver of any breach of these Loyalty Program Rules by any Member will not constitute a waiver of any other prior or subsequent breach of these Program Rules.  The Company’s failure to insist upon strict compliance with these Loyalty Program Rules by any Member will not be deemed a waiver of any rights or remedies the Company may have against that or any other Member.  The Company may waive compliance with these Program Rules in its sole discretion and may run promotions from time to time that provide enhanced benefits to select Members.          
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["cfe0cba010934610VgnVCM100000307882a2RCRD","0273cba010934610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     8.13    Limitation of Liability.    IN NO EVENT WILL MARRIOTT INTERNATIONAL, INC., ITS SUBSIDIARIES AND AFFILIATES, ITS FRANCHISEES OR LICENSEES, ANY PARTICIPATING PROPERTY, AND EACH OF THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, EXEMPLARY, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND, WHETHER BASED IN CONTRACT, TORT OR OTHERWISE, WHICH ARISE OUT OF OR ARE IN ANY WAY CONNECTED WITH THE LOYALTY PROGRAM,  THESE PROGRAM RULES, OR THE COMPANY’S OPERATION OF THE LOYALTY PROGRAM.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["ce4866e490934610VgnVCM100000307882a2RCRD","e27d66e490934610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     8.14    Choice of Law and Venue.    Any disputes arising out of or related to the Loyalty Program or these Program Rules will be handled individually without any class action, and will be governed by, construed and enforced in accordance with the laws of the State of Maryland, United States, without regard to its conflicts of law rules.  The exclusive jurisdiction for any claim or action arising out of or relating to the Loyalty Program or the Program Rules may be filed only in the state or federal courts located in the State of Maryland, United States.          
                           
                           
                             
                             
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["90c266e490934610VgnVCM100000307882a2RCRD","1ef666e490934610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
-                            
                                     8.15    Subject to Law.    Membership in the Loyalty Program and the earning and redeeming of Points are subject to all applicable local laws and regulations.  Membership in the Loyalty Program, Member benefits, Redemption Awards and promotional Awards are offered in good faith; however, they may not be available if prohibited or restricted by applicable law or regulation in the United States or Member’s jurisdiction of residence.  If any part of these Loyalty Program Rules is held to be unlawful or unenforceable, that part will be deemed deleted from these Program Rules in such jurisdiction and the remaining provisions will remain in force, subject to Sections 1.7.c. and 1.7.d.           
                           
                           
                             
-                            
-                            {
-                              "contents": [
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-headline","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]},
-                                    {"types":["ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM","ADT_TC"],"keyName":"card-subheadline","aspectRatio":"","navigation":"false","featuredRecords":["53fd8c18f0934610VgnVCM100000307882a2RCRD","9b918c18f0934610VgnVCM100000307882a2RCRD"]},
-                                    {"types":["ADT_IMAGE","ADT_ARTICLE","ADT_MESSAGE","ADT_LINK","ADT_CONTACTUS","ADT_MEMBERSHIP","ADT_PARTNER_PROGRAM"],"keyName":"card-drawer","aspectRatio":"","navigation":"true","navigationFilters":[],"sorts":[]}
-                                    ],
-                              "cardTheme":   "false",
-                              "boxShadow":   false,
-                              "ctaType":    "link",
-                              "ctaColWidth": false,
-                              "newWindow":   false,
-                              "ctaType_2":    "link",
-                              "newWindow_2":   false,
-                              "textAlign":   "left",
-                              "textVerticalAlign":   "top",
-                              "noHorizontalPadding": false,
-                              "textEmphasis": false,
-                              "colorCode":   ""
-                            }
                             
                                     8.16    Entire Agreement.    The Loyalty Program Rules, together with any other terms and conditions, rules, or regulations incorporated herein or referred to herein constitute the entire agreement between the Company and Members relating to the subject matter hereof, and supersede any prior understandings or agreements (whether oral or written) regarding the subject matter, and may not be amended or modified except in writing or by making such amendments or modifications available on the Loyalty Program website.          
                           
@@ -3519,36 +1892,15 @@ vi.         Instant Redemption Awards are not available at Vistana proper
                               
                                 
                                 
-                                {
-                                  "contents": [
-                                    {"types":["ADT_LINK"],"maxNumRecords":"50","navigation":"false","hotelSpecific":"true","roomSpecific":"[object Object]","featuredRecords":["d98d2fcd3fb82610VgnVCM100000307882a2RCRD"]}
-                                  ],
-                                "textColor": ""
-                                }
-                                
                                     Top Destinations     Anaheim Hotels    Atlanta Hotels    Baltimore Hotels    Boston Hotels    Cancun Hotels    Charlotte Hotels    Chicago Hotels    Costa Rica Hotels    Dallas Hotels    Las Vegas Hotels    London Hotels    Los Angeles Hotels    Memphis Hotels    Miami Hotels    Myrtle Beach Hotels    New York Hotels    Orlando Hotels    Paris Hotels    Philadelphia Hotels    San Francisco Hotels    St. Louis Hotels    Tampa Hotels    Thailand Hotels    Toronto Hotels    Washington DC Hotels      
                               
                               
                                 
                                 
-                                {
-                                  "contents": [
-                                    {"types":["ADT_LINK"],"maxNumRecords":"50","navigation":"false","hotelSpecific":"true","roomSpecific":"[object Object]","featuredRecords":["400ae8f19f5b2610VgnVCM100000307882a2RCRD"]}
-                                  ],
-                                "textColor": ""
-                                }
-                                
                                     For Guests     Best Rate Guarantee    Room Key    Moments    Marriott Insiders    Marriott Traveler    Travel Experiences    Shop Marriott    Gift Cards      
                               
                               
                                 
-                                
-                                {
-                                  "contents": [
-                                    {"types":["ADT_LINK"],"maxNumRecords":"50","navigation":"false","hotelSpecific":"true","roomSpecific":"[object Object]","featuredRecords":["b3b249c6736b2610VgnVCM100000307882a2RCRD"]}
-                                  ],
-                                "textColor": ""
-                                }
                                 
                                     Our Company     About Marriott    Careers    Travel Professionals    Group Partners    Developers    Affiliates    Investors    News    Bill Marriott's Blog    Arne Sorenson's Blog    Heart of the House      
                               
@@ -3557,26 +1909,10 @@ vi.         Instant Redemption Awards are not available at Vistana proper
                               
                                 
                                 
-                                {
-                                  "contents": [
-                            {"types":["ADT_ARTICLE"],"maxNumRecords":"10","navigation":"false","hotelSpecific":"true","roomSpecific":"[object Object]","featuredRecords":["acbca3fec64f2610VgnVCM100000307882a2RCRD"]},
-                            {"types":["ADT_LINK"],"maxNumRecords":"10","navigation":"false","hotelSpecific":"true","roomSpecific":"false","featuredRecords":["6314c0fba5053610VgnVCM100000307882a2RCRD"]}
-                                  ],
-                              "articleLength": "long",
-                                "textColor": ""
-                                }
-                                
                                    Need Help?   Find answers here     
                               
                               
                                 
-                                
-                                {
-                                  "contents": [
-                                    {"types":["ADT_LINK"],"maxNumRecords":"50","navigation":"false","hotelSpecific":"true","roomSpecific":"[object Object]","featuredRecords":["f6f689bfb9f63610VgnVCM100000307882a2RCRD","9c01aa530af63610VgnVCM100000307882a2RCRD","152caa530af63610VgnVCM100000307882a2RCRD","68baccbbe1c34610VgnVCM100000307882a2RCRD","ec0a8b513af63610VgnVCM100000307882a2RCRD"]}
-                                  ],
-                                "textColor": ""
-                                }
                                 
                                   Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
                               
@@ -3590,15 +1926,6 @@ vi.         Instant Redemption Awards are not available at Vistana proper
                               
                                 
                                 
-                                {
-                                  "contents": [
-                            {"types":["ADT_ARTICLE"],"maxNumRecords":"10","navigation":"false","hotelSpecific":"true","roomSpecific":"[object Object]","featuredRecords":["5afd14e30eb43610VgnVCM100000307882a2RCRD"]},
-                            {"types":["ADT_LINK"],"maxNumRecords":"10","navigation":"false","hotelSpecific":"true","roomSpecific":"false","featuredRecords":["4ce014e30eb43610VgnVCM100000307882a2RCRD","d3f214e30eb43610VgnVCM100000307882a2RCRD","0c8414e30eb43610VgnVCM100000307882a2RCRD","acbca3fec64f2610VgnVCM100000307882a2RCRD","8e04555ffd522610VgnVCM100000307882a2RCRD"]}
-                                  ],
-                              "articleLength": "long",
-                                "textColor": ""
-                                }
-                                
                                   © 1996 - 2018  Marriott International, Inc. All rights reserved. Marriott Proprietary Information     Program Terms & Conditions     Privacy Center     Site Map     Help      
                               
                             
@@ -3606,19 +1933,4 @@ vi.         Instant Redemption Awards are not available at Vistana proper
                               
                                 
                                 
-                                {
-                                  "contents": [
-                                    {"types":["ADT_LINK"],"maxNumRecords":"20","navigation":"false","hotelSpecific":"true","roomSpecific":"[object Object]","featuredRecords":["7520301a68522610VgnVCM100000307882a2RCRD"]}
-                                  ],
-                                "textColor": ""
-                                }
-                                
-                                   English    
-                              
-                            
-                            
-                            
-                                                
-                 var hdVars = {   hd_domain: "US",  hd_vsDimGrp: "",  hd_numRooms: "",  hd_isAffiliateOfConcur: "",  hd_isAssociate: "",  hd_stateProvince: "",  hd_outdate: "",  hd_city: "",  hd_incentivesType_Number: "",  hd_brandCodes: "",  hd_brand_Codes: "all",  hd_errorMessage: "id='error-messages'",  hd_rewardLevel: "",  hd_clusterCode: "",  hd_roomKeyBaseURL: "//www.roomkey.com/referrals",  hd_indate: "",  hd_country: "",  hd_sgoSearch: "",  hd_marshaCode: "",  hd_corporateCode: "",  HDEnabled: "true",  hd_rewardsRedemption: "",  hd_numGuestsPerRoom: "",  hd_isProfileAuthenticated: "false",  hd_roomKeyAPIKey: "a9bc92520c8acea6eadbc930b2ce2874",     hd_currency: { 'SA': 'SAR', 'QA': 'QAR', 'CR': 'CRC', 'KZ': 'KZT', 'CN': 'CNY', 'GR': 'EUR', 'JP': 'JPY', 'BH': 'BHD', 'IN': 'INR', 'KR': 'KRW', 'PT': 'EUR', 'SV': 'SVC', 'KN': '', 'CA': 'CAD', 'GE': 'GEL', 'OM': 'OMR', 'RO': 'RON', 'AZ': 'AZN', 'IE': 'EUR', 'PK': 'PKR', 'CZ': 'CZK', 'SE': 'SEK', 'VG': '', 'AR': 'ARS', 'ES': 'EUR', 'HU': 'HUF', 'LY': 'LYD', 'KW': 'KWD', 'CO': 'COP', 'EG': 'EGP', 'DE': 'EUR', 'BE': 'EUR', 'RU': 'RUB', 'JM': 'JMD', 'NL': 'EUR', 'TT': 'TTD', 'SR': 'SRD', 'PL': 'PLN', 'GB': 'GBP', 'AW': 'AWG', 'PH': 'PHP', 'TH': 'THB', 'CW': '', 'BR': 'BRL', 'VE': '', 'CL': 'CLP', 'FR': 'EUR', 'IT': 'EUR', 'MX': 'MXN', 'HN': 'HNL', 'CH': 'CHF', 'PR': '', 'IL': 'ILS', 'EC': '', 'US': 'USD', 'DZ': 'DZD', 'PE': 'PEN', 'PA': 'PAB', 'SG': 'SGD', 'VI': '', 'AT': 'EUR', 'KY': 'KYD', 'GU': '', 'AM': 'AMD', 'MY': 'MYR', 'DO': 'DOP', 'JO': 'JOD', 'DK': 'DKK', 'AE': 'AED', 'TR': 'TRY', 'BB': 'BBD', 'ID': 'IDR', 'VN': 'VND', 'BS': 'BSD', 'AU': 'AUD'  },  cList: { 'exclude.special.rates.corpcode': 'MW1,IBM,EMP,ACC,H77,GEE,TVL,GDY,PEP,ORA,HPQ,DTC,ATT,MEB,TOY,PCW,SAP,T77,SIE,BOE,M11,BOA,WEL,A4Y,MCO,MOD,VZN,EMC,ZG4,G2D,JOH,UAL,UTC,DEL,LAC,LK6,GMC,RAY,MM4,MMB,MMF,MMP', 'enable.special.rates.gov': 'false', 'enable.remember.me': 'true', 'enable.users.sgo': 'false', 'enable.domains.GB': 'true', 'enable.mobile': 'false', 'enable.rewards.members': 'false', 'enable.session.timeout': 'false', 'enable.to.industry_solutions.users': 'false', 'enable.associate.users': 'false', 'enable.rewards.gold': 'false', 'enable.domains.AU': 'true', 'enable.domains.ES': 'true', 'enable.concur.users': 'false', 'enable.rewards.platinum': 'false', 'user.prevent.roomkey.pop': '0', 'enable.redemption.points': 'false', 'enable.users.corpcode': 'false', 'enable.domains.DE': 'false', 'enable.users.groupcode': 'false', 'percentage.users.to.show': '100', 'enable.successfully.booked': 'false', 'enable.domains.US': 'true', 'percentage.users.to.show.incremental': '1', 'enable.special.rates.corpcode': '', 'number.of.pages': '-1', 'enable.rewards.silver': 'true', 'enable.hd.solution': 'true', 'enable.special.rates.aaa': 'true', 'enable.special.rates.senior': 'true', 'enable.to.brand': 'true', 'enable.domains.BR': 'false', 'browser.useragent': 'GomezAgent,iPhone,iPad,Silk,BlackBerry,Trident/4.0', 'enable.domains.CN': 'false', 'enable.domains.FR': 'false', 'enable.rewards.basic': 'true', 'enable.domains.JP': 'false', 'enable.presented.hd.solution': 'true', 'enable.domains.KR': 'false'  }   };                     var msgResources = {   prevMonthText: 'Previous Month',  weekdayShortList: '["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]',  nightText: 'night',  loadingText: 'Loading...',  clearText: 'Clear',  nightsText: 'nights',  weekdayFullList: '["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]',  topOfModalText: 'Top of modal window',  nextMonthText: 'Next Month',  monthShortList: '["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]',  NewWindowAltText: 'Open in a different browser tab',  closeText: 'Close',  bottomOfModalText: 'Bottom of modal window',  doneText: 'Done',  monthFullList: '["January","February","March","April","May","June","July","August","September","October","November","December"]',  printText: 'Print'   }                                                           {"localeKey":"en_US","programFlag":"","siteName":"marriott.com","channel":"marriott","pageContent":[{"contentName":"/Loyalty/Metadata/Terms and Conditions","type":"metadata"}]}
-                    
-                {"acceptLanguage":"en-US","pageURI":"/loyalty/terms/default","Referer":"","template":"V2"}
+                                   English
