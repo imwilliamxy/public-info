@@ -811,7 +811,7 @@ ii.          Paid Upgrade Awards.  At select Participating Properties, 
 
 3.11.b. Members requesting to redeem their Points and convert to Miles must be a member of the relevant airline frequent flyer program or airline-affiliated loyalty program in order to complete the redemption. For details on joining an airline frequent flyer program or other airline-affiliated loyalty program, please refer to the particular airline or loyalty program website and terms and conditions.
 
-3.11.c. Once Points have been redeemed for Miles with a participating airline frequent flyer program or other airline-affiliated loyalty program, Miles will automatically be transferred to the Member’s frequent flyer or airline-affiliated loyalty program account. Please allow approximately six (6) weeks for Miles to be posted to your account or contact your local Member Support to inquire about express service (may be subject to a fee).
+3.11.c. Once Points have been redeemed for Miles with a participating airline frequent flyer program or other airline-affiliated loyalty program, Miles will automatically be transferred to the Member’s frequent flyer or airline-affiliated loyalty program account. Please allow approximately six (6) weeks for Miles to be posted to your account.
 
 3.11.d. Once Miles are credited to a Member’s frequent flyer or other airline-affiliated loyalty program account, changes, reissuance and/or re-credit of Points are not allowed.
 
@@ -834,7 +834,7 @@ ii.          Paid Upgrade Awards.  At select Participating Properties, 
                             
                                     3.14      Hotel and Air Travel Packages    3.14.a. All Loyalty Program Rules apply to Members redeeming Points toward a hotel and flight “Travel Package.”
 
-3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel; and (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account.
+3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel; (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account; and (3) Travel Packages are excluded from airline partner conversion bonus campaigns.
 
 3.14.c. Once a Travel Package is processed:
 
