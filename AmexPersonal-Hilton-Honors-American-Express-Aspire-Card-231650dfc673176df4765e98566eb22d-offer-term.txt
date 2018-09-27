@@ -45,9 +45,6 @@ Transaction Fees
 
  
 
-Balance Transfer
-Either $5 or 3% of the amount of each transfer, whichever is greater.
-
 Cash Advance
 Either $5 or 3% of the amount of each cash advance, whichever is greater.
 
