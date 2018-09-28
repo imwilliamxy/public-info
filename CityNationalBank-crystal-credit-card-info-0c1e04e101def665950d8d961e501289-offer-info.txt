@@ -225,5 +225,5 @@ Getting Started
   Zero Liability coverage  applies when you have not been grossly negligent in handling your account or  card and you advise us promptly of an unauthorized transaction.
  
     Apple Pay is a trademark of Apple Inc.
-      Google Pay is a trademark of Google Inc.
+      Google Pay is a registered trademark of Google LLC.
       Visa Infinite is a registered trademark owned by Visa  International Service Association and is used under license.
