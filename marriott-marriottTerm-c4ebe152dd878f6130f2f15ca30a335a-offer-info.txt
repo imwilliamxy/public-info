@@ -372,7 +372,9 @@ ii.      Awards redeemed by a Member prior to Point forfeiture are still va
 
 iii.      The Points expiration policy does not currently affect Points in a Lifetime Elite Membership Account; however, the Loyalty Program may choose to apply a Points expiration policy to Lifetime Elite Membership Accounts in the future.
 
-iv.      Points issued or earned through Vistana, including, without limitation, tour incentives, purchase incentives, SPG Conversion, sweepstakes and other giveaway prizes, will expire six (6) years following the date they are deposited into a Member’s Account, regardless of Member activity.  All such Points or any portion thereof, which have not been redeemed by their six (6) year expiration period, will be forfeited without notice.          
+iv.      Points issued or earned through Vistana, including, without limitation, tour incentives, purchase incentives, SPG Conversion, sweepstakes and other giveaway prizes, will expire six (6) years following the date they are deposited into a Member’s Account, regardless of Member activity.  All such Points or any portion thereof, which have not been redeemed by their six (6) year expiration period, will be forfeited without notice.
+
+1.6.e.  Airline Frequent Flyer Program Terms and Conditions.  The program rules of affiliated airline frequent flyer programs control the redemption and distribution of any Miles earned or transferred.          
                           
                         
                         
@@ -401,7 +403,7 @@ B.         Failed to pay any hotel or other bill when due to the Company 
 
 C.         Acted in an inappropriate, fraudulent, abusive or hostile manner;
 
-D.         Breached or violated any of these Program Rules or the Website Terms of Use; 
+D.         Breached or violated any of these Program Rules or the Website Terms of Use;
 
 E.         Fraudulently claimed to qualify as a Rewarding Events Professional Meeting Planner to be eligible to earn any of the benefits offered to a Rewarding Events Professional Meeting Planner pursuant to the Loyalty Program; or
 
@@ -682,9 +684,9 @@ Wailea Beach Resort  Marriott - Maui, Hawaii
 
 3.3.a.  Upgrade Awards may only be used when redeeming Points for a stay at a Participating Property.  There are two types of Upgrade Awards:
 
-i.                      Point Upgrade Awards.  A “Point Upgrade Award” is issued when Points are redeemed to upgrade a Free Night Award in a standard room and is subject to availability at Participating Properties.  Please refer to the details for the selected Participating Property at which you are making a reservation.
+i.     Point Upgrade Awards.  A “Point Upgrade Award” is issued when Points are redeemed to upgrade a Free Night Award in a standard room and is subject to availability at Participating Properties.  Please refer to the details for the selected Participating Property at which you are making a reservation.
 
-ii.          Paid Upgrade Awards.  At select Participating Properties, Members may pay for an upgrade to a Free Night Award reservation on a cost per night basis.  The price for “Paid Upgrade Awards” varies by Participating Property and will be charged to the folio during the Member’s stay.  Additional Points are not required with Paid Upgrade Awards.
+ii.     Paid Upgrade Awards.  At select Participating Properties, Members may pay for an upgrade to a Free Night Award reservation on a cost per night basis.  The price for “Paid Upgrade Awards” varies by Participating Property and will be charged to the folio during the Member’s stay.  Additional Points are not required with Paid Upgrade Awards.
 
 3.3.b.  Upgrade Award requirements vary by Participating Property, hotel category, room type and by season.
 
