@@ -5,13 +5,13 @@
  
  
     Annual Percentage Rate (APR) for Purchases 
-   21.99%This APR will vary with the market based on the Prime Rate. 
+   22.24%This APR will vary with the market based on the Prime Rate. 
  
    APR for Balance Transfers 
-   21.99%This APR will vary with the market based on the Prime Rate. 
+   22.24%This APR will vary with the market based on the Prime Rate. 
  
    APR for Cash Advances 
-  21.99% for Direct Deposit and Check Cash Advances, and 26.74% for Bank Cash Advances. See footnote Footnote  1 for explanation.These APRs will vary with the market based on the Prime Rate. 
+  22.24% for Direct Deposit and Check Cash Advances, and 26.99% for Bank Cash Advances. See footnote Footnote  1 for explanation.These APRs will vary with the market based on the Prime Rate. 
  
    Penalty APR 
   None 
@@ -65,7 +65,7 @@ Please see the next page for a continuation of the Details of Rate, Fee and Othe
 
   How We Will Calculate Your Balance: We use a method called “average daily balance (including new purchases).”Payments are allocated to posted balances. If your account has balances with different APRs, we will allocate the amount of your payment equal to the Total Minimum Payment Due to the lowest APR balances first. Payment amounts in excess of your Total Minimum Payment Due will be applied to balances with higher APRs before balances with lower APRs.
 1 Bank Cash Advances include the following Cash Advance types: ATM, Over-the-Counter, Same-Day Online, Overdraft Protection and Cash Equivalent (money orders, foreign currency, travelers checks, or to obtain cash, each from a non-financial institution, or person-to-person money transfers, bets, lottery tickets purchased outside the United States, casino gaming chips and bail bonds). 
-More Information about Penalty Fees If your Total Minimum Payment Due is not received by your Payment Due Date, a Late Payment Fee of $27 will be assessed; $38 for subsequent occurrences that are within 6 billing cycles of a previous occurrence. However, the Late Payment Fee will not exceed the total minimum payment that was due. If your balance is $100 or less on the Payment Due Date, we will not assess a Late Payment Fee. The Returned Payment Fee will not exceed the total minimum payment that was due.Prime Rate: The Variable APRs above are based on the current Prime Rate of 5.0%. 
+More Information about Penalty Fees If your Total Minimum Payment Due is not received by your Payment Due Date, a Late Payment Fee of $27 will be assessed; $38 for subsequent occurrences that are within 6 billing cycles of a previous occurrence. However, the Late Payment Fee will not exceed the total minimum payment that was due. If your balance is $100 or less on the Payment Due Date, we will not assess a Late Payment Fee. The Returned Payment Fee will not exceed the total minimum payment that was due.Prime Rate: The Variable APRs above are based on the current Prime Rate of 5.25%. 
       CONDITIONS 
  
  
