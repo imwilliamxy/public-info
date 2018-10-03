@@ -10,17 +10,17 @@ UDAP T&C
   
  
  Annual Percentage Rate (APR) for Purchases
-  17.49% to 25.49%, based on your creditworthiness.  
+  17.74% to 25.74%, based on your creditworthiness.  
  These APRs will vary with the market based on the Prime Rate.a 
  
  
  
  
- APR for Balance Transfers 17.74% to 25.74% introductory APR, based on your creditworthiness, for 7 months from date of first transfer when transfers are completed within 2 months from date of account opening.
+ APR for Balance Transfers 17.74% to 25.74%, based on your creditworthiness, for transfers completed within 2 months from date of account opening.
  
  
  
- After that, your APR will be 17.49% to 25.49%, based on your creditworthiness. 
+ 
  
  
  These APRs will vary with the market based on the Prime Rate.a 
@@ -28,7 +28,7 @@ UDAP T&C
  
  
  
- APR for Cash Advances 26.99%
+ APR for Cash Advances 27.24%
  
  
  This APR will vary with the market based on the Prime Rate.b 
@@ -136,7 +136,7 @@ http://www.consumerfinance.gov/learnmore.
 		
 		 
 		
-		Prime Rate: The variable rates shown here are accurate based on a 5% Prime Rate.		 
+		Prime Rate: The variable rates shown here are accurate based on a 5.25% Prime Rate.		 
 		
 		
 			
