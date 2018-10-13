@@ -53,12 +53,7 @@ Travel Accident Insurance11
 Online Banking
 Automatic Bill Pay
 View Terms and Conditions
-Apply for the Radisson RewardsTM Premier Visa Signature® Card Apply OnlineCall 855-340-2676 ext. 33351Apply for This Credit CardApply OnlineCall 855-340-2676 ext. 33351
-				if (typeof(lpUnit)=='undefined')	var lpUnit='sales-creditcard';
-				if (typeof(lpLanguage)=='undefined')	var lpLanguage='english'; 
-				lpAddVars('page','ErrorCounter','0');
-				lpAddVars('page','Product','Credit-Cards');
-				Online Account AccessLog in to view your statement, pay your credit card bill, set up customized account alerts, view rewards earned and more.Log InCredit Card ResourcesCardmember AgreementsCredit Card FinderCredit WellnessHow Credit Cards WorkLost / Stolen CardsOnline Account AccessPayoff CalculatorRespond to Mail OfferVisa CheckoutWe may change APRs, fees, and other Account terms in the future based on your experience with U.S. Bank National Association and its affiliates as provided under the Cardmember Agreement and applicable law.
+Apply for the Radisson RewardsTM Premier Visa Signature® Card Apply OnlineCall 855-340-2676 ext. 33351Apply for This Credit CardApply OnlineCall 855-340-2676 ext. 33351Online Account AccessLog in to view your statement, pay your credit card bill, set up customized account alerts, view rewards earned and more.Log InCredit Card ResourcesCardmember AgreementsCredit Card FinderCredit WellnessHow Credit Cards WorkLost / Stolen CardsOnline Account AccessPayoff CalculatorRespond to Mail OfferVisa CheckoutWe may change APRs, fees, and other Account terms in the future based on your experience with U.S. Bank National Association and its affiliates as provided under the Cardmember Agreement and applicable law.
 U.S. Bank and Radisson Rewards reserve the right to change, modify, restrict, waive, cancel and/or terminate the Card Benefit Program, including the Card Benefit Program rules, or any features, benefits or aspects of the Card Benefit Program at any time without prior notice.
 The creditor and issuer of this Card is U.S. Bank National Association, pursuant to a license from Visa U.S.A. Inc.
 Rules for the Radisson Rewards Premier Visa Signature Program & Benefits ("Card Benefit Program")
