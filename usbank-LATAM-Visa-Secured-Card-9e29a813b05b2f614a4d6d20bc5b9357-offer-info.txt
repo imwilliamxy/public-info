@@ -58,12 +58,7 @@ The deposit is used to open a U.S. Bank Secured Savings Account (SSA) to ensure 
 Transactions with the card are billed to you each month as with any credit card. You’re responsible for making at least your minimum payment by the due date; payments are not automatically deducted from your secured savings account.
 When you’ve managed all of your credit obligations responsibly consistently for 12 months, you’ll be well on your way to a strong credit standing, and we may be able to move you to an unsecured credit card product.
 View Terms and Conditions
-Apply for the LATAM Visa Secured CardApply NowApply for This Credit CardApply Now
-				if (typeof(lpUnit)=='undefined')	var lpUnit='sales-creditcard';
-				if (typeof(lpLanguage)=='undefined')	var lpLanguage='english'; 
-				lpAddVars('page','ErrorCounter','0');
-				lpAddVars('page','Product','Credit-Cards');
-				Online Account AccessLog in to view your statement, pay your credit card bill, set up customized account alerts, view rewards earned and more.Log InCredit Card ResourcesCardmember AgreementsCredit Card FinderCredit WellnessHow Credit Cards WorkLost / Stolen CardsOnline Account AccessPayoff CalculatorRespond to Mail OfferVisa Checkout
+Apply for the LATAM Visa Secured CardApply NowApply for This Credit CardApply NowOnline Account AccessLog in to view your statement, pay your credit card bill, set up customized account alerts, view rewards earned and more.Log InCredit Card ResourcesCardmember AgreementsCredit Card FinderCredit WellnessHow Credit Cards WorkLost / Stolen CardsOnline Account AccessPayoff CalculatorRespond to Mail OfferVisa Checkout
 We may change APRs, fees, and other Account terms in the future based on your experience with U.S. Bank National Association and its affiliates as provided under the Cardmember Agreement and applicable law.
 All cardmember communications will be in English (in Spanish when possible). In the event of a discrepancy between the English and Spanish languages the English version will prevail.
 Account must be open and in good standing to earn rewards and benefits. Upon approval, please refer to your Cardmember Agreement for additional information.
