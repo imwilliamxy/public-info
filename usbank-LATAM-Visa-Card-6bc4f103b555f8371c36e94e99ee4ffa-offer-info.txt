@@ -53,12 +53,7 @@ Travel Accident Insurance6
 Online Banking
 Automatic Bill Pay
 View Terms and Conditions
-Apply for the LATAM Visa CardApply OnlineApply for This Credit CardApply Online
-				if (typeof(lpUnit)=='undefined')	var lpUnit='sales-creditcard';
-				if (typeof(lpLanguage)=='undefined')	var lpLanguage='english'; 
-				lpAddVars('page','ErrorCounter','0');
-				lpAddVars('page','Product','Credit-Cards');
-				Online Account AccessLog in to view your statement, pay your credit card bill, set up customized account alerts, view rewards earned and more.Log InCredit Card ResourcesCardmember AgreementsCredit Card FinderCredit WellnessHow Credit Cards WorkLost / Stolen CardsOnline Account AccessPayoff CalculatorRespond to Mail OfferVisa Checkout
+Apply for the LATAM Visa CardApply OnlineApply for This Credit CardApply OnlineOnline Account AccessLog in to view your statement, pay your credit card bill, set up customized account alerts, view rewards earned and more.Log InCredit Card ResourcesCardmember AgreementsCredit Card FinderCredit WellnessHow Credit Cards WorkLost / Stolen CardsOnline Account AccessPayoff CalculatorRespond to Mail OfferVisa Checkout
 We may change APRs, fees, and other Account terms in the future based on your experience with U.S. Bank National Association and its affiliates as provided under the Cardmember Agreement and applicable law.
 All cardmember communications will be in English (in Spanish when possible). In the event of a discrepancy between the English and Spanish languages the English version will prevail.
 Account must be open and in good standing to earn rewards and benefits. Upon approval, please refer to your Cardmember Agreement for additional information.
