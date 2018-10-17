@@ -372,9 +372,7 @@ ii.      Awards redeemed by a Member prior to Point forfeiture are still va
 
 iii.      The Points expiration policy does not currently affect Points in a Lifetime Elite Membership Account; however, the Loyalty Program may choose to apply a Points expiration policy to Lifetime Elite Membership Accounts in the future.
 
-iv.      Points issued or earned through Vistana, including, without limitation, tour incentives, purchase incentives, SPG Conversion, sweepstakes and other giveaway prizes, will expire six (6) years following the date they are deposited into a Member’s Account, regardless of Member activity.  All such Points or any portion thereof, which have not been redeemed by their six (6) year expiration period, will be forfeited without notice.
-
-1.6.e.  Airline Frequent Flyer Program Terms and Conditions.  The program rules of affiliated airline frequent flyer programs control the redemption and distribution of any Miles earned or transferred.          
+iv.      Points issued or earned through Vistana, including, without limitation, tour incentives, purchase incentives, SPG Conversion, sweepstakes and other giveaway prizes, will expire six (6) years following the date they are deposited into a Member’s Account, regardless of Member activity.  All such Points or any portion thereof, which have not been redeemed by their six (6) year expiration period, will be forfeited without notice.          
                           
                         
                         
@@ -452,33 +450,33 @@ iv.         Any Elite Membership Status and Lifetime Elite Membership Sta
                             
                                     2.1      Earning Opportunities at Participating Properties    2.1.a. A Member will earn:
 
-i. Ten (10) base Points for each U.S. dollar, or the currency equivalent, that is incurred and paid for by the Member on Qualifying Charges in accordance with Section 2.1.b. except at Element, Residence Inn, and TownePlace Suites properties, where a Member will earn five (5) base Points for each U.S. dollar spent on Qualifying Charges; and except at Marriott Executive Apartments and ExecuStay properties where a Member will earn two and a half (2.5) base Points for each U.S. dollar spent on Qualifying Charges; and
+i.     Ten (10) base Points for each U.S. dollar, or the currency equivalent, that is incurred and paid for by the Member on Qualifying Charges in accordance with Section 2.1.b. except at Element, Residence Inn, and TownePlace Suites properties, where a Member will earn five (5) base Points for each U.S. dollar spent on Qualifying Charges; and except at Marriott Executive Apartments and ExecuStay properties where a Member will earn two and a half (2.5) base Points for each U.S. dollar spent on Qualifying Charges; and
 
-ii. Elite bonus Points, provided the Member has met the Elite Membership Requirements for Elite Membership Status or Lifetime Elite Membership Status as outlined in Section 4.2. The amount of bonus Points a Member earns will depend on the Member’s achieved Elite Member Tier pursuant to Section 4.3.
+ii.     Elite bonus Points, provided the Member has met the Elite Membership Requirements for Elite Membership Status or Lifetime Elite Membership Status as outlined in Section 4.2. The amount of bonus Points a Member earns will depend on the Member’s achieved Elite Member Tier pursuant to Section 4.3.
 
-iii. Credits toward achieving the Elite Membership Requirements (“Elite Night Credits,” or individually, “Elite Night Credit”) for Elite Membership Status and Lifetime Elite Membership Status as outlined in Section 4.2. An Elite Night Credit is only earned on a night during a Qualifying Stay (“Qualifying Night,” or for more than one night, “Qualifying Nights”).
+iii.     Credits toward achieving the Elite Membership Requirements (“Elite Night Credits,” or individually, “Elite Night Credit”) for Elite Membership Status and Lifetime Elite Membership Status as outlined in Section 4.2. An Elite Night Credit is only earned on a night during a Qualifying Stay (“Qualifying Night,” or for more than one night, “Qualifying Nights”).
 
 2.1.b. Qualifying Charges.  “Qualifying Charges” are:
 
-i. Charges incurred during a stay in a guest room at a Participating Property by a Member on his/her folio and up to two (2) additional guest rooms, including, without limitation, charges for:
+i.     Charges incurred during a stay in a guest room at a Participating Property by a Member on his/her folio and up to two (2) additional guest rooms, including, without limitation, charges for:
 
-A. Qualifying Rates for Stays;
+A.     Qualifying Rates for Stays;
 
-B. Food and beverages (excluding alcoholic beverages where prohibited by law) and excluding charges incurred at restaurants that are not located within or adjacent to Participating Properties;
+B.     Food and beverages (excluding alcoholic beverages where prohibited by law) and excluding charges incurred at restaurants that are not located within or adjacent to Participating Properties;
 
-C. Direct-dialed in-room telephone and direct-dialed in-room fax;
+C.     Direct-dialed in-room telephone and direct-dialed in-room fax;
 
-D. In-room movies and video games;
+D.     In-room movies and video games;
 
 provided the Member provides his/her Membership Number at the time of reservation or at check-in, stays in one of the reserved guest rooms, and pays for the charges; or
 
-ii. Charges incurred by the Member, without a stay in a guest room, for food and beverage (excluding alcoholic beverage where prohibited by law) at restaurants located within or adjacent to Participating Properties that offer this benefit if:
+ii.     Charges incurred by the Member, without a stay in a guest room, for food and beverage (excluding alcoholic beverage where prohibited by law) at restaurants located within or adjacent to Participating Properties that offer this benefit if:
 
-A. the restaurant permits guests to charge food and beverages on their folios;
+A.     the restaurant permits guests to charge food and beverages on their folios;
 
-B. the charges are greater than $10 U.S. dollars (excluding taxes, service charges, and gratuities);
+B.     the charges are greater than $10 U.S. dollars (excluding taxes, service charges, and gratuities);
 
-C. the food and beverages are not in connection with a banquet, meeting or other function that is excluded from Qualifying Charges as provided in Section 2.1.b. and 
+C.     the food and beverages are not in connection with a banquet, meeting or other function that is excluded from Qualifying Charges as provided in Section 2.1.b. and
 
 provided the Member provides his/her Membership Number at the time of payment.  Elite bonus Points will not be awarded on charges incurred by the Member without a stay in a guest room under Section 2.1.b(ii).
 
@@ -486,33 +484,31 @@ provided the Member provides his/her Membership Number at the time of payment. 
 
 2.1.d. Qualifying Stay.  A “Stay" or “Qualifying Stay” means all consecutive nights a Member registers for, and personally pays and stays at any Participating Property, for which the room is billed to the Member.
 
-i. A “Stay” is a stay of one or more consecutive nights at the same Participating Property by a Member who: (A) provides his/her Membership Number at the time of reservation or at check-in; (B) pays a Qualifying Rate or redeems a Points redemption Award or a promotional Award for the stay; and (C) stays in one of the reserved guest rooms. If a Member checks out of a guest room and then checks back in to a guest room at the same Participating Property within 24 hours, it will count as a single stay for purposes of calculating Stays and issuing Member benefits. A Member may only earn Points for up to three (3) guest rooms during any Stay if he/she stays in one of the reserved guest rooms and pays a Qualifying Rate or redeems a Points redemption Award or a promotional Award for all of the guest rooms.
+i.     A “Stay” is a stay of one or more consecutive nights at the same Participating Property by a Member who: (A) provides his/her Membership Number at the time of reservation or at check-in; (B) pays a Qualifying Rate or redeems a Points redemption Award or a promotional Award for the stay; and (C) stays in one of the reserved guest rooms. If a Member checks out of a guest room and then checks back in to a guest room at the same Participating Property within 24 hours, it will count as a single stay for purposes of calculating Stays and issuing Member benefits. A Member may only earn Points for up to three (3) guest rooms during any Stay if he/she stays in one of the reserved guest rooms and pays a Qualifying Rate or redeems a Points redemption Award or a promotional Award for all of the guest rooms.
 
-ii. A “Qualifying Stay” is a credit pursuant to these Program Rules that counts toward earning Elite Night Credit.  Members will only earn credit for each Qualifying Night which is part of a Qualifying Stay for the guest room the Member personally pays for and stays in, and not for any additional guest rooms.
+ii.     A “Qualifying Stay” is a credit pursuant to these Program Rules that counts toward earning Elite Night Credit.  Members will only earn credit for each Qualifying Night which is part of a Qualifying Stay for the guest room the Member personally pays for and stays in, and not for any additional guest rooms.
 
-iii. Members cannot earn or receive benefits at multiple Participating Properties for the same stay date(s).
+iii.     Members cannot earn or receive benefits at multiple Participating Properties for the same stay date(s).
 
-iv. Only one Member per guest room can earn Points/Miles and receive benefits.  If there is more than one Member staying in the same guest room, the Members must decide upon check-in whose Membership Number will be applied to the guest room provided it is the same Member who will be paying the bill.
-
- 
+iv.     Only one Member per guest room can earn Points/Miles and receive benefits.  If there is more than one Member staying in the same guest room, the Members must decide upon check-in whose Membership Number will be applied to the guest room provided it is the same Member who will be paying the bill.
 
 2.1.e. Qualifying Rates.  A “Qualifying Rate” is the rate a Member pays for a Stay in a guest room at a Participating Property which qualifies to earn Points or Miles unless the Member stays under a “Non-Qualifying Rate,” as defined in Section 2.1.f.  Unless otherwise specifically stated, Members will receive their membership tier benefits during stays on Qualifying Rates.
 
-i. At participating Design HotelsTM, Members earn Points or Miles on Qualifying Charges only on Stays at a Qualifying Rate. Members do not earn Points or Miles on Stays at a Non-Qualifying Rate at participating Design HotelsTM even if they incur Qualifying Charges such as for incidental spend.
+i.     At participating Design HotelsTM, Members earn Points or Miles on Qualifying Charges only on Stays at a Qualifying Rate. Members do not earn Points or Miles on Stays at a Non-Qualifying Rate at participating Design HotelsTM even if they incur Qualifying Charges such as for incidental spend.
 
 2.1.f Non-Qualifying Rates. A “Non-Qualifying Rate” is a rate a Member pays for a Stay in a guest room at a Participating Property which does not qualify to earn Points or Miles, as well as membership tier benefits.  Non-Qualifying Rates are those booked using the following methods:
 
-i. The guest room was booked through a tour operator, online travel channel or other third-party channel including, without limitation, expedia.com, hotwire.com, priceline.com, orbitz.com, booking.com, travelocity.com; or
+i.     The guest room was booked through a tour operator, online travel channel or other third-party channel including, without limitation, expedia.com, hotwire.com, priceline.com, orbitz.com, booking.com, travelocity.com; or
 
-ii. The guest room was booked at a group rate as part of an event, meeting, conference or organized tour, and the Member does not directly pay the Participating Property for such room; or
+ii.     The guest room was booked at a group rate as part of an event, meeting, conference or organized tour, and the Member does not directly pay the Participating Property for such room; or
 
-iii. The guest room was booked at a tour operator, wholesaler, or crew room rate or package including, without limitation, Fam-Tastic rates, Plan-Tastic rates, travel industry rates and organized tours or package bookings; or
+iii.     The guest room was booked at a tour operator, wholesaler, or crew room rate or package including, without limitation, Fam-Tastic rates, Plan-Tastic rates, travel industry rates and organized tours or package bookings; or
 
-iv. The guest room was booked at the Company employee or friends and family rate or the Company business rate; or
+iv.     The guest room was booked at the Company employee or friends and family rate or the Company business rate; or
 
-v. The guest room was complimentary; or
+v.     The guest room was complimentary; or
 
-vi. A voucher or third-party award was redeemed for the guest room.
+vi.     A voucher or third-party award was redeemed for the guest room.
 
 2.1.g. Points will not be given, or Awards honored, at any subsidiary or affiliate of the Company other than at Participating Properties, unless otherwise advertised.  If a hotel or other property ceases to be a Participating Property, all stays subsequent to such date will not be eligible to earn Points regardless of when the reservation was made.  See Section 8.6 for additional terms.          
                           
@@ -534,13 +530,13 @@ vi. A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                    2.5      Individual Earning for Qualifying Charges and Qualifying Nights    2.5.a.    No other person except the Member may earn Points/Miles on Qualifying Charges and Elite Night Credit on Qualifying Nights for his/her Membership Account.  Points/Miles and Elite Night Credit for a room shared by two Loyalty Program Members will only be awarded to one Loyalty Program Member.
+                                    2.5      Individual Earning for Qualifying Charges and Qualifying Nights    2.5.a.  No other person except the Member may earn Points/Miles on Qualifying Charges and Elite Night Credit on Qualifying Nights for his/her Membership Account.  Points/Miles and Elite Night Credit for a room shared by two Loyalty Program Members will only be awarded to one Loyalty Program Member.
 
-2.5.b.    Point/Miles and Elite Night Credit accrual is limited to individual travel and the room must be paid for individually by the Member or direct billed to the company who has arranged payment for the Member’s stay that is not associated with a convention or group meeting.
+2.5.b.  Point/Miles and Elite Night Credit accrual is limited to individual travel and the room must be paid for individually by the Member or direct billed to the company who has arranged payment for the Member’s stay that is not associated with a convention or group meeting.
 
-2.5.c.    If the Member attends a convention or group meeting and individually pays the hotel or other property directly for the room, he/she will be eligible to receive Points/Miles and Elite Night Credits for the Stay.  However, contract rooms, rooms reserved by corporations on an ongoing basis, and master-billed rooms are not eligible to earn Points/Miles and Elite Night Credit.
+2.5.c.  If the Member attends a convention or group meeting and individually pays the hotel or other property directly for the room, he/she will be eligible to receive Points/Miles and Elite Night Credits for the Stay.  However, contract rooms, rooms reserved by corporations on an ongoing basis, and master-billed rooms are not eligible to earn Points/Miles and Elite Night Credit.
 
-2.5.d.    Military rates at certain overseas locations are subject to local restrictions and may be ineligible for Points/Miles and Elite Night Credit.          
+2.5.d.  Military rates at certain overseas locations are subject to local restrictions and may be ineligible for Points/Miles and Elite Night Credit.          
                           
                           
                             
@@ -559,9 +555,9 @@ vi. A voucher or third-party award was redeemed for the guest room.
 
 2.8.b.  A new Member may receive a Points Transfer thirty (30) days after enrollment if the Account reflects activity including a Qualifying Stay or other qualifying activity as described in Section 1.6.d.  After ninety (90) days from enrollment, a new Member is eligible to receive a Points Transfer regardless of their account activity.
 
-2.8.c.    Authorization to transfer Points must be initiated by the Account holder with the Points to be transferred by contacting Member Support. The Account holder requesting the transfer must provide the Membership Number of the Points recipient at the time of the Point transfer request.
+2.8.c.  Authorization to transfer Points must be initiated by the Account holder with the Points to be transferred by contacting Member Support. The Account holder requesting the transfer must provide the Membership Number of the Points recipient at the time of the Point transfer request.
 
-2.8.d.    Once the authorization for transfer is received and processed, the transferor relinquishes all rights to the transferred Points, and they become the recipient’s Points.
+2.8.d.  Once the authorization for transfer is received and processed, the transferor relinquishes all rights to the transferred Points, and they become the recipient’s Points.
 
 2.8.e.  Miles and Elite Night Credit cannot be transferred between Membership Accounts.          
                           
@@ -577,7 +573,7 @@ vi. A voucher or third-party award was redeemed for the guest room.
 
 2.10.a.  Merchandise.  A Member may earn Points through MORE for merchandise purchased through select retailers that are affiliated with the Program. 
 
-2.10.b.  Cruises.  A Member may earn Points when he/she books a cruise through the Company’s cruise partner.  More information on the Cruise program may be obtained here.
+2.10.b.  Cruises.  A Member may earn Points when he/she books a cruise through the Company’s cruise partner.  More information on the Cruise program may be obtained here.
 
 2.10.c.  Hertz.  A Member may earn Points and receive special discounts with Hertz where available when booked through here.  Qualified Elite Members may also receive complimentary Hertz Gold Plus Rewards elite status.
 
@@ -623,25 +619,25 @@ vi. A voucher or third-party award was redeemed for the guest room.
 
 3.2.b.  When making a reservation at least twenty-four (24) hours in advance, a “Redemption Award” will be added to the stay automatically, provided the Member has sufficient Points for the entire stay, and the Redemption Award will be activated upon check-in.
 
-i.                      Redemption Awards are required for reservations which use Free Night Awards, Upgrade Awards, Cash + Points Awards, and/or PointSaversTM Awards.
+i.      Redemption Awards are required for reservations which use Free Night Awards, Upgrade Awards, Cash + Points Awards, and/or PointSaversTM Awards.
 
-ii.          Redemption Awards are valid only for individual travel and are not valid for group travel, package tours, conventions or other special rates and/or package programs, food and beverage credits, incidental expenses, or service charges.
+ii.      Redemption Awards are valid only for individual travel and are not valid for group travel, package tours, conventions or other special rates and/or package programs, food and beverage credits, incidental expenses, or service charges.
 
-iii.        A paper copy of a Redemption Award will be issued only upon request and may be obtained by contacting Member Support for a charge of U.S. $10 per paper Redemption Award.  Paper Redemption Awards cannot be reissued if lost, stolen or otherwise destroyed.
+iii.      A paper copy of a Redemption Award will be issued only upon request and may be obtained by contacting Member Support for a charge of U.S. $10 per paper Redemption Award.  Paper Redemption Awards cannot be reissued if lost, stolen or otherwise destroyed.
 
 3.2.c.  The standard guarantee and cancellation policies of a Participating Property will apply to Award Redemption Stay reservations including, without limitation, all minimum length of stay requirements, credit card guarantee requirements and charges for late cancellation, no-shows, and early check-out.
 
-i.          A Point refund may be issued for a stay that is less than the number of days on the Redemption Award, but the Member must inform the Participating Property’s front desk in advance of the early check-out time in order for the Point refund to be issued to the Member’s Account.
+i.      A Point refund may be issued for a stay that is less than the number of days on the Redemption Award, but the Member must inform the Participating Property’s front desk in advance of the early check-out time in order for the Point refund to be issued to the Member’s Account.
 
-ii.          If a Member fails to cancel a guaranteed Award Redemption Stay reservation within the permitted cancellation period, the Participating Property will charge the applicable cancellation fee to the credit card provided by the Member at the time the reservation was made and the Points that were redeemed will be re-deposited into the Member’s account. 
+ii.      If a Member fails to cancel a guaranteed Award Redemption Stay reservation within the permitted cancellation period, the Participating Property will charge the applicable cancellation fee to the credit card provided by the Member at the time the reservation was made and the Points that were redeemed will be re-deposited into the Member’s account. 
 
 3.2.d.  The amount of Points required per night to obtain rooms at Participating Properties varies by the category of the Participating Property and the room types available at the Participating Property, length of stay, and may also vary by time of year.  A list of Participating Property categories is available on the Loyalty Program website under USE AT HOTELS. The Company may change a Participating Property’s category at any time.
 
 3.2.e.  When redeeming Points for an Award Redemption Stay, the Award Redemption Stay includes the cost of a single or double standard room at a Participating Property, room tax/service charge, and extra-person charges, if any. All other charges, including incidentals, resort fees and The Ritz-Carlton Club level charges, are the responsibility of the Member and are not included in the Award Redemption Stay.
 
-i.                      Standard rooms vary between Participating Properties and Participating Brands.  Upgraded rooms, including upgrades based on size, view, services, and/or suites, are available at a higher Points cost, as described in Section 3.3. 
+i.      Standard rooms vary between Participating Properties and Participating Brands.  Upgraded rooms, including upgrades based on size, view, services, and/or suites, are available at a higher Points cost, as described in Section 3.3. 
 
-ii.          With an Award Redemption Stay, bedding and smoking preferences may be requested, but are not guaranteed.
+ii.      With an Award Redemption Stay, bedding and smoking preferences may be requested, but are not guaranteed.
 
 3.2.f.  A Member who redeems Points for a Free Night Award stay of at least four (4) nights may receive a fifth free night (“Fifth Night Free Award”).  The free night offer applies only to the fifth consecutive night within the same Award Redemption Stay for which the Free Night Award was ordered.  There will be no Points refund or free night credit for any unused portion of a Fifth Night Free Award.  Point values are based on a standard room only (does not apply to premium room) and may vary by length of stay and hotel category.
 
@@ -660,22 +656,15 @@ ii.          With an Award Redemption Stay, bedding and smoking preferen
 3.2.m.  An Award Redemption Stay at destinations outside the United States is subject to all required government approvals, restrictions, applicable taxes and/or service charges.  Awards do not include United States federal inspection fees or any other fees, expenses, surcharges, taxes or other costs or expenses that may be imposed by foreign governments for international travel.
 
 3.2.n.  Blackout dates refer to a limited number of dates when a Participating Property could choose not to permit Members to redeem Points for Awards, but the Company has a “No Blackout Dates” benefit so that if there is a standard room available for booking by any means, whether by cash, credit or Points, then a Member can reserve the room using Points.  The following properties either do not participate in or do not fully participate in the No Blackout Dates benefit at this time:
-Boscolo Exedra Nice, Autograph Collection
 
-The Dedica Anthology, Autograph Collection
-
-JW Marriott Scottsdale Camelback Inn Resort & Spa, Scottsdale, AZ
-
-Marriott Vacation Club and Marriott Grand Residence Club  all properties
-
-Participating Vistana properties
-
-Rome Marriott Grand Hotel Flora, Rome, Italy
-
-Waikoloa Beach Marriott Resort & Spa, Hawaii
-
-Wailea Beach Resort  Marriott - Maui, Hawaii
-          
+●     Boscolo Exedra Nice, Autograph Collection
+●     The Dedica Anthology, Autograph Collection
+●     JW Marriott Scottsdale Camelback Inn Resort & Spa, Scottsdale, AZ
+●     Marriott Vacation Club and Marriott Grand Residence Club  all properties
+●     Participating Vistana properties
+●     Rome Marriott Grand Hotel Flora, Rome, Italy
+●     Waikoloa Beach Marriott Resort & Spa, Hawaii
+●     Wailea Beach Resort  Marriott - Maui, Hawaii          
                           
                           
                             
@@ -887,7 +876,7 @@ vi.         Elite Members who do not receive their Elite Benefits Guarant
                           
                             
                             
-                                    4.2Elite Membership Requirements    4.2.a.   Only nights personally stayed by and individually billed to an Elite Member at Participating Properties are credited toward the Elite Member’s Elite membership achievement and renewal thereof.  Pursuant to section 1.4.e. Accounts may be combined to achieve Elite membership.
+                                    4.2Elite Membership Requirements    4.2.a.  Only nights personally stayed by and individually billed to an Elite Member at Participating Properties are credited toward the Elite Member’s Elite membership achievement and renewal thereof.  Pursuant to section 1.4.e. Accounts may be combined to achieve Elite membership.
 
 i.     Pursuant to section 2.1.a., one Elite Night Credit will be awarded to the Elite Member room for each Qualifying Night stayed.
 
@@ -897,7 +886,7 @@ iii.     When staying at Marriott Executive Apartments, every three (3) Qua
 
 iv.     When booking a qualifying group event or meeting with Rewarding Events, ten (10) Elite nights will be awarded to the Member for his/her first group, event or meeting, and thereafter, one (1) Elite Night Credit will be awarded for every twenty (20) rooms booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract.  Points or Miles may be earned in addition to Elite Night Credits for Rewarding Events.
 
-4.2.b.   To achieve or renew Elite membership status, the following number of Elite Night Credits (“Minimum Requirement”) must be earned through (i) nights stayed at Participating Properties or (ii) Rewarding Events between January 1 and December 31 of any given year:
+4.2.b.  To achieve or renew Elite membership status, the following number of Elite Night Credits (“Minimum Requirement”) must be earned through (i) nights stayed at Participating Properties or (ii) Rewarding Events between January 1 and December 31 of any given year:
 
 i.     Silver Elite:  10 to 24 Qualifying Nights
 
@@ -914,11 +903,11 @@ In 2018, the Loyalty Program will continue to honor Elite achievement via Qualif
 ●     Gold Elite: 10 to 24 Qualifying Stays or 25 to 49 Qualifying Nights
 ●     Platinum Elite: 25 or more Qualifying Stays or 50 to 74 Qualifying Nights
 
-4.2.c.    Free Night Award stays will count toward Elite Night Credit.
+4.2.c.  Free Night Award stays will count toward Elite Night Credit.
 
-4.2.d.    Qualifying Charges without a personal overnight stay will not earn Elite Night Credit toward Elite membership.
+4.2.d.  Qualifying Charges without a personal overnight stay will not earn Elite Night Credit toward Elite membership.
 
-4.2.e.    Earning Lifetime Elite Status
+4.2.e.  Earning Lifetime Elite Status
 
 i.     In order to obtain Lifetime Elite Status, a Member must meet the below Lifetime Elite Status Criteria (4.2.f.) during the Member’s participation in the Loyalty Program.  An “Eligible Status Year” is a calendar year during which a Member obtained Elite membership status (Silver Elite, Gold Elite, Platinum Elite or Platinum Premier Elite) by achieving the Silver Elite, Gold Elite, Platinum Elite or Platinum Premier Elite Minimum Requirement during such Eligible Status Year.  Only a calendar year in which a Member achieves Silver Elite, Gold Elite, Platinum Elite or Platinum Premier Elite Status, as described in the prior sentence, will count as an Eligible Status Year, regardless of the length of time that such Member will retain the benefits of Elite membership Status.  For example, if a Member meets the Gold Elite Minimum Requirement during the 2018 Eligible Status Year by earning twenty-five (25) Eligible Nights and becomes a Gold Elite Member for the remainder of 2018 and for all of 2019, 2018 will count as a single Eligible Status Year, but 2019 will not count as an Eligible Status Year unless the Member meets the Gold Elite Minimum Requirement during the 2019 Eligible Status Year.
 
@@ -926,7 +915,7 @@ ii.     The Company will determine, in its sole discretion, whether or not 
 
 iii.     Lifetime Elite Status only provides a Member with Silver Elite, Gold Elite or Platinum Elite status and protection against the forfeiture of Points even if the Lifetime Elite Member is inactive.  It does not prevent the Company from suspending Lifetime Elite Status or cancelling a Member’s Account.  Lifetime Elite Members will receive the benefits of Silver Elite, Gold Elite or Platinum Elite Members, which are subject to change from time to time as described in section 4.1.
 
-4.2.f.    Lifetime Elite Status Criteria.  In 2018, Members can earn Lifetime Elite Status one of two ways:
+4.2.f.  Lifetime Elite Status Criteria.  In 2018, Members can earn Lifetime Elite Status one of two ways:
 
 i.     Loyalty Program Lifetime Elite Status Criteria:
 
@@ -935,7 +924,7 @@ i.     Loyalty Program Lifetime Elite Status Criteria:
 ●     Lifetime Platinum Elite: 600 Qualifying Nights + 10 Years as Platinum Elite
 ●     Lifetime Platinum Premier Elite*: 750 Qualifying Nights + 10 Years as Platinum Elite
 
-* Achievement of Lifetime Platinum Premier Elite Status is only available until December 31, 2018 and will not be continued thereafter.  Members will receive notice of this Lifetime achievement in January 2019.
+       *Achievement of Lifetime Platinum Premier Elite Status is only available until December 31, 2018 and will not be continued thereafter.  Members will receive notice of this Lifetime achievement in January 2019.
 
 ii.     Legacy Programs Lifetime Elite Status Criteria: In addition to earning Lifetime Elite Status on the above criteria, through December 31, 2018, Members can earn Lifetime Elite Status under their Legacy Program requirements listed below.
 
