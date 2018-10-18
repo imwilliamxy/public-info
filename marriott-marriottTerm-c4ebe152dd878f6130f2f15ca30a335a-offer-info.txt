@@ -372,9 +372,7 @@ ii.      Awards redeemed by a Member prior to Point forfeiture are still va
 
 iii.      The Points expiration policy does not currently affect Points in a Lifetime Elite Membership Account; however, the Loyalty Program may choose to apply a Points expiration policy to Lifetime Elite Membership Accounts in the future.
 
-iv.      Points issued or earned through Vistana, including, without limitation, tour incentives, purchase incentives, SPG Conversion, sweepstakes and other giveaway prizes, will expire six (6) years following the date they are deposited into a Member’s Account, regardless of Member activity.  All such Points or any portion thereof, which have not been redeemed by their six (6) year expiration period, will be forfeited without notice.
-
-1.6.e.  Airline Frequent Flyer Program Terms and Conditions.  The program rules of affiliated airline frequent flyer programs control the redemption and distribution of any Miles earned or transferred.          
+iv.      Points issued or earned through Vistana, including, without limitation, tour incentives, purchase incentives, SPG Conversion, sweepstakes and other giveaway prizes, will expire six (6) years following the date they are deposited into a Member’s Account, regardless of Member activity.  All such Points or any portion thereof, which have not been redeemed by their six (6) year expiration period, will be forfeited without notice.          
                           
                         
                         
@@ -1569,141 +1567,75 @@ Emirates NBD Starwood Preferred Guest World Mastercard for residents of United A
                             
                                     6.4      Loyalty Program Member Benefits and Exclusions    6.4.a.  Premium Internet Access.  Gold Elite, Platinum Elite, and Platinum Premier Elite Members receive enhanced in-room internet access where available at Participating Properties worldwide regardless of booking method.
 
- 6.4.b.  Premium Internet Access Exclusions.  Participating Properties that are listed here participate in the Loyalty Program but do not participate in premium internet access for Members. 
-AC Hotels by Marriott - all locations
-
-African Pride Arabella Hotel & Spa, Autograph Collection
-
-China Hotel Apartments, Guangzhou
-
-Convention Plaza Apartments
-
-Courtyard by Marriott Baltimore BWI Airport
-
-Courtyard Hot Springs
-
-Dorado Beach, a Ritz-Carlton Reserve
-
-EDITION - all locations
-
-Fairfield Inn & Suites by Marriott Arundel Mills BWI Airport
-
-Fairfield Inn & Suites Bristol
-
-Fairfield by Marriott Dongguan Changping
-
-Fairfield Inn & Suites Keene Downtown
-
-Fairfield Inn & Suites Germantown Gaithersburg
-
-Fairfield Inn & Suites Memphis East/Galleria
-
-Fairfield by Marriott Nanning Nanhu Park
-
-Fairfield Inn & Suites Rehoboth Beach
-
-Fairfield Inn & Suites Waterloo Cedar Falls
-
-Fairfield Inn & Suites Wilmington New Castle
-
-Frenchman's Reef & Morning Star Marriott Beach Resort
-
-GE Healthcare Institute RiversEdge Condos
-
-Grand Residences by Marriott, Kauai Lagoons
-
-Hollins Hall Marriott Hotel & Country Club
-
-Hotel Arts Barcelona
-
-Jeddah Marriott Hotel
-
-JW Marriott Hotel Caracas
-
-JW Marriott Hotel Seoul
-
-Mandapa, a Ritz-Carlton Reserve
-
-Marriott Executive Apartments Downtown Abu Dhabi
-
-Marriott Executive Apartments Dubai, Green Community
-
-Marriott Executive Apartments Riyadh, Makarim
-
-Marriott Maracay Golf Resort
-
-Marriott Ranch B & B
-
-Marriott Vacation Club - all locations
-
-Marriott Grand Residence Club - all locations
-
-Meon Valley Marriott Hotel & Country Club
-
-Mulu Marriott Resort & Spa
-
-Nanki-Shirahama Marriott Hotel
-
-Newcastle Marriott Hotel Gosforth Park
-
-Park Chalet, Shahdag, Autograph Collection
-
-Parkside Tower at The Ritz-Carlton, Tokyo
-
-Penha Longa Resort
-
-Phulay Bay, a Ritz-Carlton Reserve
-
-Pik Palace, Shahdag, Autograph Collection
-
-Protea Hotels by Marriott - all locations
-
-Renaissance Caracas La Castellana Hotel
-
-Renaissance St. Croix Carambola Beach Resort & Spa
-
-Residence Inn by Marriott Columbia
-
-Residence Inn Springfield Old Keene Mill
-
-Residence Inn Decatur Forsyth
-
-Residence Inn Denver Downtown
-
-SpringHill Suites by Marriott Baton Rouge Gonzales
-
-SpringHill Suites Ashburn Dulles North
-
-Sprowston Manor Marriott Hotel & Country Club
-
-Sunderland Marriott Hotel
-
-The Cosmopolitan of Las Vegas, Autograph Collection
-
-The Ritz-Carlton - all locations
-
-The Royal at Atlantis, Autograph Collection
-
-The Siena Hotel, Autograph Collection
-
-TownePlace Suites by Marriott Bellingham
-
-TownePlace Suites Carlsbad
-
-TownePlace Suites Gaithersburg
-
-TownePlace Suites Laredo
-
-TownePlace Suites Lawrence Downtown
-
-TownePlace Suites Wareham Buzzards Bay
-
-Towson University Marriott Conference Hotel
-
-Venezuela Marriott Hotel Playa Grande
-
-Waikoloa Beach Marriott Resort & Spa
-          
+6.4.b.  Premium Internet Access Exclusions.  Participating Properties that are listed here participate in the Loyalty Program but do not participate in premium internet access for Members. 
+
+●     AC Hotels by Marriott - all locations
+●     African Pride Arabella Hotel & Spa, Autograph Collection
+●     China Hotel Apartments, Guangzhou
+●     Convention Plaza Apartments
+●     Courtyard by Marriott Baltimore BWI Airport
+●     Courtyard Hot Springs
+●     Dorado Beach, a Ritz-Carlton Reserve
+●     EDITION - all locations
+●     Fairfield Inn & Suites by Marriott Arundel Mills BWI Airport
+●     Fairfield Inn & Suites Bristol
+●     Fairfield by Marriott Dongguan Changping
+●     Fairfield Inn & Suites Keene Downtown
+●     Fairfield Inn & Suites Germantown Gaithersburg
+●     Fairfield Inn & Suites Memphis East/Galleria
+●     Fairfield by Marriott Nanning Nanhu Park
+●     Fairfield Inn & Suites Rehoboth Beach
+●     Fairfield Inn & Suites Waterloo Cedar Falls
+●     Fairfield Inn & Suites Wilmington New Castle
+●     Frenchman's Reef & Morning Star Marriott Beach Resort
+●     GE Healthcare Institute RiversEdge Condos
+●     Grand Residences by Marriott, Kauai Lagoons
+●     Hollins Hall Marriott Hotel & Country Club
+●     Hotel Arts Barcelona
+●     Jeddah Marriott Hotel
+●     JW Marriott Hotel Caracas
+●     JW Marriott Hotel Seoul
+●     Mandapa, a Ritz-Carlton Reserve
+●     Marriott Executive Apartments Downtown Abu Dhabi
+●     Marriott Executive Apartments Dubai, Green Community
+●     Marriott Executive Apartments Riyadh, Makarim
+●     Marriott Maracay Golf Resort
+●     Marriott Ranch B & B
+●     Marriott Vacation Club - all locations
+●     Marriott Grand Residence Club - all locations
+●     Meon Valley Marriott Hotel & Country Club
+●     Mulu Marriott Resort & Spa
+●     Nanki-Shirahama Marriott Hotel
+●     Newcastle Marriott Hotel Gosforth Park
+●     Park Chalet, Shahdag, Autograph Collection
+●     Parkside Tower at The Ritz-Carlton, Tokyo
+●     Penha Longa Resort
+●     Phulay Bay, a Ritz-Carlton Reserve
+●     Pik Palace, Shahdag, Autograph Collection
+●     Protea Hotels by Marriott - all locations
+●     Renaissance Caracas La Castellana Hotel
+●     Renaissance St. Croix Carambola Beach Resort & Spa
+●     Residence Inn by Marriott Columbia
+●     Residence Inn Springfield Old Keene Mill
+●     Residence Inn Decatur Forsyth
+●     Residence Inn Denver Downtown
+●     SpringHill Suites by Marriott Baton Rouge Gonzales
+●     SpringHill Suites Ashburn Dulles North
+●     Sprowston Manor Marriott Hotel & Country Club
+●     Sunderland Marriott Hotel
+●     The Cosmopolitan of Las Vegas, Autograph Collection
+●     The Ritz-Carlton - all locations
+●     The Royal at Atlantis, Autograph Collection
+●     The Siena Hotel, Autograph Collection
+●     TownePlace Suites by Marriott Bellingham
+●     TownePlace Suites Carlsbad
+●     TownePlace Suites Gaithersburg
+●     TownePlace Suites Laredo
+●     TownePlace Suites Lawrence Downtown
+●     TownePlace Suites Wareham Buzzards Bay
+●     Towson University Marriott Conference Hotel
+●     Venezuela Marriott Hotel Playa Grande
+●     Waikoloa Beach Marriott Resort & Spa          
                           
                         
                         
@@ -1749,35 +1681,35 @@ vi.      Points acquired through ownership of an interest at a Marriott Vac
                             
                                     7.2Vistana Signature Experiences    7.2.a  Vistana Signature Experiences Additional Information.
 
-i.     Vistana Signature Experiences owners (“Vistana Owners”) who are members of the Vistana Signature Network or the Vistana Plus program (collectively, the “Vacation Network”) are automatically enrolled as Loyalty Program Gold Elite Members and are not subject to the Gold Minimum Requirement to maintain Gold Elite status every year.
+i.      Vistana Signature Experiences owners (“Vistana Owners”) who are members of the Vistana Signature Network or the Vistana Plus program (collectively, the “Vacation Network”) are automatically enrolled as Loyalty Program Gold Elite Members and are not subject to the Gold Minimum Requirement to maintain Gold Elite status every year.
 
-ii.     Only one (1) Vistana Owner will receive Gold Elite status for each vacation ownership interest purchased, no matter how many individuals are on the deed.
+ii.      Only one (1) Vistana Owner will receive Gold Elite status for each vacation ownership interest purchased, no matter how many individuals are on the deed.
 
-iii.     A Vistana Owner will remain a Gold Elite Member, provided that such Vistana Owner:  (i) maintains his/her membership in the Vacation Network; (ii) is current in all association maintenance fees, Vacation Network fees, taxes, and other payments; and (iii) is current in any other payments owed to Vistana Signature Experiences, Inc. and any of its affiliates (collectively, “Vistana”).
+iii.      A Vistana Owner will remain a Gold Elite Member, provided that such Vistana Owner:  (i) maintains his/her membership in the Vacation Network; (ii) is current in all association maintenance fees, Vacation Network fees, taxes, and other payments; and (iii) is current in any other payments owed to Vistana Signature Experiences, Inc. and any of its affiliates (collectively, “Vistana”).
 
-iv.     Gold Elite status and any accumulated Points in a Vistana Owner’s Loyalty Program Membership Account do not transfer upon sale of the vacation ownership interest to a third party.
+iv.      Gold Elite status and any accumulated Points in a Vistana Owner’s Loyalty Program Membership Account do not transfer upon sale of the vacation ownership interest to a third party.
 
 v.      Points acquired by a Vistana Owner who converts his/her vacation ownership interest into Points pursuant to Vistana’s SPG Conversion program may not be redeemed at a Vistana property, Marriott Vacation Club property, or Marriott Grand Residence Club property, unless otherwise permitted.
 
-vi.     Points issued or earned through Vistana, including, without limitation, through tour incentives, purchase incentives, SPG Conversion, sweepstakes and other giveaway prizes, will expire six (6) years following the date they are deposited into a Member’s account, regardless of Member activity.  All such Points, or any portion thereof, which have not been redeemed by their six (6) year expiration period, will be forfeited without notice.
+vi.      Points issued or earned through Vistana, including, without limitation, through tour incentives, purchase incentives, SPG Conversion, sweepstakes and other giveaway prizes, will expire six (6) years following the date they are deposited into a Member’s account, regardless of Member activity.  All such Points, or any portion thereof, which have not been redeemed by their six (6) year expiration period, will be forfeited without notice.
 
-vii.    A Vistana Owner may transfer Points to another Vistana Owner’s Membership Account as long as the two Vistana Owners are listed on the same deed, regardless of whether they reside at the same address.
+vii.      A Vistana Owner may transfer Points to another Vistana Owner’s Membership Account as long as the two Vistana Owners are listed on the same deed, regardless of whether they reside at the same address.
 
-viii.   A Vistana Owner who is an Elite Member may participate in the SPG Conversion program annually and other Vistana Owners may participate in the SPG Conversion program in non-consecutive years, provided, in each case, that the Vistana Owner is in good standing (including, without limitation, meeting all the requirements set forth in Section 7.3.a) and has met all of the terms and conditions of the SPG Conversion program.
+viii.      A Vistana Owner who is an Elite Member may participate in the SPG Conversion program annually and other Vistana Owners may participate in the SPG Conversion program in non-consecutive years, provided, in each case, that the Vistana Owner is in good standing (including, without limitation, meeting all the requirements set forth in Section 7.3.a) and has met all of the terms and conditions of the SPG Conversion program.
 
-7.2.b     Vistana Participating Properties.  Due to the nature of Vistana properties, special conditions apply to their participation in the Loyalty Program as follows:
+7.2.b  Vistana Participating Properties.  Due to the nature of Vistana properties, special conditions apply to their participation in the Loyalty Program as follows:
 
-i.          Members will earn Elite Night Credit for a Qualifying Stay at Vistana properties.
+i.      Members will earn Elite Night Credit for a Qualifying Stay at Vistana properties.
 
-ii.          Members will earn Points or Miles for all Qualifying Charges at Vistana properties.
+ii.      Members will earn Points or Miles for all Qualifying Charges at Vistana properties.
 
-iii.         Eligible Loyalty Program Members may also earn Points or Miles through Rewarding EventsSM when they book and hold qualifying Events at Vistana properties.
+iii.      Eligible Loyalty Program Members may also earn Points or Miles through Rewarding EventsSM when they book and hold qualifying Events at Vistana properties.
 
-iv.         Members do not receive the following benefits (as defined in Section 4) at Vistana properties:  Complimentary Enhanced Room Upgrades, late checkout, Suite Night Awards, Guaranteed Room Type, 48-Hour Guaranteed Availability, or Your24.
+iv.      Members do not receive the following benefits (as defined in Section 4) at Vistana properties:  Complimentary Enhanced Room Upgrades, late checkout, Suite Night Awards, Guaranteed Room Type, 48-Hour Guaranteed Availability, or Your24.
 
-v.         Free Night Awards at Vistana properties must be booked at least one (1) day in advance of arrival.  Vistana properties either do not participate or do not fully participate in the “No Blackout Dates” benefit at this time. 
+v.      Free Night Awards at Vistana properties must be booked at least one (1) day in advance of arrival.  Vistana properties either do not participate or do not fully participate in the “No Blackout Dates” benefit at this time.
 
-vi.         Instant Redemption Awards are not available at Vistana properties.          
+vi.      Instant Redemption Awards are not available at Vistana properties.          
                           
                         
                         
