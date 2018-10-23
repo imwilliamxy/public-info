@@ -7,12 +7,12 @@ Annual Percentage Rate (APR) for Purchases
 
 APR for Cash Advances
 
-26.99% (Prime Rate+ 21.74%)This APR will vary with the market based on the Prime Rate.
+26.99%This APR will vary with the market based on the Prime Rate.
 
 
 Penalty APR and When It Applies
 
-29.99% (Prime Rate+ 25.99%)This APR will apply, subject to the following paragraph, to all balances on your account if you:1) make a payment that is returned;2) make 2 late payments in 12 months; or3) do not make the Minimum Payment due by the closing date of the billing period in which it is due.When Does the Penalty APR Apply to Payment Terms Purchases? If the penalty APR is applied for any of these reasons, it will apply, subject to applicable law, to Payment Terms purchases from the day after the Payment Terms period ends and for the remaining duration that the Penalty APR applies. See When we charge interest in Part 2.How Long Will the Penalty APR Apply?  If the penalty APR is applied for any of these reasons, it will apply, subject to applicable law, for at least 12 billing periods in a row. In addition, the penalty APR will continue to apply until after you have made timely payments with no returned payments for 12 billing periods in a row.
+29.99% (Prime Rate + 25.99%)This APR will vary based on the Prime Rate. This APR will apply, subject to the following paragraph, to all balances on your account if you:1) make a payment that is returned;2) make 2 late payments in 12 months; or3) do not make the Minimum Payment due by the closing date of the billing period in which it is due.When Does the Penalty APR Apply to Payment Terms Purchases? If the penalty APR is applied for any of these reasons, it will apply, subject to applicable law, to Payment Terms purchases from the day after the Payment Terms period ends and for the remaining duration that the Penalty APR applies.How Long Will the Penalty APR Apply?  If the Penalty APR is applied, it will apply for a minimum of 12 billing periods in a row, and will continue to apply until after you have made timely payments, with no returned payments for 12 billing periods in a row.
 
 
 Paying Interest
@@ -52,8 +52,8 @@ Returned Payment
 $38
 
 
-How We Will Calculate Your Balance:We use a method called "average daily balance (including new purchases.)"
-
+How We Will Calculate Your Balance:We use a method called "average daily balance (including new purchases)."
+Loss of Introductory APR: If a penalty APR applies to your account for any reason we will end any introductory APRs and a penalty APR will apply to your Account. The variable penalty APR will not exceed 29.99%Variable APRs for each billing period are based on the Prime Rate published in The Wall Street Journal on the Closing Date of the billing period. The Wall Street Journal may not publish the Prime Rate on that day. If it does not, we will use the Prime Rate from the previous day it was published. If the Prime Rate increases, variable APRs will increase. In that case, you may pay more interest and have a higher Minimum Payment Due. When the Prime Rate changes, the resulting changes to variable APRs take effect as of the first day of the billing period. Variable APRs are accurate as of 09/27/2018.
 
  TERMS AND CONDITIONS View the full Card Member Agreement.
  By submitting this application, you, as an individual and the Authorizing Officer of the Company, (a) are requesting us to open an Account in the name of the Company, (b) are requesting that we issue Card(s) as you direct, (c) are agreeing to be jointly and severally liable with the Company for all charges to the account, and (d) are REPRESENTING THAT ALL CARD(S) ISSUED ON THE ACCOUNT WILL ONLY BE USED FOR COMMERCIAL OR BUSINESS PURPOSES. Only qualified individuals 18 or over may be approved for a Card Account. This offer is available to US Residents. When you use the Account (or sign or keep the Card), you agree to the terms of the Card Member Agreement that will be provided to you for the Account. The Card Member Agreement includes an arbitration provision, which impacts the opportunity to have claims related to the Account heard in court or resolved by a jury, and to participate in a class action or similar proceeding. We may change the terms of, or add new terms to, the Card Member Agreement at any time, subject to applicable law. We may apply any changed or new terms to any existing and future balances on your Account, subject to applicable law. 
@@ -61,7 +61,7 @@ How We Will Calculate Your Balance:We use a method called "average daily balance
   You promise that the information you provide on this application is accurate. You authorize us to verify this information and to obtain reports from consumer reporting agencies. You authorize us and our affiliates and subsidiaries to share information we have about you at any time for marketing and administrative purposes as permitted by law. Upon request, we will tell you if we have received a consumer report and the name and address of the agency that provided it.
  Additional Cards: You must notify Additional Card Members that we may obtain, provide, and use information about them and that their use of your Account is subject to certain provisions of the Card Member Agreement. The maximum number of Additional Cards issued on each Account is 99.
  Patriot Act Notice: Federal law requires all financial institutions to obtain, verify and record information that identifies each person who opens an account, including your name, address, date of birth and other information that will allow us to verify your identity.
- New York Residents: New York Residents may contact the New York state Department of Financial Services by telephone or visit its website for free information on comparative credit card rates, fees, and grace periods. New York Department of Financial Services: 1-800-342-3736 or www.dfs.ny.gov
+ New York Residents: New York Residents may contact the New York State Department of Financial Services by telephone or visit its website for free information on comparative credit card rates, fees, and grace periods. New York Department of Financial Services: 1-800-342-3736 or www.dfs.ny.gov
 Cash advance at ATMs: We may issue you a Personal Identification Number (PIN) to use to obtain cash advances at participating ATMs. Or you may request a PIN for cash advances by contacting us. We will send you a letter confirming your PIN.
 Notice to Delaware Residents: Service charges not in excess of those permitted by law will be charged on the outstanding balances from month to month.
  Notice to Oregon Residents: Service charges not in excess of those permitted by law will be charged on the outstanding balances from month to month. You may pay more than the minimum payment due, up to your entire outstanding balance, at any time.
