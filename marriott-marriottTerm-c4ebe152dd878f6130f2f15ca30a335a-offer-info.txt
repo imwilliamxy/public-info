@@ -450,11 +450,11 @@ iv.         Any Elite Membership Status and Lifetime Elite Membership Sta
                             
                                     2.1      Earning Opportunities at Participating Properties    2.1.a. A Member will earn:
 
-i.     Ten (10) base Points for each U.S. dollar, or the currency equivalent, that is incurred and paid for by the Member on Qualifying Charges in accordance with Section 2.1.b. except at Element, Residence Inn, and TownePlace Suites properties, where a Member will earn five (5) base Points for each U.S. dollar spent on Qualifying Charges; and except at Marriott Executive Apartments and ExecuStay properties where a Member will earn two and a half (2.5) base Points for each U.S. dollar spent on Qualifying Charges; and
+i.     Ten (10) base Points for each U.S. dollar, or the currency equivalent, that is incurred and paid for by the Member on Qualifying Charges in accordance with Section 2.1.b. except at Element, Residence Inn, and TownePlace Suites properties, where a Member will earn five (5) base Points for each U.S. dollar spent on Qualifying Charges; and except at Marriott Executive Apartments and ExecuStay properties where a Member will earn two and a half (2.5) base Points for each U.S. dollar spent on Qualifying Rates in accordance with 2.1.e; and
 
 ii.     Elite bonus Points, provided the Member has met the Elite Membership Requirements for Elite Membership Status or Lifetime Elite Membership Status as outlined in Section 4.2. The amount of bonus Points a Member earns will depend on the Member’s achieved Elite Member Tier pursuant to Section 4.3.
 
-iii.     Credits toward achieving the Elite Membership Requirements (“Elite Night Credits,” or individually, “Elite Night Credit”) for Elite Membership Status and Lifetime Elite Membership Status as outlined in Section 4.2. An Elite Night Credit is only earned on a night during a Qualifying Stay (“Qualifying Night,” or for more than one night, “Qualifying Nights”).
+iii.     Credits toward achieving the Elite Membership Requirements (“Elite Night Credits,” or individually, “Elite Night Credit”) for Elite Membership Status and Lifetime Elite Membership Status as outlined in Section 4.2. An Elite Night Credit is only earned on a night during a Qualifying Stay as described in 2.1.d (“Qualifying Night,” or for more than one night, “Qualifying Nights”).
 
 2.1.b. Qualifying Charges.  “Qualifying Charges” are:
 
@@ -462,7 +462,7 @@ i.     Charges incurred during a stay in a guest room at a Participating Pr
 
 A.     Qualifying Rates for Stays;
 
-B.     Food and beverages (excluding alcoholic beverages where prohibited by law) and excluding charges incurred at restaurants that are not located within or adjacent to Participating Properties;
+B.     Food and beverages (excluding alcoholic beverages where prohibited by law) and may exclude charges incurred at outlets that are not managed or operated by the Participating Property;
 
 C.     Direct-dialed in-room telephone and direct-dialed in-room fax;
 
@@ -478,7 +478,21 @@ B.     the charges are greater than $10 U.S. dollars (excluding taxes, serv
 
 C.     the food and beverages are not in connection with a banquet, meeting or other function that is excluded from Qualifying Charges as provided in Section 2.1.b. and
 
-provided the Member provides his/her Membership Number at the time of payment.  Elite bonus Points will not be awarded on charges incurred by the Member without a stay in a guest room under Section 2.1.b(ii).
+provided the Member provides his/her Membership Number at the time of payment.  Elite bonus Points will not be awarded on charges incurred by the Member without a stay in a guest room under Section 2.1.b(ii). Earning at restaurants without a stay is offered at all Participating Properties and Brands, except for Marriott Executive Apartments and ExecuStay, in Asia, Australia, and the Pacific Islands, as well as at the following Participating Properties and Brands in United States, Canada, Europe, Caribbean, Mexico, Central America, South America, Middle East, and Africa: St. Regis, The Luxury Collection, W, Sheraton, Le Méridien, Westin, Tribute Portfolio, Four Points, Aloft Hotels, and Element; or
+
+iii.     Charges incurred during a stay in a guest room by a Member on his/her folio and up to two (2) additional guest rooms paid by the Member at the following all-inclusive properties: The Westin Golf Resort & Spa, Playa Conchal, Costa Rica and Sheraton Bijao Beach Resort, Panama. These charges as part of the all-inclusive package include, without limitation, charges for:
+
+A. Qualifying Rates for Stays;
+
+B. Premium food and beverages (excluding alcoholic beverages where prohibited by law) purchased at the property in addition to the all-inclusive rate, and may exclude charges incurred at outlets that are not managed or operated by the Participating Property;
+
+C. Extra-person charges;
+
+D. Spa, Golf, and other resort-run activities if managed by the Participating Property
+
+E. Taxes, service charges and gratuities;
+
+provided the Member provides his/her Membership Number at the time of reservation or at check-in, stays in one of the reserved guest rooms, and pays for the charges.
 
 2.1.c. Non-Qualifying Charges.  Charges which do not qualify for Points include any complimentary services, Points redemption Awards, promotional Awards or any other fees or charges including, without limitation:  (A) charges for banquets, meetings or other functions, with the exception of Points earned in connection with a Qualifying Event Agreement; (B) other fees paid including, without limitation, parking, business center, retail stores, and other third-party services; and (C) taxes, service charges, gratuities, fees (e.g. late cancellation fee or no-show fees for not checking in for guaranteed reservations even if the reservations were paid in full) , mandatory or automatic charges (e.g., resort charges) and other applicable charges.
 
@@ -486,15 +500,17 @@ provided the Member provides his/her Membership Number at the time of payment. 
 
 i.     A “Stay” is a stay of one or more consecutive nights at the same Participating Property by a Member who: (A) provides his/her Membership Number at the time of reservation or at check-in; (B) pays a Qualifying Rate or redeems a Points redemption Award or a promotional Award for the stay; and (C) stays in one of the reserved guest rooms. If a Member checks out of a guest room and then checks back in to a guest room at the same Participating Property within 24 hours, it will count as a single stay for purposes of calculating Stays and issuing Member benefits. A Member may only earn Points for up to three (3) guest rooms during any Stay if he/she stays in one of the reserved guest rooms and pays a Qualifying Rate or redeems a Points redemption Award or a promotional Award for all of the guest rooms.
 
-ii.     A “Qualifying Stay” is a credit pursuant to these Program Rules that counts toward earning Elite Night Credit.  Members will only earn credit for each Qualifying Night which is part of a Qualifying Stay for the guest room the Member personally pays for and stays in, and not for any additional guest rooms.
+ii.     A “Qualifying Stay” is a credit pursuant to these Program Rules that counts toward earning Elite Night Credit.  Members will only earn credit for each Qualifying Night which is part of a Stay at a Qualifying Rate (as described in 2.1.e.), for the guest room the Member personally pays for and stays in, and not for any additional guest rooms. Members do not receive Elite Night Credit on stays at Non-Qualifying Rates (see 2.1.f.).
 
 iii.     Members cannot earn or receive benefits at multiple Participating Properties for the same stay date(s).
 
-iv.     Only one Member per guest room can earn Points/Miles and receive benefits.  If there is more than one Member staying in the same guest room, the Members must decide upon check-in whose Membership Number will be applied to the guest room provided it is the same Member who will be paying the bill.
+iv.     Only one Member per guest room can earn Points/Miles and Elite Night Credit, as well as receive benefits. If there is more than one Member staying in the same guest room, the Members must decide upon check-in whose Membership Number will be applied to the guest room provided it is the same Member who will be paying the bill.
 
 2.1.e. Qualifying Rates.  A “Qualifying Rate” is the rate a Member pays for a Stay in a guest room at a Participating Property which qualifies to earn Points or Miles unless the Member stays under a “Non-Qualifying Rate,” as defined in Section 2.1.f.  Unless otherwise specifically stated, Members will receive their membership tier benefits during stays on Qualifying Rates.
 
 i.     At participating Design HotelsTM, Members earn Points or Miles on Qualifying Charges only on Stays at a Qualifying Rate. Members do not earn Points or Miles on Stays at a Non-Qualifying Rate at participating Design HotelsTM even if they incur Qualifying Charges such as for incidental spend.
+
+ii.    At Marriott Executive Apartments and ExecuStay, Members earn Points or Miles on the Qualifying Rate only even if they incur Qualifying Charges.
 
 2.1.f Non-Qualifying Rates. A “Non-Qualifying Rate” is a rate a Member pays for a Stay in a guest room at a Participating Property which does not qualify to earn Points or Miles, as well as membership tier benefits.  Non-Qualifying Rates are those booked using the following methods:
 
