@@ -182,7 +182,7 @@ Citibank, N.A., Sioux Falls, SD, ("Citi," "we" or "us") is the issuer of your ac
 		By submitting this application, you request that Citi establish a Citi® / AAdvantage® Executive World EliteTM Mastercard® account (the "Card Account") to you and any authorized users you have designated. You agree that all information provided in this application must be verifiable and accurate.
 The Card Account is governed by the terms of the card agreement ("Card Agreement") provided when the Card Account is issued.
 		
-Identity VerificationIMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT - To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. This means that we will ask for your name, address, date of birth, and other information that will allow us to identify you when you open an account. We may also ask to see your driver's license or other identifying documents; and obtain identification information about you or any authorized user you add to your account.	Credit Reports
+Identity VerificationIMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT - To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. This means that we will ask for your name, address, date of birth, and other information that will allow us to identify you when you open an account. We may also ask to see your driver's license or other identifying documents; and obtain identification information about you or any authorized user you add to your account.	Credit Report
 	
 		You authorize us to get credit reports and other information about you from consumer reporting agencies and other sources, 
 		for such purposes as: determining whether to issue you a Card Account, administering, reviewing and renewing the Card Account, 
@@ -202,7 +202,7 @@ Card Agreement
 If you are approved for a Card Account, you'll receive a Card Agreement before you can use your Card Account. 
 The terms of the Card Agreement will take effect once you use your Card Account. Even if you do not use your Card Account, 
 the Card Agreement will take effect if you do not cancel your Card Account within 30 days after we send you the Card Agreement. 
-We have the right to make changes to the terms of your Card Account (including rates and fees) in accordance with the Card Agreement.
+We have the right o make changes to the terms of your Card Account (including rates and fees) in accordance with the Card Agreement.
 Information Sharing You authorize us to report to American Airlines, AAdvantage® miles earned with us. You also authorize us to share with American Airlines information you provided to us on the application and experiential and transactional information regarding your activity with us. 
 Special Notices
 Notice to Ohio Residents: The Ohio laws against discrimination require that all creditors make credit equally available to all 
