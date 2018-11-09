@@ -113,7 +113,7 @@ B.     The following properties do not participate in the Loyalty Program:
 
 ●      The Ritz-Carlton, Millennia Singapore
 ●      The Ritz-Carlton Reserve properties
-●      The Ritz-Carlton Residences
+●      The Ritz-Carlton Residences properties, except for The Ritz-Carlton Residences Waikiki Beach which does participate
 ●      The following partner properties:
 
 ○      Hotel Ritz-London - London, UK
@@ -159,13 +159,15 @@ A.      Atlantis, Paradise Island, Bahamas participates in the Loyalty Progr
 
 (4)      Points or Miles may be earned on room rate only.
 
-(5)      Limited benefits are provided as described in Section 1.3 and Section 4.
+(5)      Limited benefits are provided as described in Section 1.3, Section 3.7, Section 4, except for the breakfast option associated with the Platinum Elite Welcome Gift benefit which is not available, and Section 6.4.
 
-B.      The Cosmopolitan of Las Vegas, at which the only charges that qualify for Points are the following:
+B.      The Cosmopolitan of Las Vegas participates in the Loyalty Program as follows:
 
-(1)      Room rate, room service food and beverage, in-room movies, phone calls and in-room minibar purchases.  Points cannot be earned on any other purchases at hotel outlets or for hotel services.
+(1)      The only charges that qualify for Points are the following: Room rate, room service food and beverage, in-room movies, phone calls and in-room minibar purchases.  Points cannot be earned on any other purchases at hotel outlets or for hotel services.
 
-(2)      Points may be redeemed for all Qualifying Stays (defined in Section 2.1.d.) at The Cosmopolitan, Las Vegas.
+(2)      Points may be redeemed for all Qualifying Stays (defined in Section 2.1.d.) at The Cosmopolitan of Las Vegas.
+
+(3)      Limited benefits are provided as described in Section 1.3, Section 3.7, Section 4, except for the breakfast option associated with the Platinum Elite Welcome Gift benefit which is not available, and Section 6.4.
 
 xiv.      Design HotelsTM - all locations identified as a property which participates in the Loyalty Program are listed here and participate as follows:  
 
@@ -218,9 +220,10 @@ xxx.     Vistana properties - all Sheraton and Westin branded properties pa
 
 xxxi.     Non-branded properties - the following non-branded properties participate:
 
-●      Hotel Mandji
-●      Vistana Beach Club
-●      The Maxwell New York City
+●     Hotel Mandji
+●     The Maxwell New York City Vistana Beach Club
+●      Philadelphia 201 Hotel
+●      Vistana Beach Club
 
 xxxii.     Marriott Executive Apartments - Points and Miles earning partner only (no Points redemption or on-property Elite benefits)
 
@@ -654,6 +657,11 @@ ii.      If a Member fails to cancel a guaranteed Award Redemption Stay res
 i.      Standard rooms vary between Participating Properties and Participating Brands.  Upgraded rooms, including upgrades based on size, view, services, and/or suites, are available at a higher Points cost, as described in Section 3.3. 
 
 ii.      With an Award Redemption Stay, bedding and smoking preferences may be requested, but are not guaranteed.
+
+iii.       At the following all-inclusive properties, the Points redeemed for an Award Redemption Stay include the cost of up to two people in the standard room and room tax. Extra-person charges for the third, fourth, or more guests in the room is an additional fee and is not included in the Award Redemption as form of payment.  This fee as well as all other property charges are the responsibility of the Loyalty Program Member and are not included in the Award Redemption Stay.
+
+• The Westin Golf Resort & Spa, Playa Conchal, Costa Rica
+• Sheraton Bijao Beach Resort, Panama
 
 3.2.f.  A Member who redeems Points for a Free Night Award stay of at least four (4) nights may receive a fifth free night (“Fifth Night Free Award”).  The free night offer applies only to the fifth consecutive night within the same Award Redemption Stay for which the Free Night Award was ordered.  There will be no Points refund or free night credit for any unused portion of a Fifth Night Free Award.  Point values are based on a standard room only (does not apply to premium room) and may vary by length of stay and hotel category.
 
