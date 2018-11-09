@@ -875,7 +875,7 @@ ii.      the hotel award portion of the Travel Package is non-refundable to
 
 4.1.b.  Pursuant to section 1.7.a., the Company reserves the right to revoke, cancel or suspend a Member’s Elite membership status (including Lifetime Silver Elite, Lifetime Gold Elite and Lifetime Platinum Elite status), any Loyalty Program Membership, Award, and/or any and all unredeemed Points or Miles, or take other action at its discretion, at any time with immediate effect and without written notice if the Company believes the Member has (a) violated any of the Program Rules, (b) failed to pay any bills or accounts due to the Company or a Participating Property or any ownership related fees owed to Marriott Vacation Club properties, Marriott Grand Residence Club properties, or participating Vistana properties, (c) acted in a manner inconsistent with applicable law, regulations or ordinances, (d) engaged in any misconduct or wrongdoing in connection with the Marriott Loyalty Program, including without limitation, involving Point credit, Mile credit, Award use, or Member benefits, or (e) engaged in abusive, fraudulent, inappropriate, or hostile conduct in connection with the Marriott Loyalty Program, the Participating Properties or their guests or employees, or the Company or its employees.  Nothing in these Program Rules will limit Company from exercising any legal rights or remedies that it may have.
 
-4.1.c.  Benefits of Elite membership apply to stays on Qualifying Rates (as described in Section 2.1.e.) and are reserved for Members only and apply solely to the one guest room in which the Elite Member stays.  Only one Member per guest room can earn Points/Miles and receive benefits as described in Section 2.1.d.(iv).  Elite Members receive one set of benefits according to their membership tier on Stays of one or more consecutive nights as described in 2.1.d, even if they check in and check out of the same Participating Property within 24 hours. In order for an Elite Member to be eligible to receive Elite benefits during his/her stay, the Elite Member must provide his/her Loyalty Program Membership Number when making a reservation. 
+4.1.c.  Benefits of Elite membership apply to stays on Qualifying Rates (as described in Section 2.1.e.) and are reserved for Members only and apply solely to the one guest room in which the Elite Member stays.  Only one Member per guest room can earn Points/Miles and Elite Night Credit, as well as receive benefits as described in Section 2.1.d.(iv).  Elite Members receive one set of benefits according to their membership tier on Stays of one or more consecutive nights as described in 2.1.d, even if they check in and check out of the same Participating Property within 24 hours. In order for an Elite Member to be eligible to receive Elite benefits during his/her stay, the Elite Member must provide his/her Loyalty Program Membership Number when making a reservation. 
 
 Elite Members will receive Elite membership benefits including, without limitation:  bonus Points, priority late checkout and room upgrades.  Benefits vary by Elite membership tier.  More information can be found in section 4.3.
 
@@ -1095,7 +1095,7 @@ Asia, Australia, Pacific Islands, Caribbean, Mexico, Central America, South Amer
 
 Properties with lounge - 500 Points per Stay and breakfast in lounge - if lounge is closed, breakfast in restaurant per day of Stay for Member +1
 
-S. $50
+U.S. $50
 
 
 AC Hotels, Moxy Hotels
@@ -1147,11 +1147,11 @@ U.S. $25
 
 *Participating Properties outside the United States will pay the equivalent in their local currency.
 
-**The U.S. $10 F&B credit per day for Member +1 is limited to the Member and one (1) guest, as long as the guest is staying in the same guestroom as the Member.
+** The U.S. $10 F&B credit per day is for the Member. An additional U.S. $10 F&B credit per day is given for one (1) guest staying in the same guestroom as the Member.
 
-iv.      Guaranteed Concierge/Executive/Club/Signature Club Lounge Access for Members plus one guest at JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection, Renaissance Hotels, and Courtyard (outside the United States and Canada) during normal hours of operations.  Additional charges may apply for lounge access guest count greater than the Member plus one allowance (including children).  Lounge offers light snacks and daily continental breakfast.  Lounge Access is not offered at the following brands:  The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, Design Hotels, Tribute Portfolio, Gaylord Hotels, Four Points, SpringHill Suites, Protea Hotels, Fairfield, AC Hotels, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element, Marriott Vacation Club, Marriott Grand Residence Club, and participating Vistana properties.  This benefit only applies to the one (1) guest room in which the Platinum Elite Member is staying.
+iv.      Guaranteed Lounge Access. The Member plus one guest staying in the same room receives access to the Concierge/Executive/Club/Signature Club/M Club lounge (collectively, “Lounge” or “Lounge Access”) during normal hours of operations at JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection, and Renaissance Hotels. At Delta Hotels properties without a Signature Club Lounge, as the approved alternative the Member will receive access to the Elite Pantry.  Lounge Access is offered at Courtyard properties with a Lounge outside the United States and Canada.  This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative.  Additional charges may apply for Lounge Access where the guest count greater than the Member plus one allowance (including children).  Lounge offers light snacks and daily continental breakfast.  Lounge Access is not offered at the following brands:  The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, Design Hotels, Tribute Portfolio, Gaylord Hotels, Four Points, SpringHill Suites, Protea Hotels, Fairfield, AC Hotels, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element, Marriott Vacation Club, Marriott Grand Residence Club, and participating Vistana properties.  This benefit only applies to the one (1) guest room in which the Platinum Elite Member is staying.
 
-A.      In the United States and Canada:  When a Participating Property's lounge is closed, the property will offer a daily breakfast in the restaurant for the Member plus one (1) guest, or Member can choose 750 Points per day.  In Europe:  Participating Properties without a lounge offer daily breakfast in restaurant for Member plus one (1) guest, or Member can choose 750 Points per day.  This benefit is not applicable when breakfast is included in the rate.  This benefit applies to the following brands:  JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, Renaissance Hotels.  Outside United States/Canada/Europe at Courtyard hotels with a Lounge, breakfast is offered in the restaurant when the Lounge is closed.  The following properties in the United States do not provide free continental breakfast in the hotel restaurant in the event the Lounge is closed but do offer 1,000 Points in lieu of breakfast.  These properties include:
+A.      In the United States and Canada:  When a Participating Property's Lounge is closed, or property does not have a Lounge or approved alternative, the property will offer a daily breakfast in the restaurant for the Member plus one (1) guest, or Member can choose 750 Points per day. In Europe:  Participating Properties without a Lounge or approved alternative offer daily breakfast in restaurant for Member plus one (1) guest, or Member can choose 750 Points per day. This benefit applies to the following brands:  JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, and Renaissance Hotels.  This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative as described above. The following properties in the United States do not provide free continental breakfast in the hotel restaurant in the event the Lounge is closed but do offer 1,000 Points in lieu of breakfast.  These properties include:
 
 ●     The Algonquin Hotel Times Square, Autograph Collection
 ●     Boston Marriott Copley Place
@@ -1174,8 +1174,12 @@ A.      In the United States and Canada:  When a Participating Property's l
 ●     Renaissance Washington, DC Downtown Hotel
 ●     Marriott Marquis San Diego Marina
 
-B.      Pursuant to section 4.1.c., if lounge access (or exceptions as outlined above) is not available, Platinum Elite Members will be compensated $100 U.S. dollars for the inconvenience.  Participating Properties outside the United States will pay the equivalent in local currency.  This guarantee is offered at the following brands:  JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection Hotels and Renaissance Hotels.
+B.    Outside United States and Canada at Courtyard properties with a Lounge, breakfast is offered in the restaurant when the Lounge is closed.
 
+C.     Pursuant to section 4.1.c., if Lounge Access (or alternatives or exceptions as outlined above) is not available, Platinum Elite Members will be compensated $100 U.S. dollars for the inconvenience.  Participating Properties outside the United States will pay the equivalent in local currency.  This guarantee is offered at the following brands:  JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection Hotels and Renaissance Hotels.
+
+
+GUARANTEED LOUNGE ACCESS
 
 Participating Brands
 Lounge Offer
@@ -1184,11 +1188,11 @@ Guest Compensation*
 JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, Renaissance Hotels
 
 (Resorts excluded)
-United States and Canada:  If lounge is closed or property does not have a lounge, property to offer daily breakfast in restaurant for Member +1 or Member can choose 750 Points per day
+United States and Canada:  If Lounge is closed or property does not have a Lounge or approved alternative, property to offer daily breakfast in restaurant for Member +1 or Member can choose 750 Points per day
 
  
 
-Europe:  Properties without a lounge offer daily breakfast in restaurant for Member +1 or Member can choose 750 Points per day
+Europe:  Properties without a Lounge or approved alternative offer daily breakfast in restaurant for Member +1 or Member can choose 750 Points per day
 
  
 Globally:  U.S. $100 If no breakfast or breakfast alternative was offered to Member
@@ -1196,17 +1200,17 @@ Globally:  U.S. $100 If no breakfast or breakfast alternative was offered to Me
 Courtyard
 
 (Outside the United States and Canada with Lounge)
-If lounge is closed, Participating Property to offer breakfast in restaurant
+If Lounge is closed, Participating Property to offer breakfast in restaurant
 N/A
 
 Sheraton, Le Méridien, Westin
 
 (Resorts included)
-No alternative offered when lounge is closed
+No alternative offered when Lounge is closed
 N/A
 
 
-Participating Properties outside the United States will pay the equivalent in their local currency.
+*Participating Properties outside the United States will pay the equivalent in their local currency.
 
 v.      4 p.m. Late Checkout.  Platinum Elite Members may check out as late as 4 p.m. local time of the Participating Property.  Members can request late checkout when making a reservation through central reservations, at check-in, via the mobile app (where available) or at any time during their stay.  This benefit is guaranteed at all Participating Properties, except at resort and convention hotels and Design HotelsTM, where it is based upon availability.  Marriott Vacation Club, Marriott Grand Residence Club, and participating Vistana properties are excluded from this benefit.
 
@@ -1410,7 +1414,7 @@ D.      If the check-in time approved for a Platinum Premier Elite Member wi
 
 E.      If the specific room type reserved by an eligible Member is not available upon check-in, the Participating Property will honor the confirmed Your24 request by temporarily providing another room and then moving the applicable guest(s) to the reserved room type once available.
 
-F.      Marriott Vacation Club, Marriott Grand Residence Club, Design HotelsTM and participating Vistana properties do not provide Your24 benefits.          
+F.      Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels,  participating Vistana properties, The Cosmopolitan of Las Vegas, and Atlantis, Paradise Island, Bahamas do not provide Your24 benefits.          
                           
                         
                         
@@ -1471,7 +1475,7 @@ iv.      Platinum Premier Elite, 75% bonus, up to 105,000 Points per Qualif
 
 5.3.c.  Earning Miles. Members may also elect to earn one Mile for every one U.S. dollar ($1.00) spent on actualized Qualifying Event charges, up to a maximum of 20,000 Miles (or equivalent currency, depending on the participating airline frequent flyer program partner) per Event, regardless of Elite level.  Points will be awarded or Miles will be submitted to the participating airline frequent flyer program partner within ten (10) business days after the conclusion of the Event provided that the Event is not cancelled, and all other terms and conditions of the group or catering contract executed in connection with the Event were met.  Miles awarded vary by participating frequent flyer airline program partner.  Points and Miles cannot both be earned for the same Event by a Member.
 
-5.3.d.  Elite Night Credit. Members who hold Qualifying Events at Participating Properties also receive ten (10) Elite Night Credits for their first Qualifying Event, and then earn one (1) Elite Night Credit for every twenty (20) rooms booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract.
+5.3.d.  Elite Night Credit. Members who hold Qualifying Events at Participating Properties also receive ten (10) Elite Night Credits per calendar year for their first Qualifying Event, and then earn one (1) Elite Night Credit for every twenty (20) rooms booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract.
 
 5.3.e.  Currency Exchange. Points or Miles awarded for Qualifying Events held at Participating Properties in international locations are based on local currency converted to U.S. dollars.  Local currency is converted into U.S. dollars on the day of the Qualifying Event.  Points or Miles are awarded using a published rate of exchange in effect at time of conversion.  This rate will be determined at the Marriott Loyalty Program’s sole discretion, based on standard currency conversion methods, but may vary from currency conversion rates used by credit card companies.
 
