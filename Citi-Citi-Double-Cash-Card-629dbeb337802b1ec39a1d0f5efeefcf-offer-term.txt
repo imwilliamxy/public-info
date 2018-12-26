@@ -10,7 +10,7 @@ UDAP T&C
   
  
  Annual Percentage Rate (APR) for Purchases
-  15.49% to 25.49%, based on your creditworthiness.  
+  15.74% to 25.74%, based on your creditworthiness.  
  These APRs will vary with the market based on the Prime Rate.a 
  
  
@@ -20,7 +20,7 @@ UDAP T&C
  
  
  
- After that, your APR will be 15.49% to 25.49%, based on your creditworthiness. 
+ After that, your APR will be 15.74% to 25.74%, based on your creditworthiness. 
  
  
  These APRs will vary with the market based on the Prime Rate.a 
@@ -28,7 +28,7 @@ UDAP T&C
  
  
  
- APR for Cash Advances 27.24%
+ APR for Cash Advances 27.49%
  
  
  This APR will vary with the market based on the Prime Rate.b 
@@ -136,7 +136,7 @@ http://www.consumerfinance.gov/learnmore.
 		
 		 
 		
-		Prime Rate: The variable rates shown here are accurate based on a 5.25% Prime Rate.		 
+		Prime Rate: The variable rates shown here are accurate based on a 5.5% Prime Rate.		 
 		
 		
 			
