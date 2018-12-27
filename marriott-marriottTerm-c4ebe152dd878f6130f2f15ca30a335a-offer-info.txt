@@ -848,7 +848,15 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                              
+                                    3.14      Hotel and Air Travel Packages    3.14.a. All Loyalty Program Rules apply to Members redeeming Points toward a hotel and flight “Travel Package.”
+
+3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel; (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account; and (3) Travel Packages are excluded from airline partner conversion bonus campaigns.
+
+3.14.c. Once a Travel Package is processed:
+
+i.      airline Miles cannot be transferred back to the Membership Account; and
+
+ii.      the hotel award portion of the Travel Package is non-refundable to the Member if cancelled or not used.          
                           
                         
                         
@@ -1480,21 +1488,7 @@ iv.      Platinum Premier Elite, 75% bonus, up to 105,000 Points per Qualif
                           
                             
                             
-                                    5.4Qualified Events    5.4.a.  Qualifying Event Agreement. Any Loyalty Program Member may enter into a contract agreement with a Participating Property to hold a Qualifying Event at a Participating Property (“Qualifying Event Agreement”).
-
-5.4.b.  Qualifying Event. A Qualifying Event is an event or meeting that is booked by a Loyalty Program Member who provides his/her Membership Number in the applicable Qualifying Event Agreement and is held at a Participating Property.  A Qualifying Event will not include:  (a) any booking of guest rooms, regardless of the number of guest rooms, that is booked in any manner other than under an Qualifying Event Agreement, (b) any booking of guest rooms on behalf of an employer, client or principal that has elected (whether through an agreement with a Participating Property or otherwise) to have Points awarded to another individual or entity, c) any booking of guest rooms that are complimentary or barter rooms, (d) complimentary meetings or meeting charges or (e) any event or meeting, or booking of guest rooms by:
-
-i.      a government employee, official, or anyone acting on behalf of a government agency or department booking an event on behalf of his/her employing entity;
-
-ii.      an employee, or someone acting on behalf of a state-owned or state-controlled entity (“SOE”) booking an event on behalf of his/her employing entity;
-
-iii.      an intermediary booking an event on behalf of a non-U.S. government entity or SOE; or
-
-iv.      at Participating Properties in Asia, Australia & the Pacific Islands, an intermediary booking an event on behalf of any government entity (U.S. or non-U.S.) or SOE.
-
-For example, any event or meeting booked by government employees, officials, employees of SOEs and those acting on behalf of government agencies, departments and SOEs booking an event on behalf of their employing entity, as well as third-party commercial intermediaries booking on behalf of a non-U.S. governmental entity or SOE does not qualify as a Qualifying Event.  In addition, for Participating Properties in Asia, Australia & the Pacific Islands, events booked by an intermediary on behalf of any government entity (U.S. or non-U.S.) or SOE do not qualify as a Qualifying Event.
-
-5.4.c.  The Member eligible to earn Points or Miles must be either the main contact recorded on page one of the Qualifying Event Agreement, or the authorized signer of the Qualifying Event Agreement.          
+                              
                           
                           
                             
