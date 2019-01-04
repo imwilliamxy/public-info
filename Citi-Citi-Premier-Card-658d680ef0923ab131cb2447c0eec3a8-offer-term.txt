@@ -121,9 +121,7 @@ http://www.consumerfinance.gov/learnmore.
  
  Returned Payment 
  Up to $35
-    
- 
- 	
+     	
 		
 		 How We Will Calculate Your Balance: We use a method called "daily balance (including current transactions)."
 		
