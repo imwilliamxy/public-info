@@ -838,7 +838,7 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                                    3.12       Air and Car.    A Member may redeem his/her Points for airline tickets or car rentals from the Loyalty Program’s Air + Car partner.  More information on the Air + Car program may be obtained here. Points redeemed in connection with this partner are subject to the Loyalty Program Rules along with any applicable terms and conditions of the partner.          
+                              
                           
                           
                             
@@ -1507,11 +1507,7 @@ For example, any event or meeting booked by government employees, officials, emp
                           
                             
                             
-                                    5.5      Qualifying Event Charges    5.5.a.  Qualifying Event Charges. Qualifying Event Charges include food, beverages, meeting room rental, in house audio visual equipment, and décor ordered by the Participating Property and paid for on a master account.  Guest room rate charges also qualify only when the contract has a minimum of ten (10) guest rooms actualize for at least one (1) night of the Qualifying Event (with or without catering).  Qualified guest room charges earn Points or Miles for the Member whether they are paid for on a master account or paid for by the individual guest in the room.
-
-5.5.b.  Meeting Credit eGift Cards. Where available, meeting charges may be paid for using a Meeting Credit e-gift card.  Points redeemed in connection with these partners are subject to the Loyalty Program Rules along with any applicable terms and conditions of the partner pursuant to Section 3.10.a.
-
-5.5.c.  Excluded Event Charges. Excluded Event charges include all taxes, gratuities, resort fees, cancellation fees, attrition charges and service charges.          
+                              
                           
                           
                             
