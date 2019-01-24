@@ -11,7 +11,7 @@ UDAP T&C
  
  Annual Percentage Rate (APR) for Purchases
   0% introductory APR for 12 months from date of account opening.   
-After that, your APR will be 15.99% to 25.99%, based on your creditworthiness. 
+After that, your APR will be 16.24% to 26.24%, based on your creditworthiness. 
  
  These APRs will vary with the market based on the Prime Rate.a 
  
@@ -22,7 +22,7 @@ After that, your APR will be 15.99% to 25.99%, based on your creditworthiness. 
  
  
  
- After that, your APR will be 15.99% to 25.99%, based on your creditworthiness. 
+ After that, your APR will be 16.24% to 26.24%, based on your creditworthiness. 
  
  
  These APRs will vary with the market based on the Prime Rate.a 
@@ -30,7 +30,7 @@ After that, your APR will be 15.99% to 25.99%, based on your creditworthiness. 
  
  
  
- APR for Cash Advances 15.99% to 25.99%, based on your creditworthiness.
+ APR for Cash Advances 16.24% to 26.24%, based on your creditworthiness.
  
  
  This APR will vary with the market based on the Prime Rate.b 
@@ -107,7 +107,7 @@ http://www.consumerfinance.gov/learnmore.
 •
  
  Returned Payment 
- Up to $35
+ Up to $39
     
  
  	
@@ -121,7 +121,7 @@ http://www.consumerfinance.gov/learnmore.
 		
 		 
 		
-		Prime Rate: The variable rates shown here are accurate based on a 5.25% Prime Rate.		 
+		Prime Rate: The variable rates shown here are accurate based on a 5.5% Prime Rate.		 
 		
 		
 			
