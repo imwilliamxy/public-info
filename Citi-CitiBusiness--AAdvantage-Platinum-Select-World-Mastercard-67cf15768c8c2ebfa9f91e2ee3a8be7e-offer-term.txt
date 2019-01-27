@@ -121,7 +121,7 @@ UDAP T&C
 					
 						
 						
-							Annual Fee 
+							Annual Fee
 							
 												
 							 
@@ -134,56 +134,71 @@ UDAP T&C
 					
 						
 						
-							Transaction Fees 
+							Transaction Fees
+													
+						
+											
 							
-																	
-					
-					
-						•						
+						
 							
 							Cash Advance
 							
-												
-						
-							Either $5 or 3% of the amount of each cash advance, whichever is greater.							
-											
-					
-						•						
+							
 							
 							Foreign Purchase Transaction
 							
-												
 							
-							None										
-						
-					
-					
-					
-					
-					
-					
-						
-						
-							Penalty Fees 
 							
-																	
-					
-							•							
-								
-								Late Payment
 														
-								
-								Up to $37						
-											
+						
+						
+							
+							
+						
+							
+							Either $5 or 3% of the amount of each cash advance, whichever is greater.							
+						
+							
+							None									
+							
+						
 					
-						•						
+					
+					
+					
+					
+					
+						
+						
+							Penalty Fees
+							
+						
+							
+							
+								
+								Late Payment							
+							
+							
+							
+							
 							
 							Returned Payment
+							
+							
+							
 												
 							
-							Up to $37
+							
+							
+								
+								Up to $37							
+							
+							
+								
+								Up to $37
  
-										
+								
+ 									
 						
 					
 					
