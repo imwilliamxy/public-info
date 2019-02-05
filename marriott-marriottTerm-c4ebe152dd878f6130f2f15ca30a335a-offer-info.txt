@@ -260,7 +260,7 @@ F.      Member Rate does not apply to qualified transient rates such as gov
 
 i.      The Internet Access Benefit is limited to one (1) guest room per eligible Member per stay regardless of how many rooms have been reserved, and the Member must stay in the guest room and pay for the charges.  The Internet Access Benefit is not applicable for meeting rooms.
 
-ii.      Any employees of the Company ("Associates") are not eligible for the Internet Access Benefit.  This restriction does not apply to employees of Marriott Vacation Club and Marriott Grand Residence Club
+ii.      Any employees of the Company ("Associates") are not eligible for the Internet Access Benefit.  This restriction does not apply to employees of Marriott Vacation Club and Marriott Grand Residence Club.
 
 iii.      No additional Internet Access Benefit will be provided at Participating Properties and Brands that offer complimentary in-room Internet access to all guests.
 
@@ -850,7 +850,7 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                             
                                     3.14      Hotel and Air Travel Packages    3.14.a. All Loyalty Program Rules apply to Members redeeming Points toward a hotel and flight “Travel Package.”
 
-3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel; (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account; and (3) Travel Packages are excluded from airline partner conversion bonus campaigns.
+3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel; (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account; and (3) Travel Packages are excluded from airline partner conversion bonus campaigns. More information on the Travel Packages may be obtained here.
 
 3.14.c. Once a Travel Package is processed:
 
@@ -1773,7 +1773,7 @@ vi.      Instant Redemption Awards are not available at Vistana properties.
                           
                             
                             
-                              
+                                    8.4      Correction of Benefits.    At any time and in the Company’s sole discretion (including, without limitation, where a Member was not eligible to earn a specific benefit pursuant to these Program Rules), the Company may correct (i) the amount of Points or the number of Qualifying Nights credited to a Member’s Account, and (ii) any other benefit that has been credited to a Member’s Account, including, without limitation, any Elite Membership Status or Lifetime Elite Membership Status.          
                           
                           
                             
