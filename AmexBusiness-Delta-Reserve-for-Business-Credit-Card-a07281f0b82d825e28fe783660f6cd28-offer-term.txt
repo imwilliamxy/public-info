@@ -163,6 +163,8 @@ Spend Manager Mobile AppThe Spend ManagerSM Mobile App is only available with Am
 
 Upgrade PriorityUpgrade Priority within the same Medallion tier and fare class is applicable only to Basic Card Member and within the Complimentary Medallion Upgrade Program. Reserve Upgrade priority does not apply to the Airport Paid Standby Program and Mileage Award Upgrades.
 
+Vendor PayVendor Pay by Bill.com is available on American Express Business and Corporate Cards. Card Members must sign up for Vendor Pay and enroll the Card for payments by going to www.americanexpress.com/vendorpay. Not all suppliers may accept American Express virtual payments. The Basic plan has no monthly fee for the first user and no fee for a second user for six months from when the first user signs up. After six months, the second user will have a fee of $15 per month. The Advanced version has a monthly fee of $59 or $99 per user depending on select accounting systems. The monthly fees are set by Bill.com and subject to change at Bill.com's discretion. Fees are in addition to American Express Card fees. There are additional per transaction fees for check and ACH services.
+
 Year–End SummaryThe Online Year–End Summary, typically available in January, reflects charges posted to your account from January 1st through December 31st of the prior year.
 
 
