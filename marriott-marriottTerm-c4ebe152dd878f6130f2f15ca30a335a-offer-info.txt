@@ -850,7 +850,7 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                             
                                     3.14      Hotel and Air Travel Packages    3.14.a. All Loyalty Program Rules apply to Members redeeming Points toward a hotel and flight “Travel Package.”
 
-3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel; (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account; and (3) Travel Packages are excluded from airline partner conversion bonus campaigns.
+3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel; (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account; and (3) Travel Packages are excluded from airline partner conversion bonus campaigns. More information on the Travel Packages may be obtained here.
 
 3.14.c. Once a Travel Package is processed:
 
@@ -1847,7 +1847,7 @@ vi.      Instant Redemption Awards are not available at Vistana properties.
                               
                                 
                                 
-                                    Top Destinations     Anaheim Hotels    Atlanta Hotels    Baltimore Hotels    Boston Hotels    Cancun Hotels    Charlotte Hotels    Chicago Hotels    Costa Rica Hotels    Dallas Hotels    Las Vegas Hotels    London Hotels    Los Angeles Hotels    Memphis Hotels    Miami Hotels    Myrtle Beach Hotels    New York Hotels    Orlando Hotels    Paris Hotels    Philadelphia Hotels    San Francisco Hotels    St. Louis Hotels    Tampa Hotels    Thailand Hotels    Toronto Hotels    Washington DC Hotels      
+                                  
                               
                               
                                 
