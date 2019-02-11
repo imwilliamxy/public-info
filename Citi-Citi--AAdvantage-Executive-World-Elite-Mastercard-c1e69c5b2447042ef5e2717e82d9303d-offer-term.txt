@@ -175,7 +175,7 @@ Up to $39
 							
 			
 				
-				Variable rate PRs will not exceed 29.99%.
+				Variable rate APRs will not exceed 29.99%.
 							
 				
 			
