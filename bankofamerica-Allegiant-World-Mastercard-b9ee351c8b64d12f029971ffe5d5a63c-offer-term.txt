@@ -5,13 +5,13 @@
  
  
     Annual Percentage Rate (APR) for Purchases 
-   16.99% to 24.99%, based on your creditworthiness when you open your account.After that, your APR will vary with the market based on the Prime Rate. 
+   17.24% to 25.24%, based on your creditworthiness when you open your account.After that, your APR will vary with the market based on the Prime Rate. 
  
    APR for Balance Transfers 
-   0% Introductory APR for the first 12 Statement Closing Dates following the opening of your account for transactions made within 60 days of opening your account. After that, your APR will be 16.99% to 24.99%, based on your creditworthiness when you open your account. This APR will vary with the market based on the Prime Rate. 
+   0% Introductory APR for the first 12 Statement Closing Dates following the opening of your account for transactions made within 60 days of opening your account. After that, your APR will be 17.24% to 25.24%, based on your creditworthiness when you open your account. This APR will vary with the market based on the Prime Rate. 
  
    APR for Cash Advances 
-  19.99% to 26.99%, based on your creditworthiness when you open your account, for Direct Deposit and Check Cash Advances, and26.99% for Bank Cash Advances. See footnote Footnote  1 for explanation.
+  20.24% to 27.24%, based on your creditworthiness when you open your account, for Direct Deposit and Check Cash Advances, and27.24% for Bank Cash Advances. See footnote Footnote  1 for explanation.
 These APRs will vary with the market based on the Prime Rate. 
  
    Penalty APRand When it Applies 
@@ -69,7 +69,7 @@ Please see the next page for a continuation of the Details of Rate, Fee and Othe
 
   How We Will Calculate Your Balance: We use a method called “average daily balance (including new purchases).”Payments are allocated to posted balances. If your account has balances with different APRs, we will allocate the amount of your payment equal to the Total Minimum Payment Due to the lowest APR balances first. Payment amounts in excess of your Total Minimum Payment Due will be applied to balances with higher APRs before balances with lower APRs.
 1 Bank Cash Advances include the following Cash Advance types: ATM, Over-the-Counter, Same-Day Online, Overdraft Protection and Cash Equivalent (money orders, foreign currency, travelers checks, or to obtain cash, each from a non-financial institution, or person-to-person money transfers, bets, lottery tickets purchased outside the United States, casino gaming chips and bail bonds). 
-More Information about Penalty Fees and Penalty APRPenalty Fees: If your Total Minimum Payment Due is not received by your Payment Due Date, a Late Payment Fee of $27 will be assessed; $38 for subsequent occurrences that are within 6 billing cycles of a previous occurrence. However, the Late Payment Fee will not exceed the total minimum payment that was due. If your balance is $100 or less on the Payment Due Date, we will not assess a Late Payment Fee. The Returned Payment Fee will not exceed the total minimum payment that was due. Penalty APR: Your Penalty APR will not exceed 29.99% on new transactions. There is no Penalty APR on existing balances.Prime Rate: The Variable APRs above are based on the current Prime Rate of 5.25%. 
+More Information about Penalty Fees and Penalty APRPenalty Fees: If your Total Minimum Payment Due is not received by your Payment Due Date, a Late Payment Fee of $27 will be assessed; $38 for subsequent occurrences that are within 6 billing cycles of a previous occurrence. However, the Late Payment Fee will not exceed the total minimum payment that was due. If your balance is $100 or less on the Payment Due Date, we will not assess a Late Payment Fee. The Returned Payment Fee will not exceed the total minimum payment that was due. Penalty APR: Your Penalty APR will not exceed 29.99% on new transactions. There is no Penalty APR on existing balances.Prime Rate: The Variable APRs above are based on the current Prime Rate of 5.5%. 
       CONDITIONS 
  
  
@@ -92,4 +92,4 @@ If the total amount you request exceeds your Total Credit Line, we may send full
   
   The information in this offer is updated regularly, but may have changed since the last update. The Bank of America® Privacy Notice is available at bankofamerica.com/privacy and accompanies the Credit Card Agreement.
  
-  This credit card program is issued and administered by Bank of America, N.A. Any account opened in response to this application shall be governed by the laws of the State of North Carolina. Deposit products and services are provided by Bank of America, N.A. and affiliated banks, Members FDIC and wholly owned subsidiaries of Bank of America Corporation. Mastercard and World Mastercard are registered trademarks of Mastercard International Incorporated, and are used by the issuer pursuant to license. Bank of America and the Bank of America logo are registered trademarks of Bank of America Corporation. myAllegiant™ and myAllegiant Rewards™ are registered trademarks of Allegiant Travel Company. ©2018 Bank of America Corporation
+  This credit card program is issued and administered by Bank of America, N.A. Any account opened in response to this application shall be governed by the laws of the State of North Carolina. Deposit products and services are provided by Bank of America, N.A. and affiliated banks, Members FDIC and wholly owned subsidiaries of Bank of America Corporation. Mastercard and World Mastercard are registered trademarks of Mastercard International Incorporated, and are used by the issuer pursuant to license. Bank of America and the Bank of America logo are registered trademarks of Bank of America Corporation. myAllegiant™ and myAllegiant Rewards™ are registered trademarks of Allegiant Travel Company. ©2019 Bank of America Corporation
