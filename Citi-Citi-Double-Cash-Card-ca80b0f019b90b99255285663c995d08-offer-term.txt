@@ -10,7 +10,7 @@ UDAP T&C
   
  
  Annual Percentage Rate (APR) for Purchases
-  15.49% to 25.49%, based on your creditworthiness.  
+  15.74% to 25.74%, based on your creditworthiness.  
  These APRs will vary with the market based on the Prime Rate.a 
  
  
@@ -20,7 +20,7 @@ UDAP T&C
  
  
  
- After that, your APR will be 15.49% to 25.49%, based on your creditworthiness. 
+ After that, your APR will be 15.74% to 25.74%, based on your creditworthiness. 
  
  
  These APRs will vary with the market based on the Prime Rate.a 
@@ -28,7 +28,7 @@ UDAP T&C
  
  
  
- APR for Cash Advances 27.24%
+ APR for Cash Advances 27.49%
  
  
  This APR will vary with the market based on the Prime Rate.b 
@@ -63,8 +63,8 @@ UDAP T&C
  
  For Credit Card Tips from the Consumer Financial Protection BureauTo learn more about factors to consider when applying for or using a credit card, visit the website of the Consumer Financial Protection Bureau at
  
+ http://www.consumerfinance.gov/learnmore. 
  
-http://www.consumerfinance.gov/learnmore. 
  
   
  
@@ -73,7 +73,7 @@ http://www.consumerfinance.gov/learnmore.
  
  Fees  
  
- Annual Fee 
+ Annual Fee
   
  None 
  
@@ -82,46 +82,58 @@ http://www.consumerfinance.gov/learnmore.
  
  Transaction Fees 
  
+											 Balance Transfer 										
+										 
+												 
+ Cash Advance	
+ 									
+										
+										 
+												 
+ Foreign Purchase Transaction
  
+										
+											
+																														
+										
  
-•
- 
- Balance Transfer
-  
  Either $5 or 3% of the amount of each transfer, whichever is greater.
  
-  
+												
  
-•
- 
- Cash Advance
- 
- Either $10 or 5% of the amount of each cash advance, whichever is greater. 
+Either $10 or 5% of the amount of each cash advance, whichever is greater.
  
  
-•
- 
- Foreign Purchase Transaction
-  
- 3% of each purchase transaction in U.S. dollars.
+ 3% of each purchase transaction in U.S. dollars.										 
  
  
  
  
  
  Penalty Fees 
+ 		
+										
  
+Late Payment 
+											
+												 
+												 
+											
  
+														Returned Payment
+																					
+									
+	
+																			
+												 
+											
  
- • Late Payment
-  None for the first late payment; up to $35 after that.
+None for the first late payment; up to $39 after that.											
+ 																							Up to $39
  
- 
-•
- 
- Returned Payment 
- Up to $35
-    
+											 
+																						
+   
  
  	
 		
@@ -136,7 +148,7 @@ http://www.consumerfinance.gov/learnmore.
 		
 		 
 		
-		Prime Rate: The variable rates shown here are accurate based on a 5.25% Prime Rate.		 
+		Prime Rate: The variable rates shown here are accurate based on a 5.5% Prime Rate.		 
 		
 		
 			
