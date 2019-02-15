@@ -7,6 +7,7 @@ Cathay Pacific Visa Signature® card
     
 	
 	
+	
 		.hero-banner.teaser img {
 			max-width: 840px;
 			display: block;
