@@ -1890,7 +1890,7 @@ Proceed
 
 
 
-GUID="3835d963-e27b-4a32-8b71-2fe6f96a09f0";
+GUID="4f9fdbb8-e444-4bc4-983f-1cb3415a2443";
 sourceCode="FXMB";
 approvedSourceCode="";
 taggingPageName="app";
@@ -1898,10 +1898,10 @@ dfpSpotLightTagParam="";
 CELL="64V2";
 MSC="999999999999999";
 APPID='';
-cig_app_id='20190221_154268917_0';
+cig_app_id='20190221_154268970_0';
 catType='mar';
 pvid="";
-referrer="creditcards.chase.com\x252Fa1\x252Fmarriottboundless\x252Fnonaep\x253FSP4R\x253DY538C4\x2526iCELL\x253D61FY";
+referrer="creditcards.chase.com\x252Fa1\x252Fmarriottboundless\x252Fnonaep\x253FSP4R\x253DFH24R8\x2526iCELL\x253D61FY";
 
 xplusOneurl ="https://stg.xp1.ru4.com/meta?_o=15629&_t=";
 	
@@ -1951,14 +1951,14 @@ ABOUT SSL CERTIFICATES
                     
                      
                      
-					 cig_app_id: '20190221_154268917_0',
+					 cig_app_id: '20190221_154268970_0',
                      
                       
 					 page_code: 'app',
                      
                      
                      
-						referrer: 'creditcards.chase.com\x252Fa1\x252Fmarriottboundless\x252Fnonaep\x253FSP4R\x253DY538C4\x2526iCELL\x253D61FY',
+						referrer: 'creditcards.chase.com\x252Fa1\x252Fmarriottboundless\x252Fnonaep\x253FSP4R\x253DFH24R8\x2526iCELL\x253D61FY',
                      
                      
 						 SPID: 'fxmb' 
@@ -2023,6 +2023,6 @@ var _linkTrackingVersion=2;
 	
 
   
-     td_2d="kwn6n3bveimsjey7srfnqyqosveg3idx";  td_2x="2531bf91f9f03126";  td_1o="https://5g3kt0kj-0ecf3ba19d7f6ecf4637dd00754f6ce676c9166d-sac.d.aa.online-metrix.net";  td_0u="5g3kt0kj";  td_2E="R1jL1nDQwXtHmPeK";  td_2N="https://h.online-metrix.net/fp";  td_0w();  
+     td_2d="gjvx0tazwkyqkzgiduxz0qq4ats9kq7t";  td_2x="283abf91f9f03126";  td_1o="https://5g3kt0kj-d216a960051a2ae95c546d0ee32e0ec880f96c38-sac.d.aa.online-metrix.net";  td_0u="5g3kt0kj";  td_2E="v1Yp513gsMm6D2i3";  td_2N="https://h.online-metrix.net/fp";  td_0w();  
 
 
