@@ -15,7 +15,7 @@ Citi® Double Cash Card
 
 
 
-4.7Rated 4.7 out of 5 stars11347 ReviewsWrite a Review96% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.7,"reviewCount":11347,"itemReviewed":{"@type":"Product","@id":"102040-142-en_US"}}
+4.7Rated 4.7 out of 5 stars11348 ReviewsWrite a Review96% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.7,"reviewCount":11348,"itemReviewed":{"@type":"Product","@id":"102040-142-en_US"}}
 
 Apply Now
 
@@ -105,3 +105,5 @@ Purchases do not include items returned for credit, balance transfers, cash adva
 Certain terms and conditions apply. Coverage details will be provided upon card membership or you can visit
 www.cardbenefits.citi.com.
 1Pricing & Information 2Additional InformationApply Now
+Not sure if this card is right for you?
+View All Citi Credit Cards >
