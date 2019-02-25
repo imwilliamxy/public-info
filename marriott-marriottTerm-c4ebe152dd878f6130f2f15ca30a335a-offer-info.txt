@@ -667,9 +667,7 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                                    3.6      Points Advance.    Members who seek to make an Award Redemption with an insufficient Point balance may make the Award Redemption and either (1) purchase Points (as described in  Section 2.9) to make a valid Award Redemption, provided that the aggregate amount of Points purchased and/or received as a gift by the Member is less than or equivalent to 50,000 Points per calendar year; or (2) the Member accrues sufficient Points to use Points for payment of the Award Redemption no less than fourteen (14) days prior to Member’s arrival date.
-
-3.6.a. If a purchase of Points is not an option, or if a Member does not have sufficient Points to pay for an Award Redemption with Points fourteen (14) days or less from Member’s arrival date, Member will forfeit the Award Redemption part of the reservation.  The Award Redemption may be canceled by the Loyalty Program or the Participating Property and the reservation will be converted to a cash reservation at the best available rate.          
+                                            
                           
                           
                             
@@ -1672,7 +1670,7 @@ vi.      Instant Redemption Awards are not available at Vistana properties.
                           
                             
                             
-                                    8.11    Trademarks.    The Company and Participating Properties are the sole and exclusive owners or licensees of the trademarks, service marks, trade names, logos, and copyrighted or copyrightable materials of Marriott International, Inc., its affiliates, and the Participating Properties.  Members shall never, directly or indirectly, interfere with, challenge, file applications for, or claim ownership of these trademarks anywhere in the world.          
+                                            
                           
                           
                             
