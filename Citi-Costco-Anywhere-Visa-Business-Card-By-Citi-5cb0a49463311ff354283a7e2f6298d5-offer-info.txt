@@ -8,7 +8,7 @@ GO BIG with cash back rewards for business Earn Costco cash rewards everywhere V
 Costco Anywhere Visa® Business Card by Citi
 
 
-4.6Rated 4.59 out of 5 stars924 ReviewsWrite a Review92% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.59,"reviewCount":924,"itemReviewed":{"@type":"Product","@id":"102040-522-en_US"}}
+4.6Rated 4.59 out of 5 stars940 ReviewsWrite a Review92% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.59,"reviewCount":940,"itemReviewed":{"@type":"Product","@id":"102040-522-en_US"}}
 Make sure to have your Costco Membership Card so you can...
 
 Apply Now
