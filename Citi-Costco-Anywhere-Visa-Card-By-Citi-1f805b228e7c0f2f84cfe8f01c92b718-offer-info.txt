@@ -8,7 +8,7 @@ GO BIG with cash back rewards Earn Costco cash rewards everywhere Visa® is acce
 Costco Anywhere Visa®Card by Citi
 
 
-4.7Rated 4.72 out of 5 stars14523 ReviewsWrite a Review96% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.72,"reviewCount":14523,"itemReviewed":{"@type":"Product","@id":"102040-520-en_US"}}
+4.7Rated 4.72 out of 5 stars14669 ReviewsWrite a Review96% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.72,"reviewCount":14669,"itemReviewed":{"@type":"Product","@id":"102040-520-en_US"}}
 Grab your Costco Membership Card and...
 
 Apply Now
