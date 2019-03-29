@@ -14,7 +14,6 @@ Cathay Pacific Visa Signature® card
 			margin: 1.42em auto
 		}	
 	
-	
 
     
 	 
