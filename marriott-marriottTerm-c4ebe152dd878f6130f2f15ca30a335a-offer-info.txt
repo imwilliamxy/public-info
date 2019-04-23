@@ -859,31 +859,7 @@ ii.      the hotel award portion of the Travel Package is non-refundable to
                           
                             
                             
-                                    4.1  Elite Membership General    4.1.a.  Elite membership is an exclusive privilege of Marriott Bonvoy Loyalty Program Membership. All Program Rules apply to Elite membership. The Loyalty Program has the right to terminate the Elite recognition program (the “Elite Program” or the “Elite Membership Program”) at any time by providing advance notice to Members in accordance with section 1.7.d. The Loyalty Program has the right to change, limit, modify or cancel the Program Rules for the Elite Program at any time, with or without notice, pursuant to section 1.7.c. Participating Properties outside the United States may provide alternative services and benefits to the Elite membership benefits set forth in these Program Rules, depending on local law and policy.
-
-4.1.b.  Pursuant to section 1.7.a., the Company reserves the right to revoke, cancel or suspend a Member’s Elite membership status (including Lifetime Elite Status), any Loyalty Program Membership, Award, and/or any and all unredeemed Points or Miles, or take other action at its discretion, at any time with immediate effect and without written notice if the Company believes the Member has (a) violated any of the Program Rules, (b) failed to pay any bills or accounts due to the Company or a Participating Property or any ownership related fees owed to Marriott Vacation Club properties, Marriott Grand Residence Club properties, or Vistana properties, (c) acted in a manner inconsistent with applicable law, regulations or ordinances, (d) engaged in any misconduct or wrongdoing in connection with the Marriott Bonvoy Loyalty Program, including without limitation, involving Point credit, Mile credit, Award use, or Member benefits, or (e) engaged in abusive, fraudulent, inappropriate, or hostile conduct in connection with the Marriott Bonvoy Loyalty Program, the Participating Properties or their guests or employees, or the Company or its employees. Nothing in these Program Rules will limit Company from exercising any legal rights or remedies that it may have.
-
-4.1.c.  Benefits of Elite membership apply to stays on Qualifying Rates (as described in Section 2.1.e.) and are reserved for Members only and apply solely to the one guest room in which the Elite Member stays.  Only one Member per guest room can earn Points/Miles and Elite Night Credit, as well as receive benefits as described in Section 2.1.d.(iv).  Elite Members receive one set of benefits according to their membership tier on Stays of one or more consecutive nights as described in 2.1.d, even if they check in and check out of the same Participating Property within 24 hours. In order for an Elite Member to be eligible to receive Elite benefits during his/her stay, the Elite Member must provide his/her Loyalty Program Membership Number when making a reservation. 
-
-Elite Members will receive Elite membership benefits including, without limitation:  bonus Points, priority late checkout and room upgrades.  Benefits vary by Elite membership tier.  More information can be found in section 4.3.
-
-i.      The awarding of Loyalty Program Elite membership benefits is void where prohibited by law and may vary outside the United States and Canada.
-
-ii.      Local policy may prevail over Loyalty Program standards at Participating Properties, and some Elite membership benefits may not be available at some locations.
-
-4.1.d.  Members with Elite Status (“Elite Member”) will receive guaranteed compensation for select Elite benefits in the event those benefits are not available during an Elite Member’s stay (“Elite Benefits Guarantee”).
-
-i.      The Elite Benefits Guarantee is the maximum compensation paid to an Elite Member during a stay that is booked at least one (1) day prior to arrival.  The Elite Benefits Guarantee in the United States is $200 U.S. dollars, even if more than one guaranteed benefit is not delivered to the Elite Member.  The maximum Elite Benefits Guarantee compensation paid to an Elite Member during a stay outside the United States will be the equivalent of $200 U.S. dollars paid in local currency, even if more than one guaranteed benefit is not delivered to the Elite Member.
-
-ii.      If an Elite Member believes that compensation is due with respect to any aspect of the Elite Benefits Guarantee, he/she must request payment of the compensation while still a guest at the Participating Property, prior to checking out.  Failure to request such payment prior to check out will result in a complete waiver of any right to receive such compensation.
-
-iii.      In order to qualify for the Elite Benefits Guarantee, the Elite Member’s Membership Number, Elite membership status, and bed type preferences must be included with the reservation.  Reservations made through meeting planners, travel agents, wholesalers or other approved third-party sources must include this information in order to be eligible for the Elite Benefits Guarantee.
-
-iv.      Guests accompanying Elite Members to a Participating Property are not eligible for the Elite Benefits Guarantee.
-
-v.     The Elite Benefits Guarantee applies to all Qualifying Stays, including Free Night Award stays.
-
-vi.      Elite Members who do not receive their Elite Benefits Guarantee or Ultimate Reservation Guarantee (see section 4.3.a. for Ultimate Reservation Guarantee information) in Russia, any other country subject to currency restrictions or any country prohibited by law from compensating the Member in the form of a cash payment will be compensated with Points.          
+                                            
                           
                           
                             
@@ -1828,45 +1804,38 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                               
                                 
                                 
-                                    Top Destinations     Anaheim Hotels    Atlanta Hotels    Baltimore Hotels    Boston Hotels    Cancun Hotels    Charlotte Hotels    Chicago Hotels    Costa Rica Hotels    Dallas Hotels    Las Vegas Hotels    London Hotels    Los Angeles Hotels    Memphis Hotels    Miami Hotels    Myrtle Beach Hotels    New York Hotels    Orlando Hotels    Paris Hotels    Philadelphia Hotels    San Francisco Hotels    St. Louis Hotels    Tampa Hotels    Thailand Hotels    Toronto Hotels    Washington DC Hotels      
+                                  
                               
                               
                                 
                                 
-                                    For Guests     Best Rate Guarantee    Room Key    Marriott Bonvoy Moments    Activities    Marriott Insiders    Marriott Bonvoy Traveler    Travel Experiences    Shop Marriott    Shop Westin    Gift Cards      
+                                  
                               
                               
                                 
                                 
-                                    Our Company     About Marriott    Careers    Travel Professionals    Group Partners    Developers    Affiliates    Investors    News    Bill Marriott's Blog    Arne Sorenson's Blog    Heart of the House      
-                              
-                            
-                            
-                              
-                                
-                                
-                                   Need Help?   Find answers here     
-                              
-                              
-                                
-                                
-                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
-                              
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                              
-                                
-                                
-                                  © 1996 - 2019  Marriott International, Inc. All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Site Map     Help     
+                                  
                               
                             
                             
                               
                                 
                                 
-                                   English
+                                  
+                              
+                              
+                                
+                                
+                                  
+                              
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                              
+                                
+                                
+                                  © 1996 - 2019  Marriott International, Inc. All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Site Map     Help
