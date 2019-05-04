@@ -257,9 +257,11 @@ xxxii.     Marriott Executive Apartments - Points and Miles earning partner
 
 xxxiii.     ExecuStay - Points earning partner only (no Points redemption or on-property benefits)
 
+xxxiv. Homes & Villas by Marriott International  short-term home rentals provided through https://homesandvillasbymarriott.com  have limited participation in the Loyalty Program as outlined in the HVMI Terms of Service.  Members who book through the HVMI website are subject in all respects to the Program Rules and the HVMI Terms of Service.
+
 1.2.b. “Marriott Channels” are collectively the Marriott Websites, the Mobile Apps, and the Customer Engagement Centers (which include Member Support).
 
-1.2.c. “Marriott Website” is a website operated by or on behalf of the Company or a Loyalty Program Participating Property and currently includes these websites: Marriott.com, RitzCarlton.com, stregis.com, editionhotels.com, theluxurycollection.com, bulgarihotels.com, whotels.com, jwmarriott.com, marriotthotels.com, sheraton.com, deltahotels.com, lemeridien.com, westin.com, autographhotels.com, designhotels.com, renhotels.com, tributeportfolio.com, gaylordhotels.com, courtyard.com, fourpoints.com, springhillsuites.com, proteahotels.com, fairfield.marriott.com, achotels.marriott.com, alofthotels.com, moxyhotels.com, marriottexecutiveapartments.com, residenceinn.marriott.com, TownePlaceSuites.com, elementhotelshub.com, and MarriottBonvoy.com.
+1.2.c. “Marriott Website” is a website operated by or on behalf of the Company or a Loyalty Program Participating Property and currently includes these websites: Marriott.com, RitzCarlton.com, stregis.com, editionhotels.com, theluxurycollection.com, bulgarihotels.com, whotels.com, jwmarriott.com, marriotthotels.com, sheraton.com, deltahotels.com, lemeridien.com, westin.com, autographhotels.com, designhotels.com, renhotels.com, tributeportfolio.com, gaylordhotels.com, courtyard.com, fourpoints.com, springhillsuites.com, proteahotels.com, fairfield.marriott.com, achotels.marriott.com, alofthotels.com, moxyhotels.com, marriottexecutiveapartments.com, residenceinn.marriott.com, TownePlaceSuites.com, elementhotelshub.com, homesandvillasbymarriott.com, and MarriottBonvoy.com.
 
 1.2.d. A “Mobile App” is a downloadable application operated by or on behalf of the Company in connection with the Loyalty Program including, without limitation, the iPhone and Android versions thereof.          
                           
@@ -1828,29 +1830,29 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                           
                                             
                                             
-                                                Top Destinations     Anaheim Hotels    Atlanta Hotels    Baltimore Hotels    Boston Hotels    Cancun Hotels    Charlotte Hotels    Chicago Hotels    Costa Rica Hotels    Dallas Hotels    Las Vegas Hotels    London Hotels    Los Angeles Hotels    Memphis Hotels    Miami Hotels    Myrtle Beach Hotels    New York Hotels    Orlando Hotels    Paris Hotels    Philadelphia Hotels    San Francisco Hotels    St. Louis Hotels    Tampa Hotels    Thailand Hotels    Toronto Hotels    Washington DC Hotels      
+                                              
                                           
                                           
                                             
                                             
-                                                For Guests     Best Rate Guarantee    Room Key    Marriott Bonvoy Moments    Activities    Marriott Insiders    Marriott Bonvoy Traveler    Travel Experiences    Shop Marriott    Shop Westin    Gift Cards      
+                                              
                                           
                                           
                                             
                                             
-                                                Our Company     About Marriott    Careers    Travel Professionals    Group Partners    Developers    Affiliates    Investors    News    Bill Marriott's Blog    Arne Sorenson's Blog    Heart of the House      
+                                              
                                           
                                   
                                   
                                           
                                             
                                             
-                                               Need Help?   Find answers here     
+                                              
                                           
                                           
                                             
                                             
-                                              Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                              
                                           
                                   
                                   
@@ -1862,11 +1864,4 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                     
                                       
                                       
-                                         © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Site Map     Help     
-                                    
-                                  
-                                  
-                                    
-                                      
-                                      
-                                         English
+                                         © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Site Map     Help
