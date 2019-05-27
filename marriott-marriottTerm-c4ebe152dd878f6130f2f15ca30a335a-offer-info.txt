@@ -1771,7 +1771,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                           
                             
                             
-                                    8.7      No Warranties or Representations, Express or Implied    The Company makes no warranties or representations, either expressed or implied, with respect to type, quality or fitness of goods or services provided through the Loyalty Program or by Participating Properties.          
+                                            
                           
                           
                             
@@ -1781,7 +1781,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                           
                             
                             
-                                    8.9      Not Responsible for Acts, Errors, or Omissions.    The Company is not responsible for:  (a) any loss or misdirection of, or delay in receiving, any Member application, correspondence, redemption requests, Redemption Awards or Member benefits; (b) theft or unauthorized redemption of Points or Redemption Awards or use of a Redemption Award; (c) any acts or omissions of third parties (including, without limitation, Participating Properties); or (d) any errors published in relation to the Loyalty Program, including, without limitation, any pricing or typographical errors, errors of description, errors regarding Participating Properties, and Loyalty Program affiliates, and errors in the crediting or debiting of Points from Member Accounts.  The Company reserves the right to correct, without notice, any errors.          
+                                            
                           
                           
                             
@@ -1796,7 +1796,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                           
                             
                             
-                                    8.12    Waiver.    The Company’s waiver of any breach of these Loyalty Program Rules by any Member will not constitute a waiver of any other prior or subsequent breach of these Program Rules.  The Company’s failure to insist upon strict compliance with these Loyalty Program Rules by any Member will not be deemed a waiver of any rights or remedies the Company may have against that or any other Member.  The Company may waive compliance with these Program Rules in its sole discretion and may run promotions from time to time that provide enhanced benefits to select Members.          
+                                            
                           
                           
                             
@@ -1830,29 +1830,29 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                           
                                             
                                             
-                                                Top Destinations     Anaheim Hotels    Atlanta Hotels    Baltimore Hotels    Boston Hotels    Cancun Hotels    Charlotte Hotels    Chicago Hotels    Costa Rica Hotels    Dallas Hotels    Las Vegas Hotels    London Hotels    Los Angeles Hotels    Memphis Hotels    Miami Hotels    Myrtle Beach Hotels    New York Hotels    Orlando Hotels    Paris Hotels    Philadelphia Hotels    San Francisco Hotels    St. Louis Hotels    Tampa Hotels    Thailand Hotels    Toronto Hotels    Washington DC Hotels      
+                                              
                                           
                                           
                                             
                                             
-                                                For Guests     Best Rate Guarantee    Room Key    Marriott Bonvoy Moments    Activities    Marriott Insiders    Marriott Bonvoy Traveler    Travel Experiences    Shop Marriott    Shop Westin    Gift Cards      
+                                              
                                           
                                           
                                             
                                             
-                                                Our Company     About Marriott    Careers    Travel Professionals    Group Partners    Developers    Affiliates    Investors    News    Bill Marriott's Blog    Arne Sorenson's Blog    Heart of the House      
+                                              
                                           
                                   
                                   
                                           
                                             
                                             
-                                               Need Help?   Find answers here     
+                                              
                                           
                                           
                                             
                                             
-                                              Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                              
                                           
                                   
                                   
@@ -1864,11 +1864,4 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                     
                                       
                                       
-                                         © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Site Map     Help     
-                                    
-                                  
-                                  
-                                    
-                                      
-                                      
-                                         English
+                                         © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Site Map     Help
