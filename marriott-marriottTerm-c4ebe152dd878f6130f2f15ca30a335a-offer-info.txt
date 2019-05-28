@@ -811,17 +811,7 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                                    3.11   Airline Frequent Flyer Programs and Other Affiliated Loyalty Programs    3.11.a. Members may redeem Points with participating airline frequent flyer programs and other airline-affiliated loyalty programs at a designated Points to Miles conversion ratio as indicated here.
-
-3.11.b. Members requesting to redeem their Points and convert to Miles must be a member of the relevant airline frequent flyer program or airline-affiliated loyalty program in order to complete the redemption. For details on joining an airline frequent flyer program or other airline-affiliated loyalty program, please refer to the particular airline or loyalty program website and terms and conditions.
-
-3.11.c. Once Points have been redeemed for Miles with a participating airline frequent flyer program or other airline-affiliated loyalty program, Miles will automatically be transferred to the Member’s frequent flyer or airline-affiliated loyalty program account. In most cases, Miles will be posted to your account within one (1) week.
-
-3.11.d. Once Miles are credited to a Member’s frequent flyer or other airline-affiliated loyalty program account, changes, reissuance and/or re-credit of Points are not allowed.
-
-3.11.e. The terms and conditions of the airline frequent flyer program or other airline-affiliated loyalty program control the redemption and distribution of the Miles earned through the Loyalty Program.
-
-3.11.f. The airline frequent flyer program or other airline-affiliated loyalty program reserves the right to change its program at any time without notice. Any such changes may affect a Member’s ability to use the Miles he/she has accumulated. The airline frequent flyer program or other airline-affiliated loyalty program is not responsible for products or services offered by other third parties participating in the Loyalty Program. All terms and conditions of a Member’s preferred airline frequent flyer program or other airline-affiliated loyalty program apply.          
+                                            
                           
                           
                             
@@ -1771,7 +1761,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                           
                             
                             
-                                            
+                                    8.7      No Warranties or Representations, Express or Implied    The Company makes no warranties or representations, either expressed or implied, with respect to type, quality or fitness of goods or services provided through the Loyalty Program or by Participating Properties.          
                           
                           
                             
@@ -1796,7 +1786,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                           
                             
                             
-                                            
+                                    8.12    Waiver.    The Company’s waiver of any breach of these Loyalty Program Rules by any Member will not constitute a waiver of any other prior or subsequent breach of these Program Rules.  The Company’s failure to insist upon strict compliance with these Loyalty Program Rules by any Member will not be deemed a waiver of any rights or remedies the Company may have against that or any other Member.  The Company may waive compliance with these Program Rules in its sole discretion and may run promotions from time to time that provide enhanced benefits to select Members.          
                           
                           
                             
