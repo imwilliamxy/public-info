@@ -811,7 +811,17 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                                            
+                                    3.11   Airline Frequent Flyer Programs and Other Affiliated Loyalty Programs    3.11.a. Members may redeem Points with participating airline frequent flyer programs and other airline-affiliated loyalty programs at a designated Points to Miles conversion ratio as indicated here.
+
+3.11.b. Members requesting to redeem their Points and convert to Miles must be a member of the relevant airline frequent flyer program or airline-affiliated loyalty program in order to complete the redemption. For details on joining an airline frequent flyer program or other airline-affiliated loyalty program, please refer to the particular airline or loyalty program website and terms and conditions.
+
+3.11.c. Once Points have been redeemed for Miles with a participating airline frequent flyer program or other airline-affiliated loyalty program, Miles will automatically be transferred to the Member’s frequent flyer or airline-affiliated loyalty program account. In most cases, Miles will be posted to your account within one (1) week.
+
+3.11.d. Once Miles are credited to a Member’s frequent flyer or other airline-affiliated loyalty program account, changes, reissuance and/or re-credit of Points are not allowed.
+
+3.11.e. The terms and conditions of the airline frequent flyer program or other airline-affiliated loyalty program control the redemption and distribution of the Miles earned through the Loyalty Program.
+
+3.11.f. The airline frequent flyer program or other airline-affiliated loyalty program reserves the right to change its program at any time without notice. Any such changes may affect a Member’s ability to use the Miles he/she has accumulated. The airline frequent flyer program or other airline-affiliated loyalty program is not responsible for products or services offered by other third parties participating in the Loyalty Program. All terms and conditions of a Member’s preferred airline frequent flyer program or other airline-affiliated loyalty program apply.          
                           
                           
                             
@@ -1731,7 +1741,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                           
                             
                             
-                                    8.1      Monitoring Membership Accounts.    The Company reserves the right to monitor the Accounts of all Members, at any time and without notice, for compliance with Program Rules.  The Company may review all Members’ Points, Qualifying Stays, and Qualifying Nights balances and transaction history including, without limitation, requests for Loyalty Program Awards, promotional Awards and other benefits.          
+                              
                           
                           
                             
@@ -1771,7 +1781,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                           
                             
                             
-                                            
+                                    8.9      Not Responsible for Acts, Errors, or Omissions.    The Company is not responsible for:  (a) any loss or misdirection of, or delay in receiving, any Member application, correspondence, redemption requests, Redemption Awards or Member benefits; (b) theft or unauthorized redemption of Points or Redemption Awards or use of a Redemption Award; (c) any acts or omissions of third parties (including, without limitation, Participating Properties); or (d) any errors published in relation to the Loyalty Program, including, without limitation, any pricing or typographical errors, errors of description, errors regarding Participating Properties, and Loyalty Program affiliates, and errors in the crediting or debiting of Points from Member Accounts.  The Company reserves the right to correct, without notice, any errors.          
                           
                           
                             
