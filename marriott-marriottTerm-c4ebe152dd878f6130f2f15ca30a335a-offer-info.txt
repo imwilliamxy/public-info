@@ -890,53 +890,7 @@ vi.      Elite Members who do not receive their Elite Benefits Guarantee or
                           
                             
                             
-                                    4.2Elite Membership Requirements    4.2.a.  Only nights personally stayed by and individually billed to an Elite Member at Participating Properties are credited toward the Elite Member’s Elite membership achievement and renewal thereof.  Pursuant to section 1.4.e. Accounts may be combined to achieve Elite membership.
-
-i.     Pursuant to section 2.1.a., one Elite Night Credit will be awarded to the Elite Member room for each Qualifying Night stayed.
-
-ii.     When staying at ExecuStay locations, every three (3) Qualifying Nights stayed will entitle Members to one (1) Elite Night Credit toward Elite membership status.  Elite membership benefits are not available at ExecuStay locations.
-
-iii.     When staying at Marriott Executive Apartments, every three (3) Qualifying Nights stayed will entitle Members to one (1) night toward Elite status.  Elite benefits are not available at Marriott Executive Apartments locations.
-
-iv.     When booking a qualifying group event or meeting with Marriott Bonvoy Events, ten (10) Elite nights per calendar year will be awarded to the Member for his/her first group, event or meeting, and subsequent events thereafter, one (1) Elite Night Credit will be awarded for every twenty (20) room nights booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract.  Points or Miles may be earned in addition to Elite Night Credits for Marriott Bonvoy Events.
-
-v.     Elite Status may be earned through various Partner Programs and is subject to the terms and conditions of the Partner Program as well as the Loyalty Program Rules.
-
-4.2.b.  To achieve or renew Elite membership status, the following number of Elite Night Credits (“Minimum Requirement”) must be earned through (i) nights stayed at Participating Properties or (ii) Marriott Bonvoy Events between January 1 and December 31 of any given year:
-
-i.     Marriott Bonvoy - Silver Elite:  10 to 24 Qualifying Nights
-
-ii.     Marriott Bonvoy - Gold Elite:  25 to 49 Qualifying Nights
-
-iii.     Marriott Bonvoy - Platinum Elite:  50 to 74 Qualifying Nights
-
-iv.     Marriott Bonvoy - Titanium Elite:  75 Qualifying Nights and higher
-
-v.     Marriott Bonvoy - Ambassador Elite:  100 Qualifying Nights and $20,000 U.S. dollars in qualified annual spend based on Qualifying Charges earned on Stays only.
-
-* Achievement of Elite Status through Qualifying Stays at the Participating Brands of the legacy SPG Program ended on December 31, 2018.
-
-4.2.c.  Free Night Award stays will count toward Elite Night Credit.
-
-4.2.d.  Qualifying Charges without a personal overnight stay will not earn Elite Night Credit toward Elite membership.
-
-4.2.e.  Earning Lifetime Elite Status
-
-i.   In order to obtain Lifetime Elite Status, a Member must meet the below Lifetime Elite Status Criteria (4.2.f.) during the Member’s participation in the Loyalty Program. An “Eligible Status Year” is a calendar year during which a Member obtained Elite membership status (Silver Elite, Gold Elite, Platinum Elite, Titanium Elite, or Ambassador Elite) by achieving the Silver Elite, Gold Elite, Platinum Elite, Titanium Elite, or Ambassador Elite Minimum Requirement during such Eligible Status Year. Only a calendar year in which a Member achieves Silver Elite, Gold Elite, Platinum Elite, Titanium Elite, or Ambassador Elite Status, as described in the prior sentence, will count as an Eligible Status Year, regardless of the length of time that such Member will retain the benefits of Elite membership Status. For example, if a Member meets the Gold Elite Minimum Requirement during the 2019 Eligible Status Year by earning twenty-five (25) Eligible Nights and becomes a Gold Elite Member for the remainder of 2019 and for all of 2020, 2019 will count as a single Eligible Status Year, but 2020 will not count as an Eligible Status Year unless the Member meets the Gold Elite Minimum Requirement during the 2020 Eligible Status Year.
-
-ii.     The Company will determine, in its sole discretion, whether or not a Member has met the requirements to achieve Lifetime Elite Status.  Once a Member achieves Lifetime Elite Status as described in 4.2.b, the Member is not subject to meeting the Elite Tier’s Minimum Requirement in any subsequent Eligible Status Year in order to remain an Elite Member unless the Elite Member’s Account was cancelled.
-
-iii.     Lifetime Elite Status only provides a Member with Silver Elite, Gold Elite, Platinum Elite, or Titanium Elite status and protection against the forfeiture of Points even if the Lifetime Elite Member is inactive. It does not prevent the Company from suspending Lifetime Elite Status or cancelling a Member’s Account. Lifetime Elite Members will receive the benefits of Silver Elite, Gold Elite, Platinum Elite, or Titanium Elite Members, which are subject to change from time to time as described in section 4.1.
-
-4.2.f.  Lifetime Elite Status Criteria.  Members can earn Lifetime Elite Status through the following criteria:
-
-i.     Loyalty Program Lifetime Elite Status Criteria:
-
-●     Lifetime Silver Elite: 250 Qualifying Nights + 5 Years as Silver Elite or higher
-●     Lifetime Gold Elite: 400 Qualifying Nights + 7 Years as Gold Elite or higher
-●     Lifetime Platinum Elite: 600 Qualifying Nights + 10 Years as Platinum Elite or higher
-
-ii.     Achievement of Lifetime Elite Status through Legacy Program Lifetime Elite Status Criteria ended December 31, 2018. This included achievement of Lifetime Platinum Premier Elite (now Lifetime Titanium Elite) Status which also ended December 31, 2018.          
+                                            
                           
                           
                             
@@ -1741,7 +1695,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                           
                             
                             
-                              
+                                    8.1      Monitoring Membership Accounts.    The Company reserves the right to monitor the Accounts of all Members, at any time and without notice, for compliance with Program Rules.  The Company may review all Members’ Points, Qualifying Stays, and Qualifying Nights balances and transaction history including, without limitation, requests for Loyalty Program Awards, promotional Awards and other benefits.          
                           
                           
                             
