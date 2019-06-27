@@ -13,7 +13,7 @@ Citi Simplicity® Card
 
 
 
-4.6Rated 4.62 out of 5 stars5494 ReviewsWrite a Review93% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.62,"reviewCount":5494,"itemReviewed":{"@type":"Product","@id":"102040-202-en_US"}}
+4.6Rated 4.62 out of 5 stars5510 ReviewsWrite a Review93% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.62,"reviewCount":5510,"itemReviewed":{"@type":"Product","@id":"102040-202-en_US"}}
 
 Apply Now
 
