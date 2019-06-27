@@ -18,7 +18,7 @@ Citi® / AAdvantage® Platinum Select® World Elite™ Mastercard®
 
 
 
-4.3Rated 4.28 out of 5 stars2889 ReviewsWrite a Review83% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.28,"reviewCount":2889,"itemReviewed":{"@type":"Product","@id":"102040-056-en_US"}}
+4.3Rated 4.28 out of 5 stars2893 ReviewsWrite a Review83% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.28,"reviewCount":2893,"itemReviewed":{"@type":"Product","@id":"102040-056-en_US"}}
 
 Apply Now
 
