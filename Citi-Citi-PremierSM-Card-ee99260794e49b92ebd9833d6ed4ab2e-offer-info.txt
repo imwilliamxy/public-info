@@ -16,7 +16,7 @@ Citi Premier Card
 
 
 
-4.3Rated 4.31 out of 5 stars1938 ReviewsWrite a Review84% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.31,"reviewCount":1938,"itemReviewed":{"@type":"Product","@id":"102040-089-en_US"}}
+4.3Rated 4.31 out of 5 stars1972 ReviewsWrite a Review83% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.31,"reviewCount":1972,"itemReviewed":{"@type":"Product","@id":"102040-089-en_US"}}
 
 Apply Now
 
