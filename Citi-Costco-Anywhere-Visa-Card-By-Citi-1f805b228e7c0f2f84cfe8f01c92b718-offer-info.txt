@@ -13,7 +13,7 @@ Costco Anywhere Visa®Card by Citi
 
 
 
-4.7Rated 4.72 out of 5 stars16984 ReviewsWrite a Review96% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.72,"reviewCount":16984,"itemReviewed":{"@type":"Product","@id":"102040-520-en_US"}}
+4.7Rated 4.72 out of 5 stars17138 ReviewsWrite a Review96% of respondents would recommend this to a friend{"@context":"http://schema.org/","@type":"AggregateRating","ratingValue":4.72,"reviewCount":17138,"itemReviewed":{"@type":"Product","@id":"102040-520-en_US"}}
 
 Apply Now
 
