@@ -80,7 +80,7 @@ Hilton Honors membership, earning and redemption of Points are subject to Hilton
 
 Hilton Honors and all trademarks of the Hilton Portfolio are owned by Hilton Domestic Operating Company Inc. or its subsidiaries.
 POID GBRH:0001
-OFFER CODE: SJAD-31R5CF-1S6D-V9A
+[OFFER_CODE]
 OFFER TERMS
 Welcome offer not available to applicants who have or have had this Card or the Hilton Honors Surpass Card. We may also consider the number of American Express Cards you have opened and closed as well as other factors in making a decision on your welcome offer eligibility.
 150,000 Hilton Honors Bonus Points
