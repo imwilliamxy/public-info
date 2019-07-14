@@ -79,7 +79,7 @@ Amex EveryDay® Credit Card is issued by American Express National Bank. ©2019 
 
 Membership Rewards® partners will receive certain information about you in order to provide the benefits of your Membership Rewards account.
 POID K02Q:9992
-OFFER CODE: SJAD-31R5CF-1S6D-V9A
+[OFFER_CODE]
 OFFER TERMS
 The welcome offer, intro APRs, and intro plan fees are not available to applicants who have or have had this Card. We may also consider the number of American Express Cards you have opened and closed as well as other factors in making a decision on your welcome offer, intro APRs, and intro plan fee eligibility.
 25,000 Membership Rewards® Points
