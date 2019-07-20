@@ -821,11 +821,11 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                             
                                     3.11   Airline Frequent Flyer Programs and Other Affiliated Loyalty Programs    3.11.a. Members may redeem Points with participating airline frequent flyer programs and other airline-affiliated loyalty programs at a designated Points to Miles conversion ratio as indicated here.
 
-3.11.b. Members requesting to redeem their Points and convert to Miles must be a member of the relevant airline frequent flyer program or airline-affiliated loyalty program in order to complete the redemption. For details on joining an airline frequent flyer program or other airline-affiliated loyalty program, please refer to the particular airline or loyalty program website and terms and conditions.
+3.11.b. Members requesting to redeem their Points and convert to Miles must be a member of the relevant airline frequent flyer program or airline-affiliated loyalty program, and, for most Loyalty Program airline partners, the Member’s name on the frequent flyer program account must match the name on the Member’s Membership Account in order to successfully complete the redemption. For details on joining an airline frequent flyer program or other airline-affiliated loyalty program, please refer to the particular airline or loyalty program website and terms and conditions.
 
 3.11.c. Once Points have been redeemed for Miles with a participating airline frequent flyer program or other airline-affiliated loyalty program, Miles will automatically be transferred to the Member’s frequent flyer or airline-affiliated loyalty program account. In most cases, Miles will be posted to your account within one (1) week.
 
-3.11.d. Once Miles are credited to a Member’s frequent flyer or other airline-affiliated loyalty program account, changes, reissuance and/or re-credit of Points are not allowed.
+3.11.d. Once Miles are ordered to a Member’s frequent flyer or other airline-affiliated loyalty program account, changes, reissuance and/or re-credit of Points are not allowed.
 
 3.11.e. The terms and conditions of the airline frequent flyer program or other airline-affiliated loyalty program control the redemption and distribution of the Miles earned through the Loyalty Program.
 
@@ -1841,29 +1841,29 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                           
                                             
                                             
-                                                Top Destinations     Anaheim Hotels    Atlanta Hotels    Baltimore Hotels    Boston Hotels    Cancun Hotels    Charlotte Hotels    Chicago Hotels    Costa Rica Hotels    Dallas Hotels    Las Vegas Hotels    London Hotels    Los Angeles Hotels    Memphis Hotels    Miami Hotels    Myrtle Beach Hotels    New York Hotels    Orlando Hotels    Paris Hotels    Philadelphia Hotels    San Francisco Hotels    St. Louis Hotels    Tampa Hotels    Thailand Hotels    Toronto Hotels    Washington DC Hotels      
+                                              
                                           
                                           
                                             
                                             
-                                                For Guests     Best Rate Guarantee    Room Key    Marriott Bonvoy Moments    Activities    Marriott Insiders    Marriott Bonvoy Traveler    Travel Experiences    Shop Marriott    Shop Westin    Gift Cards      
+                                              
                                           
                                           
                                             
                                             
-                                                Our Company     About Marriott    Careers    Travel Professionals    Group Partners    Developers    Affiliates    Investors    News    Bill Marriott's Blog    Arne Sorenson's Blog    Heart of the House      
+                                              
                                           
                                   
                                   
                                           
                                             
                                             
-                                               Need Help?   Find answers here     
+                                              
                                           
                                           
                                             
                                             
-                                              Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                              
                                           
                                   
                                   
@@ -1875,11 +1875,4 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                     
                                       
                                       
-                                         © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Site Map     Help     
-                                    
-                                  
-                                  
-                                    
-                                      
-                                      
-                                         English
+                                         © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Site Map     Help
