@@ -62,7 +62,7 @@ Notice to Ohio Residents: The Ohio laws against discrimination require that all 
 
 The American Express Green Card is issued by American Express National Bank. ©2019 American Express National Bank.
 POID GBQ3:0001
-OFFER CODE: SJAY-2AWJI3-1CIJ-4OD
+[OFFER_CODE]
 OFFER TERMS
 Welcome offer not available to applicants who have or have had this Card. We may also consider the number of American Express Cards you have opened and closed as well as other factors in making a decision on your welcome offer eligibility.
 25,000 Membership Rewards® Points
