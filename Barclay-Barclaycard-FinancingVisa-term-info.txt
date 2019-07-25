@@ -63,7 +63,7 @@ Up to $39 (the amount of the fee varies by state, see below) 
  
 How We Will Calculate Your Balance: We use a method called "daily balance (including new purchases)". If you are a resident of Iowa at the time the account is opened, we use a method called "average daily balance (including new purchases)".
 Terms and Conditions Continued:
-Important Information about the Barclaycard Financing Visa Card: Offers may vary. Please carefully review the interest rates and account fees and terms of this particular offer before applying.
+Important Information about the Barclaycard Financing Visa: Offers may vary. Please carefully review the interest rates and account fees and terms of this particular offer before applying.
 
 Fees that Vary by State:Late Payment Fee:  Up to $39  (Up to $15 for residents of Iowa at time of account opening). Returned Payment: Up to $39 (Up to $15 for residents of Iowa at time of account opening).
 The Annual Percentage Rate (APR) For Your Initial Apple Purchase(s)
@@ -88,5 +88,5 @@ Notice to Ohio Residents: The Ohio laws against discrimination require that all 
 Notice to Married Wisconsin Residents: No marital property agreement, unilateral statement or court decree under Wisconsin's marital property law will adversely affect our interests unless before your account is opened, you give us a copy of the agreement, statement or decree or we have actual knowledge of it.  You understand that we may be required to give notice of this account to your spouse.
 About Us and This Credit Card Program: This credit card program is issued and administered by Barclays Bank Delaware (Barclaycard), located in Wilmington, Delaware. Any account opened in response to this application shall be governed by the laws of the State of Delaware.  Visa is a registered trademark of VISA USA, Inc. and is used by us pursuant to a license.
 The information contained in these disclosures is accurate as of [DATE] and may change after this date.
-Information Sharing:Barclays' Privacy Policy is available online at www.BarclaysUS.com. In addition, Apple and Barclays may share my name, contact information and experiential and transaction information, as well as information necessary to administer the Barclaycard Financing Visa Card.
+Information Sharing:Barclays' Privacy Policy is available online at www.BarclaysUS.com. In addition, Apple and Barclays may share my name, contact information and experiential and transaction information, as well as information necessary to administer the Barclaycard Financing Visa.
 
