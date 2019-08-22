@@ -948,11 +948,11 @@ ii.     Achievement of Lifetime Elite Status through Legacy Program Lifetim
                             
                                     4.3  Elite Membership Benefits at Participating Brands    4.3.a.  Marriott Bonvoy Silver Elite Membership Benefits.  Silver Elite Members and above are eligible to receive the following benefits:
 
-i.      10% Bonus Points.  Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay.  Available to Members at all Participating Brands.
+i.      10% Bonus Points.  Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
 ii.      Priority Late Checkout.  Based on availability.  Please call the front desk the morning of checkout and let them know your planned departure time.  Available at all Participating Brands except Marriott Vacation Club, Marriott Grand Residence Club, and Vistana Network properties.
 
-iii.      Ultimate Reservation Guarantee.  To be eligible, Member's Loyalty Program Member Number and a valid credit card number must be included with the reservation. If a Participating Property is unable to honor the reservation, it will pay for comparable accommodation nearby for the Elite Member that night and compensate the Member for the inconvenience. A Participating Property must be open and operational for the Ultimate Reservation Guarantee benefit/compensation to apply. At The Ritz-Carlton and St. Regis Hotels, the Ultimate Reservation Guarantee only applies to Platinum Elite, Titanium Elite, and Ambassador Elite Members. The Ultimate Reservation Guarantee is offered at the following brands: The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Aloft Hotels, Moxy Hotels, Residence Inn, TownePlace Suites and Element. The Ultimate Reservation Guarantee is not offered at the following brands: Design Hotels, Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties. Pursuant to section 4.1.c. if an Elite Member has a confirmed reservation, but is relocated from the property upon arrival, the Participating Property will pay the Ultimate Reservation Guarantee compensation in place on that date under the Program Rules. If an Elite Member receives Ultimate Reservation Guarantee compensation, then he/she is not eligible to receive additional Elite Benefits Guarantee compensation.
+iii.      Ultimate Reservation Guarantee.  To be eligible, Member's Loyalty Program Member Number and a valid credit card number must be included with the reservation. If a Participating Property is unable to honor the reservation, it will pay for comparable accommodation nearby for the Elite Member that night and compensate the Member for the inconvenience. A Participating Property must be open and operational for the Ultimate Reservation Guarantee benefit/compensation to apply. At The Ritz-Carlton and St. Regis Hotels, the Ultimate Reservation Guarantee only applies to Titanium Elite and Ambassador Elite Members. The Ultimate Reservation Guarantee is offered at the following brands: The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Aloft Hotels, Moxy Hotels, Residence Inn, TownePlace Suites and Element. The Ultimate Reservation Guarantee is not offered at the following brands: Design Hotels, Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties. Pursuant to section 4.1.c. if an Elite Member has a confirmed reservation, but is relocated from the property upon arrival, the Participating Property will pay the Ultimate Reservation Guarantee compensation in place on that date under the Program Rules. If an Elite Member receives Ultimate Reservation Guarantee compensation, then he/she is not eligible to receive additional Elite Benefits Guarantee compensation.
 
 
 ULTIMATE RESERVATION GUARANTEE
@@ -987,7 +987,7 @@ vi.      Dedicated Exclusive Customer Engagement Center Line:  Exclusive n
 
 4.3.b.  Marriott Bonvoy Gold Elite Membership Benefits.  In addition to all of the benefits Silver Elite Members receive, Gold Elite Members and above are eligible to receive the following benefits:
 
-i.      25% Bonus Points.  Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay.  Available to Members at all Participating Brands.
+i.      25% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
 ii.      Elite Welcome Gift of Points (varies by Participating Brand). Gold Elite Members receive one Elite Welcome Gift of Points on a Stay of one or more consecutive nights as described in 2.1.d, even if they check in and check out of the same Participating Property within 24 hours. Members who designate their earning preference as Miles will need to initiate the transfer of Elite Welcome Gift of Points to Miles as described in section 2.3.
 
@@ -998,7 +998,7 @@ Participating Brands
 Elite Welcome Gift
 
 
-The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Marriott Vacation Club, Marriott Grand Residence Club, Delta Hotels, Le Méridien, Westin, Autograph Collection, Design Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels
+The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Marriott Vacation Club, Marriott Grand Residence Club, Delta Hotels, Le Méridien, Westin, Autograph Collection, Design Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels. Vistana properties only offer the Elite Welcome Gift benefit to non-Vistana Owner members.
 
 500 Points per Stay
 
@@ -1015,7 +1015,7 @@ v.      Complimentary Enhanced Internet Access.  This benefit is provided 
 
 4.3.c.  Marriott Bonvoy Platinum Elite Membership Benefits.  In addition to all of the benefits Gold Elite Members receive, Platinum Elite Members and above are eligible to receive the following benefits:
 
-i.      50% Bonus Points.  Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay.  Available to Members at all Participating Brands.
+i.      50% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
 ii.      Complimentary Enhanced Room Upgrade for Platinum Elite Members.  Platinum Elite Members and above receive a complimentary upgrade to the best available room subject to availability for the entire length of stay at the time of check-in.   Complimentary upgrade includes suites, rooms with desirable views, rooms on high floors, corner rooms, rooms with special amenities or rooms on Executive Floors.  At The Ritz-Carlton, suites are only included for Titanium Elite and Ambassador Elite Members and rooms with direct Club access are excluded.  Enhanced Room Upgrades are subject to availability and are identified by each Participating Property.  The Complimentary Enhanced Room Upgrade for Platinum Elite Members and above is available at all Participating Brands except at Marriott Vacation Club, Marriott Grand Residence Club, Aloft, Element and Vistana properties.
 
@@ -1350,7 +1350,7 @@ U.S. $25
 
 4.3.d.  Marriott Bonvoy Titanium Elite Membership Benefits.  In addition to all of the benefits Platinum Elite Members receive, Titanium Elite Members and above are eligible to receive the following benefits:
 
-i.      75% Bonus Points.  Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay.  Available to Loyalty Program Members at all Participating Brands.
+i.      75% Bonus Points.  Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
 ii.      48-Hour Guaranteed Availability.  Limited to Titanium Elite Member's personal guestroom.  Guaranteed room availability for reservations booked at least forty-eight (48) hours prior to arrival and available when a Participating Property is sold out if the room is booked by 3 p.m. local time, forty-eight (48) hours prior to arrival, at all Participating Properties except resort hotels, Marriott Vacation Club Marriott Grand Residence Club, Design HotelsTM, and Vistana properties.  Forty-eight (48) Hour Guaranteed Availability may not be available on certain limited dates (e.g., special events).  Enhanced Room Upgrade benefits do not apply.  Benefit cannot be used in conjunction with Free Night Award usage or any type of promotional or discounted rates.  Member must pay prevailing rate at time of booking and length of stay requirements must be met.  For Residence Inn and TownePlace Suites, 48-Hour Guaranteed Availability applies to studio rooms only.
 
@@ -1852,7 +1852,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                                               
                                                                 
                                                                 
-                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                                                  
                                                               
                                               
                                       
@@ -1862,11 +1862,4 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                                         
                                                           
                                                           
-                                                             © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Digital Accessibility     Site Map     Help    
-                                                        
-                                              
-                                              
-                                                        
-                                                          
-                                                          
-                                                             English
+                                                             © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Digital Accessibility     Site Map     Help
