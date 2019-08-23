@@ -60,7 +60,7 @@ Purchase Rate:
 17.99% - 25.99% variable APR based on your creditworthiness*
 Balance Transfer Rate:
 
-17.99% - 25.99%, based on your creditworthiness*
+17.99% - 25.99%, variable based on your creditworthiness*
 Balance Transfer Fee:
 
 Either $5 or 3% of the amount of each transfer, whichever is greater*
