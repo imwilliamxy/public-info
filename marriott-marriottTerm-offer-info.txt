@@ -52,7 +52,7 @@ Loyalty Program Terms & Conditions
                           
                             
                             
-                                      Last Updated June 2019
+                                      Updated September 2019
 
 Effective in February 2019, the loyalty program for Marriott International, Inc. is Marriott Bonvoy (hereinafter, the “Loyalty Program”). Prior to this, the Loyalty Program operated as a unified program under three names: Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the “SPG Program”) (each a “Legacy Program”). These Legacy Programs were operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the “Company”).
 
@@ -252,9 +252,9 @@ xxxi.     Non-branded properties - the following non-branded properties par
 ●     The Maxwell New York City
 ●     Philadelphia 201 Hotel
 
-xxxii.     Marriott Executive Apartments - Points and Miles earning partner only (no Points redemption or on-property Elite benefits)
+xxxii.     Marriott Executive Apartments - Base Points and Miles earning partner only (no Points redemption or on-property Elite benefits including Elite bonus Points)
 
-xxxiii.     ExecuStay - Points earning partner only (no Points redemption or on-property benefits)
+xxxiii.     ExecuStay - Base Points earning partner only (no Points redemption or on-property benefits including Elite bonus Points)
 
 xxxiv. Homes & Villas by Marriott International  short-term home rentals provided through https://homesandvillasbymarriott.com  have limited participation in the Loyalty Program as outlined in the HVMI Terms of Service.  Members who book through the HVMI website are subject in all respects to the Program Rules and the HVMI Terms of Service.
 
@@ -340,9 +340,9 @@ v.     Corporate Membership.  Only individuals are eligible to participate
 
 i.     If more than one Loyalty Program Membership Number is assigned to an individual for the Loyalty Program, he/she will only receive Points or Miles for one Membership Account. Duplicate Membership Accounts may be cancelled.
 
-ii.     A Member with individual Membership Accounts in the Loyalty Program will not be able to link these Accounts, transfer points across Accounts, or have Elite Status matched. The Accounts will remain separate until the Member chooses to combine them into a single Membership Account with one number, one Elite Status, and one Points balance. Combining Accounts can requested through the online form. Combining Membership Accounts cannot be done at Participating Properties, through the Mobile App, or other booking channels.
+ii.     A Member with individual Membership Accounts in the Loyalty Program will not be able to link these Accounts, transfer points across Accounts, or have Elite Status matched. The Member must combine them into a single Membership Account with one number, one Elite Status, and one Points balance. Combining Accounts can requested through the online form. Combining Membership Accounts cannot be done at Participating Properties, through the Mobile App, or other booking channels.
 
-iii.     When Members choose to combine their loyalty program Membership Accounts, the Account details will immediately begin to be combined and some will be available instantly (Points, Nights, Elite Status, Upcoming Reservations), or within a few days (suite night awards, Free Night Award certificates, past activity, and Mobile key & guest services).
+iii.     When Members combine their loyalty program Membership Accounts, the Account details will immediately begin to be combined and some will be available instantly (Points, Nights, Elite Status, Upcoming Reservations), or within a few days (suite night awards, Free Night Award certificates, past activity, and Mobile key & guest services).
 
 1.4.f.  Personal Profile.  Information provided by a Member will be maintained in a personal preference profile with the Membership Account.  All information provided by a Member in his/her personal profile must be valid and accurate and must be kept current. 
 
@@ -484,7 +484,7 @@ iv.         Any Elite Membership Status and Lifetime Elite Membership Sta
 
 i.     Ten (10) base Points for each U.S. dollar, or the currency equivalent, that is incurred and paid for by the Member on Qualifying Charges in accordance with Section 2.1.b. except at Element, Residence Inn, and TownePlace Suites properties, where a Member will earn five (5) base Points for each U.S. dollar spent on Qualifying Charges; and except at Marriott Executive Apartments and ExecuStay properties where a Member will earn two and a half (2.5) base Points for each U.S. dollar spent on Qualifying Rates in accordance with 2.1.e; and
 
-ii.     Elite bonus Points, provided the Member has met the Elite Membership Requirements for Elite Membership Status or Lifetime Elite Membership Status as outlined in Section 4.2. The amount of bonus Points a Member earns will depend on the Member’s achieved Elite Member Tier pursuant to Section 4.3.
+ii.     Elite bonus Points, provided the Member has met the Elite Membership Requirements for Elite Membership Status or Lifetime Elite Membership Status as outlined in Section 4.2. The amount of bonus Points a Member earns will depend on the Member’s achieved Elite Member Tier pursuant to Section 4.3. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
 iii.     Credits toward achieving the Elite Membership Requirements (“Elite Night Credits,” or individually, “Elite Night Credit”) for Elite Membership Status and Lifetime Elite Membership Status as outlined in Section 4.2. An Elite Night Credit is only earned on a night during a Qualifying Stay as described in 2.1.d (“Qualifying Night,” or for more than one night, “Qualifying Nights”).
 
@@ -884,7 +884,7 @@ i.      The Elite Benefits Guarantee is the maximum compensation paid to an
 
 ii.      If an Elite Member believes that compensation is due with respect to any aspect of the Elite Benefits Guarantee, he/she must request payment of the compensation while still a guest at the Participating Property, prior to checking out.  Failure to request such payment prior to check out will result in a complete waiver of any right to receive such compensation.
 
-iii.      In order to qualify for the Elite Benefits Guarantee, the Elite Member’s Membership Number, Elite membership status, and bed type preferences must be included with the reservation.  Reservations made through meeting planners, travel agents, wholesalers or other approved third-party sources must include this information in order to be eligible for the Elite Benefits Guarantee.
+iii.      In order to qualify for the Elite Benefits Guarantee, the Elite Member’s Membership Number, Elite membership status, and bed type preferences must be included with the reservation. Reservations booked on Qualifying Rates made through meeting planners, travel agents, wholesalers or other approved third-party sources must include this information in order to be eligible for the Elite Benefits Guarantee.
 
 iv.      Guests accompanying Elite Members to a Participating Property are not eligible for the Elite Benefits Guarantee.
 
@@ -1470,7 +1470,7 @@ iv.      Titanium Elite and Ambassador Elite, 75% bonus, up to 105,000 Poin
 
 5.3.e.  Currency Exchange. Points or Miles awarded for Qualifying Events held at Participating Properties in international locations are based on local currency converted to U.S. dollars.  Local currency is converted into U.S. dollars on the day of the Qualifying Event.  Points or Miles are awarded using a published rate of exchange in effect at time of conversion.  This rate will be determined at the Loyalty Program’s sole discretion, based on standard currency conversion methods, but may vary from currency conversion rates used by credit card companies.
 
-5.3.f.  Split Benefits. Points or Miles awarded for Qualifying Events may be split between up to two Members if both are recorded in the Qualifying Event Agreement.          
+5.3.f.  Split Benefits. Points or Miles and Elite Night Credit awarded for Qualifying Events may be split between up to two Members if both are recorded in the Qualifying Event Agreement.          
                           
                           
                             
@@ -1852,7 +1852,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                                               
                                                                 
                                                                 
-                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                                                  
                                                               
                                               
                                       
@@ -1862,11 +1862,4 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                                         
                                                           
                                                           
-                                                             © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Digital Accessibility     Site Map     Help    
-                                                        
-                                              
-                                              
-                                                        
-                                                          
-                                                          
-                                                             English
+                                                             © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Digital Accessibility     Site Map     Help
