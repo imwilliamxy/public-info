@@ -1895,7 +1895,7 @@
              Chat with us
              
              
-              Chat is busy
+              Chat is available
              
             
            
@@ -2461,6 +2461,7 @@
  
  
  
+  
  
  
  
