@@ -4895,7 +4895,7 @@
              
               Priority code:
               
-               HC0093
+               HC0092
               
              
             
@@ -4944,7 +4944,7 @@
                      
                       Priority code:
                       
-                       HC0093
+                       HC0092
                       
                      
                     
@@ -5005,7 +5005,7 @@
              Chat with us
              
              
-              Chat is busy
+              Chat is available
              
             
            
@@ -5576,6 +5576,7 @@
  
  
  
+  
  
  
  
