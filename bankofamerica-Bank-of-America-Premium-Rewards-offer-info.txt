@@ -1828,6 +1828,8 @@
                         
                         
                         
+                        
+                        
                        
                       
                      
@@ -8997,7 +8999,7 @@
              Chat with us
              
              
-              Chat is available
+              Chat is busy
              
             
            
@@ -9568,7 +9570,6 @@
  
  
  
-  
  
  
  
