@@ -8883,7 +8883,7 @@
              
               Priority code:
               
-               BAADLG
+               BAADLF
               
              
             
@@ -8936,7 +8936,7 @@
                      
                       Priority code:
                       
-                       BAADLG
+                       BAADLF
                       
                      
                     
@@ -8997,7 +8997,7 @@
              Chat with us
              
              
-              Chat is busy
+              Chat is available
              
             
            
@@ -9568,6 +9568,7 @@
  
  
  
+  
  
  
  
