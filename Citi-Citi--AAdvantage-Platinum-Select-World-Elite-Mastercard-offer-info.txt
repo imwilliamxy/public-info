@@ -18,7 +18,7 @@ Citi® / AAdvantage® Platinum Select® World Elite™ Mastercard®
 
 
 
-[RATE_DESCRIBE]{"@context":"http://schema.org/","@type":"AggregateRating",[RATE_DESCRIBE],"itemReviewed":{"@type":"Product","@id":"102040-056-en_US"}}
+
 
 Apply Now
 
