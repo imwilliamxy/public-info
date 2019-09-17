@@ -8885,7 +8885,7 @@
              
               Priority code:
               
-               BAADLF
+               BAADLG
               
              
             
@@ -8938,7 +8938,7 @@
                      
                       Priority code:
                       
-                       BAADLF
+                       BAADLG
                       
                      
                     
@@ -8999,7 +8999,7 @@
              Chat with us
              
              
-              Chat is available
+              Chat is busy
              
             
            
@@ -9564,8 +9564,213 @@
   
  
  
+  
+  
+  
+  
+  
+   
+   
+   
+    
+     
+      
+       
+        
+        
+       
+      
+     
+    
+    
+    
+   
+   
+    
+     
+      
+       
+        
+        
+       
+      
+     
+    
+    
+    
+   
+  
+  
+   
+   
+   
+    
+     
+      
+       
+        
+         
+          
+           Bank of America:
+          
+          
+           Hi, I'm a Bank of America specialist and can answer questions you may have about credit cards.
+          
+          
+          
+         
+        
+       
+      
+     
+    
+   
+   
+    
+     
+      
+       
+        Yes, Please Move the Chat.
+       
+      
+     
+    
+    
+    
+   
+  
+  
+   
+    
+     Your chat may be monitored and recorded for quality purposes.
+    
+   
+  
+  
+  
+  
+   
+    
+     
+      
+     
+    
+    
+     
+      
+       
+        
+         
+         
+        
+       
+      
+     
+     
+     
+    
+   
+   
+    
+    
+    
+     
+      
+       
+        
+         
+         
+        
+       
+      
+     
+     
+     
+    
+    
+     
+      
+       
+        
+         
+         
+        
+       
+      
+     
+     
+     
+    
+    
+     
+      
+       
+        
+         
+         
+        
+       
+      
+     
+     
+     
+    
+    
+     
+      
+       
+        
+         
+         
+        
+       
+      
+     
+     
+     
+    
+   
+   
+   
+  
+  
+   
+    
+     
+      
+       
+        Thank you for chatting.
+       
+      
+     
+    
+    
+    
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
  
  
+  
  
  
  
@@ -9579,4 +9784,26 @@
  
  
  
+ 
+ 
+ 
+ 
+  
+  
+  
+   
+    
+     
+      
+       
+       
+      
+     
+    
+   
+   
+   
+  
+  
+  
  
