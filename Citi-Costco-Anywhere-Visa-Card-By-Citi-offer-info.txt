@@ -1,3 +1,4 @@
+Earn Cash Back Rewards on Every Purchase
 1Pricing Details
 1Pricing Details
 
@@ -12,25 +13,25 @@ Costco Anywhere Visa®Card by Citi
 
 
 
+[RATE_DESCRIBE]{"@context":"http://schema.org/","@type":"AggregateRating",[RATE_DESCRIBE],"itemReviewed":{"@type":"Product","@id":"102040-520-en_US"}}
+
+Apply Now
+
+Apply by Phone: 1-800-259-3052
+
+TTY: Use Relay Service
+
+
+
+
+
 
 
 Apply Now
 
-Apply by Phone: 
+Apply by Phone: 1-800-259-3052
 
-
-
-
-
-
-
-
-
-Apply Now
-
-Apply by Phone: 
-
-
+TTY: Use Relay Service
 
 Costco Anywhere Visa®Card by Citi
 
