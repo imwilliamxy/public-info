@@ -8869,7 +8869,7 @@ Bank of America
            
             Priority code:
             
-             BAADLF
+             BAADLG
             
            
           
@@ -8922,7 +8922,7 @@ Bank of America
                    
                     Priority code:
                     
-                     BAADLF
+                     BAADLG
                     
                    
                   
