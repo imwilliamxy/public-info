@@ -1775,7 +1775,7 @@ Bank of America
            
             Priority code:
             
-             BAADLM
+             BAADLK
             
            
           
@@ -1824,7 +1824,7 @@ Bank of America
                    
                     Priority code:
                     
-                     BAADLM
+                     BAADLK
                     
                    
                   
