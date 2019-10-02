@@ -1302,7 +1302,7 @@ Bank of America
             
              †
             
-            APR for your first 15 billing cycles for purchases, and for any balance transfers made within 60 days of opening your account. After the intro APR offer ends, a Variable APR that's currently 15.99% to 25.99% will apply. A 3% fee (min $10) applies to all balance transfers.
+            APR for your first 15 billing cycles for purchases, and for any balance transfers made within 60 days of opening your account. After the intro APR offer ends, a Variable APR that's currently 15.74% to 25.74% will apply. A 3% fee (min $10) applies to all balance transfers.
            
           
          
@@ -1454,7 +1454,7 @@ Bank of America
                       
                        
                         
-                         15.99% - 25.99%
+                         15.74% - 25.74%
                         
                         
                          variable
@@ -1515,7 +1515,7 @@ Bank of America
                      
                      
                       
-                       15.99% - 25.99%
+                       15.74% - 25.74%
                       
                       
                        variable
