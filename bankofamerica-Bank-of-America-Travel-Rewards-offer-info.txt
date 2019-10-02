@@ -1270,7 +1270,7 @@ Bank of America
             
              †
             
-            APR for your first 12 billing cycles for purchases.  After that, a Variable APR that's currently 16.99% to 24.99% will apply.
+            APR for your first 12 billing cycles for purchases.  After that, a Variable APR that's currently 16.74% to 24.74% will apply.
            
           
          
@@ -1417,7 +1417,7 @@ Bank of America
                       
                        
                         
-                         16.99% - 24.99%
+                         16.74% - 24.74%
                         
                         
                          variable
@@ -1475,7 +1475,7 @@ Bank of America
                      
                      
                       
-                       16.99% - 24.99%
+                       16.74% - 24.74%
                       
                       
                        variable
@@ -1684,6 +1684,8 @@ Bank of America
                        
                         1 year
                        
+                      
+                      
                       
                       
                       
@@ -4989,7 +4991,7 @@ Bank of America
            Chat with us
            
            
-            Chat is available
+            Chat is busy
            
           
          
