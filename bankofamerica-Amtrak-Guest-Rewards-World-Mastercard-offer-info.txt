@@ -38,7 +38,7 @@ Bank of America
         13.99% - 23.99%
        
        
-        https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4037229&productoffercode=5Q&locale=en_US&isMobile=true&format=ccr
+        https://www.bankofamerica.com/credit-cards/terms-and-conditions/?campaignid=4033765&productoffercode=RA&locale=en_US&isMobile=true&format=ccr
        
        
         Bank of America
@@ -1003,29 +1003,14 @@ Bank of America
            
             
              
-              
-               
-               
-               
-               
-               
-               
-               
-                Featured
-               
-              
              
             
             
              
-              Limited Time Offer  40,000 Bonus Points
+              20,000 Bonus Points Offer
              
              
-              thats worth up to $1,000 in Amtrak
-              
-               
-              
-              travel
+              That's enough points to redeem for a trip to many of our over 500 destinations
              
              
               
@@ -1195,10 +1180,10 @@ Bank of America
            
            
            
-            Limited Time Offer  40,000 Bonus Points
+            20,000 Bonus Points Offer
            
            
-            Get 40,000 bonus points after you make $2,500 or more in purchases within 90 days of account opening
+            Get 20,000 bonus points after you make $1,000 or more in purchases within 90 days of account opening
            
           
          
@@ -1368,7 +1353,7 @@ Bank of America
                       
                        
                         
-                         16.99% - 24.99%
+                         16.74% - 24.74%
                         
                         
                          variable
@@ -1421,7 +1406,7 @@ Bank of America
                      
                      
                       
-                       16.99% - 24.99%
+                       16.74% - 24.74%
                       
                       
                        variable
@@ -1829,7 +1814,7 @@ Bank of America
            
             Priority code:
             
-             GAASBI
+             BAAC8Z
             
            
           
@@ -1881,7 +1866,7 @@ Bank of America
                    
                     Priority code:
                     
-                     GAASBI
+                     BAAC8Z
                     
                    
                   
@@ -1942,7 +1927,7 @@ Bank of America
            Chat with us
            
            
-            Chat is available
+            Chat is busy
            
           
          
