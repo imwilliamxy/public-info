@@ -1759,8 +1759,6 @@ Bank of America
                       
                       
                       
-                      
-                      
                      
                     
                    
@@ -3397,7 +3395,7 @@ Bank of America
            
             Priority code:
             
-             BAACSC
+             BAACSA
             
            
           
@@ -3446,7 +3444,7 @@ Bank of America
                    
                     Priority code:
                     
-                     BAACSC
+                     BAACSA
                     
                    
                   
