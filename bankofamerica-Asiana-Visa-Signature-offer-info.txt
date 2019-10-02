@@ -1322,7 +1322,7 @@ Bank of America
                       
                        
                         
-                         16.99% - 24.99%
+                         16.74% - 24.74%
                         
                         
                          variable
@@ -1375,7 +1375,7 @@ Bank of America
                      
                      
                       
-                       16.99% - 24.99%
+                       16.74% - 24.74%
                       
                       
                        variable
@@ -1879,7 +1879,7 @@ Bank of America
            Chat with us
            
            
-            Chat is available
+            Chat is busy
            
           
          
