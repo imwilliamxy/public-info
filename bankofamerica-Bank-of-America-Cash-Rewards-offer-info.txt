@@ -1759,6 +1759,8 @@ Bank of America
                       
                       
                       
+                      
+                      
                      
                     
                    
@@ -3395,7 +3397,7 @@ Bank of America
            
             Priority code:
             
-             BAACSA
+             BAACSC
             
            
           
@@ -3444,7 +3446,7 @@ Bank of America
                    
                     Priority code:
                     
-                     BAACSA
+                     BAACSC
                     
                    
                   
@@ -3505,7 +3507,7 @@ Bank of America
            Chat with us
            
            
-            Chat is busy
+            Chat is available
            
           
          
