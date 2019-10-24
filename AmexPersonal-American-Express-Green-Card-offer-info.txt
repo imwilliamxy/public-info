@@ -1,6 +1,6 @@
 American Express® Green CardAmerican Express® Green CardTravel and Taste with 3X PointsAnnual Fee:$ 150†¤Apply Now♦︎ ‡ † Offer & Benefit Terms¤ Rates and Fees
 ====================
-Featured BenefitsStart Your Trip with $100 Back on New Luggage from AwayFor a limited time, purchase a stylish suitcase, weekender bag, or any other travel must-have from Away and earn up to $100 in statement credits†. Don’t wait, this offer ends 1/15/20.
+Featured BenefitsStart Your Trip with $100 Back on New Luggage from AwayFor a limited time, purchase a stylish suitcase, weekender bag, or any other travel must-have from Away and earn up to $100 in statement credits†. Don’t wait, this offer ends 1/15/20. Offer available to new Card Members only.
             .acqconsumer_imageContainer___2cO-m {
               background-image:url(https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/credit-cards/super-highlight/away-desktop.jpg);
             }
@@ -101,9 +101,4 @@ axp-icon-pluscircle
 
 
 
-Card Member ServicesWhenever you need us, we're here.Our Member Services team will ensure you are taken care of. From lost Card replacement to statement questions, we are available to help 24/7.Dispute Resolution‡If there is a fraudulent or incorrect charge on your statement, American Express will work with you to help resolve the issue.‡World-Class Service, Even on the GoAmerican Express is here to support you with on-the-go service anytime. Send us a message in the American Express® App to plan your next trip or ask a question about your account.‡Year-End Summary ‡Get access to a Year-End Summary of charges so you can review your annual spending. Learn More at americanexpress.com/yes.‡Payment and Purchase FlexibilityManage your account your way with Green from Amex. You can pay in full or carry a balance with interest on eligible charges, up to your Pay Over Time limit. You have the option to spend beyond your limit while still earning rewards, unlocking more purchase power when you need it. The amount you spend beyond your limit is included in your minimum due each month.‡American Express® Gold CardLooking for More?Earn 4X Membership Rewards® points at US restaurants and 4X Membership Rewards® points at US supermarkets, on up to $25,000 per year in purchases. Terms Apply.
-axp-icon-right
-
-
-
- Looking for More?Earn 4X Membership Rewards® points at US restaurants and 4X Membership Rewards® points at US supermarkets, on up to $25,000 per year in purchases. Terms Apply.
+Card Member ServicesWhenever you need us, we're here.Our Member Services team will ensure you are taken care of. From lost Card replacement to statement questions, we are available to help 24/7.Dispute Resolution‡If there is a fraudulent or incorrect charge on your statement, American Express will work with you to help resolve the issue.‡World-Class Service, Even on the GoAmerican Express is here to support you with on-the-go service anytime. Send us a message in the American Express® App to plan your next trip or ask a question about your account.‡Year-End Summary ‡Get access to a Year-End Summary of charges so you can review your annual spending. Learn More at americanexpress.com/yes.‡Payment and Purchase FlexibilityManage your account your way with Green from Amex. You can pay in full or carry a balance with interest on eligible charges, up to your Pay Over Time limit. You have the option to spend beyond your limit while still earning rewards, unlocking more purchase power when you need it. The amount you spend beyond your limit is included in your minimum due each month.‡
