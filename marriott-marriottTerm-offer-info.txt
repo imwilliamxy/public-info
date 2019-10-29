@@ -106,17 +106,24 @@ These Program Rules supersede all previous terms and conditions applicable to th
                           
                             
                             
-                                    1.2Participating Properties and Brands    1.2.a. “Participating Properties” are hotels, resorts, and other transient stay properties operated under the brands below that are owned, managed, franchised or licensed by Marriott International (“Participating Brands”) and are bookable through Marriott Channels unless otherwise stated (see 1.2.b.).  The Participating Properties include:
+                                    1.2Participating Properties and Brands    1.2.a. “Participating Properties” are hotels, resorts, and other transient stay properties operated under the brands below that are owned, managed, franchised or licensed by Marriott International (“Participating Brands”) and are bookable through Marriott Channels unless otherwise stated (see 1.2.b.).  The Participating Properties and Participating Brands include:
 
 i.     The Ritz-Carlton - all locations except for:
 
 A.     The Ritz-Carlton Destination Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
 
-B.     The following properties do not participate in the Loyalty Program:
+B.     The Ritz-Carlton Residences, Waikiki Beach participates in the Loyalty Program as follows:
+
+(1) Earn Points or Miles as described in Section 2 under The Ritz-Carlton
+(2) Redeem Points as described in Section 3 under The Ritz-Carlton
+(3) Members receive benefits as defined in Section 4 except for the following:
+Complimentary Enhanced Room Upgrades, Late Checkout, Suite Night Awards, and Your24TM.
+
+C.     The following properties do not participate in the Loyalty Program:
 
 ●      The Ritz-Carlton, Millennia Singapore
 ●      The Ritz-Carlton Reserve properties
-●      The Ritz-Carlton Residences properties, except for The Ritz-Carlton Residences Waikiki Beach which does participate
+●      The Ritz-Carlton Residences properties, except as noted above
 ●      The following partner properties:
 
 ○      Hotel Ritz-London - London, UK
@@ -158,11 +165,11 @@ A.      Atlantis, Paradise Island, Bahamas participates in the Loyalty Progr
 
 (1)      Points or Miles may be earned for reservations booked through www.marriott.com/atlantis, by calling +1 (855) 696-4732, or booked through Atlantis Paradise Vacations, by calling +1 (800) ATLANTIS or +1 (800) 285-2684.  Points cannot be redeemed for reservations booked through Atlantis Paradise Vacations. Points or Miles will not be earned and Points cannot be redeemed for reservations booked through AtlantisBahamas.com.
 
-(2)      Points or Miles may be earned and Points may be redeemed for stays at The Coral at Atlantis; The Royal at Atlantis; and The Cove at Atlantis.  The Reef at Atlantis and The Beach at Atlantis participate as earnings locations only.
+(2)      Points or Miles may be earned and Points may be redeemed for stays at The Coral at Atlantis; The Royal at Atlantis; and The Cove at Atlantis.
 
 (3)      Redemption stays at The Coral at Atlantis; The Royal at Atlantis; and The Cove at Atlantis will include a single or double standard room, including the cost of the hotel room, room tax.  Extra-person charges for the third, fourth, or more guests in the room is an additional fee and not included in the award redemption as form of payment.  This fee as well as all other property charges, including resort fees and service charges are the responsibility of the Loyalty Program Member and are not included in the stay.
 
-(4)      Points or Miles may be earned on room rate only. Harborside at Atlantis does not participate in the Loyalty Program.
+(4)      Points or Miles may be earned on room rate only. The Reef at Atlantis, The Beach at Atlantis, and Harborside at Atlantis do not participate in the Loyalty Program.
 
 (5)      Limited benefits are provided as described in Section 1.3, Section 3.7, Section 4, except for the breakfast option associated with the Elite Welcome Gift benefit which is not available, and Section 6.4.
 
@@ -194,9 +201,8 @@ xix.      Four Points - all locations
 
 xx.      SpringHill Suites - all locations
 
-xxi.      Protea Hotels - all locations except for:
+xxi.      Protea Hotels - all locations
 
-●      Protea Hotel Aishi Machame
 There are additional terms and conditions for Prokard Explorer members who are also Loyalty Program Members as outlined in Section 1.3.
 
 xxii.      Fairfield by Marriott - all locations
@@ -207,9 +213,7 @@ xxiv.      Aloft Hotels - all locations
 
 xxv.      Moxy Hotels - all locations
 
-xxvi.      Residence Inn - all locations except for:
-
-●      The Inn at Mayo Clinic, Jacksonville, FL
+xxvi.      Residence Inn - all locations
 
 xxvii.     TownePlace Suites - all locations
 
@@ -618,7 +622,7 @@ vi.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                    2.9      Purchase Points.      A Member may purchase or receive Points purchased by another Member for a combined maximum of 50,000 Points per calendar year.  Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000.  A Member must be in good standing to purchase and/or receive Points.  A new Member may purchase Points thirty (30) days after enrollment if the Account reflects activity including a Qualifying stay or other qualifying activity as described in Section 1.6.d.  After ninety (90) days from enrollment, a new Member is eligible to purchase Points regardless of their Account activity.  The purchase transaction may take up to forty-eight (48) hours to be completed and for the Points to be transferred to the recipient’s Account.  Once Points have been purchased, no refunds will be permitted.  Purchasing Points using a Marriott Co-Brand Credit Card may qualify for earning Points in accordance with the terms and conditions in Section 6.          
+                                    2.9      Purchase Points.      A Member may purchase or receive Points purchased by another Member for a combined maximum of 50,000 Points per calendar year.  Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000.  A Member must be in good standing to purchase and/or receive Points.  A new Member may purchase Points thirty (30) days after enrollment if the Account reflects activity including a Qualifying stay or other qualifying activity as described in Section 1.6.d.  After one (1) year from enrollment, a new Member is eligible to purchase Points regardless of their Account activity.  The purchase transaction may take up to forty-eight (48) hours to be completed and for the Points to be transferred to the recipient’s Account.  Once Points have been purchased, no refunds will be permitted.  Purchasing Points using a Marriott Co-Brand Credit Card may qualify for earning Points in accordance with the terms and conditions in Section 6.          
                           
                           
                             
@@ -1004,7 +1008,7 @@ Participating Brands
 Elite Welcome Gift
 
 
-The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Marriott Vacation Club, Marriott Grand Residence Club, Delta Hotels, Le Méridien, Westin, Autograph Collection, Design Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels. Vistana properties only offer the Elite Welcome Gift benefit to non-Vistana Owner members.
+The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Marriott Vacation Club, Marriott Grand Residence Club, Delta Hotels, Le Méridien, Westin, Autograph Collection, Design Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Homes & Villas by Marriott International. Vistana properties only offer the Elite Welcome Gift benefit to non-Vistana Owner members.
 
 500 Points per Stay
 
@@ -1058,7 +1062,7 @@ St. Regis, The Luxury Collection, W Hotels, Sheraton, Le Méridien, Westin, Trib
 1,000 Points per Stay or amenity per Stay or breakfast in restaurant per day of Stay for Member +1 (including Resorts)
 U.S. $100
 
-The Ritz-Carlton, EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels TM. Vistana properties provide Elite Welcome Gift only to Members who are not Vistana Owners using their ownership interest.
+The Ritz-Carlton, EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels TM, Homes & Villas by Marriott International. Vistana properties provide Elite Welcome Gift only to Members who are not Vistana Owners using their ownership interest.
  
 1,000 Points (per Stay)
 
@@ -1223,7 +1227,7 @@ The list of 50-Night Annual Choice Benefits on choice-benefit.marriott.com is su
 
 A.      Suite Night Awards may be redeemed for advance confirmable upgrades for select, premium rooms or standard suites on a per room, per night basis, subject to availability and the applicable terms and conditions set forth below for Suite Night Awards:
 
-(1)     Suite Night Awards may be used only on Loyalty Program eligible paid stays as well as Free Night Award stays and Cash & Points stays.
+(1)     Suite Night Awards may be used only on Loyalty Program eligible paid stays (excluding Advance Purchase Rates) as well as Free Night Award stays and Cash & Points stays.
 
 (2)    A Member may request to use their Suite Night Awards on Loyalty Program websites or by calling a Customer Engagement Center.
 
@@ -1237,7 +1241,7 @@ A.      Suite Night Awards may be redeemed for advance confirmable upgrades 
 
 (7)    Suite Night Awards are required for each night of the stay including any nights that may be designated "free" such as the Stay for 5, Pay for 4 Award.
 
-(8)    Suite Night Awards may not be transferred or given as a gift; however, a Member may use Suite Night Awards for additional rooms on his/her own stay as long as the Member is present for the stay and the other rooms are under the Member's name.
+(8)    Suite Night Awards may not be transferred or given as a gift or used as part of a multiple room reservation; however, a Member may use Suite Night Awards for additional single-room reservations on his/her own stay as long as the Member is present for the stay and the other reservations are under the Member's name.
 
 (9)    Members who book separate reservations for consecutive nights that precede or follow a reservation that has confirmed Suite Night Awards will be required to change rooms to the confirmed room type on any night(s) where a Suite Night Award is not used.
 
@@ -1259,7 +1263,7 @@ A.      Suite Night Awards may be redeemed for advance confirmable upgrades 
 
 (g)    If a Member extends his/her reservation and has enough Suite Night Awards to cover the extension, the Member may use his/her Suite Night Awards based upon availability and at the Participating Property's discretion.
 
-(12)  Not all Participating Properties participate in Suite Night Awards.  Suite Night Awards are not redeemable at the following brands:  The Ritz-Carlton, The Ritz-Carlton Reserve, The Ritz-Carlton Destination Club, EDITION, Protea Hotels, Aloft, Element, Design HotelsTM, all-Suite Hotels, Marriott Executive Apartments, ExecuStay, Marriott Vacation Club, Marriott Grand Residence Club properties and Vistana properties.  In addition, Suite Night Awards are not redeemable at select Participating Properties.  Contact a Customer Engagement Center for individual Participating Property Suite Night Award participation.
+(12)  Not all Participating Properties participate in Suite Night Awards. Suite Night Awards are not redeemable at the following brands: The Ritz-Carlton, The Ritz-Carlton Reserve, The Ritz-Carlton Destination Club, The Ritz-Carlton Residences, EDITION, Protea Hotels, Aloft, Element, Design HotelsTM, all-Suite Hotels, Marriott Executive Apartments, ExecuStay, Marriott Vacation Club, Marriott Grand Residence Club properties and Vistana properties. In addition, Suite Night Awards are not redeemable at select Participating Properties. Contact a Customer Engagement Center for individual Participating Property Suite Night Award participation.
 
 B.      40% off Bed.  Mattress and Box Spring 40% Discount from Marriott Retail Brands
 
@@ -1411,7 +1415,7 @@ D.      If the check-in time approved for an Ambassador Elite Member is betw
 
 E.      If the specific room type reserved by an eligible Member is not available upon check-in, the Participating Property will honor the confirmed Your24 request by temporarily providing another room and then moving the applicable guest(s) to the reserved room type once available.
 
-F.      Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels, Vistana properties, The Cosmopolitan of Las Vegas, and Atlantis, Paradise Island, Bahamas do not provide Your24 benefits.          
+F.      Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels, Vistana properties, The Ritz-Carlton Residences, Waikiki Beach, The Cosmopolitan of Las Vegas, and Atlantis, Paradise Island, Bahamas do not provide Your24 benefits.          
                           
                         
                         
