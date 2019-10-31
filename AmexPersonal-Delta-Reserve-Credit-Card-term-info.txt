@@ -27,7 +27,7 @@ Paying Interest
 Your due date is at least 25 days after the close of each billing period. We will not charge you interest on purchases if you pay each month your entire balance (or if you have a plan outstanding, your balance adjusted for plans) by the due date. We will begin charging interest on cash advances and balance transfers on the transaction date.
 Plan Fee
 (Fixed Finance Charge)
-Up to 1.23% of each purchase moved into a plan based on the plan duration, the APR that would otherwise apply to the purchase and other factors.
+Up to 1.20% of each purchase moved into a plan based on the plan duration, the APR that would otherwise apply to the purchase and other factors.
 For Credit Card Tips from the Consumer Financial Protection Bureau
 To learn more about factors to consider when applying for or using a credit card, visit the website of the Consumer Financial Protection Bureau at http://www.consumerfinance.gov/learnmore
 Fees
@@ -53,7 +53,7 @@ How We Will Calculate Your Balance: We use a method called "average daily balanc
 Loss of Introductory APR: We may end your Introductory APR and apply the Penalty APR if you do not pay at least the Minimum Payment Due within 60 days after its Payment Due Date.
 
 The variable penalty APR will not exceed 29.99%.
-Variable APRs for each billing period are based on the Prime Rate published in The Wall Street Journal on the Closing Date of the billing period. The Wall Street Journal may not publish the Prime Rate on that day. If it does not, we will use the Prime Rate from the previous day it was published. If the Prime Rate increases, variable APRs will increase. In that case, you may pay more interest and have a higher Minimum Payment Due. When the Prime Rate changes, the resulting changes to variable APRs take effect as of the first day of the billing period. Variable APRs are accurate as of 10/30/19.
+Variable APRs for each billing period are based on the Prime Rate published in The Wall Street Journal on the Closing Date of the billing period. The Wall Street Journal may not publish the Prime Rate on that day. If it does not, we will use the Prime Rate from the previous day it was published. If the Prime Rate increases, variable APRs will increase. In that case, you may pay more interest and have a higher Minimum Payment Due. When the Prime Rate changes, the resulting changes to variable APRs take effect as of the first day of the billing period. Variable APRs are accurate as of 10/31/19.
 TERMS AND CONDITIONS
 
 View the full Card Member Agreement .
@@ -84,7 +84,7 @@ Notice to Ohio Residents: The Ohio laws against discrimination require that all 
 
 
 The Delta Reserve Credit Card is issued by American Express National Bank. ©2019 American Express National Bank.
-POID GD1O:0001
+POID K092:9987
 [OFFER_CODE]
 OFFER TERMS
 Welcome offer not available to applicants who have or have had this Card. We may also consider the number of American Express Cards you have opened and closed as well as other factors in making a decision on your welcome offer eligibility.
