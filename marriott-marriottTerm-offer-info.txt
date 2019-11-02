@@ -1835,7 +1835,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                           
                             
                             
-                                   8.ADDITIONAL TERMS OF PARTICIPATION IN THE LOYALTY PROGRAM           
+                                   9.ADDITIONAL TERMS OF PARTICIPATION IN THE LOYALTY PROGRAM           
                           
                           
                             
@@ -1845,7 +1845,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                           
                             
                             
-                                    8.2      Adjustments.    A Member may request credits for Points, Miles, or Qualifying Nights for Elite Status (other than Elite Night Credit earned pursuant to Section 4) that are not reflected in a Member’s Account through the Member Account Activity page on the Loyalty Program website under "Report a Missing Stay"” or, for Participating Properties only, by contacting Member Support. A Member may request credits for Points/Miles or Qualifying Nights for Elite Status earned in connection with a Qualifying Event that are not reflected in a Member's account by contacting the hotel where the Qualifying Event was held. Such a request must be received within one (1) year of the applicable Qualifying Stay, Qualifying Event or other Qualifying Charge transaction to receive any credit.          
+                                    9.2      Adjustments.    A Member may request credits for Points, Miles, or Qualifying Nights for Elite Status (other than Elite Night Credit earned pursuant to Section 4) that are not reflected in a Member’s Account through the Member Account Activity page on the Loyalty Program website under "Report a Missing Stay"” or, for Participating Properties only, by contacting Member Support. A Member may request credits for Points/Miles or Qualifying Nights for Elite Status earned in connection with a Qualifying Event that are not reflected in a Member's account by contacting the hotel where the Qualifying Event was held. Such a request must be received within one (1) year of the applicable Qualifying Stay, Qualifying Event or other Qualifying Charge transaction to receive any credit.          
                           
                           
                             
@@ -1880,12 +1880,12 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                           
                             
                             
-                                    8.9      Not Responsible for Acts, Errors, or Omissions.    The Company is not responsible for:  (a) any loss or misdirection of, or delay in receiving, any Member application, correspondence, redemption requests, Redemption Awards or Member benefits; (b) theft or unauthorized redemption of Points or Redemption Awards or use of a Redemption Award; (c) any acts or omissions of third parties (including, without limitation, Participating Properties); or (d) any errors published in relation to the Loyalty Program, including, without limitation, any pricing or typographical errors, errors of description, errors regarding Participating Properties, and Loyalty Program affiliates, and errors in the crediting or debiting of Points from Member Accounts.  The Company reserves the right to correct, without notice, any errors.          
+                                    9.9      Not Responsible for Acts, Errors, or Omissions.    The Company is not responsible for:  (a) any loss or misdirection of, or delay in receiving, any Member application, correspondence, redemption requests, Redemption Awards or Member benefits; (b) theft or unauthorized redemption of Points or Redemption Awards or use of a Redemption Award; (c) any acts or omissions of third parties (including, without limitation, Participating Properties); or (d) any errors published in relation to the Loyalty Program, including, without limitation, any pricing or typographical errors, errors of description, errors regarding Participating Properties, and Loyalty Program affiliates, and errors in the crediting or debiting of Points from Member Accounts.  The Company reserves the right to correct, without notice, any errors.          
                           
                           
                             
                             
-                                    8.10    Interpretation of Loyalty Program Rules.    All interpretations of these Loyalty Program Rules regarding membership are at the Company’s sole discretion, and the Company’s decisions will be final.  In the event of any discrepancy between the English version and any translated version of these Program Rules, the English language version will govern.          
+                                    9.10    Interpretation of Loyalty Program Rules.    All interpretations of these Loyalty Program Rules regarding membership are at the Company’s sole discretion, and the Company’s decisions will be final.  In the event of any discrepancy between the English version and any translated version of these Program Rules, the English language version will govern.          
                           
                           
                             
@@ -1895,7 +1895,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                           
                             
                             
-                                    8.12    Waiver.    The Company’s waiver of any breach of these Loyalty Program Rules by any Member will not constitute a waiver of any other prior or subsequent breach of these Program Rules.  The Company’s failure to insist upon strict compliance with these Loyalty Program Rules by any Member will not be deemed a waiver of any rights or remedies the Company may have against that or any other Member.  The Company may waive compliance with these Program Rules in its sole discretion and may run promotions from time to time that provide enhanced benefits to select Members.          
+                                    9.12    Waiver.    The Company’s waiver of any breach of these Loyalty Program Rules by any Member will not constitute a waiver of any other prior or subsequent breach of these Program Rules.  The Company’s failure to insist upon strict compliance with these Loyalty Program Rules by any Member will not be deemed a waiver of any rights or remedies the Company may have against that or any other Member.  The Company may waive compliance with these Program Rules in its sole discretion and may run promotions from time to time that provide enhanced benefits to select Members.          
                           
                           
                             
@@ -1910,7 +1910,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                           
                             
                             
-                                    8.15    Subject to Law.    Membership in the Loyalty Program and the earning and redeeming of Points are subject to all applicable local laws and regulations.  Membership in the Loyalty Program, Member benefits, Redemption Awards and promotional Awards are offered in good faith; however, they may not be available if prohibited or restricted by applicable law or regulation in the United States or Member’s jurisdiction of residence.  If any part of these Loyalty Program Rules is held to be unlawful or unenforceable, that part will be deemed deleted from these Program Rules in such jurisdiction and the remaining provisions will remain in force, subject to Sections 1.7.c. and 1.7.d.           
+                                    9.15    Subject to Law.    Membership in the Loyalty Program and the earning and redeeming of Points are subject to all applicable local laws and regulations.  Membership in the Loyalty Program, Member benefits, Redemption Awards and promotional Awards are offered in good faith; however, they may not be available if prohibited or restricted by applicable law or regulation in the United States or Member’s jurisdiction of residence.  If any part of these Loyalty Program Rules is held to be unlawful or unenforceable, that part will be deemed deleted from these Program Rules in such jurisdiction and the remaining provisions will remain in force, subject to Sections 1.7.c. and 1.7.d.           
                           
                           
                             
