@@ -16,7 +16,7 @@ Citi Premier Card
 
 
 
-[RATE_DESCRIBE]{"@context":"http://schema.org/","@type":"AggregateRating",[RATE_DESCRIBE],"itemReviewed":{"@type":"Product","@id":"102040-089-en_US"}}
+[RATE_DESCRIBE]{"@context":"http://schema.org/","@type":"AggregateRating",[RATE_DESCRIBE],"itemReviewed":{"@type":"Product","name":"102040-089-en_US"}}
 
 Apply Now
 
