@@ -57,11 +57,11 @@ Loyalty Program Terms & Conditions
                           
                             
                             
-                                      Updated October 2019
+                                      Updated November 2019
 
 Effective in February 2019, the loyalty program for Marriott International, Inc. is Marriott Bonvoy (hereinafter, the “Loyalty Program”). Prior to this, the Loyalty Program operated as a unified program under three names: Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the “SPG Program”) (each a “Legacy Program”). These Legacy Programs were operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the “Company”).
 
-The Loyalty Program operates under the terms and conditions as set out below unless otherwise expressly stated (the “Program Rules”).
+The Loyalty Program operates under the terms and conditions as set out below unless otherwise expressly stated (the “Program Rules”). The Program Rules hereby incorporate the additional Associate Rules that shall apply to employees of the Company and to associates working at Company owned, leased, licensed and managed locations. The Associate Rules do not apply to employees of Company franchisees, licensees and owners of Company managed properties.
 
 The Program Rules govern the Company’s relationship with members of the Loyalty Program (collectively, “Loyalty Program Members,” and individually, a “Loyalty Program Member,” “Member,” or “you”), including how Members manage their accounts, book reservations, achieve elite status, earn and redeem Loyalty Program points (“Points”) with participating hotels and properties (each a “Participating Property”), as well as with third party programs which have a business relationship with the Loyalty Program such as airline frequent flyer programs (“Partner Programs”).
 
@@ -298,21 +298,19 @@ F.      Member Rate does not apply to qualified transient rates such as gov
 
 i.      The Internet Access Benefit is limited to one (1) guest room per eligible Member per stay regardless of how many rooms have been reserved, and the Member must stay in the guest room and pay for the charges.  The Internet Access Benefit is not applicable for meeting rooms.
 
-ii.      Any employees of the Company ("Associates") are not eligible for the Internet Access Benefit.  This restriction does not apply to employees of Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties.
+ii.      No additional Internet Access Benefit will be provided at Participating Properties and Brands that offer complimentary in-room Internet access to all guests.
 
-iii.      No additional Internet Access Benefit will be provided at Participating Properties and Brands that offer complimentary in-room Internet access to all guests.
+iii.      Participating Properties that provide complimentary in-room internet access to all guests include:  EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Vistana properties, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites and Element.
 
-iv.      Participating Properties that provide complimentary in-room internet access to all guests include:  EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Vistana properties, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites and Element.
+iv.      Participating Properties that have mandatory resort charges, which include internet access, will provide a replacement benefit, to be determined at each Participating Property's discretion.
 
-v.      Participating Properties that have mandatory resort charges, which include internet access, will provide a replacement benefit, to be determined at each Participating Property's discretion.
+v.      Participating Properties that offer complimentary standard in-room internet access to Gold Elite, Platinum Elite, Titanium Elite and Ambassador Elite Members only include: Atlantis, Paradise Island, Bahamas and The Cosmopolitan of Las Vegas, NV.
 
-vi.      Participating Properties that offer complimentary standard in-room internet access to Gold Elite, Platinum Elite, Titanium Elite and Ambassador Elite Members only include: Atlantis, Paradise Island, Bahamas and The Cosmopolitan of Las Vegas, NV.
+vi.      Participating Properties and Brands with limited participation in complimentary in-room internet access include:  Delta Hotels.
 
-vii.      Participating Properties and Brands with limited participation in complimentary in-room internet access include:  Delta Hotels.
+vii.      Participating Properties and Brands that do not offer complimentary in-room internet access include:  Mulu Marriott Resort & Spa, Malaysia and ExecuStay.
 
-viii.      Participating Properties and Brands that do not offer complimentary in-room internet access include:  Mulu Marriott Resort & Spa, Malaysia and ExecuStay.
-
-ix.      Properties and Brands that do not participate in the Loyalty Program pursuant to Section 1.2 do not offer the Internet Access Benefit for Members.
+viii.      Properties and Brands that do not participate in the Loyalty Program pursuant to Section 1.2 do not offer the Internet Access Benefit for Members.
 
 1.3.d. Benefits through Other Marketing Programs.
 
@@ -339,7 +337,7 @@ ii.     Elite Membership.  Upon reaching certain milestones, a Member will
 
 iii.     Lifetime Elite Membership.  Upon reaching certain milestones, a Member may earn Lifetime Silver Elite, Lifetime Gold Elite, or Lifetime Platinum (collectively, “Lifetime Elite Membership Status,” or “Lifetime Elite Status”). The requirements for earning Lifetime Elite Status are set forth in Section 4.
 
-iv.     Associate Membership.  Associates may only participate in the Loyalty Program through (1) specially designated incentive programs; (2) ownership in Marriott Vacation Club, Marriott Grand Residence Club, or Vistana Networks; or (3) with an active Marriott Bonvoy co-branded credit card account where available.  In addition to Program Rules, Associates are subject to the terms and conditions of the timeshare and credit card programs. Information on Associate programs is available on the Company’s intranet and through other Marriott Channels.  Associates will not receive Points under the Loyalty Program for stays at Participating Properties.  Notwithstanding the foregoing, employees of Marriott Ownership Resorts, Inc. and its parent entities, affiliates or subsidiaries may participate in the Loyalty Program.  Also, Associates who own a Marriott Vacation Club or Marriott Grand Residence Club or Vistana Network interest may participate in the Loyalty Program in accordance with the rules and regulations applicable to their Marriott Vacation Club or Marriott Grand Residence Club or Vistana Network interest.
+iv.     Associate Membership. Employees of the Company and associates working at Marriott owned, leased, licensed and managed locations (collectively, “Associates,” and individually an “Associate”) may participate in the Loyalty Program through: (1) a Membership Account identified as an Associate ("Associate Membership"); (2) timeshare ownership in Marriott Vacation Club, Marriott Grand Residence Club, or Vistana Networks; or (3) with an active Marriott Bonvoy co-branded credit card account where available. Associate Membership Accounts are able to participate in the Loyalty Program in accordance with the Program Rules subject to restrictions and limitations identified in the Associate Rules available for review on the Company’s intranet and other Marriott Channels.
 
 v.     Corporate Membership.  Only individuals are eligible to participate in the Loyalty Program.  Corporations, groups and/or associated entities cannot enroll as Loyalty Program Members.  When traveling on business, it is a Member’s responsibility to comply with his or her company policy concerning travel programs.  Information regarding a Member’s accumulation of Points or Miles for business travel is subject to disclosure to the Member’s company subject to applicable law and regulations.
 
@@ -565,11 +563,9 @@ ii.     The guest room was booked at a group rate as part of an event, meet
 
 iii.     The guest room was booked at a tour operator, wholesaler, or crew room rate or package including, without limitation, Fam-Tastic rates, Plan-Tastic rates, travel industry rates and organized tours or package bookings; or
 
-iv.     The guest room was booked at the Company employee or friends and family rate or the Company business rate; or
+iv.     The guest room was complimentary; or
 
-v.     The guest room was complimentary; or
-
-vi.     A voucher or third-party award was redeemed for the guest room.
+v.     A voucher or third-party award was redeemed for the guest room.
 
 2.1.g. Points will not be given, or Awards honored, at any subsidiary or affiliate of the Company other than at Participating Properties, unless otherwise advertised.  If a hotel or other property ceases to be a Participating Property, all stays subsequent to such date will not be eligible to earn Points regardless of when the reservation was made.  See Section 9.5 for additional terms.          
                           
@@ -1948,7 +1944,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                                                  
                                                               
                                               
                                       
@@ -1958,11 +1954,4 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                   © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Digital Accessibility     Site Map     Help    
-                                                              
-                                                    
-                                                    
-                                                              
-                                                                
-                                                                
-                                                                   English
+                                                                   © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Digital Accessibility     Site Map     Help
