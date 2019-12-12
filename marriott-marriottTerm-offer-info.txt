@@ -257,7 +257,6 @@ xxx.     Vistana properties  the following Vistana properties participate i
 
 xxxi.     Non-branded properties - the following non-branded properties participate:
 
-●     Hotel Mandji Bord de Mer, Gabon
 ●     The Maxwell New York City
 ●     Philadelphia 201 Hotel
 
@@ -539,11 +538,11 @@ provided the Member provides his/her Membership Number at the time of reservatio
 
 2.1.c. Non-Qualifying Charges.  Charges which do not qualify for Points include any complimentary services, Points redemption Awards, promotional Awards or any other fees or charges including, without limitation:  (A) charges for banquets, meetings or other functions, with the exception of Points earned in connection with a Qualifying Event Agreement as described in Section 5; (B) other fees paid including, without limitation, parking, business center, retail stores, and other third-party services; and (C) room rate related taxes, service charges, gratuities, fees (e.g. late cancellation fee or no-show fees for not checking in for guaranteed reservations even if the reservations were paid in full), mandatory or automatic charges (e.g., resort charges) and other applicable charges; in certain limited cases, taxes, service charges, gratuities, and/or fees related to other incidentals charged to the room bill may be eligible for Points; and (D) charges outlined in Section 8.1 for Homes & Villas by Marriott International.
 
-2.1.d. Qualifying Stay.  A “Stay" or “Qualifying Stay” means all consecutive nights a Member registers for, and personally pays and stays at any Participating Property, for which the room is billed to the Member.
+2.1.d. Qualifying Stay.  A “Stay" or “Qualifying Stay” means all consecutive nights a Member registers for, and personally pays and stays at any Participating Property, for which (i) the room is billed to the Member, or (ii) the guest room is direct billed to the company who has arranged payment for the Member’s stay that is not associated with a convention or group meeting.
 
 i.     A “Stay” is a stay of one or more consecutive nights at the same Participating Property by a Member who: (A) provides his/her Membership Number at the time of reservation or at check-in; (B) pays a Qualifying Rate or redeems a Points redemption Award or a promotional Award for the stay; and (C) stays in one of the reserved guest rooms. If a Member checks out of a guest room and then checks back in to a guest room at the same Participating Property within 24 hours, it will count as a single stay for purposes of calculating Stays and issuing Member benefits. A Member may only earn Points for up to three (3) guest rooms during any Stay if he/she stays in one of the reserved guest rooms and pays a Qualifying Rate or redeems a Points redemption Award or a promotional Award for all of the guest rooms.
 
-ii.     A “Qualifying Stay” is a credit pursuant to these Program Rules that counts toward earning Elite Night Credit.  Except as otherwise set forth in these Program Rules, including in Section 7.1 and 7.2 below with respect to MVC Owners and Vistana Owners, Members will only earn credit for each Qualifying Night which is part of a Stay at a Qualifying Rate (as described in 2.1.e.), for the guest room the Member personally pays for and stays in, and not for any additional guest rooms. Members do not receive Elite Night Credit on stays at Non-Qualifying Rates (see 2.1.f.).
+ii.     A “Qualifying Stay” is a credit pursuant to these Program Rules that counts toward earning Elite Night Credit. Except as otherwise set forth in these Program Rules, including in Section 7.1 and 7.2 below with respect to MVC Owners and Vistana Owners, Members will only earn credit for each Qualifying Night (i) which is part of a Stay at a Qualifying Rate (as described in 2.1.e.), for the guest room the Member personally pays for and stays in, and not for any additional guest rooms, or (ii) for the guest room direct billed to the company who has arranged payment for the Member’s stay that is not associated with a convention or group meeting. Members do not receive Elite Night Credit on stays at Non-Qualifying Rates (see 2.1.f.).
 
 iii.     Members cannot earn or receive benefits at multiple Participating Properties for the same stay date(s).
 
@@ -610,7 +609,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                    2.8      Transferring Points from One Account to Another    2.8.a.  In accordance with the conditions for transferring Points as described in Section 1.6.c., a Member can transfer up to a maximum of 100,000 Points per calendar to another Membership Account as long as both Accounts are in good standing and have each been open for at least thirty (30) days with qualifying activity, ninety (90) days without qualifying activity (see 2.8.b). A Member can receive up to a maximum of 500,000 Points per calendar year from other Membership Accounts as long as the Accounts are in good standing and have each been open for at least thirty (30) days with qualifying activity, ninety (90) days without qualifying activity.
+                                    2.8      Transferring Points from One Account to Another    2.8.a.  In accordance with the conditions for transferring Points as described in Section 1.6.c., a Member can transfer up to a maximum of 100,000 Points per calendar year to another Membership Account as long as both Accounts are in good standing and have each been open for at least thirty (30) days with qualifying activity, ninety (90) days without qualifying activity (see 2.8.b). A Member can receive up to a maximum of 500,000 Points per calendar year from other Membership Accounts as long as the Accounts are in good standing and have each been open for at least thirty (30) days with qualifying activity, ninety (90) days without qualifying activity.
 
 2.8.b.  A new Member may receive a Points Transfer thirty (30) days after enrollment if the Account reflects activity including a Qualifying Stay or other qualifying activity as described in Section 1.6.d.  After ninety (90) days from enrollment, a new Member is eligible to receive a Points Transfer regardless of their account activity.
 
@@ -688,7 +687,7 @@ i.      A Point refund may be issued for a stay that is less than the numbe
 
 ii.      If a Member fails to cancel a guaranteed Award Redemption Stay reservation within the permitted cancellation period, the Participating Property will charge the applicable cancellation fee to the credit card provided by the Member at the time the reservation was made and the Points that were redeemed will be re-deposited into the Member’s Account. 
 
-3.2.d.  The amount of Points required per night to obtain rooms at Participating Properties varies by the category of the Participating Property and the room types available at the Participating Property, length of stay, and may also vary by time of year. This includes rates based on demand (“Off-Peak and Peak Redemption Rates”) which may change for an Award Redemption Stay at the time of checking availability, at the time of booking or modifying an Award Redemption reservation, and at the time of when Points are deducted. A list of Participating Property categories is available on the Loyalty Program website under USE AT HOTELS. The Company may change a Participating Property’s category at any time.
+3.2.d.  The amount of Points required per night to obtain rooms at Participating Properties varies by the category of the Participating Property and the room types available at the Participating Property, length of stay, and may also vary by time of year. This includes rates based on demand (“Off-Peak and Peak Redemption Rates”) which may change for an Award Redemption Stay at the time of checking availability, at the time of booking or modifying an Award Redemption reservation, and at the time of when Points are deducted. A list of Participating Property categories is available on the Loyalty Program website under USE AT HOTELS. The Company may change a Participating Property’s category at any time. Select properties may have redemption rates in excess of the Category 8 Redemption Rates.
 
 3.2.e.  When redeeming Points for an Award Redemption Stay, the Award Redemption Stay includes the cost of a single or double standard room at a Participating Property, room tax/service charge, and extra-person charges, if any. All other charges, including incidentals, resort fees and The Ritz-Carlton Club level charges, are the responsibility of the Member and are not included in the Award Redemption Stay.
 
@@ -741,6 +740,7 @@ iii.     The following Participating Properties or Brands either do not par
 ●     Hotel Pitrizza, a Luxury Collection Hotel, Costa Smeralda, Italy
 ●     Hotel Romazzino, a Luxury Collection Hotel, Costa Smeralda, Italy
 ●     Homes & Villas by Marriott International
+●     North Island, a Luxury Collection Resort, Seychelles
            
                           
                           
@@ -1052,9 +1052,9 @@ United States, Canada, Europe: 1,000 Points per Stay or U.S. $10 food and bevera
 Asia, Australia, Pacific Islands, Caribbean, Mexico, Central America, South America, Middle East, and Africa: 1,000 Points per Stay or F&B amenity per Stay
 
 RESORTS only:
-United States, Canada, Europe: 1,000 Points per Stay or breakfast in restaurant per day of Stay for Member +1
+United States, Canada, Europe: 1,000 Points per Stay or breakfast in restaurant per night of Stay for Member +1
 
-Asia, Australia, Pacific Islands, Caribbean, Mexico, Central America, South America, Middle East, and Africa: 1,000 Points per Stay or F&B amenity per Stay or breakfast in restaurant per day of Stay for Member +1
+Asia, Australia, Pacific Islands, Caribbean, Mexico, Central America, South America, Middle East, and Africa: 1,000 Points per Stay or F&B amenity per Stay or breakfast in restaurant per night of Stay for Member +1
 
  
 
@@ -1065,7 +1065,7 @@ Gaylord Hotels
 U.S. $100
 
 St. Regis, The Luxury Collection, W Hotels, Sheraton, Le Méridien, Westin, Tribute Portfolio
-1,000 Points per Stay or amenity per Stay or breakfast in restaurant per day of Stay for Member +1 (including Resorts)
+1,000 Points per Stay or amenity per Stay or breakfast in restaurant per night of Stay for Member +1 (including Resorts)
 U.S. $100
 
 The Ritz-Carlton, EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels TM, Homes & Villas by Marriott International. Vistana properties provide Elite Welcome Gift only to Members who are not Vistana Owners using their ownership interest.
@@ -1077,25 +1077,25 @@ N/A
 
 Courtyard
 
-United States, Canada, Europe:  500 Points per Stay or U.S. $10 F&B credit per day for Member +1**
+United States, Canada, Europe: 500 Points per Stay or U.S. $10 F&B credit per night of Stay for Member +1**
 
  
 
-Asia, Australia, Pacific Islands, Caribbean, Mexico, Central America, South America, the Middle East, and Africa:  Properties without lounge - 500 Points per Stay or F&B amenity per Stay or U.S. $10 F&B credit per day for Member +1**
+Asia, Australia, Pacific Islands, Caribbean, Mexico, Central America, South America, the Middle East, and Africa: Properties without lounge - 500 Points per Stay or F&B amenity per Stay or U.S. $10 F&B credit per night of Stay for Member +1**
 
  
 
-Properties with lounge - 500 Points per Stay and breakfast in lounge - if lounge is closed, breakfast in restaurant per day of Stay for Member +1
+Properties with lounge - 500 Points per Stay and breakfast in lounge - if lounge is closed, breakfast in restaurant per night of Stay for Member +1
 U.S. $50
 
 
 AC Hotels, Moxy Hotels
 
-United States, Canada, Europe:  500 Points per Stay or U.S. $10 F&B credit per day for Member +1**
+United States, Canada, Europe: 500 Points per Stay or U.S. $10 F&B credit per night of Stay for Member +1**
 
  
 
-Asia, Australia, Pacific Islands, Caribbean, Mexico, Central America, South America, the Middle East, and Africa:  500 Points per Stay or F&B amenity per Stay or U.S. $10 F&B credit per day
+Asia, Australia, Pacific Islands, Caribbean, Mexico, Central America, South America, the Middle East, and Africa: 500 Points per Stay or F&B amenity per Stay or U.S. $10 F&B credit per night of Stay
 AC Hotels:      
 
 U.S. $50
@@ -1122,7 +1122,7 @@ U.S. $25
 
 
 Four Points, Aloft
-500 Points per Stay or amenity or breakfast in restaurant per day for Member +1
+500 Points per Stay or amenity or breakfast in restaurant per night of Stay for Member +1
 
 Four Points:  
 
@@ -1132,7 +1132,7 @@ Aloft:  U.S. $25
 
 
 Protea Hotels
-500 Points per Stay or breakfast in restaurant per day for Member +1
+500 Points per Stay or breakfast in restaurant per night of Stay for Member +1
 U.S. $50
 
 Element
@@ -1142,11 +1142,11 @@ U.S. $25
 
 *Participating Properties outside the United States will pay the equivalent in their local currency.
 
-** The U.S. $10 F&B credit per day is for the Member. An additional U.S. $10 F&B credit per day is given for one (1) guest staying in the same guestroom as the Member. The U.S. $10 credit per day does not accrue during the stay. For example, a Member who does not use the $10 credit on one day does not get $20 to use the following day.
+** The U.S. $10 F&B credit per night of Stay is for the Member. An additional U.S. $10 F&B credit per night of Stay is given for one (1) guest staying in the same guestroom as the Member. The U.S. $10 credit per night of Stay does not accrue during the stay. For example, a Member who does not use the $10 credit on one day does not get $20 to use the following day.
 
 iv.      Guaranteed Lounge Access. The Member plus one guest staying in the same room receives access to the Concierge/Executive/Club/Signature Club/M Club lounge (collectively, “Lounge” or “Lounge Access”) during normal hours of operations at JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection, and Renaissance Hotels. At Delta Hotels properties without a Signature Club Lounge, as the approved alternative the Member will receive access to the Elite Pantry.  Lounge Access is offered at Courtyard properties with a Lounge outside the United States and Canada.  This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative.  Additional charges may apply for Lounge Access where the guest count is greater than the Member plus one allowance (including children).  Lounge amenities may include light snacks and daily continental breakfast. Lounge Access is not offered at the following brands:  The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, Design Hotels, Tribute Portfolio, Gaylord Hotels, Four Points, SpringHill Suites, Protea Hotels, Fairfield, AC Hotels, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element, Marriott Vacation Club, Marriott Grand Residence Club, and participating Vistana properties.  This benefit only applies to the one (1) guest room in which the Platinum Elite Member is staying.
 
-A.      In the United States and Canada:  When a Participating Property's Lounge is closed, or property does not have a Lounge or approved alternative, the property will offer a daily continental breakfast in the restaurant for the Member plus one (1) guest, or Member can choose 750 Points per day. In Europe:  Participating Properties without a Lounge or approved alternative offer daily breakfast in restaurant for Member plus one (1) guest, or Member can choose 750 Points per day. This benefit applies to the following brands:  JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, and Renaissance Hotels.  This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative as described above. The following properties in the United States do not provide free continental breakfast in the hotel restaurant in the event the Lounge is closed but do offer 1,000 Points in lieu of breakfast.  These properties include:
+A.      In the United States and Canada:  When a Participating Property's Lounge is closed, or property does not have a Lounge or approved alternative, the property will offer a daily continental breakfast in the restaurant for the Member plus one (1) guest, or Member can choose 750 Points per night of Stay. In Europe: Participating Properties without a Lounge or approved alternative offer daily breakfast in restaurant for Member plus one (1) guest, or Member can choose 750 Points per night of Stay. This benefit applies to the following brands: JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, and Renaissance Hotels. This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative as described above. The following properties in the United States do not provide free continental breakfast in the hotel restaurant in the event the Lounge is closed but do offer 1,000 Points in lieu of breakfast. These properties include:
 
 ●     The Algonquin Hotel Times Square, Autograph Collection
 ●     Boston Marriott Copley Place
@@ -1183,11 +1183,11 @@ Guest Compensation*
 JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, Renaissance Hotels
 
 (Resorts excluded)
-United States and Canada:  If Lounge is closed or property does not have a Lounge or approved alternative, property to offer daily continental breakfast in restaurant for Member +1 or Member can choose 750 Points per day
+United States and Canada:  If Lounge is closed or property does not have a Lounge or approved alternative, property to offer daily continental breakfast in restaurant for Member +1 or Member can choose 750 Points per night of Stay
 
  
 
-Europe:  Properties without a Lounge or approved alternative offer daily breakfast in restaurant for Member +1 or Member can choose 750 Points per day
+Europe:  Properties without a Lounge or approved alternative offer daily breakfast in restaurant for Member +1 or Member can choose 750 Points per night of Stay
 
  
 
@@ -1299,7 +1299,7 @@ B.      40% off Bed.  Mattress and Box Spring 40% Discount from Marriott Re
 
 (4)    The Marriott Retail Brands Mattress and Box Spring 40% Discount promotional code is not combinable with other offers.  The Marriott Brands Mattress and Box Spring 40% Discount promotional code is for a single use and is non-transferable.  Only the Platinum Elite Member who elected the Marriott Brands Mattress and Box Spring 40% Discount as his/her Platinum Elite Annual Choice Benefit will be able to redeem the Marriott Brands Mattress and Box Spring 40% Discount promotional code.
 
-(5)    To redeem the 40% discount off of a Mattress and Box Spring from any of the Company's Marriott Retail brands, call (877) 777-5418 in the United States, or internationally call +33 1 41 51 51 55, Monday through Friday between 9 a.m. and 10 p.m. ET, and Saturday and Sunday between 9 a.m. and 4 p.m. ET.  Have the promotional code and the Platinum Elite Member Account Number ready.
+(5)    To redeem the 40% discount off of a Mattress and Box Spring from any of the Company's Marriott Retail brands, in the United States, call (800) 311-0708, Monday through Friday between 9 a.m. and 10 p.m. ET, and Saturday and Sunday between 9 a.m. and 4 p.m. ET; in Europe, Middle East, Africa, call +33 1 41 51 51 53, Monday through Friday between 9 a.m. and 6 p.m. CET; in Asia (outside mainland China), Australia, Pacific Islands, call +86 21 6151 4628, Monday through Friday between 9 a.m. and 6 p.m. CST; in mainland China, call +86 400 627 6876, Monday through Friday between 9 a.m. and 6 p.m. CST. Have the promotional code and the Platinum Elite Member Account Number ready.
 
 (6)    Prior to shipping the applicable merchandise, the Company reserves the right to verify that the person who redeems the Marriott Retail Brands Mattress and Box Spring 40% Discount promotional code is the Member who earned the Platinum Elite Annual Choice Benefit prior to shipping the applicable merchandise.
 
@@ -1512,7 +1512,7 @@ For example, any event or meeting booked by government employees, officials, emp
                             
                                     5.5      Qualifying Event Charges    5.5.a.  Qualifying Event Charges. Qualifying Event Charges include food, beverages, meeting room rental, in-house audio visual equipment, and décor ordered by the Participating Property and paid for on a master account.  Guest room rate charges also qualify only when the contract has a minimum of ten (10) guest rooms actualize for at least one (1) night of the Qualifying Event (with or without catering).  Qualified guest room charges earn Points or Miles for the Member whether they are paid for on a master account or paid for by the individual guest in the room.
 
-5.5.b.  Meeting Credit eGift Cards. Where available, meeting charges may be paid for using a Meeting Credit e-gift card.  Points redeemed in connection with these partners are subject to the Loyalty Program Rules along with any applicable terms and conditions of the partner pursuant to Section 3.10.a.
+5.5.b.  Marriott Gift Cards. Where available, meeting charges may be paid for using a Marriott Gift Card. Points redeemed in connection with these partners are subject to the Loyalty Program Rules along with any applicable terms and conditions of the partner pursuant to Section 3.10.a.
 
 5.5.c.  Excluded Event Charges. Excluded Event charges include all taxes, gratuities, resort fees, cancellation fees, attrition charges and service charges.          
                           
@@ -1628,6 +1628,7 @@ Marriott Bonvoy World Mastercard from Emirates NBD for residents of United Arab 
 ●     Frenchman's Reef & Morning Star Marriott Beach Resort
 ●     GE Healthcare Institute RiversEdge Condos
 ●     Grand Residences by Marriott, Kauai Lagoons
+●     Homes & Villas by Marriott International
 ●     Hollins Hall Marriott Hotel & Country Club
 ●     Hotel Arts Barcelona
 ●     Jeddah Marriott Hotel
