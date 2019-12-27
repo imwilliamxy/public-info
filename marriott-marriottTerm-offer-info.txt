@@ -57,11 +57,11 @@ Loyalty Program Terms & Conditions
                           
                             
                             
-                                      Updated November 2019
+                                      Updated December 2019
 
 Effective in February 2019, the loyalty program for Marriott International, Inc. is Marriott Bonvoy (hereinafter, the “Loyalty Program”). Prior to this, the Loyalty Program operated as a unified program under three names: Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the “SPG Program”) (each a “Legacy Program”). These Legacy Programs were operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the “Company”).
 
-The Loyalty Program operates under the terms and conditions as set out below unless otherwise expressly stated (the “Program Rules”). The Program Rules hereby incorporate the additional Associate Rules that shall apply to employees of the Company and to associates working at Company owned, leased, licensed and managed locations. The Associate Rules do not apply to employees of Company franchisees, licensees and owners of Company managed properties.
+The Loyalty Program operates under the terms and conditions as set out below unless otherwise expressly stated (the “Program Rules”). The Program Rules hereby incorporate the additional Managed Associate Rules that shall apply to employees of the Company and to associates working at Company owned, leased, licensed and managed locations. The Managed Associate Rules do not apply to employees of Company franchisees, licensees and owners of Company managed properties.
 
 The Program Rules govern the Company’s relationship with members of the Loyalty Program (collectively, “Loyalty Program Members,” and individually, a “Loyalty Program Member,” “Member,” or “you”), including how Members manage their accounts, book reservations, achieve elite status, earn and redeem Loyalty Program points (“Points”) with participating hotels and properties (each a “Participating Property”), as well as with third party programs which have a business relationship with the Loyalty Program such as airline frequent flyer programs (“Partner Programs”).
 
@@ -336,7 +336,7 @@ ii.     Elite Membership.  Upon reaching certain milestones, a Member will
 
 iii.     Lifetime Elite Membership.  Upon reaching certain milestones, a Member may earn Lifetime Silver Elite, Lifetime Gold Elite, or Lifetime Platinum (collectively, “Lifetime Elite Membership Status,” or “Lifetime Elite Status”). The requirements for earning Lifetime Elite Status are set forth in Section 4.
 
-iv.     Associate Membership. Employees of the Company and associates working at Marriott owned, leased, licensed and managed locations (collectively, “Associates,” and individually an “Associate”) may participate in the Loyalty Program through: (1) a Membership Account identified as an Associate ("Associate Membership"); (2) timeshare ownership in Marriott Vacation Club, Marriott Grand Residence Club, or Vistana Networks; or (3) with an active Marriott Bonvoy co-branded credit card account where available. Associate Membership Accounts are able to participate in the Loyalty Program in accordance with the Program Rules subject to restrictions and limitations identified in the Associate Rules available for review on the Company’s intranet and other Marriott Channels.
+iv.     Managed Associate Membership. Employees of the Company and associates working at Marriott owned, leased, licensed and managed locations (collectively, “Managed Associates,” and individually an “Managed Associate”) may participate in the Loyalty Program through: (1) a Membership Account identified as an Managed Associate ("Managed Associate Membership"); (2) timeshare ownership in Marriott Vacation Club, Marriott Grand Residence Club, or Vistana Networks; or (3) with an active Marriott Bonvoy co-branded credit card account where available. Managed Associate Membership Accounts are able to participate in the Loyalty Program in accordance with the Program Rules subject to restrictions and limitations identified in the Managed Associate Rules available for review on the Company’s intranet and other Marriott Channels.
 
 v.     Corporate Membership.  Only individuals are eligible to participate in the Loyalty Program.  Corporations, groups and/or associated entities cannot enroll as Loyalty Program Members.  When traveling on business, it is a Member’s responsibility to comply with his or her company policy concerning travel programs.  Information regarding a Member’s accumulation of Points or Miles for business travel is subject to disclosure to the Member’s company subject to applicable law and regulations.
 
@@ -1233,27 +1233,29 @@ The list of 50-Night Annual Choice Benefits on choice-benefit.marriott.com is su
 
 A.      Suite Night Awards may be redeemed for advance confirmable upgrades for select, premium rooms or standard suites on a per room, per night basis, subject to availability and the applicable terms and conditions set forth below for Suite Night Awards:
 
-(1)     Suite Night Awards may be used only on Loyalty Program eligible paid stays (excluding Advance Purchase Rates) as well as Free Night Award stays and Cash & Points stays.
+(1)     Suite Night Awards expire on December 31 of the year following the year in which they were earned. For example, if 50 or 75 Qualifying Nights are achieved in 2020 and five Suite Night Awards are selected as the Member’s Annual Choice Benefit, the five Suite Night Awards will have an expiration date of December 31, 2021.
 
-(2)    A Member may request to use their Suite Night Awards on Loyalty Program websites or by calling a Customer Engagement Center.
+(2)     Suite Night Awards may be used only on Loyalty Program eligible paid stays (excluding Advance Purchase Rates) as well as Free Night Award stays and Cash & Points stays.
 
-(3)    Suite Night Awards may only be used for standard suites or other premium rooms as designated by the Participating Property.
+(3)    A Member may request to use their Suite Night Awards on Loyalty Program websites or by calling a Customer Engagement Center.
 
-(4)    Suite Night Award use is based upon availability of the requested suite or premium room.  Checking for availability begins five (5) days before arrival.  If availability is not confirmed five (5) days before arrival, availability is checked each day before arrival up to 2 p.m. local time of the Participating Property one (1) day prior to arrival.  If at that time Suite Night Awards cannot be confirmed, the Suite Night Awards are credited back to the Member's account.
+(4)    Suite Night Awards may only be used for standard suites or other premium rooms as designated by the Participating Property.
 
-(5)    Suite Night Awards may be used only when there are enough in the Member's Account so that one is applied to every night of the reservation.
+(5)    Suite Night Award use is based upon availability of the requested suite or premium room.  Checking for availability begins five (5) days before arrival.  If availability is not confirmed five (5) days before arrival, availability is checked each day before arrival up to 2 p.m. local time of the Participating Property one (1) day prior to arrival.  If at that time Suite Night Awards cannot be confirmed, the Suite Night Awards are credited back to the Member's account.
 
-(6)    One Suite Night Award is required per room per night.
+(6)    Suite Night Awards may be used only when there are enough in the Member's Account so that one is applied to every night of the reservation.
 
-(7)    Suite Night Awards are required for each night of the stay including any nights that may be designated "free" such as the Stay for 5, Pay for 4 Award.
+(7)    One Suite Night Award is required per room per night.
 
-(8)    Suite Night Awards may not be transferred or given as a gift or used as part of a multiple room reservation; however, a Member may use Suite Night Awards for additional single-room reservations on his/her own stay as long as the Member is present for the stay and the other reservations are under the Member's name.
+(8)    Suite Night Awards are required for each night of the stay including any nights that may be designated "free" such as the Stay for 5, Pay for 4 Award.
 
-(9)    Members who book separate reservations for consecutive nights that precede or follow a reservation that has confirmed Suite Night Awards will be required to change rooms to the confirmed room type on any night(s) where a Suite Night Award is not used.
+(9)    Suite Night Awards may not be transferred or given as a gift or used as part of a multiple room reservation; however, a Member may use Suite Night Awards for additional single-room reservations on his/her own stay as long as the Member is present for the stay and the other reservations are under the Member's name.
 
-(10)  If a Participating Property offers multiple room options for the Suite Night Award, once the suite/premium room option(s) is selected, the selection may be changed until 2 p.m. local time of the Participating Property the day before arrival so long as the Suite Night Award is unconfirmed.  Confirmed Suite Night Awards may be canceled up to 2 p.m. local time of the Participating Property one (1) day prior to arrival only if the entire reservation is canceled.
+(10)    Members who book separate reservations for consecutive nights that precede or follow a reservation that has confirmed Suite Night Awards will be required to change rooms to the confirmed room type on any night(s) where a Suite Night Award is not used.
 
-(11)  Suite Night Awards have requesting, booking, cancellation, and modification policies that are in addition to  but completely separate from  the booking, cancellation, and modification policies for the reservations on which they are used.
+(11)  If a Participating Property offers multiple room options for the Suite Night Award, once the suite/premium room option(s) is selected, the selection may be changed until 2 p.m. local time of the Participating Property the day before arrival so long as the Suite Night Award is unconfirmed.  Confirmed Suite Night Awards may be canceled up to 2 p.m. local time of the Participating Property one (1) day prior to arrival only if the entire reservation is canceled.
+
+(12)  Suite Night Awards have requesting, booking, cancellation, and modification policies that are in addition to  but completely separate from  the booking, cancellation, and modification policies for the reservations on which they are used.
 
 (a)    Requests to use Suite Night Awards on a reservation may be made up to 2 p.m. local time of the Participating Property one (1) day prior to arrival.
 
@@ -1269,7 +1271,7 @@ A.      Suite Night Awards may be redeemed for advance confirmable upgrades 
 
 (g)    If a Member extends his/her reservation and has enough Suite Night Awards to cover the extension, the Member may use his/her Suite Night Awards based upon availability and at the Participating Property's discretion.
 
-(12)  Not all Participating Properties participate in Suite Night Awards. Suite Night Awards are not redeemable at the following brands: The Ritz-Carlton, The Ritz-Carlton Reserve, The Ritz-Carlton Destination Club, The Ritz-Carlton Residences, EDITION, Protea Hotels, Aloft, Element, Design HotelsTM, all-Suite Hotels, Marriott Executive Apartments, ExecuStay, Marriott Vacation Club, Marriott Grand Residence Club properties and Vistana properties. In addition, Suite Night Awards are not redeemable at select Participating Properties. Contact a Customer Engagement Center for individual Participating Property Suite Night Award participation.
+(13)  Not all Participating Properties participate in Suite Night Awards. Suite Night Awards are not redeemable at the following brands: The Ritz-Carlton, The Ritz-Carlton Reserve, The Ritz-Carlton Destination Club, The Ritz-Carlton Residences, EDITION, Protea Hotels, Aloft, Element, Design HotelsTM, all-Suite Hotels, Marriott Executive Apartments, ExecuStay, Marriott Vacation Club, Marriott Grand Residence Club properties and Vistana properties. In addition, Suite Night Awards are not redeemable at select Participating Properties. Contact a Customer Engagement Center for individual Participating Property Suite Night Award participation.
 
 B.      40% off Bed.  Mattress and Box Spring 40% Discount from Marriott Retail Brands
 
@@ -1482,7 +1484,7 @@ iv.      Titanium Elite and Ambassador Elite, 75% bonus, up to 105,000 Poin
 
 5.3.c.  Earning Miles. Members may also elect to earn one Mile for every one U.S. dollar ($1.00) spent on actualized Qualifying Event charges, up to a maximum of 20,000 Miles (or equivalent currency, depending on the participating airline frequent flyer program partner) per Event, regardless of Elite level.  Points will be awarded or Miles will be submitted to the participating airline frequent flyer program partner within ten (10) business days after the conclusion of the Event provided that the Event is not cancelled, and all other terms and conditions of the group or catering contract executed in connection with the Event were met.  Miles awarded vary by participating frequent flyer airline program partner.  Points and Miles cannot both be earned for the same Event by a Member.
 
-5.3.d.  Elite Night Credit. Members who hold Qualifying Events at Participating Properties also receive ten (10) Elite Night Credits per calendar year for their first Qualifying Event, and then for subsequent Qualifying Events, earn one (1) Elite Night Credit for every twenty (20) room nights booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract.
+5.3.d.  Elite Night Credit. Members who hold Qualifying Events at Participating Properties receive one (1) Elite Night Credit for every twenty (20) room nights booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract. The earning of ten (10) Elite Night Credits per calendar year for the first Qualifying Event will end on December 31, 2019.
 
 5.3.e.  Currency Exchange. Points or Miles awarded for Qualifying Events held at Participating Properties in international locations are based on local currency converted to U.S. dollars.  Local currency is converted into U.S. dollars on the day of the Qualifying Event.  Points or Miles are awarded using a published rate of exchange in effect at time of conversion.  This rate will be determined at the Loyalty Program’s sole discretion, based on standard currency conversion methods, but may vary from currency conversion rates used by credit card companies.
 
