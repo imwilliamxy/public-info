@@ -1,82 +1,81 @@
-Cathay Pacific Visa Signature® card
-	Cathay Pacific Airways
+Cathay Pacific Visa Signature® card - Cathay Pacific
+        
+        
+        
+        
+        
+        
+        
+        
+    	
+    	
+    	        
+    
+	
+    
+    
+	
+	
+	
+	
+	
+	
+	
+	
 	
 
-    
-
-    
-    
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		.hero-banner.teaser img {
-			max-width: 840px;
-			display: block;
-			margin: 1.42em auto
-		}	
-	
-    
-    
-
-    
+        
 	 
 
-
-
-
-
     
-    
-
-
-
-	
-
-
-
- and  tags, as close as possible to the opening tag.
-Creation Date: 01/16/2019
--->
-
-
-	
-
-
-
-
-
     
     	
+    
+    
+    
+    
+    	
+    
+    
+    
+     and  tags, as close as possible to the opening tag.
+    Creation Date: 01/16/2019
+    -->
+    
+    
+    	
+    
+    
+    
+
+    	
+    	
+        	
+		
 		
 			
 				Cathay Pacific Airways
 				
-				oneworld
+								oneworld
+			
+		
+		
+	
+    	
+
+        
+        
+
+
+
+	
+	
+		
+			
+				Cathay Pacific Visa Signature® card*
 			
 		
 	
-	
-	
-	
-		
-			
-				Cathay Pacific Visa Signature® card
-			
-		
-	
-
-    
-    
-
-
 
 	
 	
@@ -471,11 +470,10 @@ Creation Date: 01/16/2019
 
 
 
-
-
-
-	
-    
+    	
+    	
+    	
+        
 
 	
 		Cathay Pacific Airways
@@ -521,9 +519,12 @@ Creation Date: 01/16/2019
 		
 	
 
+    	
+
+    	
+
+    
+    
     
 
-
-
-
-
+    
