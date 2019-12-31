@@ -10,14 +10,11 @@ Cathay Pacific Visa Signature® card - Cathay Pacific
     	
     	
     	        
+        
     
 	
+        
     
-    
-	
-	
-	
-	
 	
 	
 	
@@ -30,8 +27,7 @@ Cathay Pacific Visa Signature® card - Cathay Pacific
     
     
     	
-    
-    
+        
     
     
     	
@@ -46,7 +42,7 @@ Cathay Pacific Visa Signature® card - Cathay Pacific
     	
     
     
-    
+
 
     	
     	
@@ -72,7 +68,9 @@ Cathay Pacific Visa Signature® card - Cathay Pacific
 	
 		
 			
+
 				Cathay Pacific Visa Signature® card*
+
 			
 		
 	
@@ -522,8 +520,6 @@ Cathay Pacific Visa Signature® card - Cathay Pacific
     	
 
     	
-
-    
     
     
 
