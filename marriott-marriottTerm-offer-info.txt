@@ -656,15 +656,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                    3.1      Redeeming Points for Awards.    A Member may redeem Points to obtain certain awards and benefits (each an “Award” or “Award Redemption”) including, without limitation, rooms at Participating Properties, Moments experiences, flights, and other services and merchandise.  A full listing of current Award Redemption options is available on the Loyalty Program website under “USE POINTS.”
-
-3.1.a.  Points and Awards may not be exchanged or redeemed by a Member for cash, prizes or credit.
-
-3.1.b.  Points posted as the result of a transfer or earned from the use of credit cards may not be redeemable for certain Awards.
-
-3.1.c.  Awards are valid only for use by the individual designated on the Award and are not transferable, although, if requested at the time of issuance, an Award may be issued to a third party.  Third party transfers or transfers to non-Members are limited to twenty (20) Awards in a calendar year on a single Membership Account.  In the event an Award is given to a third party in accordance with the prior sentence, neither the Member nor the third party will earn any Points/Miles, Elite Night Credit, Qualifying Nights, or Qualifying Stays in connection with such Award.  At check-in, the guest using the Award may be required to show valid identification and provide a credit card to the Participating Property for incidental charges.
-
-3.1.d.  Awards believed to have been bartered, sold, exchanged, or issued fraudulently, or issued to someone other than the eligible Member, will be void and will not be honored.          
+                                            
                           
                           
                             
@@ -798,17 +790,7 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                                    3.7      Instant Redemptions.    Members may use Points during their stay to redeem an “Instant Redemption Award,” which they may apply as a credit against their room folio upon check-out. An Instant Redemption Award must be ordered at the Participating Property during the stay to which it will be applied and cannot be booked in advance of the stay. When a Member requests an Instant Redemption Award for a specific U.S. dollar amount or for “up to” a specific U.S. dollar amount, the Loyalty Program will deduct those Points from the Member’s Account. For a listing of the Instant Redemption Awards required to redeem specific U.S. dollar values, please refer to the Loyalty Program website under USE POINTS.
-
-3.7.a. A request for an Instant Redemption Award may only be made by a Member of the Loyalty Program who is in good standing. As proof of eligibility, a valid Membership Number is required when redeeming an Instant Redemption Award.
-
-3.7.b. Instant Redemption Awards are valid only when used toward the expenses charged to a Member’s room folio, including, but not limited to room charges, food and beverages, golf, spa services and incidental expenses. Instant Redemption Awards cannot be redeemed for cash or gift cards. Instant Redemption Awards are valid only for individual travel, and are not applicable to group travel, package tours, or conventions that have been charged to and/or paid by a third party. Instant Redemption Award credits may be used by the Member only and may not be gifted, although if requested at the time of redemption, Instant Redemption Awards may be credited against a third party’s room folio if the room was booked under the Member’s Loyalty Program Membership Number.
-
-3.7.c. The Member requesting the Instant Redemption Award must have the total Points value required to purchase the Instant Redemption Award requested available in his or her Membership Account at the time of ordering. Once accrued Points in the Member’s Account have been redeemed for an Instant Redemption Award, the Points cannot be returned to the Member’s Account. Any portion of the Instant Redemption Award not applied to the Member’s room folio will be forfeited; if the amount requested for the Instant Redemption Award is more than the room folio balance, cash will not be returned to the Member.
-
-3.7.d. Redeemed Instant Redemption Awards are not refundable, exchangeable, replaceable or transferable for cash or credit.
-
-3.7.e. Not all Participating Properties offer Instant Redemption Awards. The following Participating Brands do not offer Instant Redemption Awards: Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels, Vistana properties, Atlantis, Paradise Island, and The Cosmopolitan of Las Vegas. In addition, Instant Redemption Awards are not offered at select Participating Properties. Contact the Participating Property directly for Instant Redemption Award participation.          
+                                            
                           
                           
                             
@@ -845,7 +827,7 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                                    3.12       Air and Car.    A Member may redeem his/her Points for airline tickets or car rentals from the Loyalty Program’s Air + Car partner.  More information on the Air + Car program may be obtained here. Points redeemed in connection with this partner are subject to the Loyalty Program Rules along with any applicable terms and conditions of the partner.          
+                                            
                           
                           
                             
@@ -1939,7 +1921,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                    For Guests           Best Rate Guarantee    Room Key    Marriott Bonvoy Moments    Activities    Marriott Insiders    Marriott Bonvoy Traveler    Travel Experiences    Shop Marriott    Shop Westin    Gift Cards       
+                                                                    For Guests              
                                                               
                                                               
                                                                 
