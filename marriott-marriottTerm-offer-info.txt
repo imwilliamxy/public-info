@@ -342,7 +342,7 @@ v.     Corporate Membership.  Only individuals are eligible to participate
 
 1.4.d.  Assignment of Membership Account and Membership Number.  After applying to the Loyalty Program, a Membership Account will be opened and a Membership Number will be assigned to each applicant.  Upon receiving this Membership Number, an individual becomes a Member eligible to earn Points or any currency used by an airline’s frequent flyer program (“Miles”) at Participating Properties.  Further details are outlined in Section 1.5 and Section 2.
 
-1.4.e.  Duplicate Accounts.  An individual may join the Loyalty Program. However, a Member may not have one or more duplicate Accounts under the Loyalty Program at any time.
+ 1.4.e.  Duplicate Accounts.  An individual may join the Loyalty Program. However, a Member may not have one or more duplicate Accounts under the Loyalty Program at any time.
 
 i.     If more than one Loyalty Program Membership Number is assigned to an individual for the Loyalty Program, he/she will only receive Points or Miles for one Membership Account. Duplicate Membership Accounts may be cancelled.
 
@@ -609,7 +609,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                    2.8      Transferring Points from One Account to Another    2.8.a.  In accordance with the conditions for transferring Points as described in Section 1.6.c., a Member can transfer up to a maximum of 100,000 Points per calendar year to another Membership Account as long as both Accounts are in good standing and have each been open for at least thirty (30) days with qualifying activity, ninety (90) days without qualifying activity (see 2.8.b). A Member can receive up to a maximum of 500,000 Points per calendar year from other Membership Accounts as long as the Accounts are in good standing and have each been open for at least thirty (30) days with qualifying activity, ninety (90) days without qualifying activity.
+                                     2.8      Transferring Points from One Account to Another    2.8.a.  In accordance with the conditions for transferring Points as described in Section 1.6.c., a Member can transfer up to a maximum of 100,000 Points per calendar year to another Membership Account as long as both Accounts are in good standing and have each been open for at least thirty (30) days with qualifying activity, ninety (90) days without qualifying activity (see 2.8.b). A Member can receive up to a maximum of 500,000 Points per calendar year from other Membership Accounts as long as the Accounts are in good standing and have each been open for at least thirty (30) days with qualifying activity, ninety (90) days without qualifying activity.
 
 2.8.b.  A new Member may receive a Points Transfer thirty (30) days after enrollment if the Account reflects activity including a Qualifying Stay or other qualifying activity as described in Section 1.6.d.  After ninety (90) days from enrollment, a new Member is eligible to receive a Points Transfer regardless of their account activity.
 
@@ -622,7 +622,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                    2.9      Purchase Points.      A Member may purchase or receive Points purchased by another Member for a combined maximum of 50,000 Points per calendar year.  Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000.  A Member must be in good standing to purchase and/or receive Points.  A new Member may purchase Points thirty (30) days after enrollment if the Account reflects activity including a Qualifying stay or other qualifying activity as described in Section 1.6.d.  After one (1) year from enrollment, a new Member is eligible to purchase Points regardless of their Account activity.  The purchase transaction may take up to forty-eight (48) hours to be completed and for the Points to be transferred to the recipient’s Account.  Once Points have been purchased, no refunds will be permitted.  Purchasing Points using a Marriott Co-Brand Credit Card may qualify for earning Points in accordance with the terms and conditions in Section 6.          
+                                     2.9      Purchase Points.      A Member may purchase or receive Points purchased by another Member for a combined maximum of 50,000 Points per calendar year.  Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000.  A Member must be in good standing to purchase and/or receive Points.  A new Member may purchase Points thirty (30) days after enrollment if the Account reflects activity including a Qualifying stay or other qualifying activity as described in Section 1.6.d.  After one (1) year from enrollment, a new Member is eligible to purchase Points regardless of their Account activity.  The purchase transaction may take up to forty-eight (48) hours to be completed and for the Points to be transferred to the recipient’s Account.  Once Points have been purchased, no refunds will be permitted.  Purchasing Points using a Marriott Co-Brand Credit Card may qualify for earning Points in accordance with the terms and conditions in Section 6.          
                           
                           
                             
@@ -941,7 +941,7 @@ v.     Marriott Bonvoy - Ambassador Elite:  100 Qualifying Nights and $20,
 
 4.2.d.  Qualifying Charges without a personal overnight stay will not earn Elite Night Credit toward Elite membership.
 
-4.2.e.  Earning Lifetime Elite Status
+ 4.2.e.  Earning Lifetime Elite Status
 
 i.   In order to obtain Lifetime Elite Status, a Member must meet the below Lifetime Elite Status Criteria (4.2.f.) during the Member’s participation in the Loyalty Program. An “Eligible Status Year” is a calendar year during which a Member obtained Elite membership status (Silver Elite, Gold Elite, Platinum Elite, Titanium Elite, or Ambassador Elite) by achieving the Silver Elite, Gold Elite, Platinum Elite, Titanium Elite, or Ambassador Elite Minimum Requirement during such Eligible Status Year. Only a calendar year in which a Member achieves Silver Elite, Gold Elite, Platinum Elite, Titanium Elite, or Ambassador Elite Status, as described in the prior sentence, will count as an Eligible Status Year, regardless of the length of time that such Member will retain the benefits of Elite membership Status. For example, if a Member meets the Gold Elite Minimum Requirement during the 2019 Eligible Status Year by earning twenty-five (25) Eligible Nights and becomes a Gold Elite Member for the remainder of 2019 and for all of 2020, 2019 will count as a single Eligible Status Year, but 2020 will not count as an Eligible Status Year unless the Member meets the Gold Elite Minimum Requirement during the 2020 Eligible Status Year.
 
@@ -1949,7 +1949,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                                                  
                                                               
                                               
                                       
@@ -1959,11 +1959,4 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                   © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help    
-                                                              
-                                                    
-                                                    
-                                                              
-                                                                
-                                                                
-                                                                   English
+                                                                   © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help
