@@ -396,7 +396,7 @@ iv.      Members are prohibited from bartering or selling Points for cash o
 
 v.      Any Points which the Loyalty Program deems in its sole discretion to have been transferred in violation of the Loyalty Program Terms and Conditions may be confiscated.
 
-1.6.d.  Points Expiration Policy.  Members must remain active in the Loyalty Program to retain Points they accumulate.  If a Member Account is inactive for twenty-four (24) consecutive months, that Member Account will forfeit all accumulated Points.  Members can remain active in the Loyalty Program and retain accumulated Points by earning Points or Miles in the Loyalty Program or redeeming Points in the Loyalty Program at least once every twenty-four (24) months, subject to the exceptions described below.  If a Member does not maintain an active status for five (5) consecutive years, the Member’s Account may be deactivated.  Once Points are forfeited, the Points cannot be reinstated, but a Member can earn new Points, unless that Member’s Account has been deactivated.
+ 1.6.d.  Points Expiration Policy.  Members must remain active in the Loyalty Program to retain Points they accumulate.  If a Member Account is inactive for twenty-four (24) consecutive months, that Member Account will forfeit all accumulated Points.  Members can remain active in the Loyalty Program and retain accumulated Points by earning Points or Miles in the Loyalty Program or redeeming Points in the Loyalty Program at least once every twenty-four (24) months, subject to the exceptions described below.  If a Member does not maintain an active status for five (5) consecutive years, the Member’s Account may be deactivated.  Once Points are forfeited, the Points cannot be reinstated, but a Member can earn new Points, unless that Member’s Account has been deactivated.
 
 i.      Not all Points activities help maintain active status in the Loyalty Program.  The following activities do not count toward maintaining an active status in the Loyalty Program:
 
@@ -721,7 +721,7 @@ iii.       At the following all-inclusive properties, the Points redeemed
 
 3.2.m.  An Award Redemption Stay at destinations outside the United States is subject to all required government approvals, restrictions, applicable taxes and/or service charges.  Awards do not include United States federal inspection fees or any other fees, expenses, surcharges, taxes or other costs or expenses that may be imposed by foreign governments for international travel.
 
-3.2.n. The Company has a "No Blackout Dates" policy, which means that, subject to the limitations and exclusions below, Participating Properties have standard rooms available every day for Award Redemptions. These limitations and exclusions are:
+ 3.2.n. The Company has a "No Blackout Dates" policy, which means that, subject to the limitations and exclusions below, Participating Properties have standard rooms available every day for Award Redemptions. These limitations and exclusions are:
 
 i.     Participating Properties from the following Brands may limit the number of standard rooms available for redemption on a limited number of days: The Ritz-Carlton, EDITION, JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection Hotels, Renaissance Hotels, Gaylord Hotels, Courtyard, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Moxy Hotels, Residence Inn, TownePlace Suites, Vistana properties.
 
@@ -968,7 +968,7 @@ i.      10% Bonus Points.  Bonus Points vary by Elite membership level and
 
 ii.      Priority Late Checkout.  Based on availability.  Please call the front desk the morning of checkout and let them know your planned departure time.  Available at all Participating Brands except Marriott Vacation Club, Marriott Grand Residence Club, and Vistana Network properties.
 
-iii.      Ultimate Reservation Guarantee.  To be eligible, Member's Loyalty Program Member Number and a valid credit card number must be included with the reservation. If a Participating Property is unable to honor the reservation, it will pay for comparable accommodation nearby for the Elite Member that night and compensate the Member for the inconvenience. A Participating Property must be open and operational for the Ultimate Reservation Guarantee benefit/compensation to apply. At The Ritz-Carlton and St. Regis Hotels, the Ultimate Reservation Guarantee only applies to Titanium Elite and Ambassador Elite Members. The Ultimate Reservation Guarantee is offered at the following brands: The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Aloft Hotels, Moxy Hotels, Residence Inn, TownePlace Suites and Element. The Ultimate Reservation Guarantee is not offered at the following brands: Design Hotels, Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties. Pursuant to section 4.1.c. if an Elite Member has a confirmed reservation, but is relocated from the property upon arrival, the Participating Property will pay the Ultimate Reservation Guarantee compensation in place on that date under the Program Rules. If an Elite Member receives Ultimate Reservation Guarantee compensation, then he/she is not eligible to receive additional Elite Benefits Guarantee compensation.
+ iii.      Ultimate Reservation Guarantee.  To be eligible, Member's Loyalty Program Member Number and a valid credit card number must be included with the reservation. If a Participating Property is unable to honor the reservation, it will pay for comparable accommodation nearby for the Elite Member that night and compensate the Member for the inconvenience. A Participating Property must be open and operational for the Ultimate Reservation Guarantee benefit/compensation to apply. At The Ritz-Carlton and St. Regis Hotels, the Ultimate Reservation Guarantee only applies to Titanium Elite and Ambassador Elite Members. The Ultimate Reservation Guarantee is offered at the following brands: The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Aloft Hotels, Moxy Hotels, Residence Inn, TownePlace Suites and Element. The Ultimate Reservation Guarantee is not offered at the following brands: Design Hotels, Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties. Pursuant to section 4.1.c. if an Elite Member has a confirmed reservation, but is relocated from the property upon arrival, the Participating Property will pay the Ultimate Reservation Guarantee compensation in place on that date under the Program Rules. If an Elite Member receives Ultimate Reservation Guarantee compensation, then he/she is not eligible to receive additional Elite Benefits Guarantee compensation.
 
 
 ULTIMATE RESERVATION GUARANTEE
@@ -999,7 +999,7 @@ The Gift Shop Discount is not offered at the following brands:  Courtyard, Four
 
 v.      Elite Reservations Line.  Exclusive reservations number available for Elite Members (United States and Canada only: (800) 228-2100
 
-vi.      Dedicated Exclusive Customer Engagement Center Line:  Exclusive number available for Elite Members (United States and Canada only): (800) 321-7396
+vi.      Dedicated Elite Support:  Dedicated Elite support available for Elite Members (United States and Canada only): (800) 321-7396
 
 4.3.b.  Marriott Bonvoy Gold Elite Membership Benefits.  In addition to all of the benefits Silver Elite Members receive, Gold Elite Members and above are eligible to receive the following benefits:
 
@@ -1231,7 +1231,7 @@ Five (5) Elite Night Credits
 
 The list of 50-Night Annual Choice Benefits on choice-benefit.marriott.com is subject to change at any time.  Once a Platinum Elite Member becomes eligible to receive a 50-Night Annual Choice Benefit, he/she must choose his/her 50-Night Annual Choice Benefit by visiting choice-benefit.marriott.com and selecting one of the 50-Night Annual Choice Benefits.  A selection must be made through choice-benefit.marriott.com and may not be made through Member Support.  All 50-Night Annual Choice Benefit selections are final and may not be changed after they are made.  In the event that an eligible Platinum Elite Member fails to select a 50-Night Annual Choice Benefit by 11:59 p.m. Eastern US Time on January 15th of the year following the applicable Qualifying Period, such Platinum Elite Members will receive five (5) Suite Night Awards as his/her 50-Night Annual Choice Benefit ("Suite Night Awards," individually "Suite Night Award").
 
-A.      Suite Night Awards may be redeemed for advance confirmable upgrades for select, premium rooms or standard suites on a per room, per night basis, subject to availability and the applicable terms and conditions set forth below for Suite Night Awards:
+ A.      Suite Night Awards may be redeemed for advance confirmable upgrades for select, premium rooms or standard suites on a per room, per night basis, subject to availability and the applicable terms and conditions set forth below for Suite Night Awards:
 
 (1)     Suite Night Awards expire on December 31 of the year following the year in which they were earned. For example, if 50 or 75 Qualifying Nights are achieved in 2020 and five Suite Night Awards are selected as the Member’s Annual Choice Benefit, the five Suite Night Awards will have an expiration date of December 31, 2021.
 
@@ -1949,7 +1949,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                                                  
                                                               
                                               
                                       
@@ -1959,11 +1959,4 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                   © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help    
-                                                              
-                                                    
-                                                    
-                                                              
-                                                                
-                                                                
-                                                                   English
+                                                                   © 1996  2019  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help
