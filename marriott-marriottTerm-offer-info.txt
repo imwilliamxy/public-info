@@ -679,8 +679,6 @@ i.      Redemption Awards are required for reservations which use Free Nigh
 
 ii.      Redemption Awards are valid only for individual travel and are not valid for group travel, package tours, conventions or other special rates and/or package programs, food and beverage credits, incidental expenses, or service charges.
 
-iii.      A paper copy of a Redemption Award will be issued only upon request and may be obtained by contacting Member Support for a charge of U.S. $10 per paper Redemption Award.  Paper Redemption Awards cannot be reissued if lost, stolen or otherwise destroyed.
-
 3.2.c.  The standard guarantee and cancellation policies of a Participating Property will apply to Award Redemption Stay reservations including, without limitation, all minimum length of stay requirements, credit card guarantee requirements and charges for late cancellation, no-shows, and early check-out.
 
 i.      A Point refund may be issued for a stay that is less than the number of days on the Redemption Award, but the Member must inform the Participating Property’s front desk in advance of the early check-out time in order for the Point refund to be issued to the Member’s Account.
@@ -723,7 +721,7 @@ iii.       At the following all-inclusive properties, the Points redeemed
 
  3.2.n. The Company has a "No Blackout Dates" policy, which means that, subject to the limitations and exclusions below, Participating Properties have standard rooms available every day for Award Redemptions. These limitations and exclusions are:
 
-i.     Participating Properties from the following Brands may limit the number of standard rooms available for redemption on a limited number of days: The Ritz-Carlton, EDITION, JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection Hotels, Renaissance Hotels, Gaylord Hotels, Courtyard, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Moxy Hotels, Residence Inn, TownePlace Suites, Vistana properties.
+i.     Participating Properties may limit the number of standard rooms available for redemption on a limited number of days.
 
 ii.     The following Participating Brands allow only for Points/Miles earnings and do not offer Points redemption: Marriott Executive Apartments and ExecuStay.
 
@@ -732,6 +730,7 @@ iii.     The following Participating Properties or Brands either do not par
 ●     Boscolo Exedra Nice, Autograph Collection
 ●     Carlo IV, The Dedica Anthology, Autograph Collection
 ●     JW Marriott Scottsdale Camelback Inn Resort & Spa, Scottsdale, AZ
+●     Vistana Signature Network and Vistana Residence Network  all properties
 ●     Marriott Vacation Club and Marriott Grand Residence Club  all properties
 ●     Rome Marriott Grand Hotel Flora, Rome, Italy
 ●     Waikoloa Beach Marriott Resort & Spa, Hawaii
