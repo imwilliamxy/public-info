@@ -152,9 +152,9 @@ viii.     Sheraton - all locations
 
 ix.     Marriott Vacation Club and Marriott Grand Residence Club - all locations except for:
 
-A.     47 Park Street - Marriott Grand Residence Club, UK
+A.     Grand Residences by Marriott  Mayfair-London, UK
 
-B.     Marriott’s Bangkok Empire Place, Bangkok, Thailand
+B.     Marriott Vacation Club at The Empire Place©, Bangkok, Thailand
 
 Marriott Vacation Club and Marriott Grand Residence Club properties which participate have limited on-property benefits as outlined in Section 4 and Section 7.
 
@@ -829,7 +829,7 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                                    3.11   Airline Frequent Flyer Programs and Other Affiliated Loyalty Programs    3.11.a. Members may redeem Points with participating airline frequent flyer programs and other airline-affiliated loyalty programs at a designated Points to Miles conversion ratio as indicated here.
+                                    3.11   Airline Frequent Flyer Programs and Other Affiliated Loyalty Programs    3.11.a. Members may redeem Points with participating airline frequent flyer programs and other airline-affiliated loyalty programs at a designated Points to Miles conversion ratio as indicated here. If applicable, to achieve a bonus for transferred Points to a frequent-flyer program, or other airline-affiliated loyalty program, Marriott Bonvoy Points must be transferred through a single transaction at the noted threshold for bonus achievement.
 
 3.11.b. Members requesting to convert Points earned through the Marriott Bonvoy Loyalty Program to participating airline partner Miles, must be a member of both Marriott Bonvoy and the relevant participating airline partner frequent flyer program and/or airline-affiliated loyalty program in order to successfully complete the conversion. For most Loyalty Program airline partners, the Points being transferred from a Member’s Marriott Bonvoy Account must be transferred to that Member’s account held in the same name for the frequent flyer program. In other words, both the Member‘s Marriott Bonvoy Membership Account name and airline frequent flyer program account name must match in order to successfully complete the Points to Miles conversion. Please refer to each airline partner’s loyalty program website and/or terms and conditions for additional details on name matching requirements in order to complete Points to Miles conversions. For details on joining an airline frequent flyer program and/or other airline-affiliated loyalty program, please refer to that particular airline or loyalty program website and terms and conditions. Marriott Bonvoy reserves the right, in its sole discretion, to prevent or cancel transactions where (i) Marriott Bonvoy has reason to believe that the identity of the Member converting the Points to Miles does not match the identity of the person receiving the Miles for airlines which require an exact name match or (ii) where Marriott Bonvoy suspects there has been any fraudulent activity connected with the Points to Miles conversion in relation to the Member’s Account.
 
@@ -895,7 +895,7 @@ iii.      Pursuant to Section 8.3, the only Elite Member benefit provided f
 
 4.1.d.  Members with Elite Status (“Elite Member”) will receive guaranteed compensation for select Elite benefits in the event those benefits are not available during an Elite Member’s stay (“Elite Benefits Guarantee”).
 
-i.      The Elite Benefits Guarantee is the maximum compensation paid to an Elite Member during a stay that is booked at least one (1) day prior to arrival.  The Elite Benefits Guarantee in the United States is $200 U.S. dollars, even if more than one guaranteed benefit is not delivered to the Elite Member.  The maximum Elite Benefits Guarantee compensation paid to an Elite Member during a stay outside the United States will be the equivalent of $200 U.S. dollars paid in local currency, even if more than one guaranteed benefit is not delivered to the Elite Member.
+i.      The maximum Elite Benefits Guarantee cash compensation in the United States is $200 U.S. dollars, even if more than one guaranteed benefit is not delivered to the Elite Member. The maximum Elite Benefits Guarantee compensation paid to an Elite Member during a stay outside the United States will be the equivalent of $200 U.S. dollars paid in local currency, even if more than one guaranteed benefit is not delivered to the Elite Member.
 
 ii.      If an Elite Member believes that compensation is due with respect to any aspect of the Elite Benefits Guarantee, he/she must request payment of the compensation while still a guest at the Participating Property, prior to checking out.  Failure to request such payment prior to check out will result in a complete waiver of any right to receive such compensation.
 
@@ -918,7 +918,7 @@ ii.     When staying at ExecuStay locations, every three (3) Qualifying Nig
 
 iii.     When staying at Marriott Executive Apartments, every three (3) Qualifying Nights stayed will entitle Members to one (1) night toward Elite status.  Elite benefits are not available at Marriott Executive Apartments locations.
 
-iv.      Members who hold Qualifying Events at Participating Properties receive one (1) Elite Night Credit for every twenty (20) room nights booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract. The earning of ten (10) Elite Night Credits per calendar year for the first Qualifying Event will end on December 31, 2019.
+iv.      Members who hold Qualifying Events at Participating Properties receive one (1) Elite Night Credit for every twenty (20) room nights booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract. The earning of ten (10) Elite Night Credits per calendar year for the first Qualifying Event ended on December 31, 2019.
 
 v.     Elite Status may be earned through various Partner Programs and is subject to the terms and conditions of the Partner Program as well as the Loyalty Program Rules.
 
@@ -1483,7 +1483,7 @@ iv.      Titanium Elite and Ambassador Elite, 75% bonus, up to 105,000 Poin
 
 5.3.c.  Earning Miles. Members may also elect to earn one Mile for every one U.S. dollar ($1.00) spent on actualized Qualifying Event charges, up to a maximum of 20,000 Miles (or equivalent currency, depending on the participating airline frequent flyer program partner) per Event, regardless of Elite level.  Points will be awarded or Miles will be submitted to the participating airline frequent flyer program partner within ten (10) business days after the conclusion of the Event provided that the Event is not cancelled, and all other terms and conditions of the group or catering contract executed in connection with the Event were met.  Miles awarded vary by participating frequent flyer airline program partner.  Points and Miles cannot both be earned for the same Event by a Member.
 
-5.3.d.  Elite Night Credit. Members who hold Qualifying Events at Participating Properties receive one (1) Elite Night Credit for every twenty (20) room nights booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract. The earning of ten (10) Elite Night Credits per calendar year for the first Qualifying Event will end on December 31, 2019.
+5.3.d.  Elite Night Credit. Members who hold Qualifying Events at Participating Properties receive one (1) Elite Night Credit for every twenty (20) room nights booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract. The earning of ten (10) Elite Night Credits per calendar year for the first Qualifying Event ended on December 31, 2019.
 
 5.3.e.  Currency Exchange. Points or Miles awarded for Qualifying Events held at Participating Properties in international locations are based on local currency converted to U.S. dollars.  Local currency is converted into U.S. dollars on the day of the Qualifying Event.  Points or Miles are awarded using a published rate of exchange in effect at time of conversion.  This rate will be determined at the Loyalty Program’s sole discretion, based on standard currency conversion methods, but may vary from currency conversion rates used by credit card companies.
 
@@ -1948,7 +1948,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                  
+                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
                                                               
                                               
                                       
@@ -1958,4 +1958,11 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                   © 1996  2020  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help
+                                                                   © 1996  2020  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help    
+                                                              
+                                                    
+                                                    
+                                                              
+                                                                
+                                                                
+                                                                   English
