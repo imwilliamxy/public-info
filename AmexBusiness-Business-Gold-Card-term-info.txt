@@ -7,7 +7,7 @@ If it does not, we will use the Prime Rate from the previous day it was publishe
 If the Prime Rate increases, variable APRs will increase.
 In that case, you may pay more interest and have a higher Minimum Payment Due.
 When the Prime Rate changes, the resulting changes to variable APRs take effect as of the first day of the billing period.
-Variable APRs are accurate as of 02/23/2020.
+Variable APRs are accurate as of [CURRENT_DATE].
 TERMS AND CONDITIONS View the full Card Member Agreement.
 By submitting this application, you, as an individual and the Authorizing Officer of the Company, (a) are requesting us to open an Account in the name of the Company, (b) are requesting that we issue Card(s) as you direct, (c) are agreeing to be jointly and severally liable with the Company for all charges to the account, and (d) are REPRESENTING THAT ALL CARD(S) ISSUED ON THE ACCOUNT WILL ONLY BE USED FOR COMMERCIAL OR BUSINESS PURPOSES.
 Only qualified individuals 18 or over may be approved for a Card Account.
