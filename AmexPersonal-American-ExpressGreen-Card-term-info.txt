@@ -41,7 +41,7 @@ Up to $39
 
 How We Will Calculate Your Balance: We use the Average Daily Balance method (including new transactions).
 
-Variable APRs for each billing period are based on the Prime Rate published in The Wall Street Journal on the Closing Date of the billing period. The Wall Street Journal may not publish the Prime Rate on that day. If it does not, we will use the Prime Rate from the previous day it was published. If the Prime Rate increases, variable APRs will increase. In that case, you may pay more interest and have a higher Minimum Payment Due. When the Prime Rate changes, the resulting changes to variable APRs take effect as of the first day of the billing period. Variable APRs are accurate as of 02/21/20.
+Variable APRs for each billing period are based on the Prime Rate published in The Wall Street Journal on the Closing Date of the billing period. The Wall Street Journal may not publish the Prime Rate on that day. If it does not, we will use the Prime Rate from the previous day it was published. If the Prime Rate increases, variable APRs will increase. In that case, you may pay more interest and have a higher Minimum Payment Due. When the Prime Rate changes, the resulting changes to variable APRs take effect as of the first day of the billing period. Variable APRs are accurate as of [CURRENT_DATE].
 TERMS AND CONDITIONS
 
 View the full Card Member Agreement .
