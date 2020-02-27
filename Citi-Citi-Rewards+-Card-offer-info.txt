@@ -4,6 +4,7 @@ The only card that automatically rounds up to the nearest 10 points on every pur
                                             Bonus ThankYou® Points are not available if you received a new cardmember bonus for Citi Rewards+℠, Citi ThankYou® Preferred, Citi ThankYou® Premier/Citi Premier℠ or Citi Prestige®, or if you have closed any of these accounts, in the past 24 months.
                                         
 Citi Rewards+℠ Card
+[RATE_DESCRIBE]
 Apply Now
 Apply by Phone: 1-800-514-6236
 TTY: Use Relay Service
