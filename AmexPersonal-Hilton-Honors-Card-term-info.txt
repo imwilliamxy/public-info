@@ -42,9 +42,9 @@ Foreign Transaction
 None
 Penalty Fees
   Late Payment
-Up to $39
+Up to $40
 Returned Payment
-Up to $39
+Up to $40
 Overlimit
 None
 
@@ -53,7 +53,7 @@ How We Will Calculate Your Balance: We use a method called "average daily balanc
 Loss of Introductory APR: We may end your Introductory APR and apply the Penalty APR if you do not pay at least the Minimum Payment Due within 60 days after its Payment Due Date.
 
 The variable penalty APR will not exceed 29.99%.
-Variable APRs for each billing period are based on the Prime Rate published in The Wall Street Journal on the Closing Date of the billing period. The Wall Street Journal may not publish the Prime Rate on that day. If it does not, we will use the Prime Rate from the previous day it was published. If the Prime Rate increases, variable APRs will increase. In that case, you may pay more interest and have a higher Minimum Payment Due. When the Prime Rate changes, the resulting changes to variable APRs take effect as of the first day of the billing period. Variable APRs are accurate as of 02/23/20.
+Variable APRs for each billing period are based on the Prime Rate published in The Wall Street Journal on the Closing Date of the billing period. The Wall Street Journal may not publish the Prime Rate on that day. If it does not, we will use the Prime Rate from the previous day it was published. If the Prime Rate increases, variable APRs will increase. In that case, you may pay more interest and have a higher Minimum Payment Due. When the Prime Rate changes, the resulting changes to variable APRs take effect as of the first day of the billing period. Variable APRs are accurate as of [CURRENT_DATE].
 TERMS AND CONDITIONS
 
 View the full Card Member Agreement .
@@ -174,11 +174,11 @@ Your account is eligible for Pay It if you are a Basic Card Member or Additional
 Plan It®
 With Plan It®, you can create up to 10 active payment plans, each subject to a plan fee. The plan fee is a fixed finance charge that will be charged each month that the corresponding plan is active.
 
-To create a plan, select qualifying purchases of $100 or more and a plan duration. You may select up to 10 qualifying purchases for each plan that you create in your American Express online Account. You may select only one qualifying purchase for each plan that you create in the American Express App. Plan duration options may vary depending on the total dollar amount of the qualifying purchases you move into a Plan. Qualifying purchases will be identified in your American Express online Account and American Express App. Qualifying purchases do not include purchases of cash or cash equivalents, purchases subject to Foreign Transaction Fees or any fee owed to us, including Annual Membership fees.
+To create a plan, select qualifying purchases or a qualifying amount of $100 or more and a plan duration. When creating a plan for purchases, you may select up to 10 qualifying purchases for each plan that you create in your American Express online Account. However, you may select only one qualifying purchase for each plan that you create in the American Express App. Plan duration options may vary depending on the total dollar amount of the qualifying purchases or qualifying amount you move into a Plan. Qualifying purchases will be identified in your American Express online Account and American Express App. Qualifying purchases or a qualifying amount do not include purchases of cash or cash equivalents, purchases subject to Foreign Transaction Fees or any fee owed to us, including Annual Membership fees.
 
-Your ability to create plans will be based on a variety of factors such as your creditworthiness or your credit limit. You will not be able to create plans if your Account is canceled. You will not be able to create plans if one or more of your American Express Accounts is enrolled into a debt management program, or has a payment that is returned unpaid, or is delinquent. The number and length of plan duration options offered to you, and the number of active plans you can have at a time, will be at our discretion and will be based on a variety of factors such as your creditworthiness, the purchase amount, and your Account history. After a plan is paid in full, it will be removed from your Account in the next billing period.
+Your ability to create plans will be based on a variety of factors such as your creditworthiness or your Credit Limit. You will not be able to create plans if your Account is canceled. You will also not be able to create plans if one or more of your American Express Accounts is enrolled into a debt management program, or has a payment that is returned unpaid, or is delinquent. The number and length of plan duration options offered to you, and the number of active plans you can have at a time, will be at our discretion and will be based on a variety of factors such as your creditworthiness, the purchase amount(s), and your Account history. After a plan is paid in full, it will be removed from your Account in the next billing period.
 
-Plan It is available to Credit Card Accounts issued by a U.S. banking subsidiary of American Express, excluding Accounts with Pay Over Time and Credit Card Accounts that must be paid in full each month. Only the Basic Card Member on the Account can create a plan. Prepaid Cards and products, American Express Corporate Cards, American Express Small Business Cards and American Express-branded Cards or Account numbers issued by other financial institutions are not eligible.
+Plan It is available on Credit Card Accounts issued by a U.S. banking subsidiary of American Express, excluding Accounts with Pay Over Time and Credit Card Accounts that must be paid in full each month. Only the Basic Card Member on the Account can create a plan. Prepaid Cards and products, American Express Corporate Cards, American Express Small Business Cards and American Express-branded Cards or Account numbers issued by other financial institutions are not eligible.
 ShopRunner
 ShopRunner Benefit Terms and Conditions
 Enrolling in the Benefit.
