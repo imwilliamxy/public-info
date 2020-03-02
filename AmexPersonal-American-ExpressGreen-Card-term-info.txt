@@ -34,9 +34,9 @@ Foreign Transaction
 None
 Penalty Fees
   Late Payment
-Up to $39
+Up to $40
 Returned Payment
-Up to $39
+Up to $40
 
 
 How We Will Calculate Your Balance: We use the Average Daily Balance method (including new transactions).
