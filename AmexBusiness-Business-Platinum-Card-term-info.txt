@@ -25,23 +25,23 @@ You may pay more than the minimum payment due, up to your entire outstanding bal
 Notice to Ohio Residents: The Ohio laws against discrimination require that all creditors make credit equally available to all credit worthy customers, and that credit reporting agencies maintain separate credit histories on each individual upon request.
 The Ohio civil rights commission administers compliance with this law.
 The Business Platinum Card® is issued by American Express National Bank.
-©2020 American Express National Bank.POID GBKP:0001OFFER TERMSWelcome offer not available to applicants who have or have had this Card.
-We may also consider the number of American Express Cards you have opened and closed as well as other factors in making a decision on your welcome offer eligibility.Welcome OfferEarn up to 75,000 Membership Rewards® points.
-To be eligible to earn 50,000 additional points, you must charge $10,000 of eligible purchases*, OR to be eligible for another 25,000 additional points (for a total of 75,000 points), you must charge a total of $20,000 (the "Threshold Amount") in eligible purchases.
+©2020 American Express National Bank.POID GDBO:0001[OFFER_CODE] TERMSWelcome offer not available to applicants who have or have had this Card.
+We may also consider the number of American Express Cards you have opened and closed as well as other factors in making a decision on your welcome offer eligibility.Welcome OfferEarn up to 85,000 Membership Rewards® points.
+To be eligible to earn 50,000 additional points, you must charge $10,000 of eligible purchases*, OR to be eligible for another 35,000 additional points (for a total of 85,000 points), you must charge a total of $20,000 (the "Threshold Amount") in eligible purchases.
 Eligible purchases can be made by the Basic Card Member and any Additional Card Members on a single Card Account.
-You must charge your eligible purchases during the first 3 months of membership on an eligible Business Platinum Card® from American Express.
+You must charge your eligible purchases during the first 3 months of membership on an eligible Business Platinum Card® from American Express OPEN.
 Limit one offer per Card Account.
-We will credit the 50,000 additional points or another 25,000 additional points (for a total of 75,000 points) depending on whether you spent $10,000 or more or $20,000 or more on eligible purchases during those first 3 months.
+We will credit the 50,000 additional points or another 35,000 additional points (for a total of 85,000 points) depending on whether you spent $10,000 or more or $20,000 or more on eligible purchases during those first 3 months.
 Offer may not be combined with any other special offer.
 Your account must not be canceled or past due at the time of fulfillment of any offers.
 *Eligible purchases are purchases for goods and services minus returns and other credits.
 Eligible purchases do NOT include fees or interest charges, purchases of travelers checks, purchases of reloading or prepaid cards, purchases of gift cards, person-to-person payments or purchases of other cash equivalents.
 Additional terms and restrictions apply.
-You can earn 50,000 points after you spend $10,000 or more in eligible purchases or another 25,000 additional points (for a total of 75,000 points) after you spend $20,000 or more on eligible purchases on your Card within your first 3 months of Card Membership starting from the date your account is approved.
+You can earn 50,000 points after you spend $10,000 or more in eligible purchases or another 35,000 additional points (for a total of 85,000 points) after you spend $20,000 or more on eligible purchases on your Card within your first 3 months of Card Membership starting from the date your account is approved.
 In rare instances, your period to spend $10,000 (or $20,000) may be shorter than 3 months if there is a delay in receiving your Card.
 Also, purchases may fall outside of the 3 month period in some cases, such as a delay in merchants submitting transactions to us or if the purchase date differs from the date you made the transaction.
 (For example, if you buy goods online, the purchase date may be the date the goods are shipped).
-The 50,000 (or 75,000) additional points will be credited to your Membership Rewards® account 8-12 weeks after you have met the eligible purchase requirement.
+The 50,000 (or 85,000) additional points will be credited to your Membership Rewards® account 8-12 weeks after you have met the eligible purchase requirement.
 If we in our sole discretion determine that you have engaged in abuse, misuse, or gaming in connection with the welcome offer in any way or that you intend to do so (for example, if you applied for one or more cards to obtain a welcome offer (s) that we did not intend for you; if you cancel or downgrade your account within 12 months after acquiring it; or if you cancel or return purchases you made to meet the Threshold Amount), we may not credit Membership Rewards® points to, we may freeze Membership Rewards® points credited to, or we may take away Membership Rewards® points from your account.
 We may also cancel this Card account and other Card accounts you may have with us.
 American Express reserves the right to modify or revoke offer at any time.
@@ -124,7 +124,17 @@ The Amex® Business App is available on the App Store® and Google Play™.
 Apple, the Apple logo and iPhone are trademarks of Apple, Inc., registered in the U.S.
 and other countries.
 App Store is a service mark of Apple Inc.
-Google Play is a trademark of Google Inc.American Express International LoungesBusiness Platinum Card Members have unlimited complimentary access to American Express Lounge locations.
+Google Play is a trademark of Google Inc.American Express ExperiencesOffer valid in select cities.
+During the specified sales period, tickets are available exclusively to all American Express® Card Members.
+Tickets must be purchased with an American Express Card.
+Standard service charges apply.
+Offer is subject to availability.
+Not all seats are available and blackout dates apply.
+All sales final.
+No refunds.
+No exchanges.
+Offer may be changed or revoked at any time at the sole discretion of American Express.
+Some events may not be accessible to Card Members with disabilities.American Express International LoungesBusiness Platinum Card Members have unlimited complimentary access to American Express Lounge locations.
 Guest access policies vary by location and are subject to change.
 Fees may apply for additional guests.
 To access American Express Lounges, the Business Platinum Card Member must present the agent with the following upon each visit: his or her valid Card and upon request, same-day airline ticket on any carrier and a government-issued I.D.
@@ -240,17 +250,7 @@ You will not receive an alert if an Employee makes a purchase at a merchant from
 The Spending Limit is not a guarantee that the Employee Card Member will be able to make purchases up to that limit.
 There are certain purchases where the limit does not apply, such as, for example, restaurant tips and hotel stays extended beyond their original reservation period, and the overall Account capacity is taken into consideration.
 You agree to pay all Charges without regard to whether any Charges exceed a limit, and you agree that we are not liable to you or any other person when a limit is not applied to any Charges and/or when Charges are incurred and billed that exceed a limit.
-For more information on the application of the limit, please refer to the Employee Card Spending Limits Terms and Conditions at www.americanexpress.com/spendlimits/terms, which will also be provided when you enroll Employee Card(s) in this feature.Entertainment Access®Offer valid in select cities.
-During the specified sales period, tickets are available exclusively to all American Express® Card Members.
-Tickets must be purchased with an American Express Card.
-Standard service charges apply.
-Offer is subject to availability.
-Not all seats are available and blackout dates apply.
-All sales final.
-No refunds.
-No exchanges.
-Offer may be changed or revoked at any time at the sole discretion of American Express.
-Some events may not be accessible to Card Members with disabilities.Escape LoungesThis benefit is available to Business Platinum Card Members.
+For more information on the application of the limit, please refer to the Employee Card Spending Limits Terms and Conditions at www.americanexpress.com/spendlimits/terms, which will also be provided when you enroll Employee Card(s) in this feature.Escape LoungesThis benefit is available to Business Platinum Card Members.
 Card Members receive complimentary access to any US location of the Escape Lounges.
 Card Member must present his or her valid Card, a boarding pass showing a confirmed reservation for same-day travel on any carrier and government-issued I.D.
 In some cases, Card Member must be 21 years of age to enter without a parent or guardian.
@@ -276,7 +276,8 @@ American Express has no control over the application and/or approval process for
 American Express has no liability regarding the Global Entry or TSA Pre✓® Programs.
 U.S.
 Customs and Border Protection (CBP) (for Global Entry) and U.S.
-Transportation Security Administration (TSA) (for TSA Pre✓®) charge an application fee to process each respective application regardless of whether the Card Member’s application is approved.
+Transportation Security Administration (TSA) (for TSA Pre✓®) charge an application fee to process each respective application regardless of whether the Card Member's application is approved.
+The Department of Homeland Security may suspend acceptance of applications on any basis at its discretion.
 American Express will provide a statement credit for the application fee regardless of the decision made by CBP (for Global Entry) or TSA (for TSA Pre✓®) but will not provide a statement credit for subsequent application fees charged to the same eligible Card within 4 years (for Global Entry) or 4.5 years (for TSA Pre✓®), even if the original application is rejected.
  Membership for Global Entry or TSA Pre✓® is per person, and a separate application must be completed for each individual.
  For additional information on the Global Entry or TSA Pre✓® programs, including information regarding the application and/or approval process and for a list of participating airlines and airports, as well as the full terms and conditions of the programs, please go to www.cbp.gov/travel/trusted-traveler-programs/global-entry for Global Entry and www.tsa.gov for TSA Pre✓®.
@@ -288,7 +289,7 @@ American Express relies on accurate transaction data to identify eligible Global
 If you do not see a credit for a qualifying purchase on your eligible Card after 8 weeks, simply call the number on the back of your Card.
 Card Members are responsible for payment of all application charges until the statement credit posts to the Card account.
 To be eligible for this benefit, Card account(s) must be active through the time of statement credit fulfilment.
- Global Entry Fee Credit Option:  Global Entry is a CBP program that allows expedited clearance for pre-approved, low-risk international travelers upon arrival in the United States.
+ Global Entry Fee Credit Option: Global Entry is a CBP program that allows expedited clearance for pre-approved, low-risk international travelers upon arrival in the United States.
 Global Entry membership also includes access to the TSA Pre✓® program with no additional application or fee required.
 If a Card Member applies separately for TSA Pre✓® with the same eligible Card, the TSA Pre✓® application fee is not eligible for a statement credit.
  To receive the $100 Global Entry statement credit, Card Members must pay for the $100 Global Entry application fee with an eligible Card.
@@ -296,9 +297,9 @@ Additional Cards on eligible Consumer and Business accounts are also eligible fo
 To receive the statement credit, the Global Entry application fee must be charged on the eligible Additional Card.
 Global Entry members can opt-in to TSA Pre✓® by entering their Global Entry membership number (PASS ID) in the "Known Traveler Number" field each time a flight reservation is made on a participating airline.
 Alternatively, Card Members can add their Global Entry PASS ID to their frequent flyer profile(s) with the participating airline(s) and then ensure that their frequent flyer number is entered for each flight booking.
-If approved, membership into the Global Entry program is valid for 5 years and subject to the program’s terms and conditions.
+If approved, membership into the Global Entry program is valid for 5 years and subject to the program's terms and conditions.
 You must re-apply for the Global Entry program every five years for continuous benefits.
- TSA Pre✓® Fee Credit Option:  TSA Pre✓® is an intelligence-driven risk based program managed by TSA that allows low-risk travelers to experience faster, more efficient screening at participating U.S.
+ TSA Pre✓® Fee Credit Option: TSA Pre✓® is an intelligence-driven risk based program managed by TSA that allows low-risk travelers to experience faster, more efficient screening at participating U.S.
 airport checkpoints for domestic and international travel.
 The TSA Pre✓® application program is a DHS Trusted Traveler program.
 TSA began accepting TSA Pre✓® applications on Wednesday, Dec.
@@ -307,7 +308,7 @@ Enrolling in TSA Pre✓® does not guarantee selection for expedited screening e
  To receive the $85 TSA Pre✓® statement credit, Card Members must pay for the $85 TSA Pre✓® application fee with an eligible Card.
 Additional Cards on eligible Consumer and Business Card accounts are also eligible for the $85 statement credit.
 To receive the statement credit, the TSA Pre✓® application fee must be charged on the eligible Additional Card.
-If approved, Membership into the TSA Pre✓® program is valid for 5 years and subject to the program’s terms and conditions.Fine Hotels & ResortsValid only for new Fine Hotels & Resorts bookings made through Platinum Travel Service, Business Platinum Travel Service, Centurion Travel Service, americanexpress.com/fhr, any American Express Travel offices or the Agency Services Desk.
+If approved, Membership into the TSA Pre✓® program is valid for 5 years and subject to the program's terms and conditions.Fine Hotels & ResortsValid only for new Fine Hotels & Resorts bookings made through Platinum Travel Service, Business Platinum Travel Service, Centurion Travel Service, americanexpress.com/fhr, any American Express Travel offices or the Agency Services Desk.
 Payment must be made in full with an American Express Card in the Platinum Card Member's or Centurion® Member's name.
 Available for Platinum Charge Card Members and Centurion® Members only, and excludes Platinum Credit Card Members such as Platinum Delta SkyMiles® Card Members who are not also Platinum Charge Card Members.
 Card Member must travel on itinerary booked to be eligible for benefits described.
