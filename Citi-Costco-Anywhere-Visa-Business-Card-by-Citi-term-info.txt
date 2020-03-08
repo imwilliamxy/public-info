@@ -25,7 +25,7 @@ Annual Percentage Rate (APR) for Purchases
 
 
 
-16.74%.
+16.24%.
 
 								
 								This APR will vary with the market based on the Prime Rate.a
@@ -37,7 +37,7 @@ APR for Cash Advances
 
 
 
-26.74%
+26.24%
 This APR will vary with the market based on the Prime Rate.b
 
 
@@ -158,7 +158,7 @@ How We Will Calculate Your Balance: We use a method called "daily balance (inclu
 Payment Allocation: We may apply the portion of your payments up to your minimum payment due to lower APR balances first. Generally, payments above your minimum payment due will be applied to your highest APR balance first.
 
 
-Prime Rate: The variable rates shown here are accurate based on a 4.75% Prime Rate.
+Prime Rate: The variable rates shown here are accurate based on a 4.25% Prime Rate.
 
 
 
