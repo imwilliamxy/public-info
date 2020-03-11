@@ -10,7 +10,7 @@ APR for Balance Transfers
 
 This APR will vary with the market based on the Prime Rate.
 APR for Cash Advances
-26.24%
+%
 This APR will vary with the market based on the Prime Rate.
 Penalty APR and When it Applies
 29.99%
