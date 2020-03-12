@@ -9,7 +9,7 @@ APR for Balance Transfers
 
 This APR will vary with the market based on the Prime Rate.
 APR for Cash Advances
-%
+26.24%
 This APR will vary with the market based on the Prime Rate.
 Penalty APR and When it Applies
 29.99%
@@ -140,6 +140,9 @@ To create a plan, select qualifying purchases or a qualifying amount of $100 or 
 Your ability to create plans will be based on a variety of factors such as your creditworthiness or your Credit Limit. You will not be able to create plans if your Account is canceled. You will also not be able to create plans if one or more of your American Express Accounts is enrolled into a debt management program, or has a payment that is returned unpaid, or is delinquent. The number and length of plan duration options offered to you, and the number of active plans you can have at a time, will be at our discretion and will be based on a variety of factors such as your creditworthiness, the purchase amount(s), and your Account history. After a plan is paid in full, it will be removed from your Account in the next billing period.
 
 Plan It is available on Credit Card Accounts issued by a U.S. banking subsidiary of American Express, excluding Accounts with Pay Over Time and Credit Card Accounts that must be paid in full each month. Only the Basic Card Member on the Account can create a plan. Prepaid Cards and products, American Express Corporate Cards, American Express Small Business Cards and American Express-branded Cards or Account numbers issued by other financial institutions are not eligible.
+Seller of Travel
+American Express Travel Related Services Company, Inc.,when acting solely as a sales agent for travel suppliers, is not responsible for the actions or inactions of such suppliers. We want you to be aware that certain suppliers pay us commissions and other incentives for reaching sales targets or other goals, and may also provide incentives to our travel counselors. For more information please visit www.americanexpress.com/travelterms
+California CST#1022318, Washington UBI#600-469-694, Iowa TA#669.
 ShopRunner
 ShopRunner Benefit Terms and Conditions
 Enrolling in the Benefit.
