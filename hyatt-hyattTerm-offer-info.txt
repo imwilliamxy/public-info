@@ -2,9 +2,9 @@ World of Hyatt
 Terms & Conditions
 (“Terms”)
 
-(Updated and Effective Date: February 15, 2020)
+(Updated and Effective Date: March 13, 2020)
  
-Thank you for visiting the Terms that govern the World of Hyatt program (“Program”), which is brought to you by Hyatt Corporation and its subsidiaries and affiliates (“Hyatt,” “we,” or “us”). You agree to these Terms by participating in the Program. The Program is a customer-loyalty program through which Hyatt offers eligible individuals the opportunity to earn points and qualify for different tiers of benefits and awards as explained throughout these Terms. Please see our Privacy Policy, available at privacy.hyatt.com, which is applicable to your participation in the Program.
+Thank you for visiting the Terms that govern the World of Hyatt program (“Program”), which is brought to you by Hyatt Corporation and its subsidiaries and affiliates (“Hyatt,” “we,” or “us”). You agree to these Terms by participating in the Program. The Program is a customer-loyalty program through which Hyatt offers eligible individuals the opportunity to earn points and qualify for different tiers of benefits and awards as explained throughout these Terms. Please see our Privacy Policies, available at privacy.hyatt.com, which are applicable to your participation in the Program.
  
 Please see Appendix A to these Terms for information about points in the Program, including how to earn them and restrictions. Please see Appendix B to these Terms for information on Program benefits available to all Members (defined in I.(a) below). Please see Appendix C to these Terms for information on the tiers of elite status in the Program and the additional benefits offered to Members who receive elite status in the Program. Please see Appendix D to these Terms for information about participating in the Program through meetings and events.
  
@@ -83,7 +83,7 @@ Hyatt is not responsible for partner withdrawals from the Program, changes in pa
  
 V. NO WARRANTIES; LIMITATION OF LIABILITY
  
-THIS PROGRAM IS MADE AVAILABLE TO YOU ON AN AS-IS, AS-AVAILABLE BASIS, WITHOUT REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. HYATT AND THE OWNERS, OPERATORS, FRANCHISEES, DIRECTORS, MANAGERS, AND EMPLOYEES OF ANY HYATT PROPERTY (COLLECTIVELY, THE “HYATT PARTIES”) MAKE NO REPRESENTATION ABOUT THE SUITABILITY OF THE PROGRAM FOR YOU. THE HYATT PARTIES SPECIFICALLY DISCLAIM ALL WARRANTIES AND CONDITIONS OF ANY KIND, INCLUDING ALL IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. YOUR PARTICIPATION IN THE PROGRAM IS AT YOUR OWN RISK.
+THIS PROGRAM IS MADE AVAILABLE TO YOU ON AN AS-IS, AS-AVAILABLE BASIS, WITHOUT REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. HYATT AND THE OWNERS, OPERATORS, FRANCHISEES, DIRECTORS, MANAGERS, AND EMPLOYEES OF ANY HYATT AND/OR ANY HYATT PROPERTY (COLLECTIVELY, THE “HYATT PARTIES”) MAKE NO REPRESENTATION ABOUT THE SUITABILITY OF THE PROGRAM FOR YOU. THE HYATT PARTIES SPECIFICALLY DISCLAIM ALL WARRANTIES AND CONDITIONS OF ANY KIND, INCLUDING ALL IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. YOUR PARTICIPATION IN THE PROGRAM IS AT YOUR OWN RISK.
  
 WITHOUT LIMITING THE FOREGOING, THE HYATT PARTIES DO NOT REPRESENT OR WARRANT THAT THE INFORMATION RELATED TO THE PROGRAM IS ACCURATE, COMPLETE, RELIABLE, USEFUL, TIMELY, OR CURRENT OR THAT THE PROGRAM WILL OPERATE WITHOUT INTERRUPTION OR ERROR. DESPITE OUR COMMERCIALLY REASONABLE EFFORTS, THE PROGRAM SITE AND OTHER PROGRAM MATERIALS MAY CONTAIN TYPOGRAPHICAL OR OTHER ERRORS OR INACCURACIES, INCLUDING, WITHOUT LIMITATION, REGARDING THE AMOUNT OR VALUE OF A PARTICULAR AWARD, THE NUMBER OF POINTS REQUIRED TO REDEEM A PARTICULAR AWARD, THE NUMBER OF POINTS TO BE AWARDED FOR A PARTICULAR ACTION, THE ABILITY TO REDEEM AN AWARD OR RECEIVE A MEMBERSHIP BENEFIT AT A PARTICULAR PROPERTY, OR THE CLASSIFICATION OF ANY PROPERTY FOR AWARD PURPOSES. NO HYATT PARTY WILL BE RESPONSIBLE FOR ANY SUCH ERROR, TYPO, OR MISPRINT IN THESE TERMS OR ANY PROGRAM MATERIALS. HYATT RESERVES THE RIGHT TO VOID OR REFUSE TO PROCESS ANY PROGRAM AWARD, PURPORTED POINT-EARNING EVENT, OR OTHER TRANSACTION ARISING OUT OF SUCH AN ERROR, TYPO, OR MISPRINT.
  
@@ -107,9 +107,7 @@ VII. LIMITED OR NO PARTICIPATION BY CERTAIN PROPERTIES AND BRANDS
 (1) In General & Specified Properties. As used in these Terms, “hotel” or “resort” means any location that offers multiple rooms for overnight accommodations by more than one group of transient guest(s) in a single building or a series of inter-connected buildings on one property. (“Hotel” and “resort” also include certain single-dwelling units among the Destination Residences (defined below) that can accommodate only one group of transient guests for any given overnight period, but are located on a property containing other Destination branded properties.) Not every hotel or resort that is affiliated with Hyatt participates in the Program. At this time, none of the following properties participates in the Program, and none is considered a Hyatt “hotel” or “resort” as used in these Terms:
 •                The Cranwell Golf & Spa Resort
 •                Alila Purnama
-•                Wild Dunes Resort
-•                Vacation Rentals at Wild Dunes Resort
-•                Sunriver Resort
+•                Sunriver Resort
 •                Vacation Homes at Sunriver Resort
  
 In addition, some non-hotel properties and other venues do not participate in the Program even though they are affiliated with Hyatt - unless otherwise expressly specified in the terms of a particular offer related to any such non-participating property or venue.
