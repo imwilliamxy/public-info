@@ -605,7 +605,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                            
+                                    2.7      Foreign Exchange.    The amount of Points earned at Participating Properties where a non-U.S. dollar currency is used will be calculated based on Qualifying Charges converted to U.S. dollar at the exchange rate selected by the Company.  This may be the foreign exchange rate used by a Participating Property at check-in, at check-out or another rate selected by the Company and may not be the same rate used for currency conversions on the Member's folio.          
                           
                           
                             
@@ -652,7 +652,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                            
+                                   3.REDEEM POINTS           
                           
                           
                             
