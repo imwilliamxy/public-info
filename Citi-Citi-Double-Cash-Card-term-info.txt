@@ -25,7 +25,7 @@ Annual Percentage Rate (APR) for Purchases
 
 
 
-14.99% to 24.99%, based on your creditworthiness.
+13.99% to 23.99%, based on your creditworthiness.
                                                         
                                                  
 
@@ -47,7 +47,7 @@ APR for Balance Transfers
                                                  
                                                  
                                                  
-                                                 After that, your APR will be 14.99% to 24.99%, based on your creditworthiness. 
+                                                 After that, your APR will be 13.99% to 23.99%, based on your creditworthiness. 
                                                  
                                                  
                                                  These APRs will vary with the market based on the Prime Rate.a
@@ -59,7 +59,7 @@ APR for Cash Advances
 
 
 
-26.24%
+25.24%
 This APR will vary with the market based on the Prime Rate.b
 
 
@@ -69,7 +69,7 @@ APR for Citi Flex Plan
 
 
 
-14.99% to 24.99%, based on your creditworthiness.
+13.99% to 23.99%, based on your creditworthiness.
                                                  
                                                        
                                                         These APRs will vary with the market based on the Prime Rate.a
@@ -217,7 +217,7 @@ Payment Allocation: We may apply the portion of your payments up to your Minimum
 
 
 
-Prime Rate: The variable rates shown here are accurate based on a 4.25% Prime Rate.  
+Prime Rate: The variable rates shown here are accurate based on a 3.25% Prime Rate.  
 
 
 
