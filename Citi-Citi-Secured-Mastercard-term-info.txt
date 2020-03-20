@@ -25,7 +25,7 @@ Annual Percentage Rate (APR) for Purchases
 
 
 
-23.49%.
+22.49%.
 
                                                         
                                                         This APR will vary with the market based on the Prime Rate.a
@@ -37,7 +37,7 @@ APR for Balance Transfers
 
 
 
-23.49% for transfers completed within 2 months from date of account opening.
+22.49% for transfers completed within 2 months from date of account opening.
                                                  
                                                  
                                                  
@@ -53,7 +53,7 @@ APR for Cash Advances
 
 
 
-26.24%
+25.24%
 This APR will vary with the market based on the Prime Rate.b
 
 
@@ -63,7 +63,7 @@ APR for Citi Flex Plan
 
 
 
-23.49%.
+22.49%.
  This APR will vary with the market based on the Prime Rate.a
 
 
@@ -209,7 +209,7 @@ Payment Allocation: We may apply the portion of your payments up to your Minimum
 
 
 
-Prime Rate: The variable rates shown here are accurate based on a 4.25% Prime Rate.  
+Prime Rate: The variable rates shown here are accurate based on a 3.25% Prime Rate.  
 
 
 
