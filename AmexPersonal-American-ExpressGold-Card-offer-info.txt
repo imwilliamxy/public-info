@@ -10,7 +10,7 @@ Created with Sketch.
 $100
 dls-icon-hotel
 Created with Sketch.
-$100$100 Airline Fee Credit Enjoy perks while you fly and feel free to check your bags or enjoy an in-flight meal on us. Select one qualifying airline and then receive up to $100 per calendar year in statement credits when incidental fees are charged by the airline to your American Express Gold account.‡*  *American Express relies on accurate airline transaction data to identify incidental fee purchases. If you do not see a credit for a qualifying incidental purchase on your eligible Card after 4 weeks, simply call the number on the back of your Card. See terms & conditions for more details.‡ 1234All Benefits
+$100$120 Dining Credit Earn up to a total of $10 in statement credits monthly when you pay with the Gold Card at Grubhub, Seamless, The Cheesecake Factory, Ruth's Chris Steak House, Boxed, and participating Shake Shack locations. This can be an annual savings of up to $120. Enrollment required.‡ 1234All Benefits
 dls-icon-dining
 Created with Sketch.
 Dining
@@ -30,13 +30,4 @@ dls-icon-card-benefit
 Created with Sketch.
 Additional Services
 axp-icon-pluscircle
-Card Member Services Whenever you need us, we're here.Our Member Services team will ensure you are taken care of. From lost Card replacement to statement questions, we are available to help 24/7.American Express App Unlock what Membership has to offer with the American Express App. Discover nearby offers, explore rewards, and get fraud alerts while easily managing your account from virtually anywhere.‡YEAR-END SUMMARY Get access to a Year-End Summary of charges so you can review your annual spending. Learn More at americanexpress.com/yes.‡ADDITIONAL CARDS You can add an Additional Card for anyone 13+ and you will earn Membership Rewards points for their purchases in the same way you do on your own.‡Taste the World and Make it 4X More RewardingExploring new cities and dining like a local is even more rewarding when you earn 4X Membership Rewards points at restaurants worldwide, such as‡:
-dls-icon-point-4x
-Created with Sketch.
-points when you savor sashimi in Tokyo
-dls-icon-point-4x
-Created with Sketch.
-points on a decadent dinner in Marrakech
-dls-icon-point-4x
-Created with Sketch.
-points when you enjoy paella in sun-kissed Barcelona
+Card Member Services Whenever you need us, we're here.Our Member Services team will ensure you are taken care of. From lost Card replacement to statement questions, we are available to help 24/7.American Express App Unlock what Membership has to offer with the American Express App. Discover nearby offers, explore rewards, and get fraud alerts while easily managing your account from virtually anywhere.‡YEAR-END SUMMARY Get access to a Year-End Summary of charges so you can review your annual spending. Learn More at americanexpress.com/yes.‡ADDITIONAL CARDS You can add an Additional Card for anyone 13+ and you will earn Membership Rewards points for their purchases in the same way you do on your own.‡
