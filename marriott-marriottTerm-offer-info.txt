@@ -57,7 +57,7 @@ Loyalty Program Terms & Conditions
                           
                             
                             
-                                      Updated February 2020
+                                      Updated March 2020
 
 Effective in February 2019, the loyalty program for Marriott International, Inc. is Marriott Bonvoy (hereinafter, the “Loyalty Program”). Prior to this, the Loyalty Program operated as a unified program under three names: Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the “SPG Program”) (each a “Legacy Program”). These Legacy Programs were operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the “Company”).
 
@@ -111,7 +111,7 @@ These Program Rules supersede all previous terms and conditions applicable to th
                           
                             
                             
-                                    1.2Participating Properties and Brands    1.2.a. “Participating Properties” are hotels, resorts, and other transient stay properties operated under the brands below that are owned, managed, franchised or licensed by Marriott International (“Participating Brands”) and are bookable through Marriott Channels unless otherwise stated (see 1.2.b.).  The Participating Properties and Participating Brands include:
+                                    1.2Participating Properties and Brands     1.2.a. “Participating Properties” are hotels, resorts, and other transient stay properties operated under the brands below that are owned, managed, franchised or licensed by Marriott International (“Participating Brands”) and are bookable through Marriott Channels unless otherwise stated (see 1.2.b.).  The Participating Properties and Participating Brands include:
 
 i.     The Ritz-Carlton - all locations except for:
 
@@ -269,7 +269,7 @@ xxxiv. Homes & Villas by Marriott International  short-term home rentals provide
 
 1.2.b. “Marriott Channels” are collectively the Marriott Websites, the Mobile Apps, and the Customer Engagement Centers (which include Member Support).
 
-1.2.c. “Marriott Website” is a website operated by or on behalf of the Company or a Loyalty Program Participating Property and currently includes these websites: Marriott.com, RitzCarlton.com, stregis.com, editionhotels.com, theluxurycollection.com, bulgarihotels.com, whotels.com, jwmarriott.com, marriotthotels.com, sheraton.com, deltahotels.com, lemeridien.com, westin.com, autographhotels.com, designhotels.com, renhotels.com, tributeportfolio.com, gaylordhotels.com, courtyard.com, fourpoints.com, springhillsuites.com, proteahotels.com, fairfield.marriott.com, achotels.marriott.com, alofthotels.com, moxyhotels.com, marriottexecutiveapartments.com, residenceinn.marriott.com, TownePlaceSuites.com, elementhotelshub.com, homesandvillasbymarriott.com, and MarriottBonvoy.com.
+1.2.c. “Marriott Website” is a website operated by or on behalf of the Company or a Loyalty Program Participating Property and currently includes these websites: Marriott.com, RitzCarlton.com, stregis.com, editionhotels.com, theluxurycollection.com, bulgarihotels.com, whotels.com, jwmarriott.com, marriotthotels.com, sheraton.com, deltahotels.com, lemeridien.com, westin.com, autographhotels.com, design-hotels.marriott.com, renhotels.com, tributeportfolio.com, gaylordhotels.com, courtyard.com, fourpoints.com, springhillsuites.com, proteahotels.com, fairfield.marriott.com, achotels.marriott.com, alofthotels.com, moxyhotels.com, marriottexecutiveapartments.com, residenceinn.marriott.com, TownePlaceSuites.com, elementhotelshub.com, homesandvillasbymarriott.com, and MarriottBonvoy.com.
 
 1.2.d. A “Mobile App” is a downloadable application operated by or on behalf of the Company in connection with the Loyalty Program including, without limitation, the iPhone and Android versions thereof.          
                           
@@ -403,9 +403,7 @@ i.      Not all Points activities help maintain active status in the Loyalt
 
 A.      Gifting or transferring Points; however, converting Points to Miles or Miles to Points does count toward maintaining an active status;
 
-B.      Receiving Points as a gift or transfer; or
-
-C.      Earning Points through social media programs, such as #MarriottBonvoyPoints.
+B.      Receiving Points as a gift or transfer
 
 ii.      Awards redeemed by a Member prior to Point forfeiture are still valid even though the Award may not yet have been fulfilled at the time of Point forfeiture.
 
@@ -640,7 +638,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
 
 2.10.e.  Eat Around Town by Marriott Bonvoy.   A Member may earn Points when they enroll in the Eat Around Town by Marriott Bonvoy program and dine at participating restaurants. Members are subject to the terms and conditions of the Eat Around Town by Marriott Bonvoy program and the Loyalty Program Rules. More program information is available at eataroundtown.marriott.com.
 
-2.10.f.  Marriott International Online Retail.  A Member may earn 10,000 Points with the purchase of a mattress on any of the Marriott International’s thirteen (13) online retail websites (Shop EDITION, The Ritz-Carlton Shops, The Luxury Collection Store, St. Regis Boutique, W Hotels The Store, Curated by JW, Shop Marriott, Sheraton Store, Westin Store, Collect Renaissance, Gaylord Hotels The Store, Shop Courtyard, Fairfield Store). Points are awarded to the purchasing member approximately 3-5 weeks following the acceptance of the mattress delivery. Members are subject to the terms and conditions with the mattress purchase on the Marriott online retail sites and the Loyalty Program Rules. More information is available on the Marriott online retail websites.          
+2.10.f.  Marriott Bonvoy Boutiques.  A Member may earn 10,000 Points with the purchase of a mattress on any of the Marriott International’s thirteen (13) online retail websites (Shop EDITION, The Ritz-Carlton Shops, The Luxury Collection Store, St. Regis Boutique, W Hotels The Store, Curated by JW, Shop Marriott, Sheraton Store, Westin Store, Collect Renaissance, Gaylord Hotels The Store, Shop Courtyard, Fairfield Store). Points are awarded to the purchasing member approximately 3-5 weeks following the acceptance of the mattress delivery. Members are subject to the terms and conditions with the mattress purchase on the Marriott online retail sites and the Loyalty Program Rules. More information is available on the Marriott online retail websites.          
                           
                         
                         
@@ -962,7 +960,7 @@ ii.     Achievement of Lifetime Elite Status through Legacy Program Lifetim
                           
                             
                             
-                                    4.3  Elite Membership Benefits at Participating Brands    4.3.a.  Marriott Bonvoy Silver Elite Membership Benefits.  Silver Elite Members and above are eligible to receive the following benefits:
+                                    4.3  Elite Membership Benefits at Participating Brands     4.3.a.  Marriott Bonvoy Silver Elite Membership Benefits.  Silver Elite Members and above are eligible to receive the following benefits:
 
 i.      10% Bonus Points.  Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
@@ -997,7 +995,7 @@ iv.      Gift Shop Discount of 10% on retail merchandise.  Clothing, gifts
 
 The Gift Shop Discount is not offered at the following brands:  Courtyard, Four Points, SpringHill Suites, Fairfield, AC Hotels, Aloft, Residence Inn, TownePlace Suites, Element, Design Hotels TM and Vistana properties.
 
-4.3.b.  Marriott Bonvoy Gold Elite Membership Benefits.  In addition to all of the benefits Silver Elite Members receive, Gold Elite Members and above are eligible to receive the following benefits:
+ 4.3.b.  Marriott Bonvoy Gold Elite Membership Benefits.  In addition to all of the benefits Silver Elite Members receive, Gold Elite Members and above are eligible to receive the following benefits:
 
 i.      25% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
@@ -1210,7 +1208,7 @@ N/A
 
 v.      4 p.m. Late Checkout.  Platinum Elite Members and above may check out as late as 4 p.m. local time of the Participating Property.  Members can request late checkout when making a reservation through central reservations, at check-in, via the mobile app (where available) or at any time during their stay.  This benefit is guaranteed at all Participating Properties, except at resort and convention hotels and Design HotelsTM, where it is based upon availability.  Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties are excluded from this benefit.
 
-vi.      50-Night Annual Choice Benefit. A Platinum Elite Member who has achieved fifty (50) eligible Elite Night Credits in a calendar year (“Qualifying Period”) is eligible to receive one (1) additional benefit (a “50-Night Annual Choice Benefit”) from the list of available benefits on choice-benefit.marriott.com and shown below:
+ vi.      50-Night Annual Choice Benefit. A Platinum Elite Member who has achieved fifty (50) eligible Elite Night Credits in a calendar year (“Qualifying Period”) is eligible to receive one (1) additional benefit (a “50-Night Annual Choice Benefit”) from the list of available benefits on choice-benefit.marriott.com and shown below:
 
 
 Platinum Elite 50-Night Annual Choice Benefit Options:
@@ -1225,13 +1223,13 @@ The gift of Silver Elite status for a friend or family member
 
 Five (5) Elite Night Credits
 
-The list of 50-Night Annual Choice Benefits on choice-benefit.marriott.com is subject to change at any time.  Once a Platinum Elite Member becomes eligible to receive a 50-Night Annual Choice Benefit, he/she must choose his/her 50-Night Annual Choice Benefit by visiting choice-benefit.marriott.com and selecting one of the 50-Night Annual Choice Benefits.  A selection must be made through choice-benefit.marriott.com and may not be made through Member Support.  All 50-Night Annual Choice Benefit selections are final and may not be changed after they are made.  In the event that an eligible Platinum Elite Member fails to select a 50-Night Annual Choice Benefit by 11:59 p.m. Eastern US Time on January 15th of the year following the applicable Qualifying Period, such Platinum Elite Members will receive five (5) Suite Night Awards as his/her 50-Night Annual Choice Benefit ("Suite Night Awards," individually "Suite Night Award").
+The list of 50-Night Annual Choice Benefits on choice-benefit.marriott.com is subject to change at any time.  Once a Platinum Elite Member becomes eligible to receive a 50-Night Annual Choice Benefit, he/she must choose his/her 50-Night Annual Choice Benefit by visiting choice-benefit.marriott.com and selecting one of the 50-Night Annual Choice Benefits.  A selection must be made through choice-benefit.marriott.com and may not be made through Member Support.  All 50-Night Annual Choice Benefit selections are final and may not be changed after they are made.  In the event that an eligible Platinum Elite Member fails to select a 50-Night Annual Choice Benefit by 11:59 p.m. Eastern US Time on January 8th of the year following the applicable Qualifying Period, such Platinum Elite Members will receive five (5) Suite Night Awards as his/her 50-Night Annual Choice Benefit ("Suite Night Awards," individually "Suite Night Award").
 
  A.      Suite Night Awards may be redeemed for advance confirmable upgrades for select, premium rooms or standard suites on a per room, per night basis, subject to availability and the applicable terms and conditions set forth below for Suite Night Awards:
 
 (1)     Suite Night Awards expire on December 31 of the year following the year in which they were earned. For example, if 50 or 75 Qualifying Nights are achieved in 2020 and five Suite Night Awards are selected as the Member’s Annual Choice Benefit, the five Suite Night Awards will have an expiration date of December 31, 2021.
 
-(2)     Suite Night Awards may be used only on Loyalty Program eligible paid stays (excluding Advance Purchase Rates) as well as Free Night Award stays and Cash & Points stays.
+(2)     Suite Night Awards may be used only on Loyalty Program eligible paid stays as well as Free Night Award stays and Cash & Points stays.
 
 (3)    A Member may request to use their Suite Night Awards on Loyalty Program websites or by calling a Customer Engagement Center.
 
@@ -1305,13 +1303,9 @@ B.      40% off Bed.  Mattress and Box Spring 40% Discount from Marriott Re
 
 (8)    The Marriott Retail Brands Mattress and Box Spring 40% Discount promotional code is valid through December 31 of the year following the year in which the Annual Choice Benefit was earned.
 
-C.     $100 U.S. Dollar Charity Donation.  UNICEF $100 U.S. dollar Donation
+C.     $100 U.S. Dollar Charity Donation. US$100 Charity Donation to WE.
 
-(1)    The $100 donation from the Marriott Loyalty Program to U.S. Fund for UNICEF, Doing Business As, 'UNICEF USA' is not a tax-deductible contribution for the Platinum Elite Member who chooses this donation as his/her Platinum Elite Annual Choice Benefit.
-
-(2)    The Loyalty Program cannot direct or otherwise guarantee how UNICEF USA or UNICEF will spend the $100 donation.
-
-(3)    All funds are transferred to the U.S. Fund for UNICEF.
+(1)    The US$100 donation from the Marriott Loyalty Program to WE goes directly to the project benefiting the community of Kabolwo, through the ME to WE Foundation (501c3)  and does not cover program administrative expenses. The donation is not a tax-deductible contribution for the Platinum Elite Member who chooses this donation as his/her Platinum Elite Annual Choice Benefit. Marriott Bonvoy covers all administrative expenses of this program.
 
 D.      Gift Elite Status
 
@@ -1364,13 +1358,13 @@ U.S. $25
 
 ix.      Dedicated Elite Support for Platinum Elite Members (United States and Canada only: (800) 228-2100)
 
-4.3.d.  Marriott Bonvoy Titanium Elite Membership Benefits.  In addition to all of the benefits Platinum Elite Members receive, Titanium Elite Members and above are eligible to receive the following benefits:
+ 4.3.d.  Marriott Bonvoy Titanium Elite Membership Benefits.  In addition to all of the benefits Platinum Elite Members receive, Titanium Elite Members and above are eligible to receive the following benefits:
 
 i.      75% Bonus Points.  Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
 ii.      48-Hour Guaranteed Availability.  Limited to Titanium Elite Member's personal guestroom.  Guaranteed room availability for reservations booked at least forty-eight (48) hours prior to arrival and available when a Participating Property is sold out if the room is booked by 3 p.m. local time, forty-eight (48) hours prior to arrival, at all Participating Properties except resort hotels, Marriott Vacation Club Marriott Grand Residence Club, Design HotelsTM, and Vistana properties.  Forty-eight (48) Hour Guaranteed Availability may not be available on certain limited dates (e.g., special events).  Enhanced Room Upgrade benefits do not apply.  Benefit cannot be used in conjunction with Free Night Award usage or any type of promotional or discounted rates.  Member must pay prevailing rate at time of booking and length of stay requirements must be met.  For Residence Inn and TownePlace Suites, 48-Hour Guaranteed Availability applies to studio rooms only.
 
-iii.     75-Night Annual Choice Benefit.  A Titanium Elite Member who has achieved seventy-five (75) Elite Night Credits in a calendar year (“Qualifying Period”) is eligible to receive one (1) additional benefit (a “75-Night Annual Choice Benefit”) from the list of available benefits on choice-benefit.marriott.com and shown below:
+ iii.     75-Night Annual Choice Benefit.  A Titanium Elite Member who has achieved seventy-five (75) Elite Night Credits in a calendar year (“Qualifying Period”) is eligible to receive one (1) additional benefit (a “75-Night Annual Choice Benefit”) from the list of available benefits on choice-benefit.marriott.com and shown below:
 
 
 Titanium Elite 75-Night Annual Choice Benefit Options:
@@ -1387,7 +1381,7 @@ Five (5) Elite Night Credits
 
 One (1) Free Night Award
 
-The list of 75-Night Annual Choice Benefits on choice-benefit.marriott.com is subject to change at any time. Once a Titanium Elite Member becomes eligible to receive a 75-Night Annual Choice Benefit, he/she must choose his/her 75-Night Annual Choice Benefit by visiting choice-benefit.marriott.com and selecting one of the 75-Night Annual Choice Benefits. A selection must be made through choice-benefit.marriott.com and may not be made through Member Support. All 75-Night Annual Choice Benefit selections are final and may not be changed after they are made. In the event that an eligible Titanium Elite Member fails to select a 75-Night Annual Choice Benefit by 11:59 p.m. Eastern US Time on January 15th of the year following the applicable Qualifying Period, such Titanium Elite Members will receive five (5) Suite Night Awards as his/her 75-Night Annual Choice Benefit ("Suite Night Awards," individually "Suite Night Award"). The terms & conditions for each 75-Annual Choice Benefit option are listed under section 4.3.c.(vi), except for the following:
+The list of 75-Night Annual Choice Benefits on choice-benefit.marriott.com is subject to change at any time. Once a Titanium Elite Member becomes eligible to receive a 75-Night Annual Choice Benefit, he/she must choose his/her 75-Night Annual Choice Benefit by visiting choice-benefit.marriott.com and selecting one of the 75-Night Annual Choice Benefits. A selection must be made through choice-benefit.marriott.com and may not be made through Member Support. All 75-Night Annual Choice Benefit selections are final and may not be changed after they are made. In the event that an eligible Titanium Elite Member fails to select a 75-Night Annual Choice Benefit by 11:59 p.m. Eastern US Time on January 8th of the year following the applicable Qualifying Period, such Titanium Elite Members will receive five (5) Suite Night Awards as his/her 75-Night Annual Choice Benefit ("Suite Night Awards," individually "Suite Night Award"). The terms & conditions for each 75-Annual Choice Benefit option are listed under section 4.3.c.(vi), except for the following:
 
 A.      One Free Night Award
 
@@ -1407,7 +1401,7 @@ A.      One Free Night Award
 
 iv.      Dedicated Elite Support for Titanium Elite Members (United States and Canada only: (800) 399-4229)
 
-4.3.e.  Marriott Bonvoy Ambassador Elite Membership Benefits. In addition to all of the benefits Titanium Elite Members receive, Elite Members who reach 100 Qualifying Nights and $20,000 U.S. dollars in qualifying spend annually based on Qualifying Charges earned on Stays in a Qualifying Period (does not include Qualifying Charges made in advance for stays in the year following  the Qualifying Period such as for pre-paid stays) are eligible to receive the following benefits:
+ 4.3.e.  Marriott Bonvoy Ambassador Elite Membership Benefits. In addition to all of the benefits Titanium Elite Members receive, Elite Members who reach 100 Qualifying Nights and $20,000 U.S. dollars in qualifying spend annually based on Qualifying Charges earned on Stays in a Qualifying Period (does not include Qualifying Charges made in advance for stays in the year following  the Qualifying Period such as for pre-paid stays) are eligible to receive the following benefits:
 
 i.      Ambassador Service.  An Ambassador Elite Member is eligible to participate in the ambassador service during an Eligible Status Year and continue through the subsequent calendar year.  The ambassador service is a benefit that permits an eligible Member to receive certain additional benefits as further described here.
 
@@ -1458,7 +1452,7 @@ In addition, for Participating Properties in Asia, Australia & Pacific Islands, 
 
 5.1.c.  Individual Memberships.  Only individuals can be enrolled in the Loyalty Program pursuant to Section 1.3.b. of these Program Rules, and only individuals can participate in Marriott Bonvoy Events.  No corporations or organizations can hold a Loyalty Program Account and are thus not eligible to earn Points or Miles with Marriott Bonvoy Events.
 
-5.1.d.  Additional Conditions.  An Eligible Loyalty Program Member must acknowledge that he/she is eligible to earn Points or Miles for any Marriott Bonvoy Events under applicable laws, gift policies and incentive policies.  Members are responsible for complying with their own company or organization policies regarding loyalty programs pursuant to Section 1.3.c.v. of these Program Rules; however, to the extent such policies are inconsistent with these Program Rules, these Program Rules will govern.  Members are solely responsible for notifying their employers, principals and/or clients of any Points or Miles awarded in connection with Marriott Bonvoy Events.          
+5.1.d.  Additional Conditions.  An Eligible Loyalty Program Member must acknowledge that he/she is eligible to earn Points or Miles for any Marriott Bonvoy Events under applicable laws, gift policies and incentive policies.  Members are responsible for complying with their own company or organization policies regarding loyalty programs pursuant to Section 1.7.f.v. of these Program Rules; however, to the extent such policies are inconsistent with these Program Rules, these Program Rules will govern.  Members are solely responsible for notifying their employers, principals and/or clients of any Points or Miles awarded in connection with Marriott Bonvoy Events.          
                           
                           
                             
@@ -1574,7 +1568,7 @@ Marriott Bonvoy Brilliant American Express Card - Learn More
                           
                             
                             
-                                    6.3      International Credit Cards    Sometime in 2020, Loyalty Program Members with an international co-brand credit card will receive a Marriott Bonvoy credit card to replace their current one. Until then, they can continue to use their current credit card under the Legacy Program name as indicated below.6.3.a.  Marriott Bonvoy American Express Card for residents of Canada
+                                    6.3      International Credit Cards    Sometime in 2020, Loyalty Program Members with an international co-brand credit card may receive a Marriott Bonvoy credit card to replace their current one. Until then, they can continue to use their current credit card under the Legacy Program name as indicated below.6.3.a.  Marriott Bonvoy American Express Card for residents of Canada
 
 Marriott Bonvoy American Express Card for residents of Canada  Learn More (English)
 
@@ -1949,7 +1943,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                                                  
                                                               
                                               
                                       
@@ -1959,11 +1953,4 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                   © 1996  2020  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help    
-                                                              
-                                                    
-                                                    
-                                                              
-                                                                
-                                                                
-                                                                   English
+                                                                   © 1996  2020  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help
