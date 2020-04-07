@@ -364,17 +364,7 @@ iii.     Credit card information included in a Member’s profile will be u
                           
                             
                             
-                                    1.5   Membership Communications    1.5.a.  New Members will receive Marriott Bonvoy Loyalty Program communications. Legacy Program Members will no longer receive Legacy Program communications and instead will receive Marriott Bonvoy Loyalty Program communications.
-
-1.5.b.  All Loyalty Program communications will be sent to a Member’s mailing address or email address currently provided in the Member’s Account.  Communications delivered to the address on file will be deemed to have been received one (1) business day after sending it if delivered to the Member’s email address or five (5) business days after sending it if delivered to the mailing address provided.  Members must keep their email and mailing addresses current.  Neither the Company nor the Loyalty Program shall have any responsibility for misdirected or lost mail or any consequences thereof.
-
-1.5.c.  Members will receive regular Points balance reports by email, provided there has been a transaction on the Account since the last Points balance report and the Member provided the Company with the appropriate permission to contact the Member via email.
-
-1.5.d.  The Company may also send Members promotions, offers and other communications from time to time, which may include, without limitation, items from third parties.  The items from third parties are based on the information provided to the Company by a Member and any additional data the Company may maintain.  Members may change personal details and communications preferences at any time in the Account Profile  on the  Loyalty Program website  or by contacting Member Support; however, the Company may require a Member to send supporting documentation prior to allowing certain changes (e.g., legal name changes).
-
-1.5.e.  Any time a Member contacts Member Support, the Company may ask the Member certain security questions to verify the Member’s identity.  Member Support may monitor or record telephone calls to improve quality of service.
-
-1.5.f.  A Member can review his/her Points balance and transaction history and update personal details and preferences in the Account Profile on the Loyalty Program website. A Membership Number or his/her user name and password are required to access the website.          
+                                            
                           
                           
                             
@@ -783,15 +773,7 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                                    3.6      Points Advance.    Members who seek to make an Award Redemption Reservation with an insufficient Point balance may make the Award Redemption Reservation and either (1) purchase Points (as described in  Section 2.9) to make a valid Award Redemption, provided that the aggregate amount of Points purchased and/or received as a gift by the Member is less than or equivalent to 50,000 Points per calendar year; or (2) the Member accrues sufficient Points to use Points for payment of the Award Redemption no less than fourteen (14) days prior to Member’s arrival date. A maximum of three (3) Points Advance bookings are permitted to be maintained per Membership Account at any one time.
-
-3.6.a.  If a purchase of Points is not an option, or if a Member does not have sufficient Points to pay for an Award Redemption with Points fourteen (14) days or less from Member’s arrival date, Member will forfeit the Award Redemption part of the reservation.  The Award Redemption may be canceled by the Loyalty Program or the Participating Property and the reservation will be converted to a cash reservation at the best available rate.
-
-3.6.b.  To finalize an Award Redemption reservation if a Member does not have sufficient Points to pay at the time of booking, once a Member has accrued sufficient points (no later than fourteen (14) days prior to the stay), Member can finalize the Award Redemption reservation online or by calling Member Support.  The amount of Points required to finalize the Award Redemption reservation may change between the time of booking and the time that Points are deducted and the Award Redemption certificate is ordered and/or the member’s Free Night Award certificate(s) are assigned and attached to the reservation. The Member will be required to pay the amount of Points required at the time the Award Redemption certificate is ordered, even if the amount of Points required has increased since the time the Member booked the Award Redemption reservation. If the rate has changed and the amount of Points required has increased beyond the value of the Member’s Free Night Award certificate(s), the Member will no longer be able to use the certificate(s) for the stay.
-
-3.6.c.  Points Advance reservations booked prior to the launch of Off-Peak and Peak Redemption Rates will require the amount of Points stated at the time of booking in order to finalize the Award Redemption reservation and will not be subject to change, unless the Member modifies the reservation.  Any reservation modifications may result in a change to the amount of Points required to complete the Award Redemption reservation.
-
-3.6.d.  Points Advance can only be used for Award Redemption Stays, including Free Night Awards, Upgrade Awards, Cash + Points Awards, and PointSavers Awards (refer to Section 3.2).  Free Night Award certificate(s) can only be used on Points Advance reservations if their value is greater than or equal to one or more nights on the reservation at the time the Member orders and attaches the certificate(s) and/or deducts Points for the reservation. Points Advance cannot be used for any other Award Redemption options, including, but not limited to, Marriott Bonvoy Moments experiences, flights, Points to Miles conversions, Travel Packages, Instant Redemptions, and other services and merchandise.           
+                                            
                           
                           
                             
@@ -1943,7 +1925,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                                                  
                                                               
                                               
                                       
@@ -1953,11 +1935,4 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                   © 1996  2020  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help    
-                                                              
-                                                    
-                                                    
-                                                              
-                                                                
-                                                                
-                                                                   English
+                                                                   © 1996  2020  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help
