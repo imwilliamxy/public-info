@@ -2,7 +2,8 @@ PLEASE SCROLL DOWN TO READ IMPORTANT INFORMATION ABOUT RATES, FEES, AND OTHER CO
 Important information regarding rates, fees, and other cost informationPayment InformationFeesAnnual Membership Fee$0 for the first year, then $95Transaction Fees Foreign Transaction2.7% of each transaction after conversion to US dollars.Penalty Fees Late Payment$39 or 2.99% of any past due Pay in Full amount, whichever is greater.Returned Payment$39Information Regarding the Pay Over Time Feature.The standard Annual Percentage Rate (APR) for Pay Over Time balances is currently 18.24% (Prime + 14.99%).
 The penalty APR for Pay Over Time balances is currently 29.24% (Prime + 25.99%).
 The variable penalty APR will not exceed 29.99%.
-The standard APR and penalty APR will vary based on the Prime Rate. Variable APRs are accurate as of [CURRENT_DATE].
+The standard APR and penalty APR will vary based on the Prime Rate.
+Variable APRs are accurate as of [CURRENT_DATE].
 TERMS AND CONDITIONS View the full Card Member Agreement.
 By submitting this application, you, as an individual and the Authorizing Officer of the Company, (a) are requesting us to open an Account in the name of the Company, (b) are requesting that we issue Card(s) as you direct, (c) are agreeing to be jointly and severally liable with the Company for all charges to the account, and (d) are REPRESENTING THAT ALL CARD(S) ISSUED ON THE ACCOUNT WILL ONLY BE USED FOR COMMERCIAL OR BUSINESS PURPOSES.
 Only qualified individuals 18 or over may be approved for a Card Account.
@@ -19,7 +20,9 @@ Additional Cards: You must notify Additional Card Members that we may obtain, pr
 The maximum number of additional cards issued on each account is 99.
 Patriot Act Notice: Federal law requires all financial institutions to obtain, verify and record information that identifies each person who opens an account, including your name, address, date of birth and other information that will allow us to verify your identity.
  New York Residents: New York Residents may contact the New York State Department of Financial Services by telephone or visit its website for free information on comparative credit card rates, fees, and grace periods.
-New York State Department of Financial Services 1-800-342-3736 or www.dfs.ny.govNotice to Delaware Residents: Service charges not in excess of those permitted by law will be charged on the outstanding balances from month to month.
+New York State Department of Financial Services 1-800-342-3736 or www.dfs.ny.govCash advance at ATMs: We may issue you a Personal Identification Number (PIN) to use to obtain cash advances at participating ATMs.
+Or you may request a PIN for cash advances by contacting us.
+We will send you a letter confirming your PIN.Notice to Delaware Residents: Service charges not in excess of those permitted by law will be charged on the outstanding balances from month to month.
 Notice to Oregon Residents: Service charges not in excess of those permitted by law will be charged on the outstanding balances from month to month.
 You may pay more than the minimum payment due, up to your entire outstanding balance, at any time.
 Notice to Ohio Residents: The Ohio laws against discrimination require that all creditors make credit equally available to all credit worthy customers, and that credit reporting agencies maintain separate credit histories on each individual upon request.
@@ -90,14 +93,15 @@ Eligible travel purchases do NOT include car reservations, non-prepaid hotels, t
 Bonuses you may receive with your Card on other purchase categories or in connection with promotions or offers from American Express may not be combined with this offer, such as 5X bonuses for Platinum and Business Platinum Card Members.
 Any portion of a charge that you elect to cover through redemption of Membership Rewards points is not eligible to receive points.
 If you have an Amex EveryDay Card product, additional points awarded under this offer will not be included in the extra points benefit.
-Additional points will be credited to the Membership Rewards account 10-12 weeks after final payment is made.FX International Payments Live Exchange Rates disclosureAmerican Express may provide indicative foreign exchange rates outside of business hours, which are 8:30 am to 4:45 pm Eastern Time, Monday to Friday, holidays excluded.
- FXIP disclosure when using the claim "secure"FX International Payments incorporates encryption, both for stored data (such as account information) and for payments created and transmitted in real-time.
-The FX International Payments platform is deployed within American Express' state of the art data center that features advanced online and offline security and monitoring against internet attacks.
-FX International Payments implements American Express standards relating to information integrity, transaction security and information security.FXIP- Standard DisclosureFX International Payments is a service of American Express Travel Related Services Company, Inc.
-(“American Express“).
+Additional points will be credited to the Membership Rewards account 10-12 weeks after final payment is made.FX International PaymentsThe FX International Payments service is a money transmission service provided by American Express Travel Related Services Company, Inc.
+(American Express).
 This service is not available to consumers.
-To enroll in the service, your business will be required to complete an application which is subject to review and approval by American Express.
-For a copy of the application, including terms and conditions, call 1-833-319-7265.Global Assist® HotlineWhile Global Assist® Hotline coordination and assistance services are offered at no additional charge from American Express, Card Members are responsible for the costs charged by third-party service providers.
+To enroll, your business must submit an application, which is subject to review and approval by American Express.
+American Express makes money from currency exchange.
+Fees apply.
+For a list of our money service business licenses and information about addressing complaints and other disclosures, visit americanexpress.com/us/state-licensing.html.FXIP - Live Exchange RatesAmerican Express may provide indicative foreign exchange rates outside of business hours, which are 8:30 am to 4:45 pm Eastern Time, Monday to Friday, holidays excluded.FXIP - SecurityFX International Payments incorporates encryption, both for stored data (such as account information) and for payments created and transmitted in real-time.
+The FX International Payments platform is deployed within American Express' state of the art data center that features advanced online and offline security and monitoring against internet attacks.
+FX International Payments implements American Express standards relating to information integrity, transaction security and information security.Global Assist® HotlineWhile Global Assist® Hotline coordination and assistance services are offered at no additional charge from American Express, Card Members are responsible for the costs charged by third-party service providers.
 For full Terms and Conditions, see americanexpress.com/GAterms.Lowest Hotel Rates GuaranteeValid only for American Express Card Members.
 If you book a qualifying prepaid hotel rate on amextravel.com and then find the same room, in the same hotel, for the same dates, the same number of children and adults, at a lower price online, before taxes and fees, we'll refund you the difference.
 Your claim must be submitted prior to your stay, before the date of check-in.
@@ -126,7 +130,7 @@ We charge this fee to offset the federal excise tax we must pay on such conversi
 The fee may be more or less than the actual amount of the excise tax we pay on any individual conversion.
 We may offer you the option to redeem points to cover this fee.No Interest ChargesIf you become eligible, you may be given the option to extend payment over time on certain charges using our Pay Over Time feature.
 If you use this feature, you may accrue interest on any charges you choose to pay over time.No Preset Spending LimitNo preset spending limit does not mean unlimited spending.
-Purchasing power adjusts with your use of the Card, your payment history, credit record and financial resources known to us, and other factors.Rewards Disclosure for Employee CardsTerms, conditions and restrictions vary by individual Card products.Seller of TravelAmerican Express Travel Related Services Company, Inc.,when acting solely as a sales agent for travel suppliers, is not responsible for the actions or inactions of such suppliers.
+Purchasing power adjusts with your use of the Card, your payment history, credit record and financial resources known to us, and other factors.Rewards Disclosure for Employee CardsTerms, conditions and restrictions vary by individual Card products.Seller of TravelAmerican Express Travel Related Services Company, Inc., when acting solely as a sales agent for travel suppliers, is not responsible for the actions or inactions of such suppliers.
 We want you to be aware that certain suppliers pay us commissions and other incentives for reaching sales targets or other goals, and may also provide incentives to our travel counselors.
 For more information please visit www.americanexpress.com/travelterms California CST#1022318, Washington UBI#600-469-694, Iowa TA#669.Upgrade with Points Terms and ConditionsWhen you use Upgrade with Points to request an airline ticket upgrade, three things will happen: (i) If the airline upgrades your ticket(s), your Card Account will be charged for the upgrade; (ii) American Express will deduct the Membership Rewards points you offered for the upgrade from your program account; and (iii) American Express will apply an accompanying credit to your Card Account for those points.
 If the airline upgrades your ticket(s) and the number of points available in your Membership Rewards program account is less than the number of points you originally offered, American Express will deduct only the number of points available and you will receive an accompanying credit only for that number of points.
