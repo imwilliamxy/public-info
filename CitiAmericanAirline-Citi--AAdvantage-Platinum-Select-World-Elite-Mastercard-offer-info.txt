@@ -1,4 +1,21 @@
-For all your travel needs$200statement credit+40,000bonus miles.ob-wrap { width: 100%; display: inline-block; }
+  LIMITED-TIME OFFER@media only screen and (max-width: 980px) {
+ .yribmob { position: relative; top: -12vw; right: -32.5vw; }
+}For all your travel needs $200 #old_credit_container {
+  position: relative;
+}
+.old_credit {
+	text-align: left !important;
+  margin-left: 0px;
+  display: block;
+}
+.obrotateski {transform: rotate(-30deg); text-align: left; width: 5em; font-size: calc(0.03rem + 1.66vw) !important; line-height: 1em !important; font-family: 'americansansbold',Helvetica,Arial,Lucida,sans-serif; text-decoration-line: line-through; text-decoration-color: red; font-weight: 900; color: #36495a !Important}
+@media only screen and (max-width: 980px) {
+.obrotateski { margin-left: 1.5em; font-size: calc(0.1rem + 5vw) !important; padding: 2% 0% !important; }
+}
+@media only screen and (min-width: 768px) and (max-width: 980px) { .obrotateski {width: 3em;} }
+@media only screen and (min-width: 1921px) {
+.obrotateski { font-size: 32.4px !important; }
+}$250statement credit+40,000bonus miles.ob-wrap { width: 100%; display: inline-block; }
  .ob1, .ob3 { float: left; width: 42%; text-align: center; }
  .ob2 { float: left; width: 16%; text-align: center; }
  .obbig { width: 100%; font-size: calc(0.1rem + 5vw) !important; line-height: 1em !important; padding-bottom: 0px !important; letter-spacing: -.07em; }
@@ -15,4 +32,4 @@ For all your travel needs$200statement credit+40,000bonus miles.ob-wrap { width
 @media only screen and (min-width: 1921px) {
  .obbig { font-size: 97px !important; }
  .oblittle { font-size: 32.4px !important; }
-}Earn up to a $200 statement credit on eligible American Airlines purchases in the first 12 months of account opening.** Plus, earn 40,000 bonus miles after $2,000 in purchases within the first 3 months of account opening.Annual fee $99, waived for the first 12 months*    First checked bag free on domestic American Airlines itineraries for you and up to 4 travel companions    Preferred boarding on American Airlines flights    25% savings on inflight food and beverage purchases on American Airlines flights when you use your card    Earn 2 miles for every $1spent at restaurants and gas stations    Earn 2 miles for every $1 spent on eligible American Airlines purchases    Earn 1 mile for every$1 spent on other purchases    Earn a $125 American Airlines Flight Discount after you spend $20,000 or more in purchases during your cardmembership year and renew your card    No foreign transaction fees on purchases*    Add authorized users to your accountat no additional charge
+}Earn up to a $250 statement credit on eligible American Airlines purchases in the first 12 months of account opening.** Plus, earn 40,000 bonus miles after $2,000 in purchases within the first 3 months of account opening.Annual fee $99, waived for the first 12 months*    First checked bag free on domestic American Airlines itineraries for you and up to 4 travel companions    Preferred boarding on American Airlines flights    25% savings on inflight food and beverage purchases on American Airlines flights when you use your card    Earn 2 miles for every $1spent at restaurants and gas stations    Earn 2 miles for every $1 spent on eligible American Airlines purchases    Earn 1 mile for every$1 spent on other purchases    Earn a $125 American Airlines Flight Discount after you spend $20,000 or more in purchases during your cardmembership year and renew your card    No foreign transaction fees on purchases*    Add authorized users to your accountat no additional charge
