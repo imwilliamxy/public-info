@@ -234,7 +234,7 @@ c We add up to 26.74% to the Prime Rate to determine the Penalty APR.
 
 
 
-				Varable rate APRs will not exceed 29.99%.
+				Variable rate APRs will not exceed 29.99%.
 				
 
 
