@@ -13,7 +13,7 @@ Cathay Pacific Visa® card - Cathay Pacific
         
     
 	
-        
+    
     
 	
 	
@@ -79,13 +79,11 @@ Cathay Pacific Visa® card - Cathay Pacific
                 
 		
     		
-
 			
 				
 				
 				
 			
-
 		
 		
 			
@@ -402,12 +400,9 @@ Cathay Pacific Visa® card - Cathay Pacific
 					
 				
 			
-
 			
 				Asia Miles earned on or after January 1, 2020 will not expire as long as you earn or redeem Asia Miles on your Asia Mile account at least once every eighteen (18) months. Miles earned before January 1, 2020 will continue to expire three (3) years from the month in which they are posted to your Asia Miles account.
 			
-    
-
 		
 	
 
@@ -436,7 +431,6 @@ Cathay Pacific Visa® card - Cathay Pacific
 						国泰航空 Visa 信用卡产品仅支持英文
 					
 				
-
 				
 					*
 					Purchases are subject to credit approval:
@@ -461,7 +455,6 @@ Cathay Pacific Visa® card - Cathay Pacific
 					
 					This card is issued by Synchrony Bank pursuant to a license from Visa USA Inc.
 				
-    
 			
 		
 	
