@@ -282,7 +282,7 @@ Identity Verification
 
                 IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT - To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. This means that we will ask for your name, address, date of birth, and other information that will allow us to identify you when you open an account. We may also ask to see your driver's license or other identifying documents; and obtain identification information about you or any authorized user you add to your account.
             
-
+Authorization for the Social Security Administration to Disclose Your Social Security Number Verification - You authorize the Social Security Administration (SSA) to verify and disclose to Citibank, N.A. through Experian for the purpose of this transaction whether the name, Social Security Number (SSN) and date of birth you have submitted matches information in SSA records. Your consent is for a one-time validation within the next 90 days.
 Credit Reports
 
 		You authorize us to get credit reports and other information about you from consumer reporting agencies and other sources, 
