@@ -614,7 +614,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
 
 2.8.c.  Authorization to transfer Points must be initiated by the Account holder with the Points to be transferred by contacting Member Support. The Account holder requesting the transfer must provide the Membership Number of the Points recipient at the time of the Point transfer request.
 
-2.8.d.  Once the authorization for transfer is received and processed, the transferor relinquishes all rights to the transferred Points, and they become the recipient’s Points.
+2.8.d.  Once the authorisation for transfer is received and processed, the transferor relinquishes all rights to the transferred Points, and they become the recipient’s Points.
 
 2.8.e.  Miles and Elite Night Credit cannot be transferred between Membership Accounts.          
                           
@@ -909,7 +909,7 @@ vi.      Elite Members who do not receive their Elite Benefits Guarantee or
                           
                             
                             
-                                      4.2Elite Membership Requirements    4.2.a.  Only nights personally stayed by and individually billed to an Elite Member at Participating Properties are credited toward the Elite Member’s Elite membership achievement and renewal thereof.  Pursuant to section 1.4.e. Accounts may be combined to achieve Elite membership.
+                                      4.2Elite Membership Requirements     4.2.a.  Only nights personally stayed by and individually billed to an Elite Member at Participating Properties are credited toward the Elite Member’s Elite membership achievement and renewal thereof.  Pursuant to section 1.4.e. Accounts may be combined to achieve Elite membership.
 
 i.     Pursuant to section 2.1.a., one Elite Night Credit will be awarded to the Elite Member room for each Qualifying Night stayed.
 
@@ -1580,7 +1580,7 @@ Marriott Bonvoy Business American Express Card for residents of Canada  Learn Mo
 
 Marriott Bonvoy Business American Express Card for residents of Canada  Learn More (French)
 
-6.3.c.  Marriott Bonvoy American Express Card for residents of the United Kingdom
+Marriott Bonvoy American Express Card for residents of the United Kingdom
 
 Marriott Bonvoy American Express Card for residents of the United Kingdom  Learn More
 
