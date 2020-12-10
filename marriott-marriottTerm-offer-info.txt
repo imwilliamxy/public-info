@@ -111,7 +111,7 @@ These Program Rules supersede all previous terms and conditions applicable to th
                           
                             
                             
-                                    1.2Participating Properties and Brands     1.2.a. “Participating Properties” are hotels, resorts, and other transient stay properties operated under the brands below that are owned, managed, franchised or licensed by Marriott International (“Participating Brands”) and are bookable through Marriott Channels unless otherwise stated (see 1.2.b.).  The Participating Properties and Participating Brands include:
+                                    1.2Participating Properties and Brands     1.2.a. “Participating Properties” are hotels, resorts, and other transient stay properties operated under the brands below that are owned, managed, franchised or licensed by Marriott International (“Participating Brands”) and are bookable through Marriott Channels unless otherwise stated (see 1.2.b.). Residences properties (“Residences”), whether offered as whole or fractional ownership, as serviced apartments, or condominiums, are by nature, not transient stay properties and therefore, do not participate in the Loyalty Program unless otherwise outlined below. The Participating Properties and Participating Brands include:
 
 i.     The Ritz-Carlton - all locations except for:
 
@@ -128,7 +128,7 @@ C.     The following properties do not participate in the Loyalty Program:
 
 ●      The Ritz-Carlton, Millennia Singapore
 ●      The Ritz-Carlton Reserve properties
-●      The Ritz-Carlton Residences properties, except as noted above
+●      The Ritz-Carlton Residences, except as noted above
 ●      The following partner properties:
 
 ○      Hotel Ritz-London - London, UK
@@ -137,18 +137,29 @@ C.     The following properties do not participate in the Loyalty Program:
 ii.     St. Regis - all locations except for:
 
 ●     The St. Regis Residence Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
+●     The St. Regis Residences do not participate in the Loyalty Program
 
-iii.     EDITION - all locations
+iii.     EDITION - all locations except for:
 
-iv.     The Luxury Collection - all locations
+●     EDITION Residences do not participate in the Loyalty Program
 
-v.     W - all locations
+iv.     The Luxury Collection - all locations except for:
+
+●     The Luxury Collection Residences do not participate in the Loyalty Program
+
+v.     W - all locations except for:
+
+●     W Residences do not participate in the Loyalty Program
 
 vi.     JW Marriott - all locations
 
-vii.      Marriott Hotels - all locations
+vii.      Marriott Hotels - all locations except for:
 
-viii.     Sheraton - all locations
+●     Marriott Residences do not participate in the Loyalty Program
+
+viii.     Sheraton - all locations except for:
+
+●     Sheraton Residences do not participate in the Loyalty Program
 
 ix.     Marriott Vacation Club and Marriott Grand Residence Club - all locations except for:
 
@@ -160,9 +171,13 @@ Marriott Vacation Club and Marriott Grand Residence Club properties which partic
 
 x.         Delta Hotels by Marriott - all locations
 
-xi.         Le Méridien - all locations
+xi.         Le Méridien - all locations except for:
 
-xii.        Westin - all locations
+●     Le Méridien Residences do not participate in the Loyalty Program
+
+xii.        Westin - all locations except for:
+
+●     Westin Residences do not participate in the Loyalty Program
 
 xiii.       Autograph Collection Hotels - all locations except for:
 
@@ -173,6 +188,8 @@ A.      The Cosmopolitan of Las Vegas participates in the Loyalty Program as
 (2)      Points may be redeemed for all Qualifying Stays (defined in Section 2.1.d.) at The Cosmopolitan of Las Vegas.
 
 (3)      Limited benefits are provided as described in Section 1.3, Section 3.7, Section 4, except for the breakfast option associated with the Elite Welcome Gift benefit which is not available, and Section 6.4.
+
+B.      Autograph Collection Residences do not participate in the Loyalty Program
 
 xiv.      Design HotelsTM - all locations identified as a property which participates in the Loyalty Program are listed here and participate as follows:  
 
@@ -245,10 +262,6 @@ xxx.     Vistana properties  the following Vistana properties participate i
 
 xxxi.     Non-branded properties - the following non-branded properties participate:
 
-●     The Maxwell New York City
-●     Philadelphia 201 Hotel
-●     Atlantis, Paradise Island, Bahamas
-
 A. Atlantis, Paradise Island, Bahamas participates in the Loyalty Program as follows:
 
 (1) Points or Miles may be earned for reservations booked through www.marriott.com/atlantis/travel.mi, by calling +1 (855) 696-4732, or booked through Atlantis Paradise Vacations, by calling +1 (800) ATLANTIS or +1 (800) 285-2684. Points cannot be redeemed for reservations booked through Atlantis Paradise Vacations. Points or Miles will not be earned and Points cannot be redeemed for reservations booked through AtlantisBahamas.com. 
@@ -280,7 +293,7 @@ xxxiv. Homes & Villas by Marriott International  short-term home rentals provide
 
 1.3.b. Member Rates.
 
-i.     Member Rates.  Loyalty Program Members will receive an exclusive, preferred rate ("Member Rate") when they book rooms through a MarriottChannel. Member Rates are available at Participating Properties and Brands except at Atlantis, Paradise Island, Bahamas, The Cosmopolitan of Las Vegas, Design Hotels, The Ritz-Carlton Residences, and Homes & Villas by Marriott International. Advance reservations are required.
+i.     Member Rates.  Loyalty Program Members will receive an exclusive, preferred rate ("Member Rate") when they book rooms through a MarriottChannel. Member Rates are available at Participating Properties and Brands except at Atlantis, Paradise Island, Bahamas, The Cosmopolitan of Las Vegas, Design Hotels, and Homes & Villas by Marriott International. Advance reservations are required.
 
 A.      Member Rate offers a discount of at least two percent (2%) on weekdays and up to five percent (5%) on weekends. The Ritz-Carlton, St. Regis, and EDITION offer 2% all days of the week.
 
@@ -294,13 +307,13 @@ E.      Member Rate may not be combined with other select promotions, offer
 
 F.      Member Rate does not apply to qualified transient rates such as government rates, negotiated rates, AAA rates, and the Senior Discount rate.
 
-1.3.c.  Complimentary In-Room Internet Access.  A Member who books a stay at a Participating Property through a Marriott Channel will receive complimentary standard in-room internet access during the stay, and Marriott Bonvoy Gold Elite, Marriott Bonvoy Platinum Elite, Marriott Bonvoy Titanium Elite, and Marriott Bonvoy Ambassador Elite Members will receive complimentary enhanced in-room internet access regardless of booking method (collectively, the "Internet Access Benefit"). The additional exclusions set forth below apply.
+1.3.c.  Complimentary In-Room Internet Access.  A Member who books a stay at a Participating Property through a Marriott Channel will receive complimentary standard in-room internet access during the stay, and Marriott Bonvoy Gold Elite, Marriott Bonvoy Platinum Elite, Marriott Bonvoy Titanium Elite, Marriott Bonvoy Ambassador Elite Members, and any co-brand credit card holder that has premium internet access as a benefit, will receive complimentary enhanced in-room internet access regardless of booking method (collectively, the "Internet Access Benefit"). The additional exclusions set forth below apply.
 
 i.      The Internet Access Benefit is limited to one (1) guest room per eligible Member per stay regardless of how many rooms have been reserved, and the Member must stay in the guest room and pay for the charges.  The Internet Access Benefit is not applicable for meeting rooms.
 
 ii.      No additional Internet Access Benefit will be provided at Participating Properties and Brands that offer complimentary in-room Internet access to all guests.
 
-iii.      Participating Properties that provide complimentary in-room internet access to all guests include:  EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Vistana properties, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites and Element.
+iii.      Participating Properties that provide complimentary in-room internet access to all guests include:  EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Vistana properties, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element and Homes & Villas by Marriott International.
 
 iv.      Participating Properties that have mandatory resort charges, which include internet access, will provide a replacement benefit, to be determined at each Participating Property's discretion.
 
@@ -379,7 +392,7 @@ iii.     Credit card information included in a Member’s profile will be u
                           
                             
                             
-                                    1.6   Earning Points or Miles.      Members may earn Points (the currency of the Loyalty Program), or Miles (the currency of airline frequent flyer programs, including any currency whether it be miles, kilometers, points, etc., with the participating frequent flyer program of their choice), for eligible charges at a Participating Property in accordance with to Section 2.
+                                    1.6   Earning Points or Miles.      Members may earn Points (the currency of the Loyalty Program), or Miles (the currency of airline frequent flyer programs, including any currency whether it be miles, kilometers, points, etc., with the participating frequent flyer program of their choice), for eligible charges at a Participating Property in accordance with Section 2.
 
 1.6.a.  Points and Miles Subject to Program Rules.  As set forth in Section 1.1.a., the accumulation of Points and Miles is subject to the Program Rules and airline frequent flyer program terms and conditions.  Each Loyalty Program Member is responsible for reading the Program Rules, newsletters, and Account statements in order to understand his or her rights, responsibilities, and status in the Loyalty Program, as well as the structure for earning Awards.
 
@@ -389,9 +402,9 @@ iii.     Credit card information included in a Member’s profile will be u
 
 i.      Transferring Points to Accounts of Family or Friends.  There is a limited exception to the restriction on the transfer of a Member’s Points to the accounts of friends or family, provided both Accounts are in good standing.  See Section 2.8 for more information.
 
-ii.      Death.  In the event of a Member’s death, the Company may, in its sole discretion, allow unredeemed Points from the deceased Member’s Account to be transferred to a family member or a friend who is an active Member upon the Company’s receipt and review of all requested documentation and communications.  Elite Membership Status, Lifetime Membership Status, and the related benefits, including, without limitation, Elite Night Credit, will not transfer to the recipient of the Points.
+ii.      Death.  In the event of a Member’s death, the Company may, in its sole discretion, allow unredeemed Points from the deceased Member’s Account to be transferred to a family member or a friend who is an active Member upon the Company’s receipt and review of all requested documentation and communications.  Awards, Elite Membership Status, Lifetime Membership Status, and the related benefits, including, without limitation, Elite Night Credit, will not transfer to the recipient of the Points.
 
-iii.      Divorce.  In the event of a Member’s adjudicated divorce settlement, the Company may, in its sole discretion, allow unredeemed Points to be transferred from one Member’s Account to another Member’s Account upon the Company’s receipt and review of all requested documentation and communications including, without limitation, legal documents directing such a transfer of Points.  Elite Membership Status, Lifetime Membership Status, and the related benefits, including, without limitation, Elite Night Credit, will not transfer to the recipient of the Points.
+iii.      Divorce.  In the event of a Member’s adjudicated divorce settlement, the Company may, in its sole discretion, allow unredeemed Points to be transferred from one Member’s Account to another Member’s Account upon the Company’s receipt and review of all requested documentation and communications including, without limitation, legal documents directing such a transfer of Points.  Awards, Elite Membership Status, Lifetime Membership Status, and the related benefits, including, without limitation, Elite Night Credit, will not transfer to the recipient of the Points.
 
 iv.      Members are prohibited from bartering or selling Points for cash or other consideration pursuant to Section 1.7.h.
 
@@ -399,7 +412,7 @@ v.      Any Points which the Loyalty Program deems in its sole discretion t
 
  1.6.d.  Points Expiration Policy.  Members must remain active in the Loyalty Program to retain Points they accumulate.  If a Member Account is inactive for twenty-four (24) consecutive months, that Member Account will forfeit all accumulated Points.  Members can remain active in the Loyalty Program and retain accumulated Points by earning Points or Miles in the Loyalty Program or redeeming Points in the Loyalty Program at least once every twenty-four (24) months, subject to the exceptions described below.  If a Member does not maintain an active status for five (5) consecutive years, the Member’s Account may be deactivated.  Once Points are forfeited, the Points cannot be reinstated, but a Member can earn new Points, unless that Member’s Account has been deactivated.
 
-i.      Not all Points activities help maintain active status in the Loyalty Program.  The following activities do not count toward maintaining an active status in the Loyalty Program:
+i.      Not all Points activities help maintain active status in the Loyalty Program.  Examples of activities that do not count toward maintaining an active status in the Loyalty Program include, but are not limited to:
 
 A.      Gifting or transferring Points; however, converting Points to Miles or Miles to Points does count toward maintaining an active status;
 
@@ -521,7 +534,7 @@ provided the Member provides his/her Membership Number at the time of payment. 
 
 (2) In the Americas, Europe, the Middle East and Africa:  at restaurants and bars at the following Participating Brands of the Loyalty Program: St. Regis, The Luxury Collection, W, Sheraton, Le Méridien, Westin, Tribute Portfolio, Four Points, Aloft and Element; or
 
-iii.     Charges incurred during a stay in a guest room by a Member on his/her folio and up to two (2) additional guest rooms paid by the Member at the following all-inclusive properties: Al Maha, a Luxury Collection Desert Resort & Spa, Dubai, United Arab Emirates; The Westin Golf Resort & Spa, Playa Conchal, Costa Rica; Sheraton Bijao Beach Resort, Panama; and during the summer season at the times all-inclusive rates are offered at Hotel Cala di Volpe, a Luxury Collection Hotel, Costa Smeralda, Italy, Hotel Pitrizza, a Luxury Collection Hotel, Costa Smeralda, Italy, and Hotel Romazzino, a Luxury Collection Hotel, Costa Smeralda, Italy. These charges as part of the all-inclusive package include, without limitation, charges for:
+iii.     Charges incurred during a stay in a guest room by a Member on his/her folio and up to two (2) additional guest rooms paid by the Member at the following all-inclusive properties: Al Maha, a Luxury Collection Desert Resort & Spa, Dubai, United Arab Emirates; The Westin Reserva Conchal, an All-Inclusive Golf Resort & Spa, Playa Conchal, Costa Rica; and during the summer season at the times all-inclusive rates are offered at Hotel Cala di Volpe, a Luxury Collection Hotel, Costa Smeralda, Italy, Hotel Pitrizza, a Luxury Collection Hotel, Costa Smeralda, Italy, and Hotel Romazzino, a Luxury Collection Hotel, Costa Smeralda, Italy. These charges as part of the all-inclusive package include, without limitation, charges for:
 
 A. Qualifying Rates for Stays;
 
@@ -535,7 +548,7 @@ E. Taxes, service charges and gratuities;
 
 provided the Member provides his/her Membership Number at the time of reservation or at check-in, stays in one of the reserved guest rooms, and pays for the charges.
 
-2.1.c. Non-Qualifying Charges.  Charges which do not qualify for Points include any complimentary services, Points redemption Awards, promotional Awards or any other fees or charges including, without limitation:  (A) charges for banquets, meetings or other functions, with the exception of Points earned in connection with a Qualifying Event Agreement as described in Section 5; (B) other fees paid including, without limitation, parking, business center, retail stores, and other third-party services; and (C) room rate related taxes, service charges, gratuities, fees (e.g. late cancellation fee or no-show fees for not checking in for guaranteed reservations even if the reservations were paid in full), mandatory or automatic charges (e.g., resort charges) and other applicable charges; in certain limited cases, taxes, service charges, gratuities, and/or fees related to other incidentals charged to the room bill may be eligible for Points; and (D) charges outlined in Section 8.1 for Homes & Villas by Marriott International.
+2.1.c. Non-Qualifying Charges.  Charges which do not qualify for Points include any complimentary services, Points redemption Awards, promotional Awards or any other fees or charges including, without limitation:  (A) charges for banquets, meetings or other functions, with the exception of Points earned in connection with a Qualifying Event Agreement as described in Section 5; (B) other fees paid including, without limitation, parking, business center, retail stores, and other third-party services; (C) room rate related taxes, service charges, gratuities, fees (e.g. late cancellation fee or no-show fees for not checking in for guaranteed reservations even if the reservations were paid in full), mandatory or automatic charges (e.g., resort charges) and other applicable charges; in certain limited cases, taxes, service charges, gratuities, and/or fees related to other incidentals charged to the room bill may be eligible for Points; and (D) charges outlined in Section 8.1 for Homes & Villas by Marriott International.
 
 2.1.d. Qualifying Stay.  A “Stay" or “Qualifying Stay” means all consecutive nights a Member registers for, and personally pays and stays at any Participating Property, for which (i) the room is billed to the Member, or (ii) the guest room is direct billed to the company who has arranged payment for the Member’s stay that is not associated with a convention or group meeting.
 
@@ -553,7 +566,7 @@ i.     At participating Design HotelsTM, Members earn Points or Miles on Qu
 
 ii.    At Marriott Executive Apartments and ExecuStay, Members earn Points or Miles on the Qualifying Rate only even if they incur Qualifying Charges.
 
-2.1.f Non-Qualifying Rates. A “Non-Qualifying Rate” is a rate a Member pays for a Stay in a guest room at a Participating Property which does not qualify to earn Points or Miles, as well as membership tier benefits.  Non-Qualifying Rates are those booked using the following methods:
+2.1.f. Non-Qualifying Rates. A “Non-Qualifying Rate” is a rate a Member pays for a Stay in a guest room at a Participating Property which does not qualify to earn Points or Miles, as well as membership tier benefits.  Non-Qualifying Rates are those booked using the following methods:
 
 i.     The guest room was booked through a tour operator, online travel channel or other third-party channel including, without limitation, expedia.com, hotwire.com, priceline.com, orbitz.com, booking.com, travelocity.com; or
 
@@ -621,7 +634,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                     2.9      Purchase Points.      A Member may purchase or receive Points purchased by another Member for a combined maximum of 50,000 Points per calendar year.  Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000.  A Member must be in good standing to purchase and/or receive Points.  A new Member may purchase Points thirty (30) days after enrollment if the Account reflects activity including a Qualifying stay or other qualifying activity as described in Section 1.6.d.  After one (1) year from enrollment, a new Member is eligible to purchase Points regardless of their Account activity.  The purchase transaction may take up to forty-eight (48) hours to be completed and for the Points to be transferred to the recipient’s Account.  Once Points have been purchased, no refunds will be permitted.  Purchasing Points using a Marriott Co-Brand Credit Card may qualify for earning Points in accordance with the terms and conditions in Section 6.          
+                                     2.9      Purchase Points.      A Member may purchase or receive Points purchased by another Member for a combined maximum of 50,000 Points per calendar year. Effective January 1, 2021, a Member may purchase or receive Points purchased by another Member for a combined maximum of 100,000 Points per calendar year if purchased through the Buy Points Storefront or Gift Points Storefront, and 50,000 Points per calendar year if purchased through the Marriott Channels (defined in 1.2.b).  Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000.  A Member must be in good standing to purchase and/or receive Points.  A new Member may purchase Points thirty (30) days after enrollment if the Account reflects activity including a Qualifying stay or other qualifying activity as described in Section 1.6.d.  After one (1) year from enrollment, a new Member is eligible to purchase Points regardless of their Account activity.  The purchase transaction may take up to forty-eight (48) hours to be completed and for the Points to be transferred to the recipient’s Account.  Once Points have been purchased, no refunds will be permitted.  Purchasing Points using a Marriott Co-Brand Credit Card may qualify for earning Points in accordance with the terms and conditions in Section 6.          
                           
                           
                             
@@ -694,12 +707,11 @@ ii.      With an Award Redemption Stay, bedding and smoking preferences may
 
 iii.       At the following all-inclusive properties, the Points redeemed for an Award Redemption Stay include the cost of up to two people in the standard room and room tax. Extra-person charges for the third, fourth, or more guests in the room is an additional fee and is not included in the Award Redemption as form of payment.  This fee as well as all other property charges are the responsibility of the Loyalty Program Member and are not included in the Award Redemption Stay.
 
-•     Al Maha, a Luxury Collection Desert Resort & Spa, Dubai, United Arab Emirates
-•     The Westin Golf Resort & Spa, Playa Conchal, Costa Rica
-•     Sheraton Bijao Beach Resort, Panama
-•     Hotel Cala di Volpe, a Luxury Collection Hotel, Costa Smeralda, Italy (during the summer season at the times all-inclusive rates are offered)
-•     Hotel Pitrizza, a Luxury Collection Hotel, Costa Smeralda, Italy (during the summer season at the times all-inclusive rates are offered)
-•      Hotel Romazzino, a Luxury Collection Hotel, Costa Smeralda, Italy (during the summer season at the times all-inclusive rates are offered)
+●     Al Maha, a Luxury Collection Desert Resort & Spa, Dubai, United Arab Emirates
+●     The Westin Reserva Conchal, an All-Inclusive Golf Resort & Spa, Playa Conchal, Costa Rica
+●     Hotel Cala di Volpe, a Luxury Collection Hotel, Costa Smeralda, Italy (during the summer season at the times all-inclusive rates are offered)
+●     Hotel Pitrizza, a Luxury Collection Hotel, Costa Smeralda, Italy (during the summer season at the times all-inclusive rates are offered)
+●     Hotel Romazzino, a Luxury Collection Hotel, Costa Smeralda, Italy (during the summer season at the times all-inclusive rates are offered)
  
 
 3.2.f.  A Member who redeems Points for every (5) five consecutive nights for a Free Night Award stay will only need to redeem points for four nights ("Stay for 5, Pay for 4 Award"). The free night offer applies to the lowest point redemption night within the same Award Redemption Stay for which the Free Night Award was ordered. In the event there is more than one night at the lowest point redemption rate, the free night offer will apply to the first night at that rate. There are no points refund or free night credit for any unused portion of a Stay for 5, Pay for 4 Award. Point values are based on a standard room only (does not apply to premium room) and may vary by length of stay, hotel category, time of year, as well as when the Points are deducted, and the Award Redemption certificate ordered.
@@ -750,7 +762,7 @@ iii.     The following Participating Properties or Brands either do not par
 
 i.     Point Upgrade Awards.  A “Point Upgrade Award” is issued when Points are redeemed to upgrade a Free Night Award in a standard room and is subject to availability at Participating Properties.  Please refer to the details for the selected Participating Property at which you are making a reservation.
 
-ii.     Paid Upgrade Awards.  At select Participating Properties, Members may pay for an upgrade to a Free Night Award reservation on a cost per night basis.  The price for “Paid Upgrade Awards” varies by Participating Property and will be charged to the folio during the Member’s stay.  Additional Points are not required with Paid Upgrade Awards.
+ii.     Paid Upgrade Awards.  At select Participating Properties, Members may pay for an upgrade to a Free Night Award reservation on a cost per night basis.  The price for “Paid Upgrade Awards” varies by Participating Property and will be charged to the folio during the Member’s stay.  Additional Points are not required with Paid Upgrade Awards. Members will not earn Points or Miles on Paid Upgrade Awards and Members are responsible for all applicable taxes and service charges associated Paid Upgrade Awards.
 
 3.3.b.  Upgrade Award requirements vary by Participating Property, hotel category, room type and by season.
 
@@ -785,13 +797,11 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                             
                                     3.6      Points Advance.    Members who seek to make an Award Redemption Reservation with an insufficient Point balance may make the Award Redemption Reservation and either (1) purchase Points (as described in  Section 2.9) to make a valid Award Redemption, provided that the aggregate amount of Points purchased and/or received as a gift by the Member is less than or equivalent to 50,000 Points per calendar year; or (2) the Member accrues sufficient Points to use Points for payment of the Award Redemption no less than fourteen (14) days prior to Member’s arrival date. A maximum of three (3) Points Advance bookings are permitted to be maintained per Membership Account at any one time.
 
-3.6.a.  If a purchase of Points is not an option, or if a Member does not have sufficient Points to pay for an Award Redemption with Points fourteen (14) days or less from Member’s arrival date, Member will forfeit the Award Redemption part of the reservation.  The Award Redemption may be canceled by the Loyalty Program or the Participating Property and the reservation will be converted to a cash reservation at the best available rate.
+3.6.a. If a purchase of Points is not an option, or if a Member does not have sufficient Points to pay for an Award Redemption with Points fourteen (14) days or less from Member’s arrival date, Member will forfeit the Award Redemption part of the reservation. The Award Redemption may be canceled by the Loyalty Program or the Participating Property and the reservation will be converted to a cash reservation at the best available rate.
 
-3.6.b.  To finalize an Award Redemption reservation if a Member does not have sufficient Points to pay at the time of booking, once a Member has accrued sufficient points (no later than fourteen (14) days prior to the stay), Member can finalize the Award Redemption reservation online or by calling Member Support.  The amount of Points required to finalize the Award Redemption reservation may change between the time of booking and the time that Points are deducted and the Award Redemption certificate is ordered and/or the member’s Free Night Award certificate(s) are assigned and attached to the reservation. The Member will be required to pay the amount of Points required at the time the Award Redemption certificate is ordered, even if the amount of Points required has increased since the time the Member booked the Award Redemption reservation. If the rate has changed and the amount of Points required has increased beyond the value of the Member’s Free Night Award certificate(s), the Member will no longer be able to use the certificate(s) for the stay.
+3.6.b.  To finalize an Award Redemption reservation if a Member does not have sufficient Points to pay at the time of booking, once a Member has accrued sufficient points (no later than fourteen (14) days prior to the stay), Member can finalize the Award Redemption reservation online or by calling Member Support. The amount of Points required to finalize the Award Redemption reservation may change between the time of booking and the time that Points are deducted and the Award Redemption certificate is ordered and/or the member’s Free Night Award certificate(s) are assigned and attached to the reservation. The Member will be required to pay the amount of Points required at the time the Award Redemption certificate is ordered, even if the amount of Points required has increased since the time the Member booked the Award Redemption reservation. If the rate has changed and the amount of Points required has increased beyond the value of the Member’s Free Night Award certificate(s), the Member will no longer be able to use the certificate(s) for the stay.
 
-3.6.c.  Points Advance reservations booked prior to the launch of Off-Peak and Peak Redemption Rates will require the amount of Points stated at the time of booking in order to finalize the Award Redemption reservation and will not be subject to change, unless the Member modifies the reservation.  Any reservation modifications may result in a change to the amount of Points required to complete the Award Redemption reservation.
-
-3.6.d.  Points Advance can only be used for Award Redemption Stays, including Free Night Awards, Upgrade Awards, Cash + Points Awards, and PointSavers Awards (refer to Section 3.2).  Free Night Award certificate(s) can only be used on Points Advance reservations if their value is greater than or equal to one or more nights on the reservation at the time the Member orders and attaches the certificate(s) and/or deducts Points for the reservation. Points Advance cannot be used for any other Award Redemption options, including, but not limited to, Marriott Bonvoy Moments experiences, flights, Points to Miles conversions, Travel Packages, Instant Redemptions, and other services and merchandise.           
+3.6.c.  Points Advance can only be used for Award Redemption Stays, including Free Night Awards, Upgrade Awards, Cash + Points Awards, and PointSavers Awards (refer to Section 3.2). Free Night Award certificate(s) can only be used on Points Advance reservations if their value is greater than or equal to one or more nights on the reservation at the time the Member orders and attaches the certificate(s) and/or deducts Points for the reservation. Points Advance cannot be used for any other Award Redemption options, including, but not limited to, Marriott Bonvoy Moments experiences, flights, Points to Miles conversions, Travel Packages, Instant Redemptions, and other services and merchandise.          
                           
                           
                             
@@ -855,7 +865,7 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                             
                                     3.14      Hotel and Air Travel Packages    3.14.a. All Loyalty Program Rules apply to Members redeeming Points toward a hotel and flight “Travel Package.”
 
-3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel; (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account; and (3) Travel Packages are excluded from airline partner conversion bonus campaigns. More information on the Travel Packages may be obtained here.
+3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel on a Free Night Award or PointSavers Award in a standard room; Upgrade Awards cannot be used with Travel Packages; (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account; and (3) Travel Packages are excluded from airline partner conversion bonus campaigns. More information on the Travel Packages may be obtained here.
 
 3.14.c. Once a Travel Package is processed:
 
@@ -904,7 +914,9 @@ iv.      Guests accompanying Elite Members to a Participating Property are 
 
 v.     The Elite Benefits Guarantee applies to all Qualifying Stays, including Free Night Award stays.
 
-vi.      Elite Members who do not receive their Elite Benefits Guarantee or Ultimate Reservation Guarantee (see section 4.3.a. for Ultimate Reservation Guarantee information) in Russia, any other country subject to currency restrictions or any country prohibited by law from compensating the Member in the form of a cash payment will be compensated with Points.          
+vi.      Elite Members who do not receive their Elite Benefits Guarantee or Ultimate Reservation Guarantee (see section 4.3.a. for Ultimate Reservation Guarantee information) in Russia, any other country subject to currency restrictions or any country prohibited by law from compensating the Member in the form of a cash payment will be compensated with Points.
+
+vii.      The following Participating Brands do not participate in the Elite Benefits Guarantee or the Ultimate Reservation Guarantee: Homes & Villas by Marriott International.          
                           
                           
                             
@@ -1138,9 +1150,9 @@ U.S. $25
 
 ** The U.S. $10 F&B credit per night of Stay is for the Member. An additional U.S. $10 F&B credit per night of Stay is given for one (1) guest staying in the same guestroom as the Member. The U.S. $10 credit per night of Stay does not accrue during the stay. For example, a Member who does not use the $10 credit on one day does not get $20 to use the following day.
 
-iv.      Guaranteed Lounge Access. The Member plus one guest staying in the same room receives access to the Concierge/Executive/Club/Signature Club/M Club lounge (collectively, “Lounge” or “Lounge Access”) during normal hours of operations at JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection, and Renaissance Hotels. At Delta Hotels properties without a Signature Club Lounge, as the approved alternative the Member will receive access to the Elite Pantry.  Lounge Access is offered at Courtyard properties with a Lounge outside the United States and Canada.  This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative.  Additional charges may apply for Lounge Access where the guest count is greater than the Member plus one allowance (including children).  Lounge amenities may include light snacks and daily continental breakfast. Lounge Access is not offered at the following brands:  The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, Design Hotels, Tribute Portfolio, Gaylord Hotels, Four Points, SpringHill Suites, Protea Hotels, Fairfield, AC Hotels, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element, Marriott Vacation Club, Marriott Grand Residence Club, and participating Vistana properties.  This benefit only applies to the one (1) guest room in which the Platinum Elite Member is staying.
+iv.      Guaranteed Lounge Access. The Member plus one guest staying in the same room receives access to the Concierge/Executive/Club/Signature Club/M Club lounge (collectively, “Lounge” or “Lounge Access”) during normal hours of operations at JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection, and Renaissance Hotels. Resort properties excluded at JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, and Renaissance Hotels. At Delta Hotels properties without a Signature Club Lounge, as the approved alternative the Member will receive access to the Elite Pantry.  Lounge Access is offered at Courtyard properties with a Lounge outside the United States and Canada.  This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative.  Additional charges may apply for Lounge Access where the guest count is greater than the Member plus one allowance (including children).  Lounge amenities may include light snacks and daily continental breakfast. Lounge Access is not offered at the following brands:  The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, Design Hotels, Tribute Portfolio, Gaylord Hotels, Four Points, SpringHill Suites, Protea Hotels, Fairfield, AC Hotels, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element, Marriott Vacation Club, Marriott Grand Residence Club, and participating Vistana properties.  This benefit only applies to the one (1) guest room in which the Platinum Elite Member is staying.
 
-A.      In the United States and Canada:  When a Participating Property's Lounge is closed, or property does not have a Lounge or approved alternative, the property will offer a daily continental breakfast in the restaurant for the Member plus one (1) guest, or Member can choose 750 Points per night of Stay. In Europe: Participating Properties without a Lounge or approved alternative offer daily breakfast in restaurant for Member plus one (1) guest, or Member can choose 750 Points per night of Stay. This benefit applies to the following brands: JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, and Renaissance Hotels. This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative as described above. The following properties in the United States do not provide free continental breakfast in the hotel restaurant in the event the Lounge is closed but do offer 1,000 Points in lieu of breakfast. These properties include:
+A.      In the United States and Canada:  When a Participating Property's Lounge is closed, or property does not have a Lounge or approved alternative, the property will offer a daily continental breakfast in the restaurant for the Member plus one (1) guest, or Member can choose 750 Points per night of Stay. In Europe: Participating Properties without a Lounge or approved alternative offer daily breakfast in restaurant for Member plus one (1) guest, or Member can choose 750 Points per night of Stay. This benefit applies to the following brands (resort properties excluded): JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, and Renaissance Hotels. This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative as described above. The following properties in the United States do not provide free continental breakfast in the hotel restaurant in the event the Lounge is closed but do offer 1,000 Points in lieu of breakfast. These properties include:
 
 ●     The Algonquin Hotel Times Square, Autograph Collection
 ●     Boston Marriott Copley Place
@@ -1273,20 +1285,17 @@ B.      40% off Bed.  Mattress and Box Spring 40% Discount from Marriott Re
 
 ●     The St. Regis Bed
 ●     The W Hotels Bed
-●     The Bed by The Luxury Collection
-●     The Sheraton Signature Bed
+●     The Luxury Collection Bed
+●     The Sheraton Bed
 ●     The Westin Heavenly Bed
 ●     The Ritz-Carlton Bed
-●     EDITION Hotel Bed
+●     The EDITION Bed
 ●     The JW Marriott Bed
 ●     The Renaissance Bed
-●     The Marriott Foam Bed
-●     The Marriott Innerspring Bed
-●     Gaylord Hotels Exclusive Mattress & Box Spring
-●     Courtyard Foam Bed
-●     Courtyard Innerspring Bed
-●     The Fairfield Foam Bed
-●     The Fairfield Innerspring Bed
+●     The Marriott Bed
+●     The Gaylord Hotels Bed
+●     The Courtyard Bed
+●     The Fairfield Bed
  
 
 (2)    The Marriott Retail Brands Mattress and Box Spring 40% Discount promotional code is nonrefundable and nontransferable.
@@ -1527,7 +1536,7 @@ For example, any event or meeting booked by government employees, officials, emp
                           
                             
                             
-                                   6.   MARRIOTT CO-BRAND CREDIT CARDS     The following cards are part of the Marriott International co-brand credit cards portfolio. These cards include legacy and new Chase, JPMorgan and American Express cards.          
+                                   6.   MARRIOTT CO-BRAND CREDIT CARDS     The following cards are part of the Marriott International co-brand credit cards portfolio. These cards include Chase, JPMorgan, Mastercard and American Express cards.          
                           
                           
                             
@@ -1568,7 +1577,7 @@ Marriott Bonvoy Brilliant American Express Card - Learn More
                           
                             
                             
-                                    6.3      International Credit Cards    Sometime in 2020, Loyalty Program Members with an international co-brand credit card may receive a Marriott Bonvoy credit card to replace their current one. Until then, they can continue to use their current credit card under the Legacy Program name as indicated below.6.3.a.  Marriott Bonvoy American Express Card for residents of Canada
+                                    6.3      International Credit Cards    6.3.a.  Marriott Bonvoy American Express Card for residents of Canada
 
 Marriott Bonvoy American Express Card for residents of Canada  Learn More (English)
 
@@ -1586,11 +1595,13 @@ Marriott Bonvoy American Express Card for residents of the United Kingdom  Learn
 
 6.3.d.  The Marriott Rewards Mastercard for residents of the United Kingdom
 
-The Marriott Rewards Mastercard for residents of the United Kingdom  Learn More
+The Marriott Rewards Mastercard for residents of the United Kingdom  Learn More.
+Marriott Rewards Mastercard cardmembers can continue to use their current co-brand credit card under the Legacy Program name until they receive a Marriott Bonvoy credit card.
 
 6.3.e.  The Starwood Preferred Guest Credit Card from American Express for residents of Japan
 
-The Starwood Preferred Guest Credit Card from American Express for residents of Japan  Learn More
+The Starwood Preferred Guest Credit Card from American Express for residents of Japan  Learn More.
+Starwood Preferred Guest Credit Card from American Express cardmembers can continue to use their current co-brand credit card under the Legacy Program name until they receive a Marriott Bonvoy credit card.
 
 6.3.f.  Marriott Bonvoy World Mastercard from Emirates NBD for residents of United Arab Emirates
 
@@ -1599,81 +1610,9 @@ Marriott Bonvoy World Mastercard from Emirates NBD for residents of United Arab 
                           
                             
                             
-                                    6.4      Loyalty Program Member Benefits and Exclusions    6.4.a.  Premium Internet Access.  Gold Elite, Platinum Elite, Titanium Elite and Ambassador Elite Members receive enhanced in-room internet access where available at Participating Properties worldwide regardless of booking method.
+                                    6.4      Loyalty Program Member Benefits and Exclusions    6.4.a.  Premium Internet Access.  For any co-brand credit card outlined in 6.1, 6.2 and 6.3 that has premium internet access as a benefit, cardholders will receive enhanced in-room internet access where available at Participating Properties worldwide regardless of booking method.
 
-6.4.b.  Premium Internet Access Exclusions.  Participating Properties that are listed here participate in the Loyalty Program but do not participate in premium internet access for Members. 
-
-●     AC Hotels by Marriott - all locations
-●     African Pride Arabella Hotel & Spa, Autograph Collection
-●     China Hotel Apartments, Guangzhou
-●     Convention Plaza Apartments
-●     Courtyard by Marriott Baltimore BWI Airport
-●     Courtyard Hot Springs
-●     Dorado Beach, a Ritz-Carlton Reserve
-●     EDITION - all locations
-●     Fairfield Inn & Suites by Marriott Arundel Mills BWI Airport
-●     Fairfield Inn & Suites Bristol
-●     Fairfield by Marriott Dongguan Changping
-●     Fairfield Inn & Suites Keene Downtown
-●     Fairfield Inn & Suites Germantown Gaithersburg
-●     Fairfield Inn & Suites Memphis East/Galleria
-●     Fairfield by Marriott Nanning Nanhu Park
-●     Fairfield Inn & Suites Rehoboth Beach
-●     Fairfield Inn & Suites Waterloo Cedar Falls
-●     Fairfield Inn & Suites Wilmington New Castle
-●     Frenchman's Reef & Morning Star Marriott Beach Resort
-●     GE Healthcare Institute RiversEdge Condos
-●     Grand Residences by Marriott, Kauai Lagoons
-●     Homes & Villas by Marriott International
-●     Hollins Hall Marriott Hotel & Country Club
-●     Hotel Arts Barcelona
-●     Jeddah Marriott Hotel
-●     JW Marriott Hotel Caracas
-●     JW Marriott Hotel Seoul
-●     Mandapa, a Ritz-Carlton Reserve
-●     Marriott Executive Apartments Downtown Abu Dhabi
-●     Marriott Executive Apartments Dubai, Green Community
-●     Marriott Executive Apartments Riyadh, Makarim
-●     Marriott Maracay Golf Resort
-●     Marriott Ranch B & B
-●     Marriott Vacation Club - all locations
-●     Marriott Grand Residence Club - all locations
-●     Meon Valley Marriott Hotel & Country Club
-●     Mulu Marriott Resort & Spa
-●     Nanki-Shirahama Marriott Hotel
-●     Newcastle Marriott Hotel Gosforth Park
-●     Park Chalet, Shahdag, Autograph Collection
-●     Parkside Tower at The Ritz-Carlton, Tokyo
-●     Penha Longa Resort
-●     Phulay Bay, a Ritz-Carlton Reserve
-●     Pik Palace, Shahdag, Autograph Collection
-●     Protea Hotels by Marriott - all locations
-●     Renaissance Caracas La Castellana Hotel
-●     Renaissance St. Croix Carambola Beach Resort & Spa
-●     Residence Inn by Marriott Columbia
-●     Residence Inn Springfield Old Keene Mill
-●     Residence Inn Decatur Forsyth
-●     Residence Inn Denver Downtown
-●     SpringHill Suites by Marriott Baton Rouge Gonzales
-●     SpringHill Suites Ashburn Dulles North
-●     Sprowston Manor Marriott Hotel & Country Club
-●     Sunderland Marriott Hotel
-●     The Cosmopolitan of Las Vegas, Autograph Collection
-●     The Ritz-Carlton - all locations
-●     The Royal at Atlantis
-●     The Siena Hotel, Autograph Collection
-●     TownePlace Suites by Marriott Bellingham
-●     TownePlace Suites Carlsbad
-●     TownePlace Suites Gaithersburg
-●     TownePlace Suites Laredo
-●     TownePlace Suites Lawrence Downtown
-●     TownePlace Suites Wareham Buzzards Bay
-●     Towson University Marriott Conference Hotel
-●     Venezuela Marriott Hotel Playa Grande
-●     Vistana properties - all locations
-●     Waikoloa Beach Marriott Resort & Spa
-
-           
+6.4.b.  Premium Internet Access Exclusions.  Refer to section 1.3.c.          
                           
                         
                         
@@ -1765,7 +1704,7 @@ v.      Instant Redemption Awards are not available at Vistana properties.
                                     8.1      Earn points    
 Members are eligible to receive Points for all completed stays in a home rental (a “Home” or the “Homes”) that are purchased through the website for Homes & Villas by Marriott International (the “Platform”).
 
-To ensure Points are posted to the correct Membership Account, Members must enter their Membership Number correctly at time of purchase on the Platform. Pursuant to Section 9.3, Members must already have a Membership Account or complete the Loyalty Program application (as described in 1.4.a) prior to purchase in order to earn Points through the Platform.
+To ensure Points are posted to the correct Membership Account, the Membership Number included at time of purchase on the Platform must be correct. Pursuant to Section 9.3, Members must already have a Membership Account or complete the Loyalty Program application (as described in 1.4.a) prior to purchase in order to earn Points through the Platform.
 
 Members will earn five (5) base Points for each U.S. dollar, or the currency equivalent, on all Qualifying Charges incurred and paid for by the Member through the Platform.
 
@@ -1783,6 +1722,10 @@ Miles cannot be earned on purchases made through the Platform.
 
 For stays purchased through the Platform on behalf of another party, Points will be distributed to and the stay reserved under the Membership Account and name that is entered at time of booking. Only the Member who completes a stay can earn Points and Elite Night Credit on a single purchase order made through the Platform.
 
+Provided that the correct Marriott Bonvoy Membership Account Number is added as part of the booking process, Points will automatically appear in the Member's Account three (3) to six (6) weeks (21  42 days) following the completion of their stay.
+
+Members who use their Marriott Bonvoy co-branded credit card for purchases through the Platform will also receive their bonus Points in their Marriott Bonvoy Account at the same time.
+
 All Loyalty Program Rules apply to purchases made on the Platform.
           
                           
@@ -1790,15 +1733,15 @@ All Loyalty Program Rules apply to purchases made on the Platform.
                             
                             
                                     8.2      Redeem Points    
-A Member is eligible to redeem Points for Free Night Award stays at Homes booked through the Platform at a ratio of 143 Points for each U.S. dollar purchased (excluding taxes and fees).
+A Member is eligible to redeem Points for Homes booked through the Platform at a ratio of 166.67 Points for each U.S. dollar purchased (including taxes and fees).
 
-Free Night Award bookings are eligible for earning Elite Night Credit.
+Bookings purchased with Points are eligible for earning Elite Night Credit.
 
-Free Night Award bookings purchased with Points will need to have a minimum ten (10) day window from booking to check-in.
+Bookings purchased with Points will need to have a minimum three (3) day window from booking to check-in.
 
-If Free Night Award bookings are modified, Points will be reimbursed in accordance with the Home cancellation policy.
+If bookings purchased with Points are modified, Points will be reimbursed in accordance with the Home cancellation policy.
 
-The following Award Redemption options are not available for Homes: Upgrade Awards, Stay for 5, Pay for 4 Awards, Cash +Points Awards, PointSavers Awards, Instant Redemption Awards.
+The following Award Redemption options are not available for Homes: Free Night Awards, Upgrade Awards, Stay for 5, Pay for 4 Awards, Cash +Points Awards, PointSavers Awards, Suite Night Awards, and Instant Redemption Awards.
 
 Points Advance bookings are not available for Homes.
           
@@ -1822,7 +1765,7 @@ The Best Rate Guarantee offered by the Company does not apply to purchases made 
 
 Member Rates are not available on purchases made through the Platform.
 
-Credit adjustments cannot be requested for stays at Homes & Villas by Marriott International pursuant to 9.2.
+A Member may request credits for Points and/or Elite Night Credit that are not reflected in their Member’s Account after 6 (six) weeks from the completion of their stay by contacting the Homes & Villas by Marriott International team here.
           
                           
                         
@@ -1845,7 +1788,11 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                           
                             
                             
-                                    9.2      Adjustments    A Member may request credits for Points, Miles, or Qualifying Nights for Elite Status (other than Elite Night Credit earned pursuant to Section 4) that are not reflected in a Member’s Account through the Member Account Activity page on the Loyalty Program website under "Report a Missing Stay"” or, for Participating Properties only, by contacting Member Support. A Member may request credits for Points/Miles or Qualifying Nights for Elite Status earned in connection with a Qualifying Event that are not reflected in a Member's account by contacting the hotel where the Qualifying Event was held. Such a request must be received within one (1) year of the applicable Qualifying Stay, Qualifying Event or other Qualifying Charge transaction to receive any credit.          
+                                    9.2      Adjustments    A Member may request credits for Points, Miles, or Qualifying Nights for Elite Status (other than Elite Night Credit earned pursuant to Section 4) that are not reflected in a Member’s Account through the Member Account Activity page on the Loyalty Program website under "Report a Missing Stay", or by contacting  Member Support for stays at Participating Properties except for Homes & Villas by Marriott International.
+
+For past stays at Homes & Villas by Marriott International, a Member may request credits for Points and/or Elite Night Credit that are not reflected in their Member’s Account after 6 (six) weeks from the completion of their stay by contacting the Homes & Villas by Marriott International team here.
+
+A Member may request credits for Points/Miles or Qualifying Nights for Elite Status earned in connection with a Qualifying Event that are not reflected in a Member's account by contacting the hotel where the Qualifying Event was held. Such a request must be received within one (1) year of the applicable Qualifying Stay, Qualifying Event or other Qualifying Charge transaction to receive any credit.          
                           
                           
                             
@@ -1943,7 +1890,7 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                                                  
                                                               
                                               
                                       
@@ -1953,11 +1900,4 @@ Credit adjustments cannot be requested for stays at Homes & Villas by Marriott I
                                                               
                                                                 
                                                                 
-                                                                   © 1996  2020  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help    
-                                                              
-                                                    
-                                                    
-                                                              
-                                                                
-                                                                
-                                                                   English
+                                                                   © 1996  2020  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help
