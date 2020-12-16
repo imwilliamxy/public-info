@@ -373,7 +373,22 @@ siteCode=CCXLBCCLP1
               
                 
                   
-                  Sign in
+                    
+                    Sign in
+                  
+                  
+                    
+                      
+                      
+                        Sign in now
+                        Enjoy a more personalized experience.
+                      
+                      
+                        Close
+                        
+                      
+                    
+                  
                 
               
             
