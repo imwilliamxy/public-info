@@ -223,7 +223,7 @@ Prime Rate: The variable rates shown here are accurate based on a 3.25% Prime Ra
 
 
 
-a We add 12.74% to 21.74% to the Prime Rate to determine the Purchase/Balance Transfer/Citi Flex Plan APR. 
+a We add 12.74% to 21.74% to the Prime Rate todetermine the Purchase/Balance Transfer/Citi Flex Plan APR. 
               	 
               	
 				
