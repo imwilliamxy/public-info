@@ -24,7 +24,7 @@ For business owners
   margin-left: 0px;
   display: block;
 }
-.obrotateski {transform: rotate(-30deg); text-align: left; width: 5em; font-size: calc(0.03rem + 1.66vw) !important; line-height: 1em !important; font-family: 'americansansbold',Helvetica,Arial,Lucida,sans-serif; text-decoration-line: line-through; text-decoration-color: red; text-decoration: line-through; font-weight: 900; color: #36495a !Important}
+.obrotateski {transform: rotate(-30deg); text-align: left; width: 5em; font-size: calc(0.03rem + 1.66vw) !important; line-height: 1em !important; font-family: 'americansansbold',Helvetica,Arial,Lucida,sans-serif; text-decoration-line: line-through; text-decoration-color: red !important; text-decoration: line-through; font-weight: 900; color: #36495a !Important}
 @media only screen and (max-width: 980px) {
 .obrotateski { margin-left: 1.5em; font-size: calc(0.1rem + 5vw) !important; padding: 2% 0% !important; }
 }
