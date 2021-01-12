@@ -1,12 +1,82 @@
+  LIMITED-TIME OFFER
+
+@media only screen and (max-width: 980px) {
+ .yribmob { position: relative; top: -12vw; right: -32.5vw; }
+}
+
+			 
+				
+				
+				
 For business owners
 			 
 				
 				
-				Earn 65,000 American Airlines AAdvantage® bonus miles after
+				
+  Up to
+   $200 
+ 
+
+#old_credit_container {
+  position: relative;
+}
+.old_credit {
+	text-align: left !important;
+  margin-left: 0px;
+  display: block;
+}
+.obupto { margin-left: 15.5%; font-weight: 900; }
+.obrotateski {margin-top:-4%;transform: rotate(-30deg); text-align: left; width: 5em; font-size: calc(0.03rem + 1.66vw) !important; line-height: 1em !important; font-family: 'americansansbold',Helvetica,Arial,Lucida,sans-serif; color: #36495a !Important; text-decoration-line: line-through; text-decoration-color: red !important; text-decoration: line-through; font-weight: 900; }
+@media only screen and (max-width: 980px) {
+.obupto { margin-left: 47%; }
+.obrotateski { margin-top:-11%;margin-left: 1.5em; font-size: calc(0.1rem + 5vw) !important; padding: 2% 0% !important; }
+}
+@media only screen and (max-width: 767px){ .obupto{padding-top: 4%;}}
+@media only screen and (min-width: 768px) and (max-width: 980px) { .obrotateski {width: 3em;} }
+@media only screen and (min-width: 1921px) {
+.obrotateski { font-size: 32.4px !important; }
+}
+
 			 
 				
 				
-				$4,000 in purchases within the first 4 months of account opening
+				
+ 
+   $250
+  statement credit
+ 
+ 
+  +
+ 
+ 
+  40,000
+  bonus miles
+ 
+
+
+ .ob-wrap { width: 100%; display: inline-block; }
+ .ob1, .ob3 { float: left; width: 42%; text-align: center; }
+ .ob2 { float: left; width: 16%; text-align: center; }
+ .obbig { width: 100%; font-size: calc(0.1rem + 5vw) !important; line-height: 1em !important; padding-bottom: 0px !important; letter-spacing: -.07em; }
+ .oblittle { width: 100%; font-size: calc(0.03rem + 1.66vw) !important; color: white !important; background-color: #36495A; line-height: 1em !important; padding: 4% 0% !important; }
+@media only screen and (max-width: 980px) {
+ .ob1, .ob2, .ob3 { width: 100% !important; }
+ #offer-tagline { text-align: center; }
+ #hero-column2 h4 { text-align: center; }
+ #offer-box-tiles-header { padding: 0% 10% 0% 10% !important; }
+ .ribbon-container { height: 0px !important; max-height: 0px !important; }
+ .obbig { font-size: calc(0.3rem + 15vw) !important; }
+ .oblittle { font-size: calc(0.1rem + 5vw) !important; padding: 2% 0% !important; }
+}
+@media only screen and (min-width: 1921px) {
+ .obbig { font-size: 97px !important; }
+ .oblittle { font-size: 32.4px !important; }
+}
+
+			 
+				
+				
+				Earn up to a $250 statement credit on eligible American Airlines purchases in the first 12 months of account opening. Plus, earn 40,000 bonus miles after $2,000 in purchases within the first 3 months of account opening.
 			 
 				
 				
