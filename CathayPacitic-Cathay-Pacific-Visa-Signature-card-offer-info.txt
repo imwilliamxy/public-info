@@ -403,11 +403,15 @@ Earn more Asia Miles with every purchase*
                 Contact us
               
               
-                
-              
               
                 
                   Book a trip
+                
+              
+              
+                
+                  
+                  Shop with Miles
                 
               
             
@@ -438,7 +442,13 @@ Earn more Asia Miles with every purchase*
                 Home
               
               
+                
                 Book a trip
+              
+
+              
+                
+                Shop with Miles
               
 
               
@@ -2833,6 +2843,40 @@ Earn more Asia Miles with every purchase*
     
 
 
+		
+
+        
+			
+	            
+	                
+	                Hotel, car rental, travel experience awards
+	            
+            
+        
+
+        
+
+        
+    
+
+
+		
+
+        
+			
+	            
+	                
+	                Lifestyle awards
+	            
+            
+        
+
+        
+
+        
+    
+
+
 
     
   
@@ -3294,9 +3338,6 @@ Earn more Asia Miles with every purchase*
 
               
                 Contact us
-              
-              
-                
               
             
 
@@ -6104,6 +6145,40 @@ Earn more Asia Miles with every purchase*
 	            
 	                
 	                Flight award finder
+	            
+            
+        
+
+        
+
+        
+    
+
+
+		
+
+        
+			
+	            
+	                
+	                Hotel, car rental, travel experience awards
+	            
+            
+        
+
+        
+
+        
+    
+
+
+		
+
+        
+			
+	            
+	                
+	                Lifestyle awards
 	            
             
         
