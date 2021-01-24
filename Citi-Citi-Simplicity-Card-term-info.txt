@@ -156,7 +156,7 @@ Either $5 or 3% of the amount of each transfer, whichever is greater.
 												
                                               Either $10 or 5% of the amount of each cash advance, whichever is greater.
 
-3% of each purchase transaction in U.S. dollars.
+3% of each purchase transaction after it's conversion into US dollars.
 
 
 
