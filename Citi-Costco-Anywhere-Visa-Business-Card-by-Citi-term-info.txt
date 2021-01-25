@@ -25,7 +25,7 @@ Annual Percentage Rate (APR) for Purchases
 
 
 
-15.24%.
+15.24%
 
 								
 								This APR will vary with the market based on the Prime Rate.a
@@ -120,7 +120,7 @@ Transaction Fees
 
 
 Either $10 or 5% of the amount of each cash advance, whichever is greater.
-None.
+None
 
 
 
