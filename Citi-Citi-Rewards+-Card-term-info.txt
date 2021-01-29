@@ -175,7 +175,7 @@ Either $5 or 3% of the amount of each transfer, whichever is greater.
 												
                                               Either $10 or 5% of the amount of each cash advance, whichever is greater.
 
-3% of each purchase transaction after it's conversion into US dollars.
+3% of each purchase transaction in U.S. dollars.
 
 
 
@@ -285,6 +285,9 @@ Identity Verification
                 IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT - To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. This means that we will ask for your name, address, date of birth, and other information that will allow us to identify you when you open an account. We may also ask to see your driver's license or other identifying documents; and obtain identification information about you or any authorized user you add to your account.
             
 Authorization for the Social Security Administration to Disclose Your Social Security Number Verification - You authorize the Social Security Administration (SSA) to verify and disclose to Citibank, N.A. through Experian for the purpose of this transaction whether the name, Social Security Number (SSN) and date of birth you have submitted matches information in SSA records. Your consent is for a one-time validation within the next 90 days.
+Communications
+You agree that we and or our service providers may contact you at any phone number provided, email address, or mailing address.  This includes communications to mobile or similar device. We may contact you by live person, auto dialer, recorded or artificial voice, text, or email for servicing, marketing information, or for decision for credit card application.
+
 Credit Reports
 
 		You authorize us to get credit reports and other information about you from consumer reporting agencies and other sources, 
@@ -360,40 +363,95 @@ Additional Information
     Any benefit, reward, service or feature offered in connection with your Card Account may change or be discontinued at any time for any reason, except as otherwise expressly indicated. Citi isn't responsible for products and services offered by other companies.
 
 
-
 Citi® ThankYou® Rewards
-Summary of the Citi Rewards+ Card Terms and Conditions
-With the Rewards+ Card, you can earn ThankYou Points for purchases made on your card.
+Summary of the Citi Rewards+® Card Terms and Conditions
+With the Rewards+® Card, you can earn ThankYou Points for purchases made on your card.
 Unless you are participating in a limited-time offer, you will earn:
---2 ThankYou Points for each $1 spent on purchases at supermarkets and gas stations, for the first $6,000 per calendar year and then 1 ThankYou Point for each $1 spent thereafter. 
-
-Certain Non-Qualifying Purchases.Supermarkets - You won't earn 2X Points for purchases made at general merchandise/discount superstores, freezer/meat locker provisioners, dairy product stores, miscellaneous food/convenience stores, markets, drugstores, warehouse clubs, wholesale clubs, specialty vendors, bakeries, candy stores, nut stores, confectionery stores, and meal kit delivery services.  You also won't earn 2X Points for purchases made at online supermarkets if the merchant does not classify itself as a supermarket by using the supermarket merchant code.  
-Gas stations - You won't earn 2X Points for fuel purchased for commercial purposes or used for non-automobile purposes.  You also won't earn 2X Points if the merchant does not classify itself as a gas station by using the gas station merchant code.  Therefore, you may not earn 2X Points for purchases made at warehouse clubs, wholesale clubs, superstores, discount stores, department stores, and convenience stores.
+--2 ThankYou Points for each $1 spent on purchases at supermarkets and gas stations, for the first $6,000 per
+        calendar year and then 1 ThankYou Point for each $1 spent thereafter.
+    
+Certain Non-Qualifying Purchases.Supermarkets - You won't earn 2X Points for
+        purchases made at general merchandise/discount superstores, freezer/meat locker provisioners, dairy product
+        stores, miscellaneous food/convenience stores, markets, drugstores, warehouse clubs, wholesale clubs, specialty
+        vendors, bakeries, candy stores, nut stores, confectionery stores, and meal kit delivery services. You also
+        won't earn 2X Points for purchases made at online supermarkets if the merchant does not classify itself as a
+        supermarket by using the supermarket merchant code.
+        Gas stations - You won't earn 2X Points for fuel purchased for commercial purposes or used for non-automobile
+        purposes. You also won't earn 2X Points if the merchant does not classify itself as a gas station by using the
+        gas station merchant code. Therefore, you may not earn 2X Points for purchases made at warehouse clubs,
+        wholesale clubs, superstores, discount stores, department stores, and convenience stores.
 -- 1 ThankYou Point for each $1 spent on other purchases including the non-qualifying purchases listed above.
-Round Up For every purchase that earns ThankYou Points, your ThankYou Points will be rounded up to the nearest 10 points so that the total ThankYou Points awarded for any purchase is in a 10-ThankYou-Point increment ("Round Up").  For example, if you purchase an item that costs $3.48, you'll receive 10 ThankYou Points; and if you purchase an item that costs $9.51, you'll receive 10 ThankYou Points. Points are rounded after the additional points are awarded for 2X qualifying purchases.  For example, if you make a $7 purchase that earns 2X Points, you'll receive 20 ThankYou Points.
-10% Points Back from Redemptions When you redeem your ThankYou Points, you’ll receive 10% points back for the first 100,000 ThankYou Points redeemed per calendar year. This means that if you redeem 10,000 ThankYou Points, you’ll receive 1,000 ThankYou Points from the 10% Points Back feature. You will not receive 10% Points Back on points you redeem on Points Sharing transactions.
-Only Purchases Earn Points. Balance transfers, cash advances, checks that access your Card Account, items returned for credit, unauthorized charges, interest and account fees, travellers checks, foreign currency purchases, money orders, wire transfers (and similar cash-like transactions), lottery tickets, gaming chips (and similar betting transactions) do not earn ThankYou Points.
+Round Up For every purchase that earns ThankYou Points, your ThankYou Points
+        will be rounded up to the nearest 10 points so that the total ThankYou Points awarded for any purchase is in a
+        10-ThankYou-Point increment ("Round Up"). For example, if you purchase an item that costs $3.48, you'll receive
+        10 ThankYou Points; and if you purchase an item that costs $9.51, you'll receive 10 ThankYou Points. Points are
+        rounded after the additional points are awarded for 2X qualifying purchases. For example, if you make a $7
+        purchase that earns 2X Points, you'll receive 20 ThankYou Points.
+10% Points Back from Redemptions When you redeem your ThankYou Points,
+        you’ll receive 10% points back for the first 100,000 ThankYou Points redeemed per calendar year. This
+        means that if you redeem 10,000 ThankYou Points, you’ll receive 1,000 ThankYou Points from the 10% Points
+        Back feature. You will not receive 10% Points Back on points you redeem on Points Sharing transactions.
+Only Purchases Earn Points. Balance transfers, cash advances, checks that access
+        your Card Account, items returned for credit, unauthorized charges, interest and account fees, travellers
+        checks, foreign currency purchases, money orders, wire transfers (and similar cash-like transactions), lottery
+        tickets, gaming chips (and similar betting transactions) do not earn ThankYou Points.
 Merchant Classification for Rewards Categories
-Merchants are assigned a merchant category code ("MCC"), which is determined in accordance with Visa/Mastercard/American Express procedures based on the kinds of products and services the merchants primarily sell. We don't control the assignment of these codes and are not responsible for the codes used by merchants. When you use your card to make a purchase, we're provided an MCC for that purchase. We group similar merchant codes into categories for purposes of making rewards offers. Sometimes you may expect a purchase to fit within a rewards category, but if the code assigned to the merchant wasn't grouped into that category, your purchase will not qualify for additional points. For example, you won't earn additional points for purchases at a restaurant located within a retailer if the restaurant is assigned a "retailer" code instead of a "restaurant" code.  Please also note — purchases made through mobile/wireless technology may not earn additional points depending on how the technology is set up to process the purchase. We reserve the exclusive right to determine which purchases qualify for additional points. Please see our Earning Points FAQs at thankyou.com/help for more information.
-When you reach a reward or benefit cap (e.g., you spend $6,000 on purchases at supermarkets and gas stations to earn 2X Points on these purchases), and you return items (reducing your spending within that category), you will earn 1X Points for purchases even if those purchases would have otherwise qualified for 2X Points.  And once you redeem 100,000 ThankYou Points annually with the 10% Points Back feature, you will not earn additional 10% Points Back ThankYou Points that year, even if subsequent returns cause a reduction in your ThankYou Points attributable to 10% Points Back.
-You may earn ThankYou Points as long as your Card Account is open and current. If your Card Account is closed, you will not be able to earn and redeem ThankYou Points and you will lose any accumulated ThankYou Points that have not been transferred to your ThankYou Member Account (we will set up a ThankYou Member Account for you). You will also not earn points from Round Up or receive 10% Points Back if your account is closed.
-ThankYou Rewards may be terminated with 30 days prior written notice. If ThankYou Rewards is terminated, you will have 90 days from ThankYou Rewards termination date to redeem all your accumulated ThankYou Points. The ThankYou Rewards program may be changed at any time. Rewards offered by ThankYou Rewards and the ThankYou Point levels required for specific rewards are subject to change without notice.
-ThankYou Points earned from purchases Round Up, and ThankYou Points earned from 10% Points Back, post to your Card Account at the close of each billing cycle, and at that time we will transfer the ThankYou Points you earned to your ThankYou Member Account. (Points from Round Up and 10% Points Back are not considered Bonus ThankYou Points. Bonus ThankYou Points may take one to two additional billing cycles to post to your Card Account.) ThankYou Points are not eligible for redemption until they are transferred to your ThankYou Member Account.
-Please see the Citi ThankYou Rewards Terms and Conditions at thankyou.com/terms, or call us at 1-800-THANKYOU (1-800-842-6596) to request a complete copy of the Terms and Conditions. The Terms and Conditions include redemption information on the Citi ThankYou Rewards Program.
-Fraud, Misuse, Abuse, or Suspicious Activity. If we see evidence of fraud, misuse, abuse, or suspicious activity, as determined by us in our sole discretion, we reserve the right to take action against you. This may include, without limitation and without prior notice, any of all of the following:  
+        Merchants are assigned a merchant category code ("MCC"), which is determined in accordance with
+        Visa/Mastercard/American Express procedures based on the kinds of products and services the merchants primarily
+        sell. We don't control the assignment of these codes and are not responsible for the codes used by merchants.
+        When you use your card to make a purchase, we're provided an MCC for that purchase. We group similar merchant
+        codes into categories for purposes of making rewards offers. Sometimes you may expect a purchase to fit within a
+        rewards category, but if the code assigned to the merchant wasn't grouped into that category, your purchase will
+        not qualify for additional points. For example, you won't earn additional points for purchases at a restaurant
+        located within a retailer if the restaurant is assigned a "retailer" code instead of a "restaurant" code. 
+        Please also note — purchases made through mobile/wireless technology may not earn additional points
+        depending on how the technology is set up to process the purchase. We reserve the exclusive right to determine
+        which purchases qualify for additional points. Please see our Earning Points FAQs at thankyou.com/help for more
+        information.
+When you reach a reward or benefit cap (e.g., you spend $6,000 on purchases at supermarkets and gas stations to
+        earn 2X Points on these purchases), and you return items (reducing your spending within that category), you will
+        earn 1X Points for purchases even if those purchases would have otherwise qualified for 2X Points. And once you
+        redeem 100,000 ThankYou Points annually with the 10% Points Back feature, you will not earn additional 10%
+        Points Back ThankYou Points that year, even if subsequent returns cause a reduction in your ThankYou Points
+        attributable to 10% Points Back.
+You may earn ThankYou Points as long as your Card Account is open and current. If your Card Account is closed,
+        you will not be able to earn and redeem ThankYou Points and you will lose any accumulated ThankYou Points that
+        have not been transferred to your ThankYou Member Account (we will set up a ThankYou Member Account for you).
+        You will also not earn points from Round Up or receive 10% Points Back if your account is closed.
+ThankYou Rewards may be terminated with 30 days prior written notice. If ThankYou Rewards is terminated, you will
+        have 90 days from ThankYou Rewards termination date to redeem all your accumulated ThankYou Points. The ThankYou
+        Rewards program may be changed at any time. Rewards offered by ThankYou Rewards and the ThankYou Point levels
+        required for specific rewards are subject to change without notice.
+ThankYou Points earned from purchases Round Up, and ThankYou Points earned from 10% Points Back, post to your
+        Card Account at the close of each billing cycle, and at that time we will transfer the ThankYou Points you
+        earned to your ThankYou Member Account. (Points from Round Up and 10% Points Back are not considered Bonus
+        ThankYou Points. Bonus ThankYou Points may take one to two additional billing cycles to post to your Card
+        Account.) ThankYou Points are not eligible for redemption until they are transferred to your ThankYou Member
+        Account.
+Please see the Citi ThankYou Rewards Terms and Conditions at thankyou.com/terms, or call us at 1-800-THANKYOU (1-800-842-6596) to
+        request a complete copy of the Terms and Conditions. For speech or hearing impaired TTY: Use 711 or other relay
+        service.
+        The Terms and Conditions include redemption information on the Citi ThankYou Rewards Program.
+Fraud, Misuse, Abuse, or Suspicious Activity. If we see evidence of fraud,
+        misuse, abuse, or suspicious activity, as determined by us in our sole discretion, we reserve the right to take
+        action against you. This may include, without limitation and without prior notice, any of all of the following:
+    
 
-Taking away your accrued ThankYou Points
-Stopping you from earning ThankYou Points (including points from Round Up and 10% Points Back)
-Suspending or closing your Card Account or ThankYou Account
-Taking legal action to recover rewards redeemed because of such activity and to recover our monetary losses, including litigation costs and damages
+Taking away your accrued Points
+Stopping You from earning Points
+Suspending or closing your Citi Account or ThankYou Account
+Taking legal action to recover Rewards redeemed because of such activity and to recover our monetary losses, including litigation costs and damages
 
 Some examples of fraud, misuse, abuse and suspicious activity include:
 
-Using your Card Account in an abusive manner for the primary purpose of acquiring ThankYou Points
-Using your Consumer Card Account other than primarily for personal, consumer or household purposes
-Repeatedly opening Card Accounts or Citibank Checking Accounts for the primary purpose of acquiring ThankYou Points
+Buying or selling Points other than as permitted under the Program
+Repeatedly opening Card Accounts or Citibank Checking Accounts for the primary purpose of acquiring Points
+Using your Card Accounts or Citibank Checking Account in an abusive manner for the primary purpose of acquiring Points
+Using your Card Account other than primarily for personal, consumer or household purposes
+Points redemptions that you didn’t authorize
 
-For more information, please see the Citi ThankYou Rewards Terms and Conditions at thankyou.com/terms
+Please contact the ThankYou Service Center at 1-800-THANKYOU (1-800-842-6596) immediately if you suspect your ThankYou Account is the target of fraud or suspicious activity. For speech or hearing impaired TTY: Use 711 or other relay service.
+    
 
 
 
