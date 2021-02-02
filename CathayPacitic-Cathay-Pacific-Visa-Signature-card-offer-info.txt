@@ -1111,6 +1111,23 @@ Earn more Asia Miles with every purchase*
 			
 	            
 	                
+	                Change or cancel your ticket
+	            
+            
+        
+
+        
+
+        
+    
+
+
+		
+
+        
+			
+	            
+	                
 	                Timetable
 	            
             
@@ -1146,23 +1163,6 @@ Earn more Asia Miles with every purchase*
 	            
 	                
 	                Upgrade your flight
-	            
-            
-        
-
-        
-
-        
-    
-
-
-		
-
-        
-			
-	            
-	                
-	                Ticket cancellations & refunds
 	            
             
         
@@ -4437,6 +4437,23 @@ Earn more Asia Miles with every purchase*
 			
 	            
 	                
+	                Change or cancel your ticket
+	            
+            
+        
+
+        
+
+        
+    
+
+
+		
+
+        
+			
+	            
+	                
 	                Timetable
 	            
             
@@ -4472,23 +4489,6 @@ Earn more Asia Miles with every purchase*
 	            
 	                
 	                Upgrade your flight
-	            
-            
-        
-
-        
-
-        
-    
-
-
-		
-
-        
-			
-	            
-	                
-	                Ticket cancellations & refunds
 	            
             
         
