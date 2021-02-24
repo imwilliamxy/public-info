@@ -46,9 +46,6 @@ Earn more Asia Miles with every purchase*
   
   
   
-	
-    
-  
   
   
     
@@ -6836,7 +6833,7 @@ Earn more Asia Miles with every purchase*
     
 
             
-             
+            
         
     
 
@@ -8020,6 +8017,7 @@ This card is issued by Synchrony Bank pursuant to a license from Visa USA Inc.
 
 
 
+
   
     
       
@@ -8063,6 +8061,12 @@ This card is issued by Synchrony Bank pursuant to a license from Visa USA Inc.
       
       
       
+        
+        
+          
+            If you have questions that require a response, please contact us for assistance.
+          
+          
         
         
           
