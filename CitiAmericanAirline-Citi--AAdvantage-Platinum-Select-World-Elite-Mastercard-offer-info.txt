@@ -1,37 +1,4 @@
-  LIMITED-TIME OFFER
-
-@media only screen and (max-width: 980px) {
- .yribmob { position: relative; top: -12vw; right: -32.5vw; }
-}
-
-			 
-				
-				
-				For all your travel needs
-			 
-				
-				
-				
-   $200 
- 
-
-#old_credit_container {
-  position: relative;
-}
-.old_credit {
-	text-align: left !important;
-  margin-left: 0px;
-  display: block;
-}
-.obrotateski {margin-left:15.5%; text-align: left; width: 5em; font-size: calc(0.03rem + 1.66vw) !important; font-family: 'americansansbold',Helvetica,Arial,Lucida,sans-serif; color: #36495a !Important; text-decoration-line: line-through; text-decoration-color: red !important; text-decoration: line-through; font-weight: 900; }
-@media only screen and (max-width: 980px) {
-.obrotateski { margin-top:-2%;margin-left: 1.5em; font-size: calc(0.1rem + 5vw) !important; padding: 2% 0% !important; }
-}
-@media only screen and (max-width: 767px){ .obrotateski {margin-left:45%;} #old_credit_container { margin-bottom: 0px !important; bottom: -12px !important; } }
-@media only screen and (min-width: 768px) and (max-width: 980px) { .obrotateski { width: 3em; margin-top:-1%; margin-left:45%; } }
-@media (min-width: 981px) { #old_credit_container {margin-bottom:0px !important;}}
-@media only screen and (min-width: 1921px) { .obrotateski { font-size: 32.4px !important; } }
-
+For all your travel needs
 			 
 				
 				
@@ -39,7 +6,7 @@
  
   
    Up to
-   $250
+   $200
   
   statement credit
  
@@ -77,7 +44,7 @@
 			 
 				
 				
-				Earn up to a $250 statement credit on eligible American Airlines purchases in the first 12 months of account opening. Plus, earn 40,000 bonus miles after $2,000 in purchases within the first 3 months of account opening.
+				Earn up to a $200 statement credit on eligible American Airlines purchases in the first 12 months of account opening. Plus, earn 40,000 bonus miles after $2,000 in purchases within the first 3 months of account opening.
 			 
 				
 				
