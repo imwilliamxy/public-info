@@ -634,7 +634,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                     2.9      Purchase Points.       Members may purchase or receive Points purchased by another Member as a gift for a combined maximum of 100,000 Points per calendar year if purchased through the Buy Points Storefront or Gift Points Storefront. Members may purchase or receive Points purchased by another Member as a gift for a combined maximum of 50,000 Points per calendar year if purchased through Marriott websites, Marriott Mobile Apps or the Customer Engagement Centers. Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000, or in increments of 5,000 Points ($62.50 U.S. dollars per 5,000 Points). A Member must be in good standing to purchase and/or receive Points. A new Member may purchase Points thirty (30) days after enrollment if the Account reflects activity including a Qualifying stay or other qualifying activity as described in Section 1.6.d. After one (1) year from enrollment, a new Member is eligible to purchase Points regardless of their Account activity. Points purchases will be processed up to seven (7) business days after purchase. Once Points have been purchased, no refunds will be permitted. Purchasing Points using a Marriott Co-Brand Credit Card may qualify for earning Points in accordance with the terms and conditions in Section 6.           
+                                     2.9      Purchase Points.       Members may purchase or receive Points purchased by another Member as a gift for a combined maximum of 100,000 Points per calendar year if purchased through the Buy Points Storefront  or Gift Points Storefront . Members may purchase or receive Points purchased by another Member as a gift for a combined maximum of 50,000 Points per calendar year if purchased through Marriott websites, Marriott Mobile Apps or the Customer Engagement Centers. Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000, or in increments of 5,000 Points ($62.50 U.S. dollars per 5,000 Points). A Member must be in good standing to purchase and/or receive Points. A new Member may purchase Points thirty (30) days after enrollment if the Account reflects activity including a Qualifying stay or other qualifying activity as described in Section 1.6.d. After one (1) year from enrollment, a new Member is eligible to purchase Points regardless of their Account activity. Points purchases will be processed up to seven (7) business days after purchase. Once Points have been purchased, no refunds will be permitted. Purchasing Points using a Marriott Co-Brand Credit Card may qualify for earning Points in accordance with the terms and conditions in Section 6.           
                           
                           
                             
@@ -683,9 +683,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                    3.2      Rooms at Participating Properties.      
-
-A Member may redeem Points for single or double standard rooms at Participating Properties (“Award Redemption Stay”) including, without limitation, for Free Night Awards, Upgrade Awards, Cash + Points Awards, and PointSaversTM Awards. Some Participating Brands may have different redemption policies including Homes & Villas by Marriott International (as described in Section 8.2).
+                                    3.2      Rooms at Participating Properties.     A Member may redeem Points for standard rooms (with existing bedding) at Participating Properties (“Award Redemption Stay”) including, without limitation, for Free Night Awards, Upgrade Awards, Cash + Points Awards, and PointSaversTM Awards. Some Participating Brands may have different redemption policies including Homes & Villas by Marriott International (as described in Section 8.2).
 
 3.2.a.  Redeeming Points for an Award Redemption Stay is subject to availability at the time of reservation. Advanced reservations are required and must be booked through the Marriott Channels as described in Section 1.2.b.
 
@@ -693,7 +691,7 @@ A Member may redeem Points for single or double standard rooms at Participating 
 
 i.     Redemption Awards are required for reservations which use Free Night Awards, Upgrade Awards, Cash + Points Awards, and/or PointSaversTM Awards.
 
-ii.     Redemption Awards are valid only for individual travel and are not valid for group travel, package tours, conventions or other special rates and/or package programs, food and beverage credits, incidental expenses, or service charges.
+ii.     Redemption Awards are valid only for individual travel and are not valid for group travel, package tours, conventions or other special rates and/or package programs, food and beverage credits, incidental expenses, or government mandated taxes, fees, etc.
 
 3.2.c.  The standard guarantee and cancellation policies of a Participating Property will apply to Award Redemption Stay reservations including, without limitation, all minimum length of stay requirements, credit card guarantee requirements and charges for late cancellation, no-shows, and early check-out.
 
@@ -703,20 +701,13 @@ ii.     If a Member fails to cancel a guaranteed Award Redemption Stay rese
 
 3.2.d.  The amount of Points required per night to obtain rooms at Participating Properties varies by the category of the Participating Property and the room types available at the Participating Property, length of stay, and may also vary by time of year. This includes rates based on demand (“Off-Peak and Peak Redemption Rates”) which may change for an Award Redemption Stay at the time of checking availability, at the time of booking or modifying an Award Redemption reservation, and at the time of when Points are deducted. A list of Participating Property categories is available on the Loyalty Program website under USE AT HOTELS. The Company may change a Participating Property’s category at any time. Select properties may have redemption rates in excess of the Category 8 Redemption Rates.
 
-3.2.e.  When redeeming Points for an Award Redemption Stay, the Award Redemption Stay includes the cost of a single or double standard room at a Participating Property, room tax/service charge, and extra-person charges, if any. All other charges, including incidentals, resort fees and The Ritz-Carlton Club level charges, are the responsibility of the Member and are not included in the Award Redemption Stay.
+3.2.e.  When redeeming Points for an Award Redemption Stay, the Award Redemption Stay includes the cost of a standard room (with existing bedding) at a Participating Property, room tax, service charge, and extra-person charges (except at eligible all-inclusive properties), if any. All other charges, including incidentals, resort fees and The Ritz-Carlton Club level charges, rollaways, and other fees, are the responsibility of the Member and are not included in the Award Redemption Stay.
 
 i.     Standard rooms vary between Participating Properties and Participating Brands. Upgraded rooms, including upgrades based on size, view, services, and/or suites, are available at a higher Points cost, as described in Section 3.3.
 
 ii.     With an Award Redemption Stay, bedding and smoking preferences may be requested, but are not guaranteed.
 
-iii.     At the following all-inclusive properties, the Points redeemed for an Award Redemption Stay include the cost of up to two people in the standard room and room tax. Extra-person charges for the third, fourth, or more guests in the room is an additional fee and is not included in the Award Redemption as form of payment.  This fee as well as all other property charges are the responsibility of the Loyalty Program Member and are not included in the Award Redemption Stay.
-
-●     Al Maha, a Luxury Collection Desert Resort & Spa, Dubai, United Arab Emirates
-●     The Westin Reserva Conchal, an All-Inclusive Golf Resort & Spa, Playa Conchal, Costa Rica
-●     Hotel Cala di Volpe, a Luxury Collection Hotel, Costa Smeralda, Italy (during the summer season at the times all-inclusive rates are offered)
-●     Hotel Pitrizza, a Luxury Collection Hotel, Costa Smeralda, Italy (during the summer season at the times all-inclusive rates are offered)
-●     Hotel Romazzino, a Luxury Collection Hotel, Costa Smeralda, Italy (during the summer season at the times all-inclusive rates are offered)
- 
+iii.     At the all-inclusive properties (described under 2.1.b), the Points redeemed for an Award Redemption Stay cover the cost of the all-inclusive package which includes, but is not limited to, the standard room (with existing bedding), room tax, service charge, resort fee, and standard food and beverage, for up to two people. Extra-person charges for the third, fourth, or more guests in the room are an additional fee and are not included in the Award Redemption as form of payment. This fee as well as all other property charges are the responsibility of the Loyalty Program Member and are not included in the Award Redemption Stay. Loyalty Program Members must inform any All-Inclusive Resort or Company-designated all-inclusive property of the correct number of guests for each reservation at such All-Inclusive Resort or Company-designated all-inclusive property, including any extra persons beyond the first and second guest, and the correct ages of any children for each such reservation. The Company reserves the right, at its discretion, to modify the room rate a Member must pay for a reservation to reflect the correct guest count, including children, for such reservation.
 
 3.2.f.  A Member who redeems Points for every (5) five consecutive nights for a Free Night Award or PointSavers Award stay under one reservation (i.e. one confirmation number) will only need to redeem points for four nights (“Stay for 5, Pay for 4 Award”). The free night offer applies to the lowest point redemption night within the same Award Redemption Stay for which the Free Night Award or PointSavers Award was ordered. In the event there is more than one night at the lowest point redemption rate, the free night offer will apply to the first night at that rate. Stay for 5, Pay for 4 Award cannot be applied to a stay comprised of multiple reservations with consecutive nights. Also, Stay for 5, Pay for 4 Award cannot be applied after the member checks into the hotel. There are no Points refund or free night credit for any unused portion of a Stay for 5, Pay for 4 Award. Point values are based on a standard room only (does not apply to premium room) and may vary by length of stay, hotel category, time of year, as well as when the Points are deducted, and the Award Redemption certificate ordered. Stay for 5, Pay for 4 Award does not apply to Cash + Points Awards, Upgrade Awards, Suite Night Awards, and Promotional Awards (e.g. issued through Co-brand Credit Card, Annual Choice Benefit, etc.).
 
@@ -732,7 +723,7 @@ iii.     At the following all-inclusive properties, the Points redeemed for
 
 3.2.l.  Points acquired by a Vistana Owner who converts his/her vacation ownership interest to Points pursuant to Vistana’s Marriott Bonvoy Conversion program terms and conditions may not be redeemed at a Vistana property, or Marriott Vacation Club or Marriott Grand Residence Club property unless otherwise permitted.
 
-3.2.m.  An Award Redemption Stay at destinations outside the United States is subject to all required government approvals, restrictions, applicable taxes and/or service charges. Awards do not include United States federal inspection fees or any other fees, expenses, surcharges, taxes or other costs or expenses that may be imposed by foreign governments for international travel.
+3.2.m.  An Award Redemption Stay at destinations outside the United States is subject to all required government approvals, restrictions, and applicable non-hotel taxes. Awards do not include United States federal inspection fees or any other fees, expenses, surcharges, non-hotel taxes or other costs or expenses that may be imposed by foreign governments for international travel. Members are responsible for these government mandated taxes, fees, etc.
 
  3.2.n. The Company has a “Limited Blackout Dates” policy, which means that, subject to the limitations and exclusions below, Participating Properties have standard rooms available every day for Award Redemptions. These limitations and exclusions are:
 
@@ -753,8 +744,6 @@ iii.     The following Participating Properties or Brands either do not par
 ●     Hotel Romazzino, a Luxury Collection Hotel, Costa Smeralda, Italy
 ●     Homes & Villas by Marriott International
 ●     North Island, a Luxury Collection Resort, Seychelles
- 
-
             
                           
                           
@@ -1904,7 +1893,7 @@ A Member may request credits for Points/Miles or Qualifying Nights for Elite Sta
                                                               
                                                                 
                                                                 
-                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
+                                                                  
                                                               
                                               
                                       
@@ -1914,11 +1903,4 @@ A Member may request credits for Points/Miles or Qualifying Nights for Elite Sta
                                                               
                                                                 
                                                                 
-                                                                  © 1996  2021  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help    
-                                                              
-                                                    
-                                                    
-                                                              
-                                                                
-                                                                
-                                                                   English
+                                                                  © 1996  2021  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help
