@@ -57,7 +57,7 @@ Loyalty Program Terms & Conditions
                           
                             
                             
-                                       Updated April 2021
+                                       Updated May 2021
 
 Effective in February 2019, the loyalty program for Marriott International, Inc. is Marriott Bonvoy (hereinafter, the “Loyalty Program”). Prior to this, the Loyalty Program operated as a unified program under three names: Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the “SPG Program”) (each a “Legacy Program”). These Legacy Programs were operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the “Company”).
 
@@ -65,7 +65,7 @@ The Loyalty Program operates under the terms and conditions as set out below unl
 
 The Program Rules govern the Company’s relationship with members of the Loyalty Program (collectively, “Loyalty Program Members,” and individually, a “Loyalty Program Member,” “Member,” or “you”), including how Members manage their accounts, book reservations, achieve elite status, earn and redeem Loyalty Program points (“Points”) with participating hotels and properties (each a “Participating Property”), as well as with third party programs which have a business relationship with the Loyalty Program such as airline frequent flyer programs (“Partner Programs”).
 
-The Program Rules incorporate the additional terms that apply to certain experiences or properties which participate in the Marriott Bonvoy loyalty program in a limited or unique capacity. Specific Loyalty Program benefits, amenities, offers, awards and services may not be available at or as part of such experiences or properties, even though the applicable experience or property is not explicitly identified as being excluded where the benefit, amenity, offer, award or service is described in these Program Rules. Please refer to the Supplemental Terms page to view the separate terms governing the participation in the Loyalty Program by the applicable experience or property for information on what features of the Loyalty Program are available.
+The Program Rules incorporate the additional terms that apply to certain experiences or properties which participate in the Marriott Bonvoy loyalty program in a limited or unique capacity  including All-Inclusive by Marriott International. Specific Loyalty Program benefits, amenities, offers, awards and services may not be available at or as part of such experiences or properties, even though the applicable experience or property is not explicitly identified as being excluded where the benefit, amenity, offer, award or service is described in these Program Rules. Please refer to the Supplemental Terms page to view the separate terms governing the participation in the Loyalty Program by the applicable experience or property for information on what features of the Loyalty Program are available.
 
 By opening a Loyalty Program membership account (“Account” or “Membership Account”), or by using either your membership card or the Membership Account number you were assigned (“Membership Number”) to receive and redeem benefits of the Loyalty Program, including, without limitation, Loyalty Program Points, you agree that:
 
@@ -113,55 +113,55 @@ These Program Rules supersede all previous terms and conditions applicable to th
                           
                             
                             
-                                    1.2Participating Properties and Brands      1.2.a. “Participating Properties” are hotels, resorts, and other transient stay properties operated under the brands below that are owned, managed, franchised or licensed by Marriott International (“Participating Brands”) and are bookable through Marriott Channels unless otherwise stated (see 1.2.b.). Residences properties (“Residences”), whether offered as whole or fractional ownership, as serviced apartments, or condominiums, are by nature, not transient stay properties and therefore, do not participate in the Loyalty Program unless otherwise outlined below. The Participating Properties and Participating Brands include:
+                                    1.2Participating Properties and Brands     1.2.a. “Participating Properties” are hotels, resorts, and other transient stay properties operated under the brands below that are owned, managed, franchised or licensed by Marriott International (“Participating Brands”) and are bookable through Marriott Channels unless otherwise stated (see 1.2.b.). Residences properties (“Residences”), whether offered as whole or fractional ownership, as serviced apartments, or condominiums, are by nature, not transient stay properties and therefore, do not participate in the Loyalty Program unless otherwise outlined below. The Participating Properties and Participating Brands include:
 
 i.     The Ritz-Carlton - all locations except for:
 
-A.     The Ritz-Carlton Destination Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
+A.    The Ritz-Carlton Destination Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
 
-B.     The Ritz-Carlton Residences, Waikiki Beach participates in the Loyalty Program as follows:
+B.    The Ritz-Carlton Residences, Waikiki Beach participates in the Loyalty Program as follows:
 
 (1) Earn Points or Miles as described in Section 2 under The Ritz-Carlton
 (2) Redeem Points as described in Section 3 under The Ritz-Carlton
 (3) Members receive benefits as defined in Section 4 except for the following:
 Complimentary Enhanced Room Upgrades, Late Checkout, Suite Night Awards, and Your24TM.
 
-C.     The following properties do not participate in the Loyalty Program:
+C.    The following properties do not participate in the Loyalty Program:
 
-●      The Ritz-Carlton, Millennia Singapore
-●      The Ritz-Carlton Reserve properties
-●      The Ritz-Carlton Residences, except as noted above
-●      The following partner properties:
+●    The Ritz-Carlton, Millennia Singapore
+●     The Ritz-Carlton Reserve properties
+●     The Ritz-Carlton Residences, except as noted above
+●     The following partner properties:
 
 ○      Hotel Ritz-London - London, UK
 ○      Bulgari Hotels and Resorts - all locations
 
 ii.     St. Regis - all locations except for:
 
-●     The St. Regis Residence Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
-●     The St. Regis Residences do not participate in the Loyalty Program
+●    The St. Regis Residence Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
+●    The St. Regis Residences do not participate in the Loyalty Program
 
 iii.     EDITION - all locations except for:
 
-●     EDITION Residences do not participate in the Loyalty Program
+●    EDITION Residences do not participate in the Loyalty Program
 
 iv.     The Luxury Collection - all locations except for:
 
-●     The Luxury Collection Residences do not participate in the Loyalty Program
+●    The Luxury Collection Residences do not participate in the Loyalty Program
 
-v.     W - all locations except for:
+v.     W - all locations except for:
 
-●     W Residences do not participate in the Loyalty Program
+●    W Residences do not participate in the Loyalty Program
 
 vi.     JW Marriott - all locations
 
-vii.      Marriott Hotels - all locations except for:
+vii.     Marriott Hotels - all locations except for:
 
-●     Marriott Residences do not participate in the Loyalty Program
+●    Marriott Residences do not participate in the Loyalty Program
 
 viii.     Sheraton - all locations except for:
 
-●     Sheraton Residences do not participate in the Loyalty Program
+●    Sheraton Residences do not participate in the Loyalty Program
 
 ix.     Marriott Vacation Club and Marriott Grand Residence Club - all locations except for:
 
@@ -173,13 +173,15 @@ Marriott Vacation Club and Marriott Grand Residence Club properties which partic
 
 x.         Delta Hotels by Marriott - all locations
 
-xi.         Le Méridien - all locations except for:
+xi.     Le Méridien - all locations except for:
 
-●     Le Méridien Residences do not participate in the Loyalty Program
+●    Le Méridien Residences do not participate in the Loyalty Program
 
-xii.        Westin - all locations except for:
+xii.     Westin - all locations except for:
 
-●     Westin Residences do not participate in the Loyalty Program
+●    Westin properties that are part of All-Inclusive by Marriott International (see 1.2.a.xxxiv) participate in the Loyalty Program in a unique capacity as expressly identified in their separate terms of service (“All-Inclusive by Marriott Terms”).
+
+●    Westin Residences do not participate in the Loyalty Program.
 
 xiii.       Autograph Collection Hotels - all locations except for:
 
@@ -233,40 +235,42 @@ xxviii.     Element - all locations
 
 xxix.     Marriott Conference Centers - all locations except for:
 
-●      Rotary House Hotel, Houston, TX
+●     Rotary House Hotel, Houston, TX
 
 xxx.     Vistana properties  the following Vistana properties participate in the Loyalty Program. Properties that participate provide limited on-property benefits as outlined in Section 4 and Section 7.
 
-●     Phoenician, Residences, a Luxury Collection Residence Club, Scottsdale - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
-●     Sheraton Broadway Plantation Resort Villas
-●     Sheraton Desert Oasis Villas, Scottsdale
-●     Sheraton Kauai Resort
-●     Sheraton Lakeside Terrace Villas at Mountain Vista, Avon, Vail Valley
-●     Sheraton Mountain Vista Villas, Avon/Vail Valley
-●     Sheraton PGA Vacation Resort, Port St. Lucie
-●     Sheraton Steamboat Resort Villas
-●     Sheraton Vistana Resort Villas, Lake Buena Vista/Orlando
-●     Sheraton Vistana Villages Resort Villas, I-Drive/Orlando
-●     St. Regis Residence Club, Aspen  earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
-●     St. Regis Residence Club, New York  earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
-●     The Westin Desert Willow Villas, Palm Desert
-●     The Westin Ka'anapali North Villas
-●     The Westin Ka'anapali Ocean Resort Villas
-●     The Westin Kierland Villas
-●     The Westin Lagunamar Ocean Resort Villas & Spa, Cancun
-●     The Westin Los Cabos Resort Villas & Spa
-●     The Westin Mission Hills Resort Villas, Palm Springs
-●     The Westin Nanea Ocean Villas, Ka'anapali
-●     The Westin Princeville Ocean Resort Villas
-●     The Westin Riverfront Mountain Villas, Beaver Creek Mountain
-●     The Westin St. John Resort & Villas
-●     Vistana Beach Club
+●    Phoenician, Residences, a Luxury Collection Residence Club, Scottsdale - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
+●    Sheraton Broadway Plantation Resort Villas
+●    Sheraton Desert Oasis Villas, Scottsdale
+●    Sheraton Kauai Resort
+●    Sheraton Lakeside Terrace Villas at Mountain Vista, Avon, Vail Valley
+●    Sheraton Mountain Vista Villas, Avon/Vail Valley
+●    Sheraton PGA Vacation Resort, Port St. Lucie
+●    Sheraton Steamboat Resort Villas
+●    Sheraton Vistana Resort Villas, Lake Buena Vista/Orlando
+●    Sheraton Vistana Villages Resort Villas, I-Drive/Orlando
+●    St. Regis Residence Club, Aspen  earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
+●    St. Regis Residence Club, New York  earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
+●    The Westin Desert Willow Villas, Palm Desert
+●    The Westin Ka'anapali North Villas
+●    The Westin Ka'anapali Ocean Resort Villas
+●    The Westin Kierland Villas
+●    The Westin Lagunamar Ocean Resort Villas & Spa, Cancun
+●    The Westin Los Cabos Resort Villas & Spa
+●    The Westin Mission Hills Resort Villas, Palm Springs
+●    The Westin Nanea Ocean Villas, Ka'anapali
+●    The Westin Princeville Ocean Resort Villas
+●    The Westin Riverfront Mountain Villas, Beaver Creek Mountain
+●    The Westin St. John Resort & Villas
+●    Vistana Beach Club
 
 xxxi.     Non-branded properties - the following non-branded properties participate:
 
-A. Atlantis, Paradise Island, Bahamas participates in the Loyalty Program as follows:
+A. Certain transient stay properties operate in agreement with the Company and are not under a Participating Brand but are bookable through Marriott Channels (noted in 1.2.b) or Marriott Websites (noted in 1.2.c). Unless otherwise indicated through the Marriott Channels and Marriott Websites, these non-branded properties participate in Marriott Bonvoy based on the Participating Brand or All-Inclusive Resort they will convert to at a later date.
 
-(1) Points or Miles may be earned for reservations booked through www.marriott.com/atlantis/travel.mi, by calling +1 (855) 696-4732, or booked through Atlantis Paradise Vacations, by calling +1 (800) ATLANTIS or +1 (800) 285-2684. Points cannot be redeemed for reservations booked through Atlantis Paradise Vacations. Points or Miles will not be earned and Points cannot be redeemed for reservations booked through AtlantisBahamas.com. 
+B. Atlantis, Paradise Island, Bahamas participates in the Loyalty Program as follows:
+
+(1) Points or Miles may be earned for reservations booked through www.marriott.com/atlantis/travel.mi, by calling +1 (855) 696-4732, or booked through Atlantis Paradise Vacations, by calling +1 (800) ATLANTIS or +1 (800) 285-2684. Points cannot be redeemed for reservations booked through Atlantis Paradise Vacations. Points or Miles will not be earned and Points cannot be redeemed for reservations booked through AtlantisBahamas.com.
 
 (2) Points or Miles may be earned and Points may be redeemed for stays at The Coral at Atlantis; The Royal at Atlantis; and The Cove at Atlantis.
 
@@ -278,11 +282,13 @@ A. Atlantis, Paradise Island, Bahamas participates in the Loyalty Program as fol
 
 xxxii.     Marriott Executive Apartments - Base Points and Miles earning partner only (no Points redemption or on-property Elite benefits including Elite bonus Points)
 
-xxxiii. Homes & Villas by Marriott International  short-term home rentals provided through https://homesandvillasbymarriott.com  have limited participation in the Loyalty Program as outlined in the HVMI Terms of Service.  Members who book through the HVMI website are subject in all respects to the Program Rules and the HVMI Terms of Service.
+xxxiii. Homes & Villas by Marriott International  short-term home rentals provided through https://homesandvillasbymarriott.com have limited participation in the Loyalty Program as outlined in the HVMI Terms of Service. Members who book through the HVMI website are subject in all respects to the Program Rules and the HVMI Terms of Service.
+
+xxxiv.     All-Inclusive by Marriott International  Unless otherwise indicated, resort properties identified on https://all-inclusive.marriott.com participate in the Loyalty Program (“All-Inclusive Resorts”) in a unique capacity as expressly stated in their separate terms of service (“All-Inclusive by Marriott Terms”). Members who book and stay at an All-Inclusive Resort are subject in all respects to the Program Rules and the All-Inclusive by Marriott Terms.
 
 1.2.b. “Marriott Channels” are collectively the Marriott Websites, the Mobile Apps, and the Customer Engagement Centers (which include Member Support).
 
-1.2.c. “Marriott Website” is a website operated by or on behalf of the Company or a Loyalty Program Participating Property and currently includes these websites: Marriott.com, RitzCarlton.com, stregis.com, editionhotels.com, theluxurycollection.com, bulgarihotels.com, whotels.com, jwmarriott.com, marriotthotels.com, sheraton.com, deltahotels.com, lemeridien.com, westin.com, autographhotels.com, design-hotels.marriott.com, renhotels.com, tributeportfolio.com, gaylordhotels.com, courtyard.com, fourpoints.com, springhillsuites.com, proteahotels.com, fairfield.marriott.com, achotels.marriott.com, alofthotels.com, moxyhotels.com, marriottexecutiveapartments.com, residenceinn.marriott.com, TownePlaceSuites.com, elementhotelshub.com, homesandvillasbymarriott.com, and MarriottBonvoy.com.
+1.2.c. “Marriott Website” is a website operated by or on behalf of the Company or a Loyalty Program Participating Property and currently includes these websites: Marriott.com, RitzCarlton.com, stregis.com, editionhotels.com, theluxurycollection.com, bulgarihotels.com, whotels.com, jwmarriott.com, marriotthotels.com, sheraton.com, deltahotels.com, lemeridien.com, westin.com, autographhotels.com, design-hotels.marriott.com, renhotels.com, tributeportfolio.com, gaylordhotels.com, courtyard.com, fourpoints.com, springhillsuites.com, proteahotels.com, fairfield.marriott.com, achotels.marriott.com, alofthotels.com, moxyhotels.com, marriottexecutiveapartments.com, residenceinn.marriott.com, TownePlaceSuites.com, elementhotelshub.com, homesandvillasbymarriott.com, all-inclusive.marriott.com, and MarriottBonvoy.com.
 
 1.2.d. A “Mobile App” is a downloadable application operated by or on behalf of the Company in connection with the Loyalty Program including, without limitation, the iPhone and Android versions thereof.           
                           
