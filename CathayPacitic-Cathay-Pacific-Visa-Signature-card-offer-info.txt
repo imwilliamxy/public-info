@@ -1126,7 +1126,7 @@ Earn more Asia Miles with every purchase*
 			
 	            
 	                
-	                Ticket changes or cancellations
+	                Rebook and refund
 	            
             
         
@@ -4443,7 +4443,7 @@ Earn more Asia Miles with every purchase*
 			
 	            
 	                
-	                Ticket changes or cancellations
+	                Rebook and refund
 	            
             
         
