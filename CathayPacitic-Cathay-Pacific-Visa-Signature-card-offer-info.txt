@@ -463,6 +463,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
   
   
   
+  
     
     
     
@@ -861,13 +862,107 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
     
 
 
+
+    
+  
+
+
+        
+    
+    
+    
+
+
+    
+
+
+
+      
+    
+  
+    
+    
+    
+      
+        
+
+    
+
+        
+          
+            Lifestyle offers
+            
+          
+            
+
+
+
+
+    
+    
+  
+    
+    
+    
+
+
+
+    
+  
+
+    
+    
+  
+    
+    
+    
+	
+    
+
+
+	
+
 		
 
         
 			
 	            
 	                
-	                Co-branded credit card
+	                Spending
+	            
+            
+        
+
+        
+
+        
+    
+
+
+		
+
+        
+			
+	            
+	                
+	                Shopping
+	            
+            
+        
+
+        
+
+        
+    
+
+
+		
+
+        
+			
+	            
+	                
+	                Wellness
 	            
             
         
@@ -913,18 +1008,6 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 
 
 
-
-    
-    
-  
-    
-    
-    
-
-
-
-    
-  
 
     
     
@@ -1009,7 +1092,6 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
     
   
 
-  
 
 
 
@@ -3757,6 +3839,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
   
   
   
+  
     
     
     
@@ -4155,13 +4238,107 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
     
 
 
+
+    
+  
+
+
+        
+    
+    
+    
+
+
+    
+
+
+
+      
+    
+  
+    
+    
+    
+      
+        
+
+    
+
+        
+          
+            Lifestyle offers
+            
+          
+            
+
+
+
+
+    
+    
+  
+    
+    
+    
+
+
+
+    
+  
+
+    
+    
+  
+    
+    
+    
+	
+    
+
+
+	
+
 		
 
         
 			
 	            
 	                
-	                Co-branded credit card
+	                Spending
+	            
+            
+        
+
+        
+
+        
+    
+
+
+		
+
+        
+			
+	            
+	                
+	                Shopping
+	            
+            
+        
+
+        
+
+        
+    
+
+
+		
+
+        
+			
+	            
+	                
+	                Wellness
 	            
             
         
@@ -4207,18 +4384,6 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 
 
 
-
-    
-    
-  
-    
-    
-    
-
-
-
-    
-  
 
     
     
@@ -4303,7 +4468,6 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
     
   
 
-  
 
 
 
