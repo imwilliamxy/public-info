@@ -398,7 +398,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
               
                 
                   
-                  Shop with Miles
+                  Shop with Cathay Pacific
                 
               
             
@@ -435,7 +435,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 
               
                 
-                Shop with Miles
+                Shop with Cathay Pacific
               
 
               
