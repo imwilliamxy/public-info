@@ -19,7 +19,7 @@ For all your travel needs
  
 
 
-.obupto { color: #36495a!Important; margin: 0px; font-size: 1.2em !important; line-height: 1em !important; text-align: left !important; font-weight: 900 !important;font-family: 'americansansbold',Helvetica,Arial,Lucida,sans-serif !important; float: left; display: inline-block; background: #fff; padding-right: 1%; padding-left: 13%; padding-top: 7%; letter-spacing: 0px;  }
+.obupto { color: #36495a!Important; margin: 0px; font-size: 1.2em !important; line-height: 1em !important; text-align: left !important; font-weight: 900 !important;font-family: 'americansansbold',Helvetica,Arial,Lucida,sans-serif !important; float: left; display: inline-block; padding-right: 1%; padding-left: 13%; padding-top: 7%; letter-spacing: 0px;  }
  .ob-wrap { width: 100%; display: inline-block; }
  .ob1, .ob3 { float: left; width: 42%; text-align: center; }
  .ob2 { float: left; width: 16%; text-align: center; }
