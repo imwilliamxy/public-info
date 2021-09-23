@@ -731,6 +731,23 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
     
 
 
+		
+
+        
+			
+	            
+	                
+	                New Economy fares
+	            
+            
+        
+
+        
+
+        
+    
+
+
 
     
   
@@ -4064,6 +4081,23 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	            
 	                
 	                Reasons to book direct with us
+	            
+            
+        
+
+        
+
+        
+    
+
+
+		
+
+        
+			
+	            
+	                
+	                New Economy fares
 	            
             
         
