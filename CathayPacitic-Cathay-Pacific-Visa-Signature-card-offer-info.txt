@@ -1482,7 +1482,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 			
 	            
 	                
-	                Overview
+	                Baggage allowance
 	            
             
         
@@ -1500,40 +1500,6 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	            
 	                
 	                Prepaid extra baggage
-	            
-            
-        
-
-        
-
-        
-    
-
-
-		
-
-        
-			
-	            
-	                
-	                Cabin baggage
-	            
-            
-        
-
-        
-
-        
-    
-
-
-		
-
-        
-			
-	            
-	                
-	                Check in baggage
 	            
             
         
@@ -4852,7 +4818,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 			
 	            
 	                
-	                Overview
+	                Baggage allowance
 	            
             
         
@@ -4870,40 +4836,6 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	            
 	                
 	                Prepaid extra baggage
-	            
-            
-        
-
-        
-
-        
-    
-
-
-		
-
-        
-			
-	            
-	                
-	                Cabin baggage
-	            
-            
-        
-
-        
-
-        
-    
-
-
-		
-
-        
-			
-	            
-	                
-	                Check in baggage
 	            
             
         
