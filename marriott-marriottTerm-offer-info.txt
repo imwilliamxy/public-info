@@ -443,7 +443,49 @@ iv.      Points issued or earned through Vistana, including, without limita
                           
                             
                             
-                                              
+                                    1.7   Other Conditions of Enrollment     1.7.a.  Cancelling or Suspending Membership Accounts
+
+i.        Cancelling by Member. A Member may cancel his/her membership in the Loyalty Program at any time by sending written notice of cancellation to Member Support. All unredeemed Points, Redemption Awards, and promotional Awards as well as achieved member status, including Elite Status and Lifetime Elite Status, will be forfeited immediately and may not be reinstated or transferred.
+
+ii.        Cancelling or Suspending by the Company. The Company may cancel a Member’s accumulated Points, suspend Loyalty Program benefits, suspend Elite Membership Status, suspend Lifetime Elite Membership Status (which will subsequently also remove protection against the forfeiture of Points should the member become inactive as described in Section 1.5.d. or cancel a Member’s Account at any time with immediate effect and without written notice, for any reason and in the Company's sole discretion including, without limitation, if the Company believes the Member has:
+
+A.        Acted in a manner inconsistent with applicable laws, regulations, ordinances;
+
+B.        Failed to pay any hotel or other bill when due to the Company or a Participating Property or failed to fulfill a Marriott Vacation Club, Marriott Grand Residence Club or a Vistana Network financial obligation;
+
+C.        Acted in an inappropriate, fraudulent, abusive or hostile manner;
+
+D.        Breached or violated any of these Program Rules or the Website Terms of Use;
+
+E.        Fraudulently claimed eligibility to earn benefits through Marriott BonvoyTM Events; or
+
+F.        Engaged in any misconduct or wrongdoing in connection with the Loyalty Program including, without limitation, with respect to Points, Elite Night Credit, Redemption Award usage, promotional Award usage, or any other Loyalty Program Member benefits.
+
+iii.        Bankruptcy. Subject to applicable law, a Member’s membership in the Loyalty Program will terminate automatically upon the Member filing for bankruptcy or otherwise being subject to a bankruptcy proceeding.
+
+iv.        Legal Action. Nothing contained in these Program Rules will limit the Company in the exercise of any legal or equitable rights or remedies.
+
+1.7.b.  Effect of Membership Cancellation
+
+i.        The Loyalty Program, Points, Redemption Awards, promotional Awards and other related benefits and services are the sole property of the Company, and are not the property of Members. On cancellation of membership in the Loyalty Program for any reason, all unredeemed Points, Redemption Awards and promotional Awards will be forfeited and a Member will no longer be able to participate in the Loyalty Program. Points, Redemption Awards and promotional Awards have no cash value and the Company will not compensate or pay cash for any forfeited or unused Points.
+
+ii.        If the Company cancels a Member’s Account for any reason, the Member may not reapply for membership in the Loyalty Program except in very limited circumstances at Company’s sole discretion, and any Account opened in the Member’s name and Points, Redemption Awards and promotional Awards earned in that Account will be forfeited upon discovery.
+
+iii.        If a Member cancels his/her Account, or if a Member Account becomes inactive as described in Section 1.5.d. the Member may reapply for membership in the Loyalty Program at a later date, but no Points, Redemption Awards and promotional Awards previously forfeited or expired will be reinstated to the Member Account and any Elite Membership Status and/or Lifetime Elite Membership Status will not be reinstated.
+
+iv.        Any Elite Membership Status and Lifetime Elite Membership Status terminates upon cancellation of a Member Account.
+
+1.7.c.  Modification of Program. Except as otherwise expressly prohibited or limited by applicable laws, the Company has the right to change, limit, modify or cancel the Loyalty Program Rules, Awards and Award levels at any time, with or without notice, even though such changes may affect the value of Points or Miles, or the ability to obtain certain Awards. Partner Programs similarly reserve the right to modify their own programs, which may impact your rights and expected benefits under the Loyalty Program. The Company and Partner Programs may, among other things: (i) increase or decrease the number of Points or Miles received for a stay or required for an Award; (ii) withdraw, limit, modify or cancel any Award; (iii) add blackout dates, limit rooms available for any Award at any Participating Property or otherwise restrict the continued availability of Awards; (iv) change program benefits, travel partners, locations served by the Company or its travel partners, conditions of participation, rules for earning, redeeming, retaining or forfeiting Points or Miles, or rules governing the use of Awards; (v) change or cancel its travel partner awards. In accumulating Points or Miles, Members may not rely upon the continued availability of any Award or Award level and category.
+
+1.7.d.  Termination of Program. The Company may terminate the Loyalty Program with six (6) months' advance notice to all active Loyalty Members. At the Company’s sole discretion, the Company may choose to substitute a similar loyalty program for the Loyalty Program at any time immediately upon notice to active Loyalty Members. A Member may not accumulate Points or claim Redemption Awards, promotional Awards or Loyalty Program benefits or amenities after the termination of the Loyalty Program. If the Loyalty Program is terminated, all unredeemed Points will be forfeited without any obligation or liability, and no Redemption Award claims or promotional Award claims will be honored after the conclusion of the notice period. The Company may terminate any of the Loyalty Program in whole or in part, in any jurisdiction on less than six months' notice if required to do so by applicable law.
+
+1.7.e.  Benefits Subject to Availability and Modification. All Loyalty Program benefits, amenities, offers, awards and services are subject to availability and may be changed at any time without notice.
+
+1.7.f.  Eligibility to Receive Benefits. By accepting any Loyalty Program benefits, amenities, offers, awards or services, including, without limitation, any Points, Redemption Awards and promotional Awards, a Member acknowledges that he/she is responsible for determining whether he/she is eligible to receive, and that he/she is eligible to receive, such Loyalty Program benefits, amenities, offers, awards or services (including, without limitation, Points, Redemption Awards and promotional Awards) under applicable laws, gift policies and incentive policies. Each Member must immediately notify the Company if he/she is not eligible to receive any Loyalty Program benefits, amenities, offers, awards or services at any time.
+
+1.7.g.  Eligibility Notification. A Member must promptly notify the Company in the event that (i) he/she is not eligible for any reason, including, without limitation, pursuant to any applicable laws, gift policies or incentive policies, to earn Points, Elite Membership Status, or any other benefits that a Member may earn under the Loyalty Program, or (ii) his/her Member Account has been credited with any Points, Elite Membership Status, or any other benefit that a Member may earn under the Loyalty Program that he/she has not earned or is not eligible to earn.
+
+1.7.h.  No Sale or Transfer. Points, Redemption Awards, promotional Awards and other Member benefits may not be sold, bartered or transferred (other than by the Company or its agents). Any attempted transfer, sale or barter will be void and will be confiscated. The Company and its partners may refuse to honor or recognize any Points, Redemption Awards, promotional Awards or Member benefits which the Company believes may have been transferred, sold or bartered.           
                           
                         
                         
@@ -822,7 +864,15 @@ A maximum of three (3) Points Advance Redemption Reservations are permitted to b
                           
                             
                             
-                                              
+                                    3.14      Hotel and Air Travel Packages     3.14.a. All Loyalty Program Rules apply to Members redeeming Points toward a hotel and flight “Travel Package.”
+
+3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel on a Free Night Award or PointSavers Award in a standard room; Upgrade Awards cannot be used with Travel Packages; (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account; and (3) Travel Packages are excluded from airline partner conversion bonus campaigns. More information on the Travel Packages may be obtained here.
+
+3.14.c. Once a Travel Package is processed:
+
+i.      airline Miles cannot be transferred back to the Membership Account; and
+
+ii.      the hotel award portion of the Travel Package is non-refundable to the Member if cancelled or not used.           
                           
                         
                         
@@ -1117,7 +1167,6 @@ A.     In the United States and Canada: When a Participating Property's Lou
 ●     Renaissance Boston Waterfront Hotel
 ●     Renaissance Chicago Downtown Hotel
 ●     Renaissance Los Angeles Airport Hotel
-●     Renaissance New York Hotel 57
 ●     Renaissance New York Midtown Hotel
 ●     Renaissance New York Times Square Hotel
 ●     Renaissance Washington, DC Downtown Hotel
@@ -1844,7 +1893,7 @@ A Member may request credits for Points/Miles or Qualifying Nights for Elite Sta
                                                               
                                                                 
                                                                 
-                                                                  
+                                                                  Follow Us     Facebook      Instagram      Twitter      Facebook Messenger      YouTube       
                                                               
                                               
                                       
@@ -1854,4 +1903,11 @@ A Member may request credits for Points/Miles or Qualifying Nights for Elite Sta
                                                               
                                                                 
                                                                 
-                                                                  © 1996  2021  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Careers     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help
+                                                                  © 1996  2021  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Careers     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help    
+                                                              
+                                                    
+                                                    
+                                                              
+                                                                
+                                                                
+                                                                   English
