@@ -121,9 +121,11 @@ A.    The Ritz-Carlton Residences, Waikiki Beach participates in the Loyalty
 (3) Members receive benefits as defined in Section 4 except for the following:
 Complimentary Enhanced Room Upgrades, Late Checkout, Suite Night Awards, and Your24.
 
-B.    The Ritz-Carlton Destination Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
+B.    The Ritz-Carlton Destination Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only for Members staying at The Ritz-Carlton Destination Club locations under their ownership benefit; no Points redemption and no Points or Miles earning
 
-C.    The following properties do not participate in the Loyalty Program:
+C.     The Ritz-Carlton Yacht Collection - earning and redemption partner with unique participation in the Loyalty Program as expressly identified in their separate terms of service (“RCYC Terms”). Members who book and complete reservations through RCYC are subject to the Program Rules, these RCYC Terms, as well as the legal information found on The Ritz-Carlton Yacht Collection.
+
+D.    The following properties do not participate in the Loyalty Program:
 
 ●    The Ritz-Carlton, Millennia Singapore
 ●     The Ritz-Carlton Reserve properties
@@ -531,9 +533,13 @@ B.     the food and beverages are not in connection with a banquet, meeting
 
 so long as the Member provides their Membership Number at the time of payment. Elite bonus Points will not be awarded on charges incurred by the Member without a stay in a guest room under Section 2.1.b(ii). Charges from food and beverage outlets managed or operated by a third party may not be eligible for earning Points. Charges incurred at outlets that are not located within the Participating Property or All-Inclusive Resort are not Qualifying Charges. Earning at restaurants without a stay is offered:
 
-(1) In Asia Pacific: at Participating Brands of the Loyalty Program, except for Moxy, Element, Marriott Vacation Club, Design Hotels, Marriott Executive Apartments, and include restaurants and bars listed on https://marriottbonvoyasia.com/R+B (some exclusions may apply); and
+(1) In Asia Pacific: at Participating Brands of the Loyalty Program, except for Moxy, Element, Marriott Vacation Club, Design Hotels, Marriott Executive Apartments, and include restaurants and bars listed on https://marriottbonvoyasia.com/R+B (some exclusions may apply). Additional offers may be available to Members  on https://marriottbonvoyasia.com/. Members are subject to the terms and conditions of the offer and the Loyalty Program Rules; and
 
-(2) In the United States, Canada, Caribbean, Mexico, Central America, South America, Europe, the Middle East and Africa: at restaurants and bars at the following Participating Brands of the Loyalty Program: St. Regis, The Luxury Collection, W, Sheraton, Le Méridien, Westin, Tribute Portfolio, Four Points, Aloft and Element; or
+(2) In Europe, the Middle East and Africa: At restaurants and bars located within the Participating Properties as listed on https://www.morecravings.com/marriottbonvoy. Additional offers on the website may be available to Members. Members are subject to the terms and conditions of the offer and the Loyalty Program Rules; and
+
+(3) In United States, Canada: At restaurants and bars at the following Participating Brands of the Loyalty Program: St. Regis, The Luxury Collection, W, Sheraton, Le Méridien, Westin, Tribute Portfolio, Four Points, Aloft and Element; and
+
+(4) In the Caribbean, Mexico, Central America, South America: At restaurants and bars located within the Participating Properties as listed on https://hotel-deals.marriott.com/cala-off-folio-earnings/. Additional offers on the website may be available to Members. Members are subject to the terms and conditions of the offer and the Loyalty Program Rules; or
 
 iii.    Charges incurred as part of the all-inclusive package during a stay in a guest room by a Member on his or her folio and up to two (2) additional guest rooms paid by the Member at All-Inclusive Resorts and Participating Properties offering all-inclusive packages year-round and designated by the Company as all-inclusive property. Qualifying Charges for stays at these all-inclusive properties include, without limitation, charges for:
 
@@ -557,7 +563,7 @@ so long as the Member provides their Membership Number at the time of reservatio
 
 i.     A “Stay” is a stay of one or more consecutive nights at the same Participating Property by a Member who: (A) provides his/her Membership Number at the time of reservation or at check-in; (B) pays a Qualifying Rate or redeems a Points redemption Award or a promotional Award for the stay; and (C) stays in one of the reserved guest rooms. If a Member checks out of a guest room and then checks back in to a guest room at the same Participating Property within 24 hours, it will count as a single stay for purposes of calculating Stays and issuing Member benefits. A Member may only earn Points for up to three (3) guest rooms during any Stay if he/she stays in one of the reserved guest rooms and pays a Qualifying Rate or redeems a Points redemption Award or a promotional Award for all of the guest rooms.
 
-ii.     A “Qualifying Stay” is a credit pursuant to these Program Rules that counts toward earning Elite Night Credit. Except as otherwise set forth in these Program Rules, including in Section 7.1 and 7.2 below with respect to MVC Owners and Vistana Owners, Members will only earn credit for each Qualifying Night (i) which is part of a Stay at a Qualifying Rate (as described in 2.1.e.), for the guest room the Member personally pays for and stays in, and not for any additional guest rooms, or (ii) for the guest room direct billed to the company who has arranged payment for the Member’s stay that is not associated with a convention or group meeting. Members do not receive Elite Night Credit on stays at Non-Qualifying Rates (see 2.1.f.).
+ii.     A “Qualifying Stay” is a credit pursuant to these Program Rules that counts toward earning Elite Night Credit. Except as otherwise noted, Members will only earn credit for each Qualifying Night (i) which is part of a Stay at a Qualifying Rate (as described in 2.1.e.), for the guest room the Member personally pays for and stays in, and not for any additional guest rooms, or (ii) for the guest room direct billed to the company who has arranged payment for the Member’s stay that is not associated with a convention or group meeting. Members do not receive Elite Night Credit on stays at Non-Qualifying Rates (see 2.1.f.). MVC Owners and Vistana Owners may also earn Elite Night Credit as provided in Section 7.1 and 7.2. Members staying at The Ritz-Carlton Destination Club locations under their ownership benefit earn Elite Night Credit as provided in Section 1.2.a.
 
 iii.     Members cannot earn or receive benefits at multiple Participating Properties for the same stay date(s).
 
@@ -644,7 +650,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                             
                                     2.10   Earning through Partners.       Points earned in connection with the partner are subject to these Loyalty Program Rules along with any applicable terms and conditions of the partner.
 
-2.10.a. Cruises. A Member may earn Points when he/she books a cruise through the Company’s cruise partner. More information on the Cruise program may be obtained here.
+2.10.a. Cruises. A Member may earn Points when he/she books a cruise through the Company’s cruise partner. More information on the Cruise program may be obtained here. This section does not apply to The Ritz-Carlton Yacht Collection (see 1.2.a for The Ritz-Carlton Yacht Collection).
 
 2.10.b. Hertz. A Member may earn Points and receive special discounts with Hertz where available when booked through here. Qualified Elite Members may also receive complimentary Hertz Gold Plus Rewards elite status.
 
@@ -930,6 +936,8 @@ ii.     When staying at Marriott Executive Apartments, every three (3) Qual
 iii.     Members who hold Qualifying Events at Participating Properties receive one (1) Elite Night Credit for every twenty (20) room nights booked and actualized, up to a maximum of twenty (20) Elite Night Credits per contract. The earning of ten (10) Elite Night Credits per calendar year for the first Qualifying Event ended on December 31, 2019.
 
 iv.     Elite Status may be earned through various Partner Programs and is subject to the terms and conditions of the Partner Program as well as the Loyalty Program Rules.
+
+v.     Members staying at The Ritz-Carlton Destination club locations under their ownership benefit receive Elite Night Credit pursuant to 1.2.a.
 
 4.2.b.  To achieve or renew Elite membership status, the following number of Elite Night Credits (“Minimum Requirement”) must be earned through (i) nights stayed at Participating Properties or (ii) Marriott Bonvoy Events between January 1 and December 31 of any given year:
 
