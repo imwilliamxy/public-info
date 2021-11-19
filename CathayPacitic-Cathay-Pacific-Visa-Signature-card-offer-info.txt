@@ -751,6 +751,13 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 		
 
         
+			
+	            
+	                
+	                Black Friday offers
+	            
+            
+        
 
         
 
@@ -1040,6 +1047,16 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
         
 
         
+    
+
+
+		
+
+        
+
+        
+
+        
             
                
 			   
@@ -1050,21 +1067,11 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	                      
 	                          
 	                      
-	                      Cathay Pacific Visa
+	                      Black Friday offers
 	                   
 	               
                
             
-        
-    
-
-
-		
-
-        
-
-        
-
         
     
 
@@ -4131,6 +4138,13 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 		
 
         
+			
+	            
+	                
+	                Black Friday offers
+	            
+            
+        
 
         
 
@@ -4420,6 +4434,16 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
         
 
         
+    
+
+
+		
+
+        
+
+        
+
+        
             
                
 			   
@@ -4430,21 +4454,11 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	                      
 	                          
 	                      
-	                      Cathay Pacific Visa
+	                      Black Friday offers
 	                   
 	               
                
             
-        
-    
-
-
-		
-
-        
-
-        
-
         
     
 
