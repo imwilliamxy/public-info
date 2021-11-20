@@ -1067,7 +1067,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	                      
 	                          
 	                      
-	                      Black Friday offers
+	                      Black Friday sale
 	                   
 	               
                
@@ -4454,7 +4454,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	                      
 	                          
 	                      
-	                      Black Friday offers
+	                      Black Friday sale
 	                   
 	               
                
