@@ -776,15 +776,17 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                             
                                     3.4        Cash + Points Awards.     Members can redeem their Points for “Cash + Points Awards” at Participating Properties when available. Participation in and availability of Cash + Points Awards are at the discretion of the Participating Property.
 
-3.4.a.  The Stay for 5, Pay for 4 Award described in Section 3.2.f. does not apply to Cash + Points Awards.
+3.4.a. The Stay for 5, Pay for 4 Award described in Section 3.2.f. does not apply to Cash + Points Awards.
 
-3.4.b.  Members will not earn Points or Miles on the cash portion of Cash + Points Awards and Members are responsible for all applicable taxes and service charges associated with the cash portion of Cash + Points Awards.
+3.4.b. Members will not earn Points or Miles on the cash portion of Cash + Points Awards and Members are responsible for all applicable taxes and service charges associated with the cash portion of Cash + Points Awards.
 
-3.4.c.  Members will receive one (1) Elite Night Credit for every night redeemed and stayed on a Cash + Points Award stay.
+3.4.c. Members will receive one (1) Elite Night Credit for every night redeemed and stayed on a Cash + Points Award stay.
 
-3.4.d.  An issued Cash + Points Award can be used at any Participating Property in the category for which the Redemption Award is valid, or at any lower level category Participating Property that has availability of the Cash + Points Award.
+3.4.d. An issued Cash + Points Award can be used at any Participating Property in the category for which the Redemption Award is valid, or at any lower level category Participating Property that has availability of the Cash + Points Award.
 
-3.4.e.  The Cash + Points Award structure is subject to modification, cancellation or limitation at any time without notice at the discretion of the Loyalty Program.           
+3.4.e. The Cash + Points Award structure is subject to modification, cancellation or limitation at any time without notice at the discretion of the Loyalty Program.
+
+3.4.f. The Cash & Points Payment for Homes & Villas by Marriott International is different from Cash + Points Awards and follows the Program Rules under Section 8.2.           
                           
                           
                             
@@ -1753,7 +1755,18 @@ All Loyalty Program Rules apply to purchases made on the Platform.
                                     8.2      Redeem Points     
 A Member is eligible to redeem Points for Homes booked through the Platform at a ratio of 166.67 Points for each U.S. dollar purchased (including taxes and fees).
 
-Bookings purchased with Points are eligible for earning Elite Night Credit.
+Members have the flexibility to select the amount of cash and the amount of Points to be redeemed as combined payment for a stay in a Home booked through the Platform (“Cash & Points Payment at HVMI”).
+There are no fixed amounts of either cash to pay or Points to be redeemed. At least one-thousand (1,000) Points are required for the Cash & Points Payment at HVMI.
+
+Members cannot use more Points than what they currently have in their Membership Account.
+
+Major credit cards and Points are the accepted methods of payment for Cash & Points.
+
+Marriott Gift Cards and Marriott Bonvoy Free Night Awards cannot be used as part of the Cash & Points Payment at HVMI.
+
+Members will earn Points on the cash portion of their Cash & Points Payment at HVMI once the stay is completed. Please note, Cash & Points Payment for Homes & Villas by Marriott International is different from Cash + Points Awards at Participating Properties (see Section 3.4).
+
+Bookings purchased with Points or Cash & Points Payment at HVMI are eligible for earning Elite Night Credit.
 
 Bookings purchased with Points will need to have a minimum three (3) day window from booking to check-in.
 
