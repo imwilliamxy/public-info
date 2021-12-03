@@ -2637,7 +2637,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 			
 	            
 	                
-	                Automatic tier renewal
+	                Membership status extension 
 	            
             
         
@@ -3077,6 +3077,16 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
         
 
         
+    
+
+
+		
+
+        
+
+        
+
+        
             
                
 			   
@@ -3087,7 +3097,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	                      
 	                          
 	                      
-	                      Contact us
+	                      Elevate your everyday
 	                   
 	               
                
@@ -6002,7 +6012,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 			
 	            
 	                
-	                Automatic tier renewal
+	                Membership status extension 
 	            
             
         
@@ -6442,6 +6452,16 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
         
 
         
+    
+
+
+		
+
+        
+
+        
+
+        
             
                
 			   
@@ -6452,7 +6472,7 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	                      
 	                          
 	                      
-	                      Contact us
+	                      Elevate your everyday
 	                   
 	               
                
