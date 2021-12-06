@@ -2648,6 +2648,23 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
     
 
 
+		
+
+        
+			
+	            
+	                
+	                Join Marco Polo Club
+	            
+            
+        
+
+        
+
+        
+    
+
+
 
     
   
@@ -3051,6 +3068,16 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
         
 
         
+    
+
+
+		
+
+        
+
+        
+
+        
             
                
 			   
@@ -3061,21 +3088,11 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	                      
 	                          
 	                      
-	                      Join Marco Polo Club
+	                      Contact us
 	                   
 	               
                
             
-        
-    
-
-
-		
-
-        
-
-        
-
         
     
 
@@ -6023,6 +6040,23 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
     
 
 
+		
+
+        
+			
+	            
+	                
+	                Join Marco Polo Club
+	            
+            
+        
+
+        
+
+        
+    
+
+
 
     
   
@@ -6426,6 +6460,16 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
         
 
         
+    
+
+
+		
+
+        
+
+        
+
+        
             
                
 			   
@@ -6436,21 +6480,11 @@ Online Flight Booking | Airfare | United States - Cathay Pacific
 	                      
 	                          
 	                      
-	                      Join Marco Polo Club
+	                      Contact us
 	                   
 	               
                
             
-        
-    
-
-
-		
-
-        
-
-        
-
         
     
 
