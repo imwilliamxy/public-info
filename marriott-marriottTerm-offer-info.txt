@@ -39,7 +39,7 @@ Loyalty Program Terms & Conditions
                           
                             
                             
-                                              
+                                                 7. MARRIOTT VACATION CLUB, MARRIOTT GRAND RESIDENCE CLUB, VISTANA SIGNATURE NETWORK, AND VISTANA RESIDENCE NETWORK                
                           
                           
                             
@@ -101,7 +101,11 @@ These Program Rules supersede all previous terms and conditions applicable to th
                           
                             
                             
-                                              
+                                    1.1Eligibility.       Membership in the Loyalty Program is free and available to any individual who: (a) possesses the legal authority to agree to the Program Rules; (b) resides in a jurisdiction which legally permits participation in the Loyalty Program; (c) is not a resident of Cuba, Iran, North Korea, Syria, or the Crimea region of Ukraine; (d) provides valid and accurate personal information when enrolling in the Loyalty Program; (e) is not already a member of the Loyalty Program (i.e., does not already have a Membership Account); and (f) has not previously been terminated from the Loyalty Program or any of the three Legacy Programs by the Company.
+
+1.1.a. Members are responsible for reading and understanding the Loyalty Program Rules, Account statements, and other communications from the Company about the Loyalty Program in order to understand his/her rights, responsibilities, and status in the Loyalty Program. If a Member has any questions about the Loyalty Program or these Program Rules, the Member should contact Member Support.
+
+1.1.b. Members are responsible for reading the Company’s Privacy Statement in order to understand how the Company collects, uses, and discloses a Member’s data. If a Member has any questions about the Company’s Privacy Statement or its collection, use, or disclosure of a Member’s data, the Member should contact Member Support.           
                           
                           
                             
@@ -292,7 +296,51 @@ xxxiv.     All-Inclusive by Marriott Bonvoy  Unless otherwise indicated, re
                           
                             
                             
-                                              
+                                    1.3   Benefits of Membership     1.3.a. Member Support. Loyalty Program Members will have access to Member service telephone numbers for reservations, customer service and award redemption requests on the Member Support Website.
+
+1.3.b. Member Rates.
+
+i.     Member Rates.  Loyalty Program Members will receive an exclusive, preferred rate ("Member Rate") when they book rooms through a MarriottChannel. Member Rates are available at Participating Properties and Brands except at Atlantis, Paradise Island, Bahamas, The Cosmopolitan of Las Vegas, Design Hotels, and Homes & Villas by Marriott International. Advance reservations are required.
+
+A.      Member Rate offers a discount of at least two percent (2%) on weekdays and up to five percent (5%) on weekends. The Ritz-Carlton, St. Regis, and EDITION offer 2% all days of the week.
+
+B.      Member Rate is applied to the Participating Property's lowest applicable available public rates for non-premium rooms.
+
+C.      Member Rate must be booked by the Member using the appropriate Member Rate category.
+
+D.      Member Rates do not apply to groups of ten (10) or more guest rooms.
+
+E.      Member Rate may not be combined with other select promotions, offers or discounts, and is not valid for existing reservations or groups.
+
+F.      Member Rate does not apply to qualified transient rates such as government rates, negotiated rates, AAA rates, and the Senior Discount rate.
+
+1.3.c.  Complimentary In-Room Internet Access.  A Member who books a stay at a Participating Property through a Marriott Channel will receive complimentary standard in-room internet access during the stay, and Marriott Bonvoy Gold Elite, Marriott Bonvoy Platinum Elite, Marriott Bonvoy Titanium Elite, Marriott Bonvoy Ambassador Elite Members, and any co-brand credit card holder that has premium internet access as a benefit, will receive complimentary enhanced in-room internet access regardless of booking method (collectively, the "Internet Access Benefit"). The additional exclusions set forth below apply.
+
+i.      The Internet Access Benefit is limited to one (1) guest room per eligible Member per stay regardless of how many rooms have been reserved, and the Member must stay in the guest room and pay for the charges.  The Internet Access Benefit is not applicable for meeting rooms.
+
+ii.      No additional Internet Access Benefit will be provided at Participating Properties and Brands that offer complimentary in-room Internet access to all guests.
+
+iii.      Participating Properties that provide complimentary in-room internet access to all guests include:  EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Vistana properties, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element and Homes & Villas by Marriott International.
+
+iv.      Participating Properties that have mandatory resort charges, which include internet access, will provide a replacement benefit, to be determined at each Participating Property's discretion.
+
+v.      Participating Properties that offer complimentary standard in-room internet access to Gold Elite, Platinum Elite, Titanium Elite and Ambassador Elite Members only include: Atlantis, Paradise Island, Bahamas and The Cosmopolitan of Las Vegas, NV.
+
+vi.      Participating Properties and Brands with limited participation in complimentary in-room internet access include:  Delta Hotels.
+
+vii.      Participating Properties and Brands that do not offer complimentary in-room internet access include:  Mulu Marriott Resort & Spa, Malaysia.
+
+viii.      Properties and Brands that do not participate in the Loyalty Program pursuant to Section 1.2 do not offer the Internet Access Benefit for Members.
+
+1.3.d. Benefits through Other Marketing Programs.
+
+i.      Prokard Explorer.  Prokard Explorer is a marketing program which offers its members benefits that are valid only at participating properties within the Protea Hotels portfolio.  Prokard Explorer operates both as a stand-alone program as well as in conjunction with the Loyalty Program.
+
+A.      Prokard Explorer has no earn and redeem points benefits.  Guests who are members of both Prokard Explorer and the Loyalty Program can only earn and redeem Points or Miles with the Loyalty Program.
+
+B.      When staying at a participating Protea Hotel, guests who are members of both Prokard Explorer and the Loyalty Program can (a) choose to earn Loyalty Program Points or Miles, and (b) receive benefits from both programs.  Prokard Explorer benefits include dining discounts, preferential rates, and accommodation vouchers.  Loyalty Program benefits are based on the membership tier as outlined in Sections 1.3 and 4.
+
+C.      All Loyalty Program Rules apply.           
                           
                           
                             
@@ -544,7 +592,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                              
+                                    2.2      Earn One Currency.     A Member may earn only one currency - Points or Miles.  A Member may not earn both Points and Miles for the same stay.  A Member may switch from earning Points to Miles, or vice versa, before a given Stay by updating his or her Membership profile or by contacting Member Support. A Member will begin earning the new “currency” (Points or Miles) with the next Stay. Previous earnings will not be converted to the new currency.  If the Member wishes to “convert” Points into Miles, he or she may do so in accordance with Section 3.11.           
                           
                           
                             
@@ -582,7 +630,15 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                              
+                                     2.8      Transferring Points from One Account to Another     2.8.a.  In accordance with the conditions for transferring Points as described in Section 1.6.c., a Member can transfer up to a maximum of 100,000 Points per calendar year to another Membership Account as long as both Accounts are in good standing and have each been open for at least thirty (30) days with qualifying activity, ninety (90) days without qualifying activity (see 2.8.b). A Member can receive up to a maximum of 500,000 Points per calendar year from other Membership Accounts as long as the Accounts are in good standing and have each been open for at least thirty (30) days with qualifying activity, ninety (90) days without qualifying activity.
+
+2.8.b.  A new Member may receive a Points Transfer thirty (30) days after enrollment if the Account reflects activity including a Qualifying Stay or other qualifying activity as described in Section 1.6.d.  After ninety (90) days from enrollment, a new Member is eligible to receive a Points Transfer regardless of their account activity.
+
+2.8.c.  Authorization to transfer Points must be initiated by the Account holder with the Points to be transferred by contacting Member Support. The Account holder requesting the transfer must provide the Membership Number of the Points recipient at the time of the Point transfer request.
+
+2.8.d.  Once the authorization for transfer is received and processed, the transferor relinquishes all rights to the transferred Points, and they become the recipient’s Points.
+
+2.8.e.  Miles and Elite Night Credit cannot be transferred between Membership Accounts.           
                           
                           
                             
@@ -742,12 +798,34 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                                              
+                                    3.6Points Advance     Effective May 27, 2021, Members who seek to make an Award Redemption reservation with an insufficient Points balance may book an Award Redemption reservation ("Points Advance Redemption Reservation") that is at least thirty (30) or more days from the arrival date, and hold it for sixty (60) days from time of booking, or no later than fourteen (14) days prior to the Member’s arrival date, whichever occurs sooner. Points Advance Redemption Reservations booked prior to May 27, 2021 will be placed on a 60-day hold beginning on May 27, 2021, or held no later than fourteen (14) days prior to the Member’s arrival date, whichever occurs sooner.
+
+During the time the Points Advance Redemption Reservation is on hold, a Member may either (1) purchase Points (as described in Section 2.9) to make a valid Award Redemption, provided that the aggregate amount of Points purchased and/or received as a gift by the Member is less than or equivalent to the annual maximum per calendar year as noted in section 2.9; or (2) the Member accrues sufficient Points for payment of the Points Advance Redemption Reservation by the end of the 60-day hold, or no later than fourteen (14) days prior to the Member’s arrival date, whichever occurs sooner; or (3) the Member may modify the Points Advance Redemption Reservation to the best paid rate available; or (4) the Member may rebook a Points Advance Redemption Reservation based on redemption inventory availability.
+
+A maximum of three (3) Points Advance Redemption Reservations are permitted to be maintained per Membership Account at any one time.
+
+3.6.a. If a Member does not have sufficient Points to pay for a Points Advance Redemption Reservation by the end of the 60-day hold, or the date that is fourteen (14) days prior to the Member's arrival date, whichever occurs sooner, the Points Advance Redemption Reservation will be cancelled.
+
+3.6.b. To finalize a Points Advance Redemption Reservation, once a Member has accrued sufficient points (either within or by the end of the 60-day hold, or no later than fourteen (14) days prior to the Member’s arrival date, whichever occurs sooner), the Points may be automatically deducted and Free Night Award certificate ordered and attached to the reservation. The Member can also finalize the Points Advance Redemption Reservation online or by calling Member Support. The amount of Points required to finalize the Points Advance Redemption Reservation may change between the time of booking and the time that Points are deducted and the Award Redemption certificate is ordered and/or the member’s Free Night Award certificate(s) are assigned and attached to the reservation. The Member will be required to pay the amount of Points required at the time the Award Redemption certificate is ordered, even if the amount of Points required has increased since the time the Member booked the Points Advance Redemption Reservation. If the rate has changed and the amount of Points required has increased beyond the value of the Member’s Free Night Award certificate(s), the Member will no longer be able to use the certificate(s) for the stay.
+
+3.6.c. Promotional awards (e.g., Free Night Award issued through Marriott International co-brand credit card, Annual Choice Benefit, etc.) can only be used on a Points Advance Redemption Reservation if their value is greater than or equal to one night on the reservation at the time the Member orders and attaches the promotional award certificate(s) and/or deducts Points for the reservation. For example, if a Member has a Free Night Award that is worth 35,000 Points, that Free Night Award may not be used in conjunction with a Points Advance Redemption Reservation where the nightly rate associated with the reservation is 50,000 Points. Multiple promotional award certificates can be used on a Points Advance Redemption Reservation provided the Member has a promotional award certificate that qualifies for usage for each night it is being applied.
+
+3.6.d Points Advance can only be used for Award Redemption Stays, including Free Night Awards, Upgrade Awards, Cash + Points Awards, and PointSavers Awards (refer to Section 3.2). Stay for 5, Pay for 4 Award may be applied on Points Advance Redemption Reservation (refer to Section 3.2.f.) but cannot be combined with promotional award(s). Points Advance cannot be used for any other Award Redemption options, including, but not limited to, Marriott Bonvoy Moments experiences, flights, Points to Miles conversions, Travel Packages, Instant Redemption Awards, and other services and merchandise.           
                           
                           
                             
                             
-                                              
+                                    3.7      Instant Redemptions.     Members may use Points during their stay to redeem an “Instant Redemption Award,” which they may apply as a credit against their room folio upon check-out. An Instant Redemption Award must be ordered at the Participating Property during the stay to which it will be applied and cannot be booked in advance of the stay. When a Member requests an Instant Redemption Award for a specific U.S. dollar amount or for “up to” a specific U.S. dollar amount, the Loyalty Program will deduct those Points from the Member’s Account. For a listing of the Instant Redemption Awards required to redeem specific U.S. dollar values, please refer to the Loyalty Program website under USE POINTS.
+
+3.7.a. A request for an Instant Redemption Award may only be made by a Member of the Loyalty Program who is in good standing. As proof of eligibility, a valid Membership Number is required when redeeming an Instant Redemption Award.
+
+3.7.b. Instant Redemption Awards are valid only when used toward the expenses charged to a Member’s room folio, including, but not limited to room charges, food and beverages, golf, spa services and incidental expenses. Instant Redemption Awards cannot be redeemed for cash or gift cards. Instant Redemption Awards are valid only for individual travel, and are not applicable to group travel, package tours, or conventions that have been charged to and/or paid by a third party. Instant Redemption Award credits may be used by the Member only and may not be gifted, although if requested at the time of redemption, Instant Redemption Awards may be credited against a third party’s room folio if the room was booked under the Member’s Loyalty Program Membership Number.
+
+3.7.c. The Member requesting the Instant Redemption Award must have the total Points value required to purchase the Instant Redemption Award requested available in his or her Membership Account at the time of ordering. Once accrued Points in the Member’s Account have been redeemed for an Instant Redemption Award, the Points cannot be returned to the Member’s Account. Any portion of the Instant Redemption Award not applied to the Member’s room folio will be forfeited; if the amount requested for the Instant Redemption Award is more than the room folio balance, cash will not be returned to the Member.
+
+3.7.d. Redeemed Instant Redemption Awards are not refundable, exchangeable, replaceable or transferable for cash or credit.
+
+3.7.e. Not all Participating Properties offer Instant Redemption Awards. The following Participating Brands do not offer Instant Redemption Awards: Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels, Vistana properties, Atlantis, Paradise Island, and The Cosmopolitan of Las Vegas. In addition, Instant Redemption Awards are not offered at select Participating Properties. Contact the Participating Property directly for Instant Redemption Award participation.           
                           
                           
                             
@@ -769,7 +847,17 @@ ii.     Paid Upgrade Awards.  At select Participating Properties, Members 
                           
                             
                             
-                                              
+                                    3.11   Airline Frequent Flyer Programs and Other Affiliated Loyalty Programs     3.11.a. Members may redeem Points with participating airline frequent flyer programs and other airline-affiliated loyalty programs at a designated Points to Miles conversion ratio as indicated here. If applicable, to achieve a bonus for transferred Points to a frequent-flyer program, or other airline-affiliated loyalty program, Marriott Bonvoy Points must be transferred through a single transaction at the noted threshold for bonus achievement.
+
+3.11.b. Members requesting to convert Points earned through the Marriott Bonvoy Loyalty Program to participating airline partner Miles, must be a member of both Marriott Bonvoy and the relevant participating airline partner frequent flyer program and/or airline-affiliated loyalty program in order to successfully complete the conversion. For most Loyalty Program airline partners, the Points being transferred from a Member’s Marriott Bonvoy Account must be transferred to that Member’s account held in the same name for the frequent flyer program. In other words, both the Member‘s Marriott Bonvoy Membership Account name and airline frequent flyer program account name must match in order to successfully complete the Points to Miles conversion. Please refer to each airline partner’s loyalty program website and/or terms and conditions for additional details on name matching requirements in order to complete Points to Miles conversions. For details on joining an airline frequent flyer program and/or other airline-affiliated loyalty program, please refer to that particular airline or loyalty program website and terms and conditions. Marriott Bonvoy reserves the right, in its sole discretion, to prevent or cancel transactions where (i) Marriott Bonvoy has reason to believe that the identity of the Member converting the Points to Miles does not match the identity of the person receiving the Miles for airlines which require an exact name match or (ii) where Marriott Bonvoy suspects there has been any fraudulent activity connected with the Points to Miles conversion in relation to the Member’s Account.
+
+3.11.c. Once Points have been redeemed for Miles with a participating airline frequent flyer program or other airline-affiliated loyalty program, Miles will automatically be transferred to the Member’s frequent flyer or airline-affiliated loyalty program account. In most cases, Miles will be posted to your account within one (1) week.
+
+3.11.d. Once Miles are ordered to a Member’s frequent flyer or other airline-affiliated loyalty program account, changes, reissuance and/or re-credit of Points are not allowed.
+
+3.11.e. The terms and conditions of the airline frequent flyer program or other airline-affiliated loyalty program control the redemption and distribution of the Miles earned through the Loyalty Program.
+
+3.11.f. The airline frequent flyer program or other airline-affiliated loyalty program reserves the right to change its program at any time without notice. Any such changes may affect a Member’s ability to use the Miles he/she has accumulated. The airline frequent flyer program or other airline-affiliated loyalty program is not responsible for products or services offered by other third parties participating in the Loyalty Program. All terms and conditions of a Member’s preferred airline frequent flyer program or other airline-affiliated loyalty program apply.           
                           
                           
                             
@@ -803,7 +891,7 @@ ii.      the hotel award portion of the Travel Package is non-refundable to
                           
                             
                             
-                                              
+                                   4. ELITE MEMBERSHIP             
                           
                           
                             
@@ -1389,7 +1477,9 @@ In addition, for Participating Properties in Asia, Australia & Pacific Islands, 
                           
                             
                             
-                                              
+                                    5.2Participating Properties     5.2.a.  Participating Brands.  Marriott Bonvoy Events is valid at all Participating Properties (see Section 1.2) at these Participating Brands:  The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Marriott Vacation Club, Delta Hotels, Le Méridien, Westin, Autograph Collection Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Aloft, Moxy Hotels, and Element.
+
+5.2.b.  Non-Participating Brands.  Marriott Bonvoy Events is not valid at the following brands: Design HotelsTM, Marriott Executive Apartments, Residence Inn, TownePlace Suites, Bulgari Hotels & Resorts, The Ritz-Carlton Reserve, Vistana properties, and Homes & Villas by Marriott International.           
                           
                           
                             
@@ -1560,7 +1650,29 @@ Marriott Bonvoy Inspire Credit Card for residents of Mexico  Learn More (Spanish
                           
                             
                             
-                                              
+                                    7.1    Marriott Vacation Club and Marriott Grand Residence Club     7.1.a Marriott Vacation Club and Marriott Grand Residence Club owners eligible to participate in the Loyalty Program through ownership of a Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interest (collectively, “MVC Owners”) are subject to the Program Rules, and to any additional rules and regulations promulgated by Marriott Ownership Resorts, Inc. and/or Marriott Resorts, Travel Company, Inc. d/b/a MVC Exchange Company or their respective affiliates or subsidiaries (each an “MVC Entity”), as such rules and regulations may be modified from time to time (collectively, “MVC Rules”).
+
+7.1.b MVC Owners who receive Loyalty Program Elite upgrades as part of their owner benefits are subject to the Program Rules, as may be modified from time to time pursuant to section 1.7.c, and to the MVC Rules, including without limitation the following:
+
+i.      MVC Owners who achieve a “Standard” or “Owner” level of membership through their ownership of Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interests, or their enrollment in the Marriott Vacation Club Destinations Exchange Program (“MVC Exchange Program”), and certain other individuals designated by an MVC Entity, may be offered Marriott Bonvoy Gold Elite status, and are not subject to the Gold Elite Minimum Requirement to maintain Gold Elite status every year. MVC Owners who achieve a “Select” or “Executive” level of membership through their ownership of Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interests, or their enrollment in the Marriott Vacation Club Destinations Exchange Program (“MVC Exchange Program”), and certain other individuals designated by an MVC Entity, may be offered Marriott Bonvoy Platinum Elite status, and are not subject to the Platinum Elite Minimum Requirement to maintain Platinum Elite status every year. MVC Owners who achieve a “Presidential” or “Chairman’s Club” level of membership through their ownership of Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interests, or their enrollment in the MVC Exchange Program, and certain other individuals designated by an MVC Entity, may be offered Marriott Bonvoy Titanium Elite status, and are not subject to the Titanium Elite Minimum Requirement to maintain Titanium Elite status every year.
+
+ii.      An MVC Owner will remain his or her Elite status, provided that such MVC Owner: (i) maintains his/her membership level through ownership of Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interests or enrollment in the MVC Exchange Program; (ii) is current in all maintenance fees, MVC Exchange Company dues, fees, taxes, and other payments; and (iii) is current in any other payments owed to any MVC Entity.
+
+iii.      Elite status and any accumulated Points in an MVC Owner’s Loyalty Program Membership Account do not transfer upon sale of their timeshare interest to a third party.
+
+7.1.c Due to the nature of Marriott Vacation Club and Marriott Grand Residence Club properties, the following special conditions apply to their participation in the Loyalty Program:
+
+i.      Members will earn Elite Night Credit for a Qualifying Stay at Marriott Vacation Club and Marriott Grand Residence Club properties, and for stays at Participating Properties as part of the MVC Exchange Program (e.g. City Explorer).
+
+ii.      Members will earn Points or Miles for all Qualifying Charges at Marriott Vacation Club and Marriott Grand Residence Club properties.
+
+iii.      Members do not receive the following benefits (as defined in Section 4) at Marriott Vacation Club or Marriott Grand Residence Club properties: Complimentary Enhanced Room Upgrades, late checkout, Suite Night Awards, Guaranteed Room Type, 48-Hour Guaranteed Availability, Ultimate Reservation Guarantee, or Your24.
+
+iv.      Free Night Awards at Marriott Vacation Club and Marriott Grand Residence Club properties must be booked at least one (1) day in advance of arrival. Marriott Vacation Club and Marriott Grand Residence Club properties either do not participate or do not fully participate in the “No Blackout Dates” benefit at this time.
+
+v.      Instant Redemption Awards are not available at Marriott Vacation Club or Marriott Grand Residence Club properties.
+
+vi.      Points acquired through ownership of an interest at a Marriott Vacation Club or Marriott Grand Residence Club property may not be used to request an Award Redemption Stay reservation at a Marriott Vacation Club, Marriott Grand Residence Club or Vistana property.           
                           
                           
                             
