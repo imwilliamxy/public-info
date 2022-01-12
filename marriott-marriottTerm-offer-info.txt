@@ -643,7 +643,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
                           
                             
                             
-                                     2.9      Purchase Points.       Members may purchase or receive Points purchased by another Member as a gift for a combined maximum of 100,000 Points per calendar year if purchased through the Buy Points Storefront or Gift Points Storefront. Members may purchase Points for a combined maximum of 100,000 Points per calendar year if purchased through the Points.com-powered window on Marriott websites, Marriott Mobile Apps or the Customer Engagement Centers. Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000, or in increments of 5,000 Points ($62.50 U.S. dollars per 5,000 Points). Pricing varies during promotional periods. A Member must be in good standing to purchase and/or receive Points. A new Member may purchase Points thirty (30) days after enrollment in the Loyalty Program. Please refer to Section 2.8 for additional information on individual Member conditions on transferring to or receiving points from another Member per calendar year. Purchased Points do not count toward Marriott Bonvoy Elite status. Points will be posted to the Member’s Account within seventy-two (72) hours after the purchase is complete. Once Points have been purchased, no refunds will be permitted. Purchasing Points using a Marriott co-brand credit card will earn Points as an everyday purchase where applicable. Members who choose to purchase Points using their Union Pay single-logo credit cards (with card number starting with digits 62) can do so by choosing Discover as their payment option.           
+                                     2.9      Purchase Points.       Members may purchase or receive Points purchased by another Member as a gift for a combined maximum of 100,000 Points per calendar year if purchased through the Buy Points Storefront or Gift Points Storefront. Members may purchase Points for a combined maximum of 100,000 Points per calendar year if purchased through Marriott websites, Marriott Mobile Apps or the Customer Engagement Centers. Points may be purchased at the rate of $12.50 U.S. dollars per 1,000 Points and can be purchased in increments of 1,000, or in increments of 5,000 Points ($62.50 U.S. dollars per 5,000 Points). Pricing varies during promotional periods. A Member must be in good standing to purchase and/or receive Points. A new Member may purchase Points thirty (30) days after enrollment in the Loyalty Program. Please refer to Section 2.8 for additional information on individual Member conditions on transferring to or receiving points from another Member per calendar year. Purchased Points do not count toward Marriott Bonvoy Elite status. Points will be posted to the Member’s Account within seventy-two (72) hours after the purchase is complete. Once Points have been purchased, no refunds will be permitted. Purchasing Points using a Marriott co-brand credit card will earn Points as an everyday purchase where applicable. Members who choose to purchase Points using their Union Pay single-logo credit cards (with card number starting with digits 62) can do so by choosing Discover as their payment option.           
                           
                           
                             
@@ -660,7 +660,7 @@ v.     A voucher or third-party award was redeemed for the guest room.
 
 2.10.e. Eat Around Town by Marriott Bonvoy. A Member may earn Points when they enroll in the Eat Around Town by Marriott Bonvoy program and dine at participating restaurants. Members are subject to the terms and conditions of the Eat Around Town by Marriott Bonvoy program and the Loyalty Program Rules. More program information is available at eataroundtown.marriott.com.
 
-2.10.f. Marriott Bonvoy Boutiques. A Member may earn 10,000 Points with the purchase of a mattress on any of the Marriott International’s fifteen (15) online retail websites (Shop EDITION, The Ritz-Carlton Shops, The Luxury Collection Store, St. Regis Boutique, W Hotels The Store, Curated by JW, Shop Marriott, Sheraton Store, Westin Store, Shop Le Meridien, Collect Renaissance, Gaylord Hotels Store, Shop Courtyard, Shop Four Points, Fairfield Store). Points are awarded to the purchasing member approximately 3-5 weeks following the acceptance of the mattress delivery. Members are subject to the terms and conditions with the mattress purchase on the Marriott online retail sites and the Loyalty Program Rules. More information is available on the Marriott online retail websites.
+2.10.f. Marriott Bonvoy Boutiques. A Member may earn 10,000 Points with the purchase of a mattress on any of the Marriott International’s fourteen (14) online retail websites (Shop EDITION, The Ritz-Carlton Shops, The Luxury Collection Store, St. Regis Boutique, W Hotels The Store, Curated by JW, Shop Marriott, Sheraton Store, Westin Store, Collect Renaissance, Gaylord Hotels Store, Shop Courtyard, Shop Four Points, Fairfield Store). Points are awarded to the purchasing member approximately 3-5 weeks following the acceptance of the mattress delivery. Members are subject to the terms and conditions with the mattress purchase on the Marriott online retail sites and the Loyalty Program Rules. More information is available on the Marriott online retail websites.
 
 2.10.g. Marriott Uber Loyalty Initiative. To participate in the Marriott Uber loyalty initiative, Members must link their Membership Account to their Uber account associated with a U.S. phone number. Once Members link their accounts, they can earn Points on Qualifying Transactions. A “Qualifying Transaction” means (i) a ride taken with Uber XL, Uber Black, Uber SUV or Uber Comfort; or (ii) an order placed through Uber Eats in an amount of $25 U.S. dollars or more before the calculation of any applicable promotions or discounts (excluding taxes, fees, and tips), in each case, that occurs in the United States. Points earned for Qualifying Transactions will be based on U.S. dollars spent before promotions and discounts, excluding taxes, fees, and tips. Members are subject to the terms and conditions of Uber and Uber Eats, as well as the Program Rules. Uber and the Company reserve the right to change the number of Points that Members may earn and the activities for which they may earn Points. Uber or the Company may also unlink accounts as a result of termination or suspension of the Marriott Uber loyalty initiative, suspected fraud, or a change in eligibility. More information is available at www.uber.com/marriottbonvoy.           
                           
@@ -707,7 +707,7 @@ i.     A Point refund may be issued for a stay that is less than the number
 
 ii.     If a Member fails to cancel a guaranteed Award Redemption Stay reservation within the permitted cancellation period, the Participating Property will charge the applicable cancellation fee to the credit card provided by the Member at the time the reservation was made and the Points that were redeemed will be re-deposited into the Member’s Account.
 
-3.2.d.  The amount of Points required per night to obtain rooms at Participating Properties varies by the category of the Participating Property and the room types available at the Participating Property, length of stay, and may also vary by time of year. This includes rates based on demand (“Off-Peak and Peak Redemption Rates”) which may change for an Award Redemption Stay at the time of checking availability, at the time of booking or modifying an Award Redemption reservation, and at the time of when Points are deducted. A list of Participating Property categories is available on the Loyalty Program website under [id=3]USE AT HOTELS. The Company may change a Participating Property’s category at any time. Select properties may have redemption rates in excess of the Category 8 Redemption Rates.
+3.2.d.  The amount of Points required per night to obtain rooms at Participating Properties varies by the category of the Participating Property and the room types available at the Participating Property, length of stay, and may also vary by time of year. This includes rates based on demand (“Off-Peak and Peak Redemption Rates”) which may change for an Award Redemption Stay at the time of checking availability, at the time of booking or modifying an Award Redemption reservation, and at the time of when Points are deducted. A list of Participating Property categories is available on the Loyalty Program website under USE AT HOTELS. The Company may change a Participating Property’s category at any time. Select properties may have redemption rates in excess of the Category 8 Redemption Rates.
 
 3.2.e.  When redeeming Points for an Award Redemption Stay, the Award Redemption Stay includes the cost of a standard room (with existing bedding) at a Participating Property, room tax, service charge, and extra-person charges (except at eligible all-inclusive properties), if any. All other charges, including incidentals, resort fees and The Ritz-Carlton Club level charges, rollaways, and other fees, are the responsibility of the Member and are not included in the Award Redemption Stay.
 
@@ -810,7 +810,7 @@ A maximum of three (3) Points Advance Redemption Reservations are permitted to b
 
 3.6.c. Promotional awards (e.g., Free Night Award issued through Marriott International co-brand credit card, Annual Choice Benefit, etc.) can only be used on a Points Advance Redemption Reservation if their value is greater than or equal to one night on the reservation at the time the Member orders and attaches the promotional award certificate(s) and/or deducts Points for the reservation. For example, if a Member has a Free Night Award that is worth 35,000 Points, that Free Night Award may not be used in conjunction with a Points Advance Redemption Reservation where the nightly rate associated with the reservation is 50,000 Points. Multiple promotional award certificates can be used on a Points Advance Redemption Reservation provided the Member has a promotional award certificate that qualifies for usage for each night it is being applied.
 
-3.6.d. Points Advance can only be used for Award Redemption Stays, including Free Night Awards, Upgrade Awards, Cash + Points Awards, and PointSavers Awards (refer to Section 3.2). Stay for 5, Pay for 4 Award may be applied on Points Advance Redemption Reservation (refer to Section 3.2.f.) but cannot be combined with promotional award(s). Points Advance cannot be used for any other Award Redemption options, including, but not limited to, Marriott Bonvoy Moments experiences, flights, Points to Miles conversions, Instant Redemption Awards, and other services and merchandise.           
+3.6.d Points Advance can only be used for Award Redemption Stays, including Free Night Awards, Upgrade Awards, Cash + Points Awards, and PointSavers Awards (refer to Section 3.2). Stay for 5, Pay for 4 Award may be applied on Points Advance Redemption Reservation (refer to Section 3.2.f.) but cannot be combined with promotional award(s). Points Advance cannot be used for any other Award Redemption options, including, but not limited to, Marriott Bonvoy Moments experiences, flights, Points to Miles conversions, Travel Packages, Instant Redemption Awards, and other services and merchandise.           
                           
                           
                             
@@ -872,7 +872,15 @@ A maximum of three (3) Points Advance Redemption Reservations are permitted to b
                           
                             
                             
-                                    3.14      Hotel and Air Travel Packages     Effective January 19, 2022, Hotel and Air Travel Packages are no longer available for purchase. Information on existing Hotel and Air Travel Packages can be found here.           
+                                    3.14      Hotel and Air Travel Packages     3.14.a. All Loyalty Program Rules apply to Members redeeming Points toward a hotel and flight “Travel Package.”
+
+3.14.b. When a Member redeems Points to purchase a Travel Package: (1) the hotel award portion includes consecutive nights at the selected hotel on a Free Night Award or PointSavers Award in a standard room; Upgrade Awards cannot be used with Travel Packages; (2) Miles will be automatically transferred into the participating airline frequent flyer program account that matches the name on the Membership Account; and (3) Travel Packages are excluded from airline partner conversion bonus campaigns. More information on the Travel Packages may be obtained here.
+
+3.14.c. Once a Travel Package is processed:
+
+i.      airline Miles cannot be transferred back to the Membership Account; and
+
+ii.      the hotel award portion of the Travel Package is non-refundable to the Member if cancelled or not used.           
                           
                         
                         
@@ -974,11 +982,11 @@ ii. Achievement of Lifetime Elite Status through Legacy Program Lifetime Elite S
                             
                                     4.3  Elite Membership Benefits at Participating Brands      4.3.a. Marriott Bonvoy Silver Elite Membership Benefits. Silver Elite Members and above are eligible to receive the following benefits:
 
-i. 10% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
+i.      10% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
-ii. Priority Late Checkout. Based on availability. Please call the front desk the morning of checkout and let them know your planned departure time. Available at all Participating Brands except Marriott Vacation Club, Marriott Grand Residence Club, and Vistana Network properties.
+ii.      Priority Late Checkout. Based on availability. Please call the front desk the morning of checkout and let them know your planned departure time. Available at all Participating Brands except Marriott Vacation Club, Marriott Grand Residence Club, and Vistana Network properties.
 
- iii. Ultimate Reservation Guarantee. To be eligible, Member's Loyalty Program Member Number and a valid credit card number must be included with the reservation. If a Participating Property is unable to honor the reservation, it will pay for comparable accommodation nearby for the Elite Member that night and compensate the Member for the inconvenience. A Participating Property must be open and operational for the Ultimate Reservation Guarantee benefit/compensation to apply. At The Ritz-Carlton and St. Regis Hotels, the Ultimate Reservation Guarantee only applies to Titanium Elite and Ambassador Elite Members. The Ultimate Reservation Guarantee is offered at the following brands: The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Aloft Hotels, Moxy Hotels, Residence Inn, TownePlace Suites and Element. The Ultimate Reservation Guarantee is not offered at the following brands: Design Hotels, Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties. Pursuant to section 4.1.c. if an Elite Member has a confirmed reservation, but is relocated from the property upon arrival, the Participating Property will pay the Ultimate Reservation Guarantee compensation in place on that date under the Program Rules. If an Elite Member receives Ultimate Reservation Guarantee compensation, then he/she is not eligible to receive additional Elite Benefits Guarantee compensation.
+ iii.      Ultimate Reservation Guarantee. To be eligible, Member's Loyalty Program Member Number and a valid credit card number must be included with the reservation. If a Participating Property is unable to honor the reservation, it will pay for comparable accommodation nearby for the Elite Member that night and compensate the Member for the inconvenience. A Participating Property must be open and operational for the Ultimate Reservation Guarantee benefit/compensation to apply. At The Ritz-Carlton and St. Regis Hotels, the Ultimate Reservation Guarantee only applies to Titanium Elite and Ambassador Elite Members. The Ultimate Reservation Guarantee is offered at the following brands: The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Aloft Hotels, Moxy Hotels, Residence Inn, TownePlace Suites and Element. The Ultimate Reservation Guarantee is not offered at the following brands: Design Hotels, Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties. Pursuant to section 4.1.c. if an Elite Member has a confirmed reservation, but is relocated from the property upon arrival, the Participating Property will pay the Ultimate Reservation Guarantee compensation in place on that date under the Program Rules. If an Elite Member receives Ultimate Reservation Guarantee compensation, then he/she is not eligible to receive additional Elite Benefits Guarantee compensation.
 
 
 ULTIMATE RESERVATION GUARANTEE
@@ -1003,15 +1011,15 @@ U.S. $200 and 140,000 Points for Titanium Elite and Ambassador Elite Members
 
 * Participating Properties outside the United States will pay the equivalent in their local currency.
 
-iv. Gift Shop Discount of 10% on retail merchandise. Clothing, gifts & souvenirs, imprints & logo, jewelry & accessories, facial & body care products. The Gift Shop Discount is extended at participating Marriott-operated gift shops. Participating Brands include: St. Regis, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Marriott Vacation Club, Marriott Grand Residence Club, Delta Hotels, Le Méridien, Westin, Autograph Collection, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Protea Hotels and Moxy Hotels. At The Ritz-Carlton and EDITION hotels, there is a ten percent (10%) discount on branded merchandise only, excluding sundries, purchased at Gift Shops on property. A Membership Account card (physical card or mobile card) must be presented to obtain the discount.
+iv.      Gift Shop Discount of 10% on retail merchandise. Clothing, gifts & souvenirs, imprints & logo, jewelry & accessories, facial & body care products. The Gift Shop Discount is extended at participating Marriott-operated gift shops. Participating Brands include: St. Regis, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Marriott Vacation Club, Marriott Grand Residence Club, Delta Hotels, Le Méridien, Westin, Autograph Collection, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Protea Hotels and Moxy Hotels. At The Ritz-Carlton and EDITION hotels, there is a ten percent (10%) discount on branded merchandise only, excluding sundries, purchased at Gift Shops on property. A Membership Account card (physical card or mobile card) must be presented to obtain the discount.
 
 The Gift Shop Discount is not offered at the following brands: Courtyard, Four Points, SpringHill Suites, Fairfield, AC Hotels, Aloft, Residence Inn, TownePlace Suites, Element, Design Hotels and Vistana properties.
 
  4.3.b. Marriott Bonvoy Gold Elite Membership Benefits. In addition to all of the benefits Silver Elite Members receive, Gold Elite Members and above are eligible to receive the following benefits:
 
-i. 25% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
+i.      25% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
-ii. Elite Welcome Gift of Points (varies by Participating Brand). Gold Elite Members receive one Elite Welcome Gift of Points on a Stay of one or more consecutive nights as described in 2.1.d, even if they check in and check out of the same Participating Property within 24 hours. Members who designate their earning preference as Miles will need to initiate the transfer of Elite Welcome Gift of Points to Miles as described in section 2.3.
+ii.      Elite Welcome Gift of Points (varies by Participating Brand). Gold Elite Members receive one Elite Welcome Gift of Points on a Stay of one or more consecutive nights as described in 2.1.d, even if they check in and check out of the same Participating Property within 24 hours. Members who designate their earning preference as Miles will need to initiate the transfer of Elite Welcome Gift of Points to Miles as described in section 2.3.
 
 
 ELITE WELCOME GIFT OF POINTS FOR GOLD ELITE
@@ -1029,19 +1037,19 @@ Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield, AC Hotels, 
 
 250 Points per Stay
 
-iii. 2 p.m. Late Checkout. This benefit is based on availability. Member should call the front desk the morning of checkout and request a late checkout up until 2 p.m. This benefit is available at all Participating Brands except at Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties.
+iii.      2 p.m. Late Checkout. This benefit is based on availability. Member should call the front desk the morning of checkout and request a late checkout up until 2 p.m. This benefit is available at all Participating Brands except at Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties.
 
-iv. Complimentary Enhanced Room Upgrade for Gold Elite Members. This benefit is subject to availability on the day of arrival and is limited to a Member's personal guestroom at no additional charge. Enhanced rooms may include rooms with desirable views, rooms on high floors, corner rooms, rooms with special amenities, rooms on Executive Floors. At The Ritz-Carlton, rooms with direct Club access are excluded. Upgrades are subject to availability and identified by each Participating Property. The Complimentary Enhanced Room Upgrade for Gold Elite Members is available at all Participating Brands except Marriott Vacation Club, Marriott Grand Residence Club, Aloft, Element and Vistana properties.
+iv.      Complimentary Enhanced Room Upgrade for Gold Elite Members. This benefit is subject to availability on the day of arrival and is limited to a Member's personal guestroom at no additional charge. Enhanced rooms may include rooms with desirable views, rooms on high floors, corner rooms, rooms with special amenities, rooms on Executive Floors. At The Ritz-Carlton, rooms with direct Club access are excluded. Upgrades are subject to availability and identified by each Participating Property. The Complimentary Enhanced Room Upgrade for Gold Elite Members is available at all Participating Brands except Marriott Vacation Club, Marriott Grand Residence Club, Aloft, Element and Vistana properties.
 
-v. Complimentary Enhanced Internet Access. This benefit is provided where available, regardless of booking source, at all Participating Brands worldwide except at the EDITION, Marriott Vacation Club, Marriott Grand Residence Club and Vistana properties. This benefit is not applicable in meeting rooms. Free internet access may be available to all guests at some brands/locations.
+v.      Complimentary Enhanced Internet Access. This benefit is provided where available, regardless of booking source, at all Participating Brands worldwide except at the EDITION, Marriott Vacation Club, Marriott Grand Residence Club and Vistana properties. This benefit is not applicable in meeting rooms. Free internet access may be available to all guests at some brands/locations.
 
 4.3.c. Marriott Bonvoy Platinum Elite Membership Benefits. In addition to all of the benefits Gold Elite Members receive, Platinum Elite Members and above are eligible to receive the following benefits:
 
-i. 50% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
+i.      50% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
-ii. Complimentary Enhanced Room Upgrade for Platinum Elite Members. Platinum Elite Members and above receive a complimentary upgrade to the best available room, subject to availability on the day of arrival, for the entire length of stay. Complimentary upgrade includes suites, rooms with desirable views, rooms on high floors, corner rooms, rooms with special amenities or rooms on Executive Floors. At The Ritz-Carlton, suites are only included for Titanium Elite and Ambassador Elite Members and rooms with direct Club access are excluded. Enhanced Room Upgrades are subject to availability and are identified by each Participating Property. The Complimentary Enhanced Room Upgrade for Platinum Elite Members and above is available at all Participating Brands except at Marriott Vacation Club, Marriott Grand Residence Club, Aloft, Element and Vistana properties.
+ii.      Complimentary Enhanced Room Upgrade for Platinum Elite Members. Platinum Elite Members and above receive a complimentary upgrade to the best available room, subject to availability on the day of arrival, for the entire length of stay. Complimentary upgrade includes suites, rooms with desirable views, rooms on high floors, corner rooms, rooms with special amenities or rooms on Executive Floors. At The Ritz-Carlton, suites are only included for Titanium Elite and Ambassador Elite Members and rooms with direct Club access are excluded. Enhanced Room Upgrades are subject to availability and are identified by each Participating Property. The Complimentary Enhanced Room Upgrade for Platinum Elite Members and above is available at all Participating Brands except at Marriott Vacation Club, Marriott Grand Residence Club, Aloft, Element and Vistana properties.
 
-iii. Elite Welcome Gift. Platinum Elite Members and above receive one Elite Welcome Gift (of their choice where multiple options are offered) on a Stay of one or more consecutive nights as described in 2.1.d, even if they check in and check out of the same Participating Property within 24 hours. The Elite Welcome Gift for Platinum Elite Members and above does not include the Elite Welcome Gift of Points which is for Gold Elite only (see 4.3.b). Members who select or receive Points as their Elite Welcome Gift and have designated their earning preference as Miles will need to initiate the transfer of Elite Welcome Gift of Points to Miles as described in section 2.3. If the Elite Welcome Gift is not offered at time of arrival, compensation applies (see below). Choices vary by Participating Brand:
+iii.      Elite Welcome Gift. Platinum Elite Members and above receive one Elite Welcome Gift (of their choice where multiple options are offered) on a Stay of one or more consecutive nights as described in 2.1.d, even if they check in and check out of the same Participating Property within 24 hours. The Elite Welcome Gift for Platinum Elite Members and above does not include the Elite Welcome Gift of Points which is for Gold Elite only (see 4.3.b). Members who select or receive Points as their Elite Welcome Gift and have designated their earning preference as Miles will need to initiate the transfer of Elite Welcome Gift of Points to Miles as described in section 2.3. If the Elite Welcome Gift is not offered at time of arrival, compensation applies (see below). Choices vary by Participating Brand:
 
 
 ELITE WELCOME GIFT FOR PLATINUM ELITE MEMBERS AND ABOVE
@@ -1150,29 +1158,29 @@ U.S. $25
 
 ** The U.S. $10 F&B credit per night of Stay is for the Member. An additional U.S. $10 F&B credit per night of Stay is given for one (1) guest staying in the same guestroom as the Member. The U.S. $10 credit per night of Stay does not accrue during the stay. For example, a Member who does not use the $10 credit on one day does not get $20 to use the following day.
 
-iv. Guaranteed Lounge Access. The Member plus one guest staying in the same room receives access to the Concierge/Executive/Club/Signature Club/M Club lounge (collectively, “Lounge” or “Lounge Access”) during normal hours of operations at JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection, and Renaissance Hotels. Resort properties excluded at JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, and Renaissance Hotels. At Delta Hotels properties without a Signature Club Lounge, as the approved alternative the Member will receive access to the Elite Pantry. Lounge Access is offered at Courtyard properties with a Lounge outside the United States and Canada. This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative. Additional charges may apply for Lounge Access where the guest count is greater than the Member plus one allowance (including children). Lounge amenities may include light snacks and daily continental breakfast. Lounge Access is not offered at the following brands: The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, Design Hotels, Tribute Portfolio, Gaylord Hotels, Four Points, SpringHill Suites, Protea Hotels, Fairfield, AC Hotels, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element, Marriott Vacation Club, Marriott Grand Residence Club, and participating Vistana properties. This benefit only applies to the one (1) guest room in which the Platinum Elite Member is staying.
+iv.      Guaranteed Lounge Access. The Member plus one guest staying in the same room receives access to the Concierge/Executive/Club/Signature Club/M Club lounge (collectively, “Lounge” or “Lounge Access”) during normal hours of operations at JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection, and Renaissance Hotels. Resort properties excluded at JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, and Renaissance Hotels. At Delta Hotels properties without a Signature Club Lounge, as the approved alternative the Member will receive access to the Elite Pantry. Lounge Access is offered at Courtyard properties with a Lounge outside the United States and Canada. This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative. Additional charges may apply for Lounge Access where the guest count is greater than the Member plus one allowance (including children). Lounge amenities may include light snacks and daily continental breakfast. Lounge Access is not offered at the following brands: The Ritz-Carlton, St. Regis, EDITION, The Luxury Collection, W Hotels, Design Hotels, Tribute Portfolio, Gaylord Hotels, Four Points, SpringHill Suites, Protea Hotels, Fairfield, AC Hotels, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element, Marriott Vacation Club, Marriott Grand Residence Club, and participating Vistana properties. This benefit only applies to the one (1) guest room in which the Platinum Elite Member is staying.
 
-A. In the United States and Canada: When a Participating Property's Lounge is closed, or property does not have a Lounge or approved alternative, the property will offer a daily continental breakfast in the restaurant for the Member plus one (1) guest, or Member can choose 750 Points per night of Stay. In Europe: Participating Properties without a Lounge or approved alternative offer daily breakfast in restaurant for Member plus one (1) guest, or Member can choose 750 Points per night of Stay. This benefit applies to the following brands (resort properties excluded): JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, and Renaissance Hotels. This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative as described above. The following properties in the United States do not provide free continental breakfast in the hotel restaurant in the event the Lounge is closed but do offer 1,000 Points in lieu of breakfast. These properties include:
+A.     In the United States and Canada: When a Participating Property's Lounge is closed, or property does not have a Lounge or approved alternative, the property will offer a daily continental breakfast in the restaurant for the Member plus one (1) guest, or Member can choose 750 Points per night of Stay. In Europe: Participating Properties without a Lounge or approved alternative offer daily breakfast in restaurant for Member plus one (1) guest, or Member can choose 750 Points per night of Stay. This benefit applies to the following brands (resort properties excluded): JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection, and Renaissance Hotels. This benefit is not applicable when breakfast is included in the rate or the brand offers an approved alternative as described above. The following properties in the United States do not provide free continental breakfast in the hotel restaurant in the event the Lounge is closed but do offer 1,000 Points in lieu of breakfast. These properties include:
 
-● The Algonquin Hotel Times Square, Autograph Collection
-● Boston Marriott Copley Place
-● Boston Marriott Long Wharf
-● Chicago Marriott Downtown Magnificent Mile
-● JW Marriott Essex House New York City
-● JW Marriott New Orleans
-● JW Marriott San Francisco Union Square
-● JW Marriott Washington, DC
-● The Lexington Hotel, Autograph Collection
-● Monterey Marriott
-● New York Marriott Marquis
-● Philadelphia Marriott Downtown
-● Renaissance Boston Waterfront Hotel
-● Renaissance Chicago Downtown Hotel
-● Renaissance Los Angeles Airport Hotel
-● Renaissance New York Midtown Hotel
-● Renaissance New York Times Square Hotel
-● Renaissance Washington, DC Downtown Hotel
-● Marriott Marquis San Diego Marina
+●     The Algonquin Hotel Times Square, Autograph Collection
+●     Boston Marriott Copley Place
+●     Boston Marriott Long Wharf
+●     Chicago Marriott Downtown Magnificent Mile
+●     JW Marriott Essex House New York City
+●     JW Marriott New Orleans
+●     JW Marriott San Francisco Union Square
+●     JW Marriott Washington, DC
+●     The Lexington Hotel, Autograph Collection
+●     Monterey Marriott
+●     New York Marriott Marquis
+●     Philadelphia Marriott Downtown
+●     Renaissance Boston Waterfront Hotel
+●     Renaissance Chicago Downtown Hotel
+●     Renaissance Los Angeles Airport Hotel
+●     Renaissance New York Midtown Hotel
+●     Renaissance New York Times Square Hotel
+●     Renaissance Washington, DC Downtown Hotel
+●     Marriott Marquis San Diego Marina
 
 B.    Outside United States and Canada at Courtyard properties with a Lounge, breakfast is offered in the restaurant when the Lounge is closed.
 
@@ -1217,9 +1225,9 @@ N/A
 
 *Participating Properties outside the United States will pay the equivalent in their local currency.
 
-v. 4 p.m. Late Checkout. Platinum Elite Members and above may check out as late as 4 p.m. local time of the Participating Property. Members can request late checkout when making a reservation through central reservations, at check-in, via the mobile app (where available) or at any time during their stay. This benefit is guaranteed at all Participating Properties, except at resort and convention hotels and Design HotelsTM, where it is based upon availability. Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties are excluded from this benefit.
+v.      4 p.m. Late Checkout. Platinum Elite Members and above may check out as late as 4 p.m. local time of the Participating Property. Members can request late checkout when making a reservation through central reservations, at check-in, via the mobile app (where available) or at any time during their stay. This benefit is guaranteed at all Participating Properties, except at resort and convention hotels and Design HotelsTM, where it is based upon availability. Marriott Vacation Club, Marriott Grand Residence Club, and Vistana properties are excluded from this benefit.
 
- vi. 50-Night Annual Choice Benefit. A Platinum Elite Member who has achieved fifty (50) eligible Elite Night Credits in a calendar year (“Qualifying Period”) is eligible to receive one (1) additional benefit (a “50-Night Annual Choice Benefit”) from the list of available benefits on choice-benefit.marriott.com and shown below:
+ vi.      50-Night Annual Choice Benefit. A Platinum Elite Member who has achieved fifty (50) eligible Elite Night Credits in a calendar year (“Qualifying Period”) is eligible to receive one (1) additional benefit (a “50-Night Annual Choice Benefit”) from the list of available benefits on choice-benefit.marriott.com and shown below:
 
 
 Platinum Elite 50-Night Annual Choice Benefit Options:
@@ -1236,7 +1244,7 @@ Five (5) Elite Night Credits
 
 The list of 50-Night Annual Choice Benefits on choice-benefit.marriott.com is subject to change at any time. Once a Platinum Elite Member becomes eligible to receive a 50-Night Annual Choice Benefit, he/she must choose his/her 50-Night Annual Choice Benefit by visiting choice-benefit.marriott.com and selecting one of the 50-Night Annual Choice Benefits. A selection must be made through choice-benefit.marriott.com and may not be made through Member Support. All 50-Night Annual Choice Benefit selections are final and may not be changed after they are made. In the event that an eligible Platinum Elite Member fails to select a 50-Night Annual Choice Benefit by 11:59 p.m. Eastern US Time on January 7th of the year following the applicable Qualifying Period, such Platinum Elite Members will receive five (5) Suite Night Awards as his/her 50-Night Annual Choice Benefit ("Suite Night Awards," individually "Suite Night Award").
 
- A. Suite Night Awards may be redeemed for advance confirmable upgrades for select, premium rooms or standard suites on a per room, per night basis, subject to availability and the applicable terms and conditions set forth below for Suite Night Awards:
+ A.    Suite Night Awards may be redeemed for advance confirmable upgrades for select, premium rooms or standard suites on a per room, per night basis, subject to availability and the applicable terms and conditions set forth below for Suite Night Awards:
 
 (1) Suite Night Awards expire on December 31 of the year following the year in which they were earned. For example, if 50 or 75 Qualifying Nights are achieved in 2022 and five Suite Night Awards are selected as the Member’s Annual Choice Benefit, the five Suite Night Awards will have an expiration date of December 31, 2023.
 
@@ -1278,25 +1286,24 @@ The list of 50-Night Annual Choice Benefits on choice-benefit.marriott.com is su
 
 (13) Not all Participating Properties participate in Suite Night Awards. Suite Night Awards are not redeemable at the following brands: The Ritz-Carlton, The Ritz-Carlton Reserve, The Ritz-Carlton Destination Club, The Ritz-Carlton Residences, EDITION, Protea Hotels, Aloft, Element, Design Hotels, all-Suite Hotels, Marriott Executive Apartments, Marriott Vacation Club, Marriott Grand Residence Club properties, Vistana properties, and All-Inclusive Resorts. In addition, Suite Night Awards are not redeemable at select Participating Properties. Contact a Customer Engagement Center for individual Participating Property Suite Night Award participation.
 
-B. 40% off Bed. Mattress and Box Spring 40% Discount from Marriott Retail Brands
+B.     40% off Bed. Mattress and Box Spring 40% Discount from Marriott Retail Brands
 
 (1) Upon the Platinum Elite Member's selection of the Mattress and Box Spring 40% Discount as his/her Platinum Elite Annual Choice Benefit, he/she will receive a promotional code that can be redeemed for 40% off the full retail value valid on any of the below Marriott Retail Brands' mattresses and box springs:
 
-● The EDITION Bed
-● The Ritz-Carlton Bed
-● The Luxury Collection Bed
-● The St. Regis Bed
-● The W Hotels Bed
-● The JW Marriott Bed
-● The Marriott Bed
-● The Sheraton Bed
-● The Westin Heavenly Bed
-● The Le Meridien Bed
-● The Renaissance Bed
-● The Gaylord Hotels Bed
-● The Courtyard Bed
-● The Four Points Bed
-● The Fairfield Bed
+●     The EDITION Bed
+●     The Ritz-Carlton Bed
+●     The Luxury Collection Bed
+●     The St. Regis Bed
+●     The W Hotels Bed
+●     The JW Marriott Bed
+●     The Marriott Bed
+●     The Sheraton Bed
+●     The Westin Heavenly Bed
+●     The Renaissance Bed
+●     The Gaylord Hotels Bed
+●     The Courtyard Bed
+●     The Four Points Bed
+●     The Fairfield Bed
  
 
 (2) The Marriott Retail Brands Mattress and Box Spring 40% Discount promotional code is nonrefundable and nontransferable.
@@ -1313,7 +1320,7 @@ B. 40% off Bed. Mattress and Box Spring 40% Discount from Marriott Retail Brands
 
 (8) The Marriott Retail Brands Mattress and Box Spring 40% Discount promotional code is valid through December 31 of the year following the year in which the Annual Choice Benefit was earned.
 
-C. $100 U.S. Dollar Charity Donation. A Platinum Elite Member who has achieved fifty (50) eligible Elite Night Credits annually and a Titanium Elite Member who has achieved seventy-five (75) eligible Elite Night Credits annually may select the US$100 charity donation as their Annual Choice Benefit and choose from one of the following options:
+C.     $100 U.S. Dollar Charity Donation. A Platinum Elite Member who has achieved fifty (50) eligible Elite Night Credits annually and a Titanium Elite Member who has achieved seventy-five (75) eligible Elite Night Credits annually may select the US$100 charity donation as their Annual Choice Benefit and choose from one of the following options:
 
 (1) Arne M. Sorenson Hospitality Fund - The US$100 donation from the Marriott Bonvoy Loyalty Program to the U.S. Fund for the Arne M. Sorenson Hospitality Fund is not a tax-deductible contribution for qualifying Marriott Bonvoy Elite Members who choose this donation as their Annual Choice Benefit. The Loyalty Program cannot direct or otherwise guarantee how the Arne M. Sorenson Hospitality Fund will spend the US$100 donation. All funds are transferred from the Loyalty Program to the U.S. Fund for the Arne M. Sorenson Hospitality Fund.
 
@@ -1321,7 +1328,7 @@ C. $100 U.S. Dollar Charity Donation. A Platinum Elite Member who has achieved f
 
 (3) World Wildlife Fund, Inc. - The US$100 donation from the Marriott Bonvoy Loyalty Program to World Wildlife Fund, Inc. is not a tax-deductible contribution for qualifying Marriott Bonvoy Elite Members who choose this donation as their Annual Choice Benefit. The Loyalty Program cannot direct or otherwise guarantee how World Wildlife Fund will spend the US$100 donation. All funds are transferred from the Loyalty Program to the World Wildlife Fund. World Wildlife Fund name and emblem are used with its permission, which in no way constitutes an endorsement, express or implied, of any product, service, company, opinion or political position. WWF and ©1986 Panda Symbol are owned by WWF. All rights reserved.
 
-D. Gift Elite Status
+D.     Gift Elite Status
 
 (1) A Platinum Elite Member who has achieved fifty (50) eligible Elite Night Credits annually may gift Silver Elite status and a Titanium Elite Member who has achieved seventy-five (75) eligible Elite Night Credits annually may gift Gold Elite status.
 
@@ -1333,7 +1340,7 @@ D. Gift Elite Status
 
 (5) If the desired recipient of the gifted status benefit is not currently a Member, the desired recipient must register on marriottbonvoy.com/join before the gifted status benefit can be provided to him/her.
 
-E. Five Elite Night Credits
+E.     Five Elite Night Credits
 
 (1) Upon an eligible Platinum Elite Member selecting the Five Elite Night Credits as his/her Annual Choice Benefit, the Platinum Member will have his/her Member Account credited with five (5) bonus Elite Nights which count toward earning Elite status and Lifetime Elite status. Elite Nights and Elite membership status are subject to the Program Rules in section 4.2.b.
 
@@ -1341,11 +1348,11 @@ E. Five Elite Night Credits
 
 (3) Elite Nights that are awarded to an eligible Platinum Elite Member as the Platinum Elite Member's Annual Choice Benefit will be awarded in the Eligible Status Year for which the Elite Nights were earned, regardless of when the Platinum Elite Member selects the Five Elite Night Credits as his/her Annual Choice Benefit. For the avoidance of doubt, the Eligible Calendar Year in which the Annual Choice Benefit is earned is the Eligible Calendar Year for which the Elite Nights will be credited toward earning Elite membership status.
 
-vii. Guaranteed Room Type. Guaranteed priority for your requested type of room at the Participating Brands listed below when your qualifying Elite level and specific preference are noted on the reservation for your stay (pillow, room location, extra bed, crib requests, etc. are not included in Guarantee). A Platinum Elite Member or above who makes a reservation on the same day he/she plans to arrive at the property is not eligible to receive the Guaranteed Room Type benefit. Outside of the United States, Canada and Europe: Smoking/non-smoking preferences may also be given priority, based on availability; exact bed sizes may vary, and only Titanium and Ambassador Elite Members will have guaranteed priority for their requested type of bed and room. The Guaranteed Room Type benefit does not cover room upgrades. Guaranteed Room Type is not available at The Ritz-Carlton, St. Regis, EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels and Vistana properties. Guaranteed Room Type is offered at the following brands: The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield, AC Hotels, Aloft, Moxy, Residence Inn, TownePlace Suites and Element.
+vii.      Guaranteed Room Type. Guaranteed priority for your requested type of room at the Participating Brands listed below when your qualifying Elite level and specific preference are noted on the reservation for your stay (pillow, room location, extra bed, crib requests, etc. are not included in Guarantee). A Platinum Elite Member or above who makes a reservation on the same day he/she plans to arrive at the property is not eligible to receive the Guaranteed Room Type benefit. Outside of the United States, Canada and Europe: Smoking/non-smoking preferences may also be given priority, based on availability; exact bed sizes may vary, and only Titanium and Ambassador Elite Members will have guaranteed priority for their requested type of bed and room. The Guaranteed Room Type benefit does not cover room upgrades. Guaranteed Room Type is not available at The Ritz-Carlton, St. Regis, EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels and Vistana properties. Guaranteed Room Type is offered at the following brands: The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Delta Hotels, Le Méridien, Westin, Autograph Collection, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield, AC Hotels, Aloft, Moxy, Residence Inn, TownePlace Suites and Element.
 
-viii. Pursuant to section 4.1.c. Platinum Elite Members and above are eligible to receive the Guaranteed Room Type benefit compensation at any Participating Brand listed above.
+viii.      Pursuant to section 4.1.c. Platinum Elite Members and above are eligible to receive the Guaranteed Room Type benefit compensation at any Participating Brand listed above.
 
-A. If a Participating Property is unable to fulfill this Guaranteed Room Type benefit, Platinum Elite Members and above will be compensated (see below):
+A.     If a Participating Property is unable to fulfill this Guaranteed Room Type benefit, Platinum Elite Members and above will be compensated (see below):
 
 
 GUARANTEED ROOM TYPE
@@ -1370,15 +1377,15 @@ U.S. $25
 
 *Participating Properties outside the United States will pay the equivalent in their local currency.
 
-ix. Dedicated Elite Support for Platinum Elite Members (United States and Canada only: (800) 228-2100)
+ix.      Dedicated Elite Support for Platinum Elite Members (United States and Canada only: (800) 228-2100)
 
  4.3.d. Marriott Bonvoy Titanium Elite Membership Benefits. In addition to all of the benefits Platinum Elite Members receive, Titanium Elite Members and above are eligible to receive the following benefits:
 
-i. 75% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
+i.      75% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
-ii. 48-Hour Guaranteed Availability. Limited to Titanium Elite Member's personal guestroom. Guaranteed room availability for reservations booked at least forty-eight (48) hours prior to arrival and available when a Participating Property is sold out if the room is booked by 3 p.m. local time, forty-eight (48) hours prior to arrival, at all Participating Properties except resort hotels, Marriott Vacation Club Marriott Grand Residence Club, Design Hotels, and Vistana properties. Forty-eight (48) Hour Guaranteed Availability may not be available on certain limited dates (e.g., special events). Enhanced Room Upgrade benefits do not apply. Benefit cannot be used in conjunction with Free Night Award usage or any type of promotional or discounted rates. Member must pay prevailing rate at time of booking and length of stay requirements must be met. For Residence Inn and TownePlace Suites, 48-Hour Guaranteed Availability applies to studio rooms only.
+ii.      48-Hour Guaranteed Availability. Limited to Titanium Elite Member's personal guestroom. Guaranteed room availability for reservations booked at least forty-eight (48) hours prior to arrival and available when a Participating Property is sold out if the room is booked by 3 p.m. local time, forty-eight (48) hours prior to arrival, at all Participating Properties except resort hotels, Marriott Vacation Club Marriott Grand Residence Club, Design Hotels, and Vistana properties. Forty-eight (48) Hour Guaranteed Availability may not be available on certain limited dates (e.g., special events). Enhanced Room Upgrade benefits do not apply. Benefit cannot be used in conjunction with Free Night Award usage or any type of promotional or discounted rates. Member must pay prevailing rate at time of booking and length of stay requirements must be met. For Residence Inn and TownePlace Suites, 48-Hour Guaranteed Availability applies to studio rooms only.
 
- iii. 75-Night Annual Choice Benefit.  A Titanium Elite Member who has achieved seventy-five (75) Elite Night Credits in a calendar year (“Qualifying Period”) is eligible to receive one (1) additional benefit (a “75-Night Annual Choice Benefit”) from the list of available benefits on choice-benefit.marriott.com and shown below:
+ iii.     75-Night Annual Choice Benefit.  A Titanium Elite Member who has achieved seventy-five (75) Elite Night Credits in a calendar year (“Qualifying Period”) is eligible to receive one (1) additional benefit (a “75-Night Annual Choice Benefit”) from the list of available benefits on choice-benefit.marriott.com and shown below:
 
 
 Titanium Elite 75-Night Annual Choice Benefit Options:
@@ -1397,7 +1404,7 @@ One (1) Free Night Award
 
 The list of 75-Night Annual Choice Benefits on choice-benefit.marriott.com is subject to change at any time. Once a Titanium Elite Member becomes eligible to receive a 75-Night Annual Choice Benefit, he/she must choose his/her 75-Night Annual Choice Benefit by visiting choice-benefit.marriott.com and selecting one of the 75-Night Annual Choice Benefits. A selection must be made through choice-benefit.marriott.com and may not be made through Member Support. All 75-Night Annual Choice Benefit selections are final and may not be changed after they are made. In the event that an eligible Titanium Elite Member fails to select a 75-Night Annual Choice Benefit by 11:59 p.m. Eastern US Time on January 7th of the year following the applicable Qualifying Period, such Titanium Elite Members will receive five (5) Suite Night Awards as his/her 75-Night Annual Choice Benefit ("Suite Night Awards," individually "Suite Night Award"). The terms & conditions for each 75-Annual Choice Benefit option are listed under section 4.3.c.(vi), except for the following:
 
-A. One Free Night Award
+A.     One Free Night Award
 
 (1) The Free Night Award (up to 40,000 Points) must be redeemed for a stay that occurs no later than December 31 of the year following the year in which the additional benefit is selected (e.g. if the benefit is selected in 2022, the deadline for redemption is December 31, 2023).
 
@@ -1413,25 +1420,25 @@ A. One Free Night Award
 
 (7) Any Free Night Award(s) previously awarded to Legacy SPG Program Members as an Annual Choice Benefit which have not yet been redeemed have changed in value and are now valued up to 40,000 Points and will have the same expiration date.
 
-iv. Dedicated Elite Support for Titanium Elite Members (United States and Canada only: (800) 399-4229)
+iv.      Dedicated Elite Support for Titanium Elite Members (United States and Canada only: (800) 399-4229)
 
  4.3.e. Marriott Bonvoy Ambassador Elite Membership Benefits. Marriott Bonvoy Ambassador Elite Membership Benefits. In addition to all of the benefits Titanium Elite Members receive, Elite Members who reach 100 Qualifying Nights and $20,000 US dollars in annual qualifying spend based on Qualifying Charges earned on completed Stays in a Qualifying Period (does not include Qualifying Charges made in advance for Stays in the year(s) following the Qualifying Period such as for pre-paid stays) are eligible to receive the following benefits:
 
-i. Ambassador Service. An Ambassador Elite Member is eligible to participate in the ambassador service during an Eligible Status Year and continue through the subsequent calendar year. The ambassador service is a benefit that permits an eligible Member to receive certain additional benefits as further described here.
+i.      Ambassador Service. An Ambassador Elite Member is eligible to participate in the ambassador service during an Eligible Status Year and continue through the subsequent calendar year. The ambassador service is a benefit that permits an eligible Member to receive certain additional benefits as further described here.
 
-ii. Your24. Ambassador Elite Members are eligible to participate in Your24 during the Eligible Status Year and to continue through the subsequent calendar year. Your24 is a benefit that permits an eligible Member to request a specific check-in time for any upcoming stay at any Participating Property. If the requested check-in time is confirmed, the check-out time will be set for the same time on the day of departure.
+ii.      Your24. Ambassador Elite Members are eligible to participate in Your24 during the Eligible Status Year and to continue through the subsequent calendar year. Your24 is a benefit that permits an eligible Member to request a specific check-in time for any upcoming stay at any Participating Property. If the requested check-in time is confirmed, the check-out time will be set for the same time on the day of departure.
 
-A. Your24 benefits may be requested when an eligible Ambassador Elite Member requests a specific check-in time and check-out time for a stay through their ambassador. Your24 benefits may also be requested by an eligible Ambassador Elite Member for an upcoming stay at any time prior to 3 p.m. (local time of the Participating Property) two (2) days prior to arrival for such stay by contacting his/her ambassador. If a request for Your24 benefits is approved, your ambassador will connect with you confirming the check-in and check-out times.
+A.     Your24 benefits may be requested when an eligible Ambassador Elite Member requests a specific check-in time and check-out time for a stay through their ambassador. Your24 benefits may also be requested by an eligible Ambassador Elite Member for an upcoming stay at any time prior to 3 p.m. (local time of the Participating Property) two (2) days prior to arrival for such stay by contacting his/her ambassador. If a request for Your24 benefits is approved, your ambassador will connect with you confirming the check-in and check-out times.
 
-B. Your24 benefits are subject to availability and may only be requested in connection with a stay.
+B.     Your24 benefits are subject to availability and may only be requested in connection with a stay.
 
-C. Your24 benefits are limited to one (1) room per eligible Member per Stay regardless of how many rooms have been reserved.
+C.     Your24 benefits are limited to one (1) room per eligible Member per Stay regardless of how many rooms have been reserved.
 
-D. If the check-in time approved for an Ambassador Elite Member is between 9 a.m. and 4 p.m. (local time of the Participating Property) he/she may request the Platinum Elite and above benefit of late checkout.
+D.     If the check-in time approved for an Ambassador Elite Member is between 9 a.m. and 4 p.m. (local time of the Participating Property) he/she may request the Platinum Elite and above benefit of late checkout.
 
-E. If the specific room type reserved by an eligible Member is not available upon check-in, the Participating Property will honor the confirmed Your24 request by temporarily providing another room and then moving the applicable guest(s) to the reserved room type once available.
+E.     If the specific room type reserved by an eligible Member is not available upon check-in, the Participating Property will honor the confirmed Your24 request by temporarily providing another room and then moving the applicable guest(s) to the reserved room type once available.
 
-F. Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels, Vistana properties, The Ritz-Carlton Residences, Waikiki Beach, The Cosmopolitan of Las Vegas, and Atlantis, Paradise Island, Bahamas do not provide Your24 benefits.           
+F.     Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels, Vistana properties, The Ritz-Carlton Residences, Waikiki Beach, The Cosmopolitan of Las Vegas, and Atlantis, Paradise Island, Bahamas do not provide Your24 benefits.           
                           
                         
                         
@@ -1612,7 +1619,7 @@ Marriott Bonvoy World Mastercard from Emirates NBD for residents of United Arab 
 
 6.3.g. Marriott Bonvoy The BEST Shinhan Card for residents of South Korea
 
-[id=10]Marriott Bonvoy The BEST Shinhan Card for residents of South Korea - Learn More
+Marriott Bonvoy The BEST Shinhan Card for residents of South Korea - Learn More
 
 6.3.h. Marriott Bonvoy The CLASSIC Shinhan Card for residents of South Korea
 
