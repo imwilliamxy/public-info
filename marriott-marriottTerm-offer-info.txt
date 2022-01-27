@@ -64,7 +64,7 @@ The Loyalty Program operates under the terms and conditions as set out below unl
 
 The Program Rules govern the Company’s relationship with members of the Loyalty Program (collectively, “Loyalty Program Members,” and individually, a “Loyalty Program Member,” “Member,” or “you”), including how Members manage their accounts, book reservations, achieve elite status, earn and redeem Loyalty Program points (“Points”) with participating hotels and properties (each a “Participating Property”), as well as with third party programs which have a business relationship with the Loyalty Program such as airline frequent flyer programs (“Partner Programs”).
 
-The Program Rules incorporate the additional terms that apply to certain experiences or properties which participate in the Marriott Bonvoy loyalty program in a limited or unique capacity  including All-Inclusive by Marriott Bonvoy and The Ritz-Carlton Yacht Collection. Specific Loyalty Program benefits, amenities, offers, awards and services may not be available at or as part of such experiences or properties, even though the applicable experience or property is not explicitly identified as being excluded where the benefit, amenity, offer, award or service is described in these Program Rules. Please refer to the [id=3]Supplemental Terms page to view the separate terms governing the participation in the Loyalty Program by the applicable experience or property for information on what features of the Loyalty Program are available.
+The Program Rules incorporate the additional terms that apply to certain experiences or properties which participate in the Marriott Bonvoy loyalty program in a limited or unique capacity  including All-Inclusive by Marriott Bonvoy and The Ritz-Carlton Yacht Collection. Specific Loyalty Program benefits, amenities, offers, awards and services may not be available at or as part of such experiences or properties, even though the applicable experience or property is not explicitly identified as being excluded where the benefit, amenity, offer, award or service is described in these Program Rules. Please refer to the Supplemental Terms page to view the separate terms governing the participation in the Loyalty Program by the applicable experience or property for information on what features of the Loyalty Program are available.
 
 By opening a Loyalty Program membership account (“Account” or “Membership Account”), or by using either your membership card or the Membership Account number you were assigned (“Membership Number”) to receive and redeem benefits of the Loyalty Program, including, without limitation, Loyalty Program Points, you agree that:
 
@@ -123,7 +123,7 @@ Complimentary Enhanced Room Upgrades, Late Checkout, Suite Night Awards, and You
 
 B.    The Ritz-Carlton Destination Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only for Members staying at The Ritz-Carlton Destination Club locations under their ownership benefit; no Points redemption and no Points or Miles earning
 
-C.     The Ritz-Carlton Yacht Collection - earning and redemption partner with unique participation in the Loyalty Program as expressly identified in their [id=8]separate terms of service (“RCYC Terms”). Members who book and complete reservations through RCYC are subject to the Program Rules, these RCYC Terms, as well as the legal information found on [id=9]The Ritz-Carlton Yacht Collection.
+C.     The Ritz-Carlton Yacht Collection - earning and redemption partner with unique participation in the Loyalty Program as expressly identified in their separate terms of service (“RCYC Terms”). Members who book and complete reservations through RCYC are subject to the Program Rules, these RCYC Terms, as well as the legal information found on The Ritz-Carlton Yacht Collection.
 
 D.    The following properties do not participate in the Loyalty Program:
 
@@ -196,7 +196,7 @@ A.    The Cosmopolitan of Las Vegas participates in the Loyalty Program as f
 
 B.    Autograph Collection Residences do not participate in the Loyalty Program
 
-xiv.      Design Hotels - all locations identified as a property which participates in the Loyalty Program are listed [id=2]here and participate as follows:  
+xiv.      Design Hotels - all locations identified as a property which participates in the Loyalty Program are listed here and participate as follows:  
 
 A.      Earn Points or Miles as described in Section 2
 
@@ -271,7 +271,7 @@ A. Certain transient stay properties operate in agreement with the Company and a
 
 B. Atlantis, Paradise Island, Bahamas participates in the Loyalty Program as follows:
 
-(1) Points or Miles may be earned for reservations booked through [id=3]www.marriott.com/atlantis/travel.mi, by calling +1 (855) 696-4732, or booked through Atlantis Paradise Vacations, by calling +1 (800) ATLANTIS or +1 (800) 285-2684. Points cannot be redeemed for reservations booked through Atlantis Paradise Vacations. Points or Miles will not be earned and Points cannot be redeemed for reservations booked through [id=4]AtlantisBahamas.com.
+(1) Points or Miles may be earned for reservations booked through www.marriott.com/atlantis/travel.mi, by calling +1 (855) 696-4732, or booked through Atlantis Paradise Vacations, by calling +1 (800) ATLANTIS or +1 (800) 285-2684. Points cannot be redeemed for reservations booked through Atlantis Paradise Vacations. Points or Miles will not be earned and Points cannot be redeemed for reservations booked through AtlantisBahamas.com.
 
 (2) Points or Miles may be earned and Points may be redeemed for stays at The Coral at Atlantis; The Royal at Atlantis; and The Cove at Atlantis.
 
@@ -283,9 +283,9 @@ B. Atlantis, Paradise Island, Bahamas participates in the Loyalty Program as fol
 
 xxxii.     Marriott Executive Apartments - Base Points and Miles earning partner only (no Points redemption or on-property Elite benefits including Elite bonus Points)
 
-xxxiii. Homes & Villas by Marriott International  short-term home rentals provided through [id=5]https://homesandvillasbymarriott.com have limited participation in the Loyalty Program as outlined in the [id=6]HVMI Terms of Service. Members who book through the HVMI website are subject in all respects to the Program Rules and the HVMI Terms of Service.
+xxxiii. Homes & Villas by Marriott International  short-term home rentals provided through https://homesandvillasbymarriott.com have limited participation in the Loyalty Program as outlined in the HVMI Terms of Service. Members who book through the HVMI website are subject in all respects to the Program Rules and the HVMI Terms of Service.
 
-xxxiv.     All-Inclusive by Marriott Bonvoy  Unless otherwise indicated, resort properties identified on [id=7]https://all-inclusive.marriott.com participate in the Loyalty Program (“All-Inclusive Resorts”) in a unique capacity as expressly stated in their separate terms of service (“All-Inclusive by Marriott Terms”). Members who book and stay at an All-Inclusive Resort are subject in all respects to the Program Rules and the All-Inclusive by Marriott Terms.
+xxxiv.     All-Inclusive by Marriott Bonvoy  Unless otherwise indicated, resort properties identified on https://all-inclusive.marriott.com participate in the Loyalty Program (“All-Inclusive Resorts”) in a unique capacity as expressly stated in their separate terms of service (“All-Inclusive by Marriott Terms”). Members who book and stay at an All-Inclusive Resort are subject in all respects to the Program Rules and the All-Inclusive by Marriott Terms.
 
 1.2.b. “Marriott Channels” are collectively the Marriott Websites, the Mobile Apps, and the Customer Engagement Centers (which include Member Support).
 
