@@ -56,7 +56,7 @@ Loyalty Program Terms & Conditions
 
 
 
-Updated March 2022
+Updated February 2022
 
 Effective in February 2019, the loyalty program for Marriott International, Inc. is Marriott Bonvoy (hereinafter, the Loyalty Program). Prior to this, the Loyalty Program operated as a unified program under three names: Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the SPG Program) (each a Legacy Program). These Legacy Programs were operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the Company).
 
@@ -72,9 +72,9 @@ By opening a Loyalty Program membership account (Account or Membership Account),
 
 •you consent to the collection, use, and disclosure of your personal data by the Company, the Loyalty Program, Participating Properties and Partner Programs, and their authorized third-party agents and licensees in accordance with the Companys Privacy Statement.
 
-All Loyalty Program benefits, amenities, offers, awards and services are subject to availability and may be changed by the Company at any time without notice. The Company may terminate the Loyalty Program, in whole or in part, with six (6) months' advance notice to all active Loyalty Members and with less than six months' notice in any jurisdiction if required to do so by applicable law. At the Companys sole discretion, the Company may choose to substitute a similar loyalty program for the Loyalty Program at any time immediately upon notice to active Loyalty Members. If the Loyalty Program is terminated, all unredeemed Points will be forfeited without any obligation or liability, and no Award claims will be honored after the conclusion of the notice period.
+All Loyalty Program benefits, amenities, offers, awards and services are subject to availability and may be changed by the Company at any time without notice. The Company may terminate the Loyalty Program, in whole or in part, with six (6) months' advance notice to all active Loyalty Members and with less than six months' notice in any jurisdiction if required to do so by applicable law. At the Companys sole discretion, the Company may choose to substitute a similar loyalty program for the Loyalty Program at any time immediately upon notice to active Loyalty Members. If the Loyalty Program is terminated, all unredeemed Points will be forfeited without any obligation or liability, and no Redemption Award claims or promotional Award claims will be honored after the conclusion of the notice period.
 
-These Program Rules supersede all previous terms and conditions applicable to the Legacy Programs or Loyalty Program. Except as otherwise expressly prohibited or limited by applicable laws, Company may at any time amend, modify or supplement these Program Rules, the structure for earning and redeeming Awards (as defined below), with or without notice, even though such changes may affect the value of Points or Miles, or the ability to obtain certain Awards (collectively Program Rule Changes). Awards means any and all awards earned by Members in connection with the Loyalty Program, including without limitation Award Redemptions (as defined in Section 3.1). Loyalty Members are responsible for remaining knowledgeable of the Program Rules and any Program Rule Changes. Your continued participation in the Loyalty Program will constitute your acceptance of any such Program Rule Changes.
+These Program Rules supersede all previous terms and conditions applicable to the Legacy Programs or Loyalty Program. Except as otherwise expressly prohibited or limited by applicable laws, Company may at any time amend, modify or supplement these Program Rules, the structure for earning awards (Awards, and individually, an "Award") and Award levels at any time, with or without notice, even though such changes may affect the value of Points or Miles, or the ability to obtain certain Awards (collectively Program Rules Changes). Loyalty Members are responsible for remaining knowledgeable of the Program Rules and any Program Rule Changes. Your continued participation in the Loyalty Program will constitute your acceptance of any such Program Rule Changes.
 
 
 
@@ -307,105 +307,105 @@ xxxiv. All-Inclusive by Marriott Bonvoy  Unless otherwise indicated, resort prop
 
 
 
-1.3   Benefits of Membership     1.3.a. Member Support. Loyalty Program Members will have access to Member service telephone numbers for reservations, customer service and award redemption requests on the Member Support Website.
+1.3   Benefits of Membership     1.3.a. Member Support. Loyalty Program Members will have access to Member service telephone numbers for reservations, customer service and award redemption requests on the Member Support Website.
 
-1.3.b. Member Rates.
+1.3.b. Member Rates.
 
-i.     Member Rates.  Loyalty Program Members will receive an exclusive, preferred rate ("Member Rate") when they book rooms through a MarriottChannel. Member Rates are available at Participating Properties and Brands except at Atlantis, Paradise Island, Bahamas, The Cosmopolitan of Las Vegas, Design Hotels, and Homes & Villas by Marriott International. Advance reservations are required.
+i. Member Rates. Loyalty Program Members will receive an exclusive, preferred rate ("Member Rate") when they book rooms through a MarriottChannel. Member Rates are available at Participating Properties and Brands except at Atlantis, Paradise Island, Bahamas, The Cosmopolitan of Las Vegas, Design Hotels, and Homes & Villas by Marriott International. Advance reservations are required.
 
-A.      Member Rate offers a discount of at least two percent (2%) on weekdays and up to five percent (5%) on weekends. The Ritz-Carlton, St. Regis, and EDITION offer 2% all days of the week.
+A. Member Rate offers a discount of at least two percent (2%) on weekdays and up to five percent (5%) on weekends. The Ritz-Carlton, St. Regis, and EDITION offer 2% all days of the week.
 
-B.      Member Rate is applied to the Participating Property's lowest applicable available public rates for non-premium rooms.
+B. Member Rate is applied to the Participating Property's lowest applicable available public rates for non-Premium Rooms (as defined in Section 3.3.e).
 
-C.      Member Rate must be booked by the Member using the appropriate Member Rate category.
+C. Member Rate must be booked by the Member staying at the Participating Property when making a reservation.
 
-D.      Member Rates do not apply to groups of ten (10) or more guest rooms.
+D. Member Rates do not apply to groups of ten (10) or more guest rooms.
 
-E.      Member Rate may not be combined with other select promotions, offers or discounts, and is not valid for existing reservations or groups.
+E. Member Rate may not be combined with other select promotions, offers or discounts, and is not valid for existing reservations or groups.
 
-F.      Member Rate does not apply to qualified transient rates such as government rates, negotiated rates, AAA rates, and the Senior Discount rate.
+F. Member Rate does not apply to qualified transient rates such as government rates, negotiated rates, AAA rates, and the Senior Discount rate.
 
-1.3.c.  Complimentary In-Room Internet Access.  A Member who books a stay at a Participating Property through a Marriott Channel will receive complimentary standard in-room internet access during the stay, and Marriott Bonvoy Gold Elite, Marriott Bonvoy Platinum Elite, Marriott Bonvoy Titanium Elite, Marriott Bonvoy Ambassador Elite Members, and any co-brand credit card holder that has premium internet access as a benefit, will receive complimentary enhanced in-room internet access regardless of booking method (collectively, the "Internet Access Benefit"). The additional exclusions set forth below apply.
+1.3.c. Complimentary In-Room Internet Access. A Member who books a stay at a Participating Property through a Marriott Channel will receive complimentary standard in-room internet access during the stay, and Marriott Bonvoy Gold Elite, Marriott Bonvoy Platinum Elite, Marriott Bonvoy Titanium Elite, Marriott Bonvoy Ambassador Elite Members, and any co-brand credit card holder that has premium internet access as a benefit, will receive complimentary enhanced in-room internet access regardless of booking method (collectively, the "Internet Access Benefit"). The additional exclusions set forth below apply.
 
-i.      The Internet Access Benefit is limited to one (1) guest room per eligible Member per stay regardless of how many rooms have been reserved, and the Member must stay in the guest room and pay for the charges.  The Internet Access Benefit is not applicable for meeting rooms.
+i. The Internet Access Benefit is limited to one (1) guest room per eligible Member per stay regardless of how many rooms have been reserved, and the Member must stay in the guest room and pay for the charges. The Internet Access Benefit is not applicable for meeting rooms.
 
-ii.      No additional Internet Access Benefit will be provided at Participating Properties and Brands that offer complimentary in-room Internet access to all guests.
+ii. No additional Internet Access Benefit will be provided at Participating Properties and Brands that offer complimentary in-room Internet access to all guests.
 
-iii.      Participating Properties that provide complimentary in-room internet access to all guests include:  EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Vistana properties, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element and Homes & Villas by Marriott International.
+iii. Participating Properties that provide complimentary in-room internet access to all guests include: EDITION, Marriott Vacation Club, Marriott Grand Residence Club, Vistana properties, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, Aloft, Moxy Hotels, Residence Inn, TownePlace Suites, Element and Homes & Villas by Marriott International.
 
-iv.      Participating Properties that have mandatory resort charges, which include internet access, will provide a replacement benefit, to be determined at each Participating Property's discretion.
+iv. Participating Properties that have mandatory resort charges, which include internet access, will provide a replacement benefit, to be determined at each Participating Property's discretion.
 
-v.      Participating Properties that offer complimentary standard in-room internet access to Gold Elite, Platinum Elite, Titanium Elite and Ambassador Elite Members only include: Atlantis, Paradise Island, Bahamas and The Cosmopolitan of Las Vegas, NV.
+v. Participating Properties that offer complimentary standard in-room internet access to Gold Elite, Platinum Elite, Titanium Elite and Ambassador Elite Members only include: Atlantis, Paradise Island, Bahamas and The Cosmopolitan of Las Vegas, NV.
 
-vi.      Participating Properties and Brands with limited participation in complimentary in-room internet access include:  Delta Hotels.
+vi. Participating Properties and Brands with limited participation in complimentary in-room internet access include: Delta Hotels.
 
-vii.      Participating Properties and Brands that do not offer complimentary in-room internet access include:  Mulu Marriott Resort & Spa, Malaysia.
+vii. Participating Properties and Brands that do not offer complimentary in-room internet access include: Mulu Marriott Resort & Spa, Malaysia.
 
-viii.      Properties and Brands that do not participate in the Loyalty Program pursuant to Section 1.2 do not offer the Internet Access Benefit for Members.
+viii. Properties and Brands that do not participate in the Loyalty Program pursuant to Section 1.2 do not offer the Internet Access Benefit for Members.
 
-1.3.d. Benefits through Other Marketing Programs.
+1.3.d. Benefits through Other Marketing Programs.
 
-i.      Prokard Explorer.  Prokard Explorer is a marketing program which offers its members benefits that are valid only at participating properties within the Protea Hotels portfolio.  Prokard Explorer operates both as a stand-alone program as well as in conjunction with the Loyalty Program.
+i. Prokard Explorer. Prokard Explorer is a marketing program which offers its members benefits that are valid only at participating properties within the Protea Hotels portfolio. Prokard Explorer operates both as a stand-alone program as well as in conjunction with the Loyalty Program.
 
-A.      Prokard Explorer has no earn and redeem points benefits.  Guests who are members of both Prokard Explorer and the Loyalty Program can only earn and redeem Points or Miles with the Loyalty Program.
+A. Prokard Explorer has no earn and redeem points benefits. Guests who are members of both Prokard Explorer and the Loyalty Program can only earn and redeem Points or Miles with the Loyalty Program.
 
-B.      When staying at a participating Protea Hotel, guests who are members of both Prokard Explorer and the Loyalty Program can (a) choose to earn Loyalty Program Points or Miles, and (b) receive benefits from both programs.  Prokard Explorer benefits include dining discounts, preferential rates, and accommodation vouchers.  Loyalty Program benefits are based on the membership tier as outlined in Sections 1.3 and 4.
+B. When staying at a participating Protea Hotel, guests who are members of both Prokard Explorer and the Loyalty Program can (a) choose to earn Loyalty Program Points or Miles, and (b) receive benefits from both programs. Prokard Explorer benefits include dining discounts, preferential rates, and accommodation vouchers. Loyalty Program benefits are based on the membership tier as outlined in Sections 1.3 and 4.
 
-C.      All Loyalty Program Rules apply.
-
-
-
-
-1.4   Conditions of Enrollment     1.4.a.  Completing the Enrollment Application.  An individual may apply to enroll in the Loyalty Program by fully and accurately completing an application on the Loyalty Program website, at a Participating Property, or through another enrollment channel.  The Company may deny membership in the Loyalty Program to any applicant in its sole discretion and without written notice.
-
-1.4.b.  Individual Membership.  Only individuals are eligible for Loyalty Program membership, and each individual may maintain only one Membership Account. All Loyalty Member Accounts are individual Accounts and no joint Accounts are permitted. Loyalty Program benefits are non-transferable unless expressly stated otherwise.
-
-1.4.c.  Types of Membership
-
-i.     Tier Membership.  A tier membership is the base membership level in the Loyalty Program.
-
-ii.     Elite Membership.  Upon reaching certain milestones, a Member will earn elite membership status and become a Silver Elite, Gold Elite, Platinum Elite, Titanium Elite or Ambassador Elite Member (collectively, Elite Membership Status, or Elite Status). The requirements for earning Elite Status are set forth in Section 4.
-
-iii.     Lifetime Elite Membership.  Upon reaching certain milestones, a Member may earn Lifetime Silver Elite, Lifetime Gold Elite, or Lifetime Platinum (collectively, Lifetime Elite Membership Status, or Lifetime Elite Status). The requirements for earning Lifetime Elite Status are set forth in Section 4.
-
-iv.     Managed Associate Membership. Employees of the Company and associates working at Marriott owned, leased, licensed and managed locations (collectively, Managed Associates, and individually an Managed Associate) may participate in the Loyalty Program through: (1) a Membership Account identified as an Managed Associate ("Managed Associate Membership"); (2) timeshare ownership in Marriott Vacation Club, Marriott Grand Residence Club, or Vistana Networks; or (3) with an active Marriott Bonvoy co-branded credit card account where available. Managed Associate Membership Accounts are able to participate in the Loyalty Program in accordance with the Program Rules subject to restrictions and limitations identified in the Managed Associate Rules available for review on the Companys intranet and other Marriott Channels.
-
-v.     Corporate Membership.  Only individuals are eligible to participate in the Loyalty Program.  Corporations, groups and/or associated entities cannot enroll as Loyalty Program Members.  When traveling on business, it is a Members responsibility to comply with his or her company policy concerning travel programs.  Information regarding a Members accumulation of Points or Miles for business travel is subject to disclosure to the Members company subject to applicable law and regulations.
-
-1.4.d.  Assignment of Membership Account and Membership Number.  After applying to the Loyalty Program, a Membership Account will be opened and a Membership Number will be assigned to each applicant.  Upon receiving this Membership Number, an individual becomes a Member eligible to earn Points or any currency used by an airlines frequent flyer program (Miles) at Participating Properties.  Further details are outlined in Section 1.5 and Section 2.
-
-1.4.e.  Duplicate Accounts.  An individual may join the Loyalty Program. However, a Member may not have one or more duplicate Accounts under the Loyalty Program at any time.
-
-i.     If more than one Loyalty Program Membership Number is assigned to an individual for the Loyalty Program, he/she will only receive Points or Miles for one Membership Account. Duplicate Membership Accounts may be cancelled.
-
-ii.     A Member with individual Membership Accounts in the Loyalty Program will not be able to link these Accounts, transfer points across Accounts, or have Elite Status matched. The Member must combine them into a single Membership Account with one number, one Elite Status, and one Points balance. Combining Accounts can requested through the online form. Combining Membership Accounts cannot be done at Participating Properties, through the Mobile App, or other booking channels.
-
-iii.     When Members combine their Loyalty Program Membership Accounts, the Account details will immediately begin to be combined and some will be available instantly (Points, Nights, Elite Status, Upcoming Reservations), or within a few days (suite night awards, Free Night Award certificates, past activity, and Mobile key & guest services).
-
-1.4.f.  Personal Profile.  Information provided by a Member will be maintained in a personal preference profile with the Membership Account.  All information provided by a Member in his/her personal profile must be valid and accurate and must be kept current.
-
-i.     A Member may change his/her address by changing his/her information on the Account Profile on the Loyalty Program website or contact  Member Support. In certain instances, address changes may require supporting legal documentation.
-
-ii.     Name changes to a Membership Account must include supporting legal documentation, signature, date and Membership Number.  More information is in our Frequently Asked Questions or Member Support.
-
-iii.     Credit card information included in a Members profile will be used by Participating Properties to guarantee the Members stay and to pay for stay charges, unless the Member provides a different credit card when the reservation is made, at check-in or at check-out.  A Member may change his/her credit card authorization for future transactions by changing his/her information in the Account Profile on the Loyalty Program website or by contacting Member Support. A Member must notify the Company if the authorized credit card is lost, stolen, invalidated or expired.
-
-1.4.g.  Use of Information Collected in Application.  The information a Member provides to the Company when completing the Loyalty Program application and redeeming Points is processed in accordance with the Companys Privacy Statement.  Communication of relevant information is important to administering the Loyalty Program and providing each Member with the opportunity to maximize the benefits of Membership.  The Loyalty Program will only disclose Member information to:  the Company, person(s) authorized by the Member; franchisees, fulfillment houses, email service providers and mail houses that process mail for such entities; Authorized Licensees (as defined in the Companys Privacy Statement); and marketing companies that provide services to the Company.  Member information will, in each case, only be disclosed for one or more of the following purposes:  1) in order to better service the Membership Account and the Members preferences by keeping the Member informed of Account status and activities through printed or electronic statements; 2) to assess a Members entitlement to benefits; 3) to collect and process Member charges incurred at the Companys facilities; 4) to offer a Member additional products and services; 5) to send periodic satisfaction or market research surveys; and/or 6) to offer a Member products or services from select reputable companies with whom the Loyalty Program has a strategic relationship because the Loyalty Program believes their offerings will be of interest to the Member.  In choosing to become a Loyalty Program Member, the Member consents to receive all the types of information described above, but the Member will be given the opportunity to define and modify mailing and other communication preferences.
+C. All Loyalty Program Rules apply.
 
 
 
 
-1.5   Membership Communications     1.5.a.  New Members will receive Marriott Bonvoy Loyalty Program communications. Legacy Program Members will no longer receive Legacy Program communications and instead will receive Marriott Bonvoy Loyalty Program communications.
+1.4   Conditions of Enrollment     1.4.a. Completing the Enrollment Application. An individual may apply to enroll in the Loyalty Program by fully and accurately completing an application on the Loyalty Program website, at a Participating Property, or through another enrollment channel. The Company may deny membership in the Loyalty Program to any applicant in its sole discretion and without written notice.
 
-1.5.b.  All Loyalty Program communications will be sent to a Members mailing address or email address currently provided in the Members Account.  Communications delivered to the address on file will be deemed to have been received one (1) business day after sending it if delivered to the Members email address or five (5) business days after sending it if delivered to the mailing address provided.  Members must keep their email and mailing addresses current.  Neither the Company nor the Loyalty Program shall have any responsibility for misdirected or lost mail or any consequences thereof.
+1.4.b. Individual Membership. Only individuals are eligible for Loyalty Program membership, and each individual may maintain only one Membership Account. All Loyalty Member Accounts are individual Accounts and no joint Accounts are permitted. Loyalty Program benefits are non-transferable unless expressly stated otherwise.
 
-1.5.c.  Members will receive regular Points balance reports by email, provided there has been a transaction on the Account since the last Points balance report and the Member provided the Company with the appropriate permission to contact the Member via email.
+1.4.c. Types of Membership
 
-1.5.d.  The Company may also send Members promotions, offers and other communications from time to time, which may include, without limitation, items from third parties.  The items from third parties are based on the information provided to the Company by a Member and any additional data the Company may maintain.  Members may change personal details and communications preferences at any time in the Account Profile  on the  Loyalty Program website  or by contacting Member Support; however, the Company may require a Member to send supporting documentation prior to allowing certain changes (e.g., legal name changes).
+i. Tier Membership. A tier membership is the base membership level in the Loyalty Program.
 
-1.5.e.  Any time a Member contacts Member Support, the Company may ask the Member certain security questions to verify the Members identity.  Member Support may monitor or record telephone calls to improve quality of service.
+ii. Elite Membership. Upon reaching certain milestones, a Member will earn elite membership status and become a Silver Elite, Gold Elite, Platinum Elite, Titanium Elite or Ambassador Elite Member (collectively, Elite Membership Status, or Elite Status). The requirements for earning Elite Status are set forth in Section 4.
 
-1.5.f.  A Member can review his/her Points balance and transaction history and update personal details and preferences in the Account Profile on the Loyalty Program website. A Membership Number or his/her user name and password are required to access the website.
+iii. Lifetime Elite Membership. Upon reaching certain milestones, a Member may earn Lifetime Silver Elite, Lifetime Gold Elite, or Lifetime Platinum (collectively, Lifetime Elite Membership Status, or Lifetime Elite Status). The requirements for earning Lifetime Elite Status are set forth in Section 4.
+
+iv. Managed Associate Membership. Employees of the Company and associates working at Marriott owned, leased, licensed and managed locations (collectively, Managed Associates, and individually an Managed Associate) may participate in the Loyalty Program through: (1) a Membership Account identified as an Managed Associate ("Managed Associate Membership"); (2) timeshare ownership in Marriott Vacation Club, Marriott Grand Residence Club, or Vistana Networks; or (3) with an active Marriott Bonvoy co-branded credit card account where available. Managed Associate Membership Accounts are able to participate in the Loyalty Program in accordance with the Program Rules subject to restrictions and limitations identified in the Managed Associate Rules available for review on the Companys intranet and other Marriott Channels.
+
+v. Corporate Membership. Only individuals are eligible to participate in the Loyalty Program. Corporations, groups and/or associated entities cannot enroll as Loyalty Program Members. When traveling on business, it is a Members responsibility to comply with his or her company policy concerning travel programs. Information regarding a Members accumulation of Points or Miles for business travel is subject to disclosure to the Members company subject to applicable law and regulations.
+
+1.4.d. Assignment of Membership Account and Membership Number. After applying to the Loyalty Program, a Membership Account will be opened and a Membership Number will be assigned to each applicant. Upon receiving this Membership Number, an individual becomes a Member eligible to earn Points or any currency used by an airlines frequent flyer program (Miles) at Participating Properties. Further details are outlined in Section 1.5 and Section 2.
+
+1.4.e. Duplicate Accounts. An individual may join the Loyalty Program. However, a Member may not have one or more duplicate Accounts under the Loyalty Program at any time.
+
+i. If more than one Loyalty Program Membership Number is assigned to an individual for the Loyalty Program, he/she will only receive Points or Miles for one Membership Account. Duplicate Membership Accounts may be cancelled.
+
+ii. A Member with individual Membership Accounts in the Loyalty Program will not be able to link these Accounts, transfer points across Accounts, or have Elite Status matched. The Member must combine them into a single Membership Account with one number, one Elite Status, and one Points balance. Combining Accounts can requested through the online form. Combining Membership Accounts cannot be done at Participating Properties, through the Mobile App, or other booking channels.
+
+iii. When Members combine their Loyalty Program Membership Accounts, the Account details will immediately begin to be combined and some will be available instantly (Points, Nights, Elite Status, Upcoming Reservations), or within a few days (suite night awards, Award Redemptions, past activity, and Mobile key & guest services).
+
+1.4.f. Personal Profile. Information provided by a Member will be maintained in a personal preference profile with the Membership Account. All information provided by a Member in his/her personal profile must be valid and accurate and must be kept current.
+
+i. A Member may change his/her address by changing his/her information on the Account Profile on the Loyalty Program website or contact  Member Support. In certain instances, address changes may require supporting legal documentation.
+
+ii. Name changes to a Membership Account must include supporting legal documentation, signature, date and Membership Number. More information is in our Frequently Asked Questions or Member Support.
+
+iii. Credit card information included in a Members profile will be used by Participating Properties to guarantee the Members stay and to pay for stay charges, unless the Member provides a different credit card when the reservation is made, at check-in or at check-out. A Member may change his/her credit card authorization for future transactions by changing his/her information in the Account Profile on the Loyalty Program website or by contacting Member Support. A Member must notify the Company if the authorized credit card is lost, stolen, invalidated or expired.
+
+1.4.g. Use of Information Collected in Application. The information a Member provides to the Company when completing the Loyalty Program application and redeeming Points is processed in accordance with the Companys Privacy Statement. Communication of relevant information is important to administering the Loyalty Program and providing each Member with the opportunity to maximize the benefits of Membership. The Loyalty Program will only disclose Member information to: the Company, person(s) authorized by the Member; franchisees, fulfillment houses, email service providers and mail houses that process mail for such entities; Authorized Licensees (as defined in the Companys Privacy Statement); and marketing companies that provide services to the Company. Member information will, in each case, only be disclosed for one or more of the following purposes: 1) in order to better service the Membership Account and the Members preferences by keeping the Member informed of Account status and activities through printed or electronic statements; 2) to assess a Members entitlement to benefits; 3) to collect and process Member charges incurred at the Companys facilities; 4) to offer a Member additional products and services; 5) to send periodic satisfaction or market research surveys; and/or 6) to offer a Member products or services from select reputable companies with whom the Loyalty Program has a strategic relationship because the Loyalty Program believes their offerings will be of interest to the Member. In choosing to become a Loyalty Program Member, the Member consents to receive all the types of information described above, but the Member will be given the opportunity to define and modify mailing and other communication preferences.
+
+
+
+
+1.5   Membership Communications     1.5.a. New Members will receive Marriott Bonvoy Loyalty Program communications.
+
+1.5.b. All Loyalty Program communications will be sent to a Members mailing address or email address currently provided in the Members Account. Communications delivered to the address on file will be deemed to have been received one (1) business day after sending it if delivered to the Members email address or five (5) business days after sending it if delivered to the mailing address provided. Members must keep their email and mailing addresses current. Neither the Company nor the Loyalty Program shall have any responsibility for misdirected or lost mail or any consequences thereof.
+
+1.5.c. Members will receive regular Points balance reports by email, provided there has been a transaction on the Account since the last Points balance report and the Member provided the Company with the appropriate permission to contact the Member via email.
+
+1.5.d. The Company may also send Members promotions, offers and other communications from time to time, which may include, without limitation, items from third parties. The items from third parties are based on the information provided to the Company by a Member and any additional data the Company may maintain. Members may change personal details and communications preferences at any time in the Account Profile  on the Loyalty Program website or by contacting Member Support; however, the Company may require a Member to send supporting documentation prior to allowing certain changes (e.g., legal name changes).
+
+1.5.e. Any time a Member contacts Member Support, the Company may ask the Member certain security questions to verify the Members identity. Member Support may monitor or record telephone calls to improve quality of service.
+
+1.5.f. A Member can review his/her Points balance and transaction history and update personal details and preferences in the Account Profile on the Loyalty Program website. A Membership Number or his/her user name and password are required to access the website.
 
 
 
@@ -1228,9 +1228,9 @@ A. In the United States and Canada: When a Participating Property's Lounge is cl
 ● Renaissance Washington, DC Downtown Hotel
 ● Marriott Marquis San Diego Marina
 
-B.    Outside United States and Canada at Courtyard properties with a Lounge, breakfast is offered in the restaurant when the Lounge is closed.
+B. Outside United States and Canada at Courtyard properties with a Lounge, breakfast is offered in the restaurant when the Lounge is closed.
 
-C.    Pursuant to section 4.1.c., if Lounge Access (or alternatives or exceptions as outlined above) is not available, Platinum Elite Members will be compensated $100 U.S. dollars for the inconvenience. Participating Properties outside the United States will pay the equivalent in local currency. This guarantee is offered at the following brands: JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection Hotels and Renaissance Hotels.
+C. Pursuant to section 4.1.c., if Lounge Access (or alternatives or exceptions as outlined above) is not available, Platinum Elite Members will be compensated $100 U.S. dollars for the inconvenience. Participating Properties outside the United States will pay the equivalent in local currency. This guarantee is offered at the following brands: JW Marriott, Marriott Hotels, Delta Hotels, Autograph Collection Hotels and Renaissance Hotels.
 
 
 GUARANTEED LOUNGE ACCESS
@@ -1290,23 +1290,23 @@ Five (5) Elite Night Credits
 
 The list of 50-Night Annual Choice Benefits on choice-benefit.marriott.com is subject to change at any time. Once a Platinum Elite Member becomes eligible to receive a 50-Night Annual Choice Benefit, he/she must choose his/her 50-Night Annual Choice Benefit by visiting choice-benefit.marriott.com and selecting one of the 50-Night Annual Choice Benefits. A selection must be made through choice-benefit.marriott.com and may not be made through Member Support. All 50-Night Annual Choice Benefit selections are final and may not be changed after they are made. In the event that an eligible Platinum Elite Member fails to select a 50-Night Annual Choice Benefit by 11:59 p.m. Eastern US Time on January 7th of the year following the applicable Qualifying Period, such Platinum Elite Members will receive five (5) Suite Night Awards as his/her 50-Night Annual Choice Benefit ("Suite Night Awards," individually "Suite Night Award").
 
-A. Suite Night Awards may be redeemed for advance confirmable upgrades for select, premium rooms or standard suites on a per room, per night basis, subject to availability and the applicable terms and conditions set forth below for Suite Night Awards:
+A. Suite Night Awards may be redeemed for advance confirmable upgrades for select, Premium Rooms or standard suites on a per room, per night basis, subject to availability and the applicable terms and conditions set forth below for Suite Night Awards:
 
 (1) Suite Night Awards expire on December 31 of the year following the year in which they were earned. For example, if 50 or 75 Qualifying Nights are achieved in 2022 and five Suite Night Awards are selected as the Members Annual Choice Benefit, the five Suite Night Awards will have an expiration date of December 31, 2023.
 
-(2) Suite Night Awards may be used only on Loyalty Program eligible paid stays as well as Free Night Award stays and Cash & Points stays.
+(2) Suite Night Awards may be used only on Loyalty Program eligible paid stays as well as Award Redemption Stays.
 
 (3) A Member may request to use their Suite Night Awards on Loyalty Program websites or by calling a Customer Engagement Center.
 
-(4) Suite Night Awards may only be used for standard suites or other premium rooms as designated by the Participating Property.
+(4) Suite Night Awards may only be used for standard suites or other Premium Rooms as designated by the Participating Property.
 
-(5) Suite Night Award use is based upon availability of the requested suite or premium room. Checking for availability begins five (5) days before arrival. If availability is not confirmed five (5) days before arrival, availability is checked each day before arrival up to 2 p.m. local time of the Participating Property one (1) day prior to arrival. If at that time Suite Night Awards cannot be confirmed, the Suite Night Awards are credited back to the Member's account.
+(5) Suite Night Award use is based upon availability of the requested suite or Premium Room. Checking for availability begins five (5) days before arrival. If availability is not confirmed five (5) days before arrival, availability is checked each day before arrival up to 2 p.m. local time of the Participating Property one (1) day prior to arrival. If at that time Suite Night Awards cannot be confirmed, the Suite Night Awards are credited back to the Member's account.
 
 (6) Suite Night Awards may be used only when there are enough in the Member's Account so that one is applied to every night of the reservation.
 
 (7) One Suite Night Award is required per room per night.
 
-(8) Suite Night Awards are required for each night of the stay including any nights that may be designated "free" such as the Stay for 5, Pay for 4 Award.
+(8) Suite Night Awards are required for each night of the stay including any nights that may be designated "free" such as the Stay for 5, Pay for 4 Offer.
 
 (9) Suite Night Awards may not be transferred or given as a gift or used as part of a multiple room reservation; however, a Member may use Suite Night Awards for additional single-room reservations on his/her own stay as long as the Member is present for the stay and the other reservations are under the Member's name.
 
@@ -1430,7 +1430,7 @@ ix. Dedicated Elite Support for Platinum Elite Members (United States and Canada
 
 i. 75% Bonus Points. Bonus Points vary by Elite membership level and are calculated based on base Points earned during a stay. Available to Elite Members at all Participating Brands except as otherwise noted in Section 1.2.a.
 
-ii. 48-Hour Guaranteed Availability. Limited to Titanium Elite Member's personal guestroom. Guaranteed room availability for reservations booked at least forty-eight (48) hours prior to arrival and available when a Participating Property is sold out if the room is booked by 3 p.m. local time, forty-eight (48) hours prior to arrival, at all Participating Properties except resort hotels, Marriott Vacation Club Marriott Grand Residence Club, Design Hotels, and Vistana properties. Forty-eight (48) Hour Guaranteed Availability may not be available on certain limited dates (e.g., special events). Enhanced Room Upgrade benefits do not apply. Benefit cannot be used in conjunction with Free Night Award usage or any type of promotional or discounted rates. Member must pay prevailing rate at time of booking and length of stay requirements must be met. For Residence Inn and TownePlace Suites, 48-Hour Guaranteed Availability applies to studio rooms only.
+ii. 48-Hour Guaranteed Availability. Limited to Titanium Elite Member's personal guestroom. Guaranteed room availability for reservations booked at least forty-eight (48) hours prior to arrival and available when a Participating Property is sold out if the room is booked by 3 p.m. local time, forty-eight (48) hours prior to arrival, at all Participating Properties except resort hotels, Marriott Vacation Club Marriott Grand Residence Club, Design Hotels, and Vistana properties. Forty-eight (48) Hour Guaranteed Availability may not be available on certain limited dates (e.g., special events). Enhanced Room Upgrade benefits do not apply. Benefit cannot be used in conjunction with Award Redemption Stays or any type of promotional or discounted rates. Member must pay prevailing rate at time of booking and length of stay requirements must be met. For Residence Inn and TownePlace Suites, 48-Hour Guaranteed Availability applies to studio rooms only.
 
 iii. 75-Night Annual Choice Benefit.  A Titanium Elite Member who has achieved seventy-five (75) Elite Night Credits in a calendar year (Qualifying Period) is eligible to receive one (1) additional benefit (a 75-Night Annual Choice Benefit) from the list of available benefits on choice-benefit.marriott.com and shown below:
 
@@ -1457,11 +1457,11 @@ A. One Free Night Award
 
 (2) The Free Night Award will be credited to the Titanium Elite Member's Account within two (2) weeks of the Titanium Elite Member selecting this option as his/her Titanium Elite Annual Choice Benefit. The Free Night Award can be redeemed at any available Participating Property for one (1) night, up to 40,000 Points, for a standard room.
 
-(3) Members can use their Award while booking an eligible Award Redemption Stay on Marriott Websites or they may call the Customer Engagement Center and mention they wish to use their Free Night Award. Free Night Award is not transferable and may not be redeemed for cash or converted into Points. Any unused Free Night Award will be forfeited. Free Night Award stay(s) and night(s) will count toward earning Elite membership status. Free Night Awards are combinable and may be added to existing paid or Free Night Award stays.
+(3) Members can use their Free Night Award while booking an eligible Award Redemption Stay on Marriott Websites or they may call the Customer Engagement Center and mention they wish to use their Free Night Award. Free Night Award is not transferable and may not be redeemed for cash or converted into Points. Any unused Free Night Award will be forfeited. Free Night Award stay(s) and night(s) will count toward earning Elite membership status. Free Night Awards may be applied to existing paid Stays or Award Redemption Stays.
 
 (4) The Free Night Award includes all applicable taxes; however, the Titanium Elite Member may be responsible for payment of additional mandatory resort fees at Participating Properties where resort fees are applicable.
 
-(5) Free Night Award redemptions may be canceled pursuant to the standard guarantee and cancellation policies as described in Section 3.2.c.
+(5) Free Night Award redemptions may be canceled pursuant to the standard guarantee and cancellation policies as described in Section 3.2.d.
 
 (6) An eligible Loyalty Program Member should check his/her Member Account to confirm the expiration date of his/her Free Night Award.
 
@@ -1571,11 +1571,11 @@ For example, any event or meeting booked by government employees, officials, emp
 
 
 
-5.5      Qualifying Event Charges     5.5.a.  Qualifying Event Charges. Qualifying Event Charges include food, beverages, meeting room rental, in-house audio visual equipment, and décor ordered by the Participating Property and paid for on a master account.  Guest room rate charges also qualify only when the contract has a minimum of ten (10) guest rooms actualize for at least one (1) night of the Qualifying Event (with or without catering).  Qualified guest room charges earn Points or Miles for the Member whether they are paid for on a master account or paid for by the individual guest in the room.
+5.5      Qualifying Event Charges     5.5.a. Qualifying Event Charges. Qualifying Event Charges include food, beverages, meeting room rental, in-house audio visual equipment, and décor ordered by the Participating Property and paid for on a master account. Guest room rate charges also qualify only when the contract has a minimum of ten (10) guest rooms actualize for at least one (1) night of the Qualifying Event (with or without catering). Qualified guest room charges earn Points or Miles for the Member whether they are paid for on a master account or paid for by the individual guest in the room.
 
-5.5.b.  Marriott Gift Cards. Where available, meeting charges may be paid for using a Marriott Gift Card. Points redeemed in connection with these partners are subject to the Loyalty Program Rules along with any applicable terms and conditions of the partner pursuant to Section 3.10.a.
+5.5.b. Marriott Gift Cards. Where available, meeting charges may be paid for using a Marriott Gift Card. Points redeemed in connection with these partners are subject to the Loyalty Program Rules along with any applicable terms and conditions of the partner pursuant to Section 3.6.c.
 
-5.5.c.  Excluded Event Charges. Excluded Event charges include all taxes, gratuities, resort fees, cancellation fees, attrition charges and service charges.
+5.5.c. Excluded Event Charges. Excluded Event charges include all taxes, gratuities, resort fees, cancellation fees, attrition charges and service charges.
 
 
 
@@ -1819,7 +1819,7 @@ Major credit cards and Points are the accepted methods of payment for Cash & Poi
 
 Marriott Gift Cards and Marriott Bonvoy Free Night Awards cannot be used as part of the Cash & Points Payment at HVMI.
 
-Members will earn Points on the cash portion of their Cash & Points Payment at HVMI once the stay is completed. Please note, Cash & Points Payment for Homes & Villas by Marriott International is different from Cash + Points Awards at Participating Properties (see Section 3.4).
+Members will earn Points on the cash portion of their Cash & Points Payment at HVMI once the stay is completed. Please note, Cash & Points Payment for Homes & Villas by Marriott International is different from Cash + Points Awards at Participating Properties (see Section 3.3.f).
 
 Bookings purchased with Points or Cash & Points Payment at HVMI are eligible for earning Elite Night Credit.
 
@@ -1827,9 +1827,7 @@ Bookings purchased with Points will need to have a minimum three (3) day window 
 
 If bookings purchased with Points are modified, Points will be reimbursed in accordance with the Home cancellation policy.
 
-The following Award Redemption options are not available for Homes: Free Night Awards, Upgrade Awards, Stay for 5, Pay for 4 Awards, Cash +Points Awards, PointSavers Awards, Suite Night Awards, and Instant Redemption Awards.
-
-Points Advance bookings are not available for Homes.
+Award Redemptions at Participating Properties listed under Section 3 are not available for use at HVMI including: all Award Redemption Stay types outlined in Section 3.3, Instant Redemption Awards, Points Advance, and Suite Night Awards.
 
 
 
@@ -1892,12 +1890,12 @@ A Member may request credits for Points/Miles or Qualifying Nights for Elite Sta
 
 
 
-9.5      Exit of Participating Property     If a Participating Property exits the Loyalty Program for any reason, a Member will not earn Points, Qualifying Nights for Elite Status (including, without limitation, any Points for Qualifying Stays pursuant to Section 2) for stays at such Participating Property, and any Redemption Awards, promotional Awards, other promotions and special offers will no longer be valid after the date on which the Participating Property exited the Loyalty Program, even if the reservation for a stay at the former Participating Property was made prior to that date.
+9.5      Exit of Participating Property     If a Participating Property exits the Loyalty Program for any reason, a Member will not earn Points, Qualifying Nights for Elite Status (including, without limitation, any Points for Qualifying Stays pursuant to Section 2) for stays at such Participating Property, and any Awards, other promotions and special offers will no longer be valid after the date on which the Participating Property exited the Loyalty Program, even if the reservation for a stay at the former Participating Property was made prior to that date.
 
 
 
 
-9.6      Taxes     Points, Redemption Awards, promotional Awards and other Member benefits may be subject to income or other taxes.  The Member is responsible for paying all such taxes and for making all applicable disclosures to third parties including, without limitation, the party who paid for the transaction from which the Member earned Points.  The Company will not be liable for any tax liability, duty or other charges in connection with the issuance of Points, Redemption Awards, promotional Awards and other Member benefits.
+9.6      Taxes     Points, Awards, and other Member benefits may be subject to income or other taxes. The Member is responsible for paying all such taxes and for making all applicable disclosures to third parties including, without limitation, the party who paid for the transaction from which the Member earned Points. The Company will not be liable for any tax liability, duty or other charges in connection with the issuance of Points, Redemption Awards, promotional Awards and other Member benefits.
 
 
 
