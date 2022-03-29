@@ -56,7 +56,7 @@ Loyalty Program Terms & Conditions
 
 
 
-Updated February 2022
+Updated March 2022
 
 Effective in February 2019, the loyalty program for Marriott International, Inc. is Marriott Bonvoy (hereinafter, the Loyalty Program). Prior to this, the Loyalty Program operated as a unified program under three names: Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the SPG Program) (each a Legacy Program). These Legacy Programs were operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the Company).
 
@@ -72,9 +72,9 @@ By opening a Loyalty Program membership account (Account or Membership Account),
 
 •you consent to the collection, use, and disclosure of your personal data by the Company, the Loyalty Program, Participating Properties and Partner Programs, and their authorized third-party agents and licensees in accordance with the Companys Privacy Statement.
 
-All Loyalty Program benefits, amenities, offers, awards and services are subject to availability and may be changed by the Company at any time without notice. The Company may terminate the Loyalty Program, in whole or in part, with six (6) months' advance notice to all active Loyalty Members and with less than six months' notice in any jurisdiction if required to do so by applicable law. At the Companys sole discretion, the Company may choose to substitute a similar loyalty program for the Loyalty Program at any time immediately upon notice to active Loyalty Members. If the Loyalty Program is terminated, all unredeemed Points will be forfeited without any obligation or liability, and no Redemption Award claims or promotional Award claims will be honored after the conclusion of the notice period.
+All Loyalty Program benefits, amenities, offers, awards and services are subject to availability and may be changed by the Company at any time without notice. The Company may terminate the Loyalty Program, in whole or in part, with six (6) months' advance notice to all active Loyalty Members and with less than six months' notice in any jurisdiction if required to do so by applicable law. At the Companys sole discretion, the Company may choose to substitute a similar loyalty program for the Loyalty Program at any time immediately upon notice to active Loyalty Members. If the Loyalty Program is terminated, all unredeemed Points will be forfeited without any obligation or liability, and no Award claims will be honored after the conclusion of the notice period.
 
-These Program Rules supersede all previous terms and conditions applicable to the Legacy Programs or Loyalty Program. Except as otherwise expressly prohibited or limited by applicable laws, Company may at any time amend, modify or supplement these Program Rules, the structure for earning awards (Awards, and individually, an "Award") and Award levels at any time, with or without notice, even though such changes may affect the value of Points or Miles, or the ability to obtain certain Awards (collectively Program Rules Changes). Loyalty Members are responsible for remaining knowledgeable of the Program Rules and any Program Rule Changes. Your continued participation in the Loyalty Program will constitute your acceptance of any such Program Rule Changes.
+These Program Rules supersede all previous terms and conditions applicable to the Legacy Programs or Loyalty Program. Except as otherwise expressly prohibited or limited by applicable laws, Company may at any time amend, modify or supplement these Program Rules, the structure for earning and redeeming Awards (as defined below), with or without notice, even though such changes may affect the value of Points or Miles, or the ability to obtain certain Awards (collectively Program Rule Changes). Awards means any and all awards earned by Members in connection with the Loyalty Program, including without limitation Award Redemptions (as defined in Section 3.1). Loyalty Members are responsible for remaining knowledgeable of the Program Rules and any Program Rule Changes. Your continued participation in the Loyalty Program will constitute your acceptance of any such Program Rule Changes.
 
 
 
@@ -661,7 +661,7 @@ v. A voucher or third-party award was redeemed for the guest room.
 
 2.10   Earning through Partners.       Points earned in connection with the partner are subject to these Loyalty Program Rules along with any applicable terms and conditions of the partner.
 
-2.10.a. Cruise with Points. A Member may earn Points when he/she books a cruise through the Companys cruise partner. More information on the Cruise with Points program may be obtained here. This section does not apply to The Ritz-Carlton Yacht Collection (see 1.2.a for The Ritz-Carlton Yacht Collection).
+2.10.a. Cruises. A Member may earn Points when he/she books a cruise through the Companys cruise partner. More information on the Cruise program may be obtained here. This section does not apply to The Ritz-Carlton Yacht Collection (see 1.2.a for The Ritz-Carlton Yacht Collection).
 
 2.10.b. Hertz. A Member may earn Points and receive special discounts with Hertz where available when booked through here. Qualified Elite Members may also receive complimentary Hertz Gold Plus Rewards elite status.
 
@@ -689,15 +689,15 @@ v. A voucher or third-party award was redeemed for the guest room.
 
 
 
-3.1      Redeeming Points for Awards.     A Member may redeem Points to obtain certain awards and benefits (each an Award or Award Redemption) including, without limitation, rooms at Participating Properties, Moments experiences, flights, and other services and merchandise. A full listing of current Award Redemption options is available on the Loyalty Program website under USE POINTS.
+3.1      Award Redemption in General.     A Member may redeem full or partial Points or Free Night Awards (see Section 3.3.c) to obtain various products, (each an Award Redemption) including, without limitation, Stays in guest rooms at Participating Properties, Moments experiences, flights, and other services and merchandise. A full listing of current Award Redemption options is available on the Loyalty Program website under USE POINTS / CERTIFICATES.
 
-3.1.a. Points and Awards may not be exchanged or redeemed by a Member for cash, prizes or credit.
+3.1.a. Points and Award Redemptions may not be exchanged or redeemed by a Member for cash, prizes or credit.
 
-3.1.b. Points posted as the result of a transfer or earned from the use of credit cards may not be redeemable for certain Awards.
+3.1.b. Points posted as the result of a transfer or earned from the use of credit cards may not be redeemable for certain Award Redemptions.
 
-3.1.c. Awards are valid only for use by the individual designated on the Award and are not transferable, although, if requested at the time of issuance, an Award may be issued to a third party. Third party transfers or transfers to non-Members are limited to five (5) Awards in a calendar year on a single Membership Account. In the event an Award is given to a third party in accordance with the prior sentence, neither the Member nor the third party will earn any Points/Miles, Elite Night Credit, Qualifying Nights, or Qualifying Stays in connection with such Award. At check-in, the guest using the Award may be required to show valid identification and provide a credit card to the Participating Property for incidental charges.
+3.1.c. Unless otherwise noted, Award Redemptions are valid only for use by the Member from whose Account the Award Redemption was processed and are not transferable.
 
-3.1.d. Awards believed to have been bartered, sold, exchanged, or issued fraudulently, or issued to someone other than the eligible Member, will be void and will not be honored.
+3.1.d. Award Redemptions believed to have been bartered, sold, exchanged, or issued fraudulently, or issued to someone other than the eligible Member, will be void and will not be honored.
 
 
 
@@ -781,19 +781,45 @@ North Island, a Luxury Collection Resort, Seychelles
 
 
 
-3.3      Upgrade Awards.     When using Points for an Award Redemption Stay, Members may have to redeem additional Points to reserve an upgraded room such as an ocean view room or a suite. This Upgrade Award may be required for certain room types in addition to a Free Night Award in a standard room.
+3.3      Award Redemption Stay Types.     3.3.a. Standard Redemption Award. Members may redeem their Points for a Standard Redemption Award which covers the full cost of a standard guest room for one or more nights at a Participating Property as described in Section 3.2.e. Standard rooms available for Award Redemptions vary between Participating Properties and Participating Brands. Award Redemptions of Premium Rooms may be available at a higher Points cost as described in Section 3.3.e.
 
-3.3.a. Upgrade Awards may only be used when redeeming Points for a stay at a Participating Property. There are two types of Upgrade Awards:
+3.3.b. PointSavers Award. A PointSavers Award offers Point savings on the Award Redemption Stay for a standard guest room or Premium Room at the Participating Property and is available for limited periods of time. Members can redeem their Points for PointSavers Awards at Participating Properties when and where available. Participation in and availability of PointSavers Awards are at the discretion of Participating Properties.
 
-i. Point Upgrade Awards. A Point Upgrade Award is issued when Points are redeemed to upgrade a Free Night Award in a standard room and is subject to availability at Participating Properties. Please refer to the details for the selected Participating Property at which you are making a reservation.
+3.3.c. Free Night Award. A Free Night Award is issued through a Loyalty Program benefit, promotion, or Partner Program. Each Free Night Award carries a specific Points value that can be applied to one (1) night in a standard guest room at a Participating Property offering a Standard Redemption Award rate or PointSavers Award rate for the requested stay date that is less than or equal to the value of the Free Night Award. Free Night Awards are valid only for use by the Member designated on the Free Night Award and are not transferable. More than one (1) Free Night Award can be used for a Stay with multiple nights, as well as for multiple rooms where the Member is present for the Stay and the room is under the Members name (see Section 3.2.j). Free Night Award examples include the Free Night Award option with the 75-Night Annual Choice Benefit (see Section 4.3.d) and the Free Night Award issued through certain Marriott International co-brand credit cards (see Section 6).
 
-ii. Paid Upgrade Awards. At select Participating Properties, Members may pay for an upgrade to a Free Night Award reservation on a cost per night basis. The price for Paid Upgrade Awards varies by Participating Property and will be charged to the folio during the Members stay. Additional Points are not required with Paid Upgrade Awards. Members will not earn Points or Miles on Paid Upgrade Awards. In addition, the cash portion does not count toward the Ambassador Elite annual qualifying spend requirement (see 4.3.e). Members are responsible for all applicable taxes and service charges associated Paid Upgrade Awards.
+i. Members who apply the Free Night Award on a night where the value of the Free Night Award is higher than the standard guest room Award Redemption rate or PointSavers Award rate will forfeit the difference in Points and not receive a Points refund.
 
-3.3.b. Upgrade Award requirements vary by Participating Property, hotel category, room type and by season.
+ii. Free Night Awards may be used up to its expiration date listed; it cannot be extended beyond the validity date, exchanged, or re-deposited into the Members Account for Points or future use.
 
-3.3.c. Participating Properties, at their discretion, may offer premium room(s) that require an Upgrade Award, e.g. rooms with special views such as ocean or bay views. Where available, two (2) bedroom suites at Residence Inn by Marriott and TownePlace Suites by Marriott require the use of an Upgrade Award. Marriott Vacation Club and Marriott Grand Residence Club properties require Upgrade Awards for all unit types other than studio units.
+iii. Additional restrictions for using Free Night Awards include, but are not limited to, Free Night Awards: (1) can only be applied to a standard room and does not apply to a Premium Room; (2) value cannot be combined with other Award Redemption types; (3) are not eligible for the Stay for 5, Pay for 4 Offer (see Section 3.3.d); (4) may be used on a Points Advance Redemption Reservation with certain limitations (see Section 3.3.g); and (5) cannot be used at Homes & Villas by Marriott International and The Ritz-Carlton Yacht Collection.
 
-3.3.d. Some Point Upgrade Awards require payment in local currency and cannot be purchased with Points. Check the room description for currency and other redemption requirements when booking an Award Redemption Stay reservation online.
+3.3.d. Stay for 5, Pay for 4 Offer. A Member who redeems Points for five consecutive nights for an Award Redemption Stay using a Standard Redemption Award or PointSavers Award under one reservation (i.e., one confirmation number) will only need to redeem Points for four nights (Stay for 5, Pay for 4 Offer). The free night offer applies to the night with the lowest Point redemption rate within the same Award Redemption Stay. In the event there is more than one night at the lowest Point redemption rate, the free night offer will apply to the first night at that rate. Stay for 5, Pay for 4 Offer cannot be applied to a stay comprised of multiple reservations with consecutive nights. Also, Stay for 5, Pay for 4 Offer cannot be applied after the Member checks into the hotel. There is no Points refund or free night credit for any unused portion of a Stay for 5, Pay for 4 Offer. Stay for 5, Pay for 4 Offer may only be applied to a standard room and does not apply to a Premium Room. Pursuant to Section 3.2.e, if the Member makes a modification to the Award Redemption Stay, the Member is responsible for changes to the Points required. Stay for 5, Pay for 4 Offer does not apply to Award Redemption Stays using Free Night Awards, Upgrade Awards, Cash + Points Awards, and Suite Night Awards.
+
+3.3.e. Upgrade Awards. When using Points for an Award Redemption Stay, Members may have to redeem additional Points for an upgrade to Premium Room. This Upgrade Award may only be used when redeeming Points for the full cost of one or more nights in a Premium Room at a Participating Property. Premium Rooms are upgraded rooms based on size, view, services and/or other attributes, and include suites.
+
+i. There are two types of Upgrade Awards:
+
+(A). Point Upgrade Awards. A Point Upgrade Award is issued when Points are redeemed for an upgrade to a Premium Room on an Award Redemption Stay and is subject to availability at Participating Properties.
+
+(B). Paid Upgrade Awards. At select Participating Properties, Members may pay for an upgrade to a Premium Room on an Award Redemption Stay on a cost per night basis. The price for Paid Upgrade Award varies by Participating Property and will be charged to the folio during the Members stay. Additional Points are not required with Paid Upgrade Awards. Members will not earn Points or Miles on Paid Upgrade Awards. In addition, the cash portion does not count toward the Ambassador Elite annual qualifying spend requirement (see 4.3.e). Members are responsible for all applicable taxes and service charges associated Paid Upgrade Awards.
+
+ii. Upgrade Award requirements may vary by Participating Property, room type and season. Participating Properties, at their discretion, may offer Premium Room(s) that require an Upgrade Award, e.g. rooms with special views such as ocean or bay views. Marriott Vacation Club and Marriott Grand Residence Club properties require Upgrade Awards for all unit types other than studio units. Some upgrades to Premium Rooms require payment in local currency and cannot be purchased with Points. Check the room description for currency and other redemption requirements when booking an Award Redemption Stay reservation online. The amount of cash or Points required per night for an Upgrade Award is updated continuously and may change at any time. Pursuant to Section 3.2.e, if the Member makes a modification to the Award Redemption Stay, the Member is responsible for changes to the cash or Points required. Upgrade Awards are not offered at All-Inclusive Resorts and Design Hotels.
+
+3.3.f. Cash + Points Awards. With the Cash + Points Award Members can apply a mix of cash and Points for one or more nights in a standard room at a Participating Property when available. Participation in and availability of Cash + Points Awards are at the discretion of the Participating Property. The amount of cash and the amount of Points required per night for a Cash + Points Award are updated continuously and may change at any time. Pursuant to Section 3.2.e, if the Member makes a modification to the Award Redemption Stay, the Member is responsible for changes to the cash and Points required. Members will not earn Points or Miles on the cash portion of Cash + Points Awards. In addition, the cash portion does not count toward the Ambassador Elite annual qualifying spend requirement (see 4.3.e). Members are responsible for all applicable taxes and service charges associated with the cash portion of Cash + Points Awards. The Stay for 5, Pay for 4 Offer does not apply to Cash + Points Awards. The Cash + Points Award structure is subject to modification, cancellation or limitation at any time without notice at the discretion of the Loyalty Program. The Cash & Points Payment for Homes & Villas by Marriott International is different from Cash + Points Awards and follows the Program Rules under Section 8.2.
+
+3.3.g. Points Advance. Members who seek to make an Award Redemption Stay reservation with an insufficient Points balance may book an Award Redemption Stay reservation ("Points Advance Redemption Reservation") that is at least thirty (30) or more days from the arrival date, and hold it for sixty (60) days from time of booking, or no later than fourteen (14) days prior to the Members arrival date, whichever occurs sooner.
+
+During the time the Points Advance Redemption Reservation is on hold, a Member may either (1) purchase Points (as described in Section 2.9) to make a valid Award Redemption Stay, provided that the aggregate amount of Points purchased and/or received as a gift by the Member is less than or equivalent to the annual maximum per calendar year as noted in section 2.9; or (2) the Member accrues sufficient Points for payment of the Points Advance Redemption Reservation by the end of the 60-day hold, or no later than fourteen (14) days prior to the Members arrival date, whichever occurs sooner; or (3) the Member may modify the Points Advance Redemption Reservation to the best paid rate available; or (4) the Member may rebook a Points Advance Redemption Reservation based on redemption inventory availability.
+
+A maximum of three (3) Points Advance Redemption Reservations are permitted to be maintained per Membership Account at any one time.
+
+i. If a Member does not have sufficient Points to pay for a Points Advance Redemption Reservation by the end of the 60-day hold, or the date that is fourteen (14) days prior to the Member's arrival date, whichever occurs sooner, the Points Advance Redemption Reservation will be cancelled.
+
+ii. To finalize a Points Advance Redemption Reservation, once a Member has accrued sufficient Points (either within or by the end of the 60-day hold, or no later than fourteen (14) days prior to the Members arrival date, whichever occurs sooner), the Points may be automatically deducted and the Award Redemption attached to the reservation. The Member can also finalize the Points Advance Redemption Reservation online or by calling Member Support. The amount of Points required to finalize the Points Advance Redemption Reservation may change between the time of booking and the time the Points are deducted. The Member will be required to pay the amount of Points required at the time the Points are deducted even if the amount of Points required has increased since the time the Member booked the Points Advance Redemption Reservation. If the Award Redemption rate has changed and the amount of Points required has increased beyond the value of the Members Award Redemption, the Member will no longer be able to use the Award Redemption for the stay.
+
+iii. A Free Night Award can only be used on a Points Advance Redemption Reservation if its value is greater than or equal to one night on the Points Advance Redemption Reservation at the time the Member applies the Free Night Award to the reservation. For example, a Free Night Award that has a value of 35,000 Points may not be used on a Points Advance Redemption Reservation where the Award Redemption rate is 60,000 Points per night. Multiple Free Night Awards can be used on a Points Advance Redemption Reservation provided each Free Night Award meets or exceeds the Award Redemption rate for the night it is being applied.
+
+iv. Points Advance can only be used for Award Redemption Stay types, including Standard Redemption Award, PointSavers Awards, Upgrade Awards, and Cash + Points Awards. Stay for 5, Pay for 4 Offer may be applied on Points Advance Redemption Reservation but cannot be combined with Free Night Award(s). Points Advance cannot be used for any other Award Redemption options, including, but not limited to, Marriott Bonvoy Moments experiences, flights, Points to Miles conversions, Instant Redemption Awards, and other services and merchandise.
 
 
 
@@ -839,7 +865,7 @@ A maximum of three (3) Points Advance Redemption Reservations are permitted to b
 
 
 
-3.7      Instant Redemptions.     Members may use Points during their stay to redeem an Instant Redemption Award, which they may apply as a credit against their room folio upon check-out. An Instant Redemption Award must be ordered at the Participating Property during the stay to which it will be applied and cannot be booked in advance of the stay. When a Member requests an Instant Redemption Award for a specific U.S. dollar amount or for up to a specific U.S. dollar amount, the Loyalty Program will deduct those Points from the Members Account. For a listing of the Instant Redemption Awards required to redeem specific U.S. dollar values, please refer to the Loyalty Program website under USE POINTS.
+Members may use Points during their stay to redeem an Instant Redemption Award, which they may apply as a credit against their room folio upon check-out. An Instant Redemption Award must be ordered at the Participating Property during the stay to which it will be applied and cannot be booked in advance of the stay. When a Member requests an Instant Redemption Award for a specific U.S. dollar amount or for up to a specific U.S. dollar amount, the Loyalty Program will deduct those Points from the Members Account. For a listing of the Instant Redemption Awards required to redeem specific U.S. dollar values, please refer to the Loyalty Program website under USE POINTS.
 
 3.7.a. A request for an Instant Redemption Award may only be made by a Member of the Loyalty Program who is in good standing. As proof of eligibility, a valid Membership Number is required when redeeming an Instant Redemption Award.
 
@@ -896,7 +922,7 @@ A maximum of three (3) Points Advance Redemption Reservations are permitted to b
 
 
 
-3.14      Hotel and Air Travel Packages     Effective January 19, 2022, Hotel and Air Travel Packages are no longer available for purchase. Information on existing Hotel and Air Travel Packages can be found here.
+
 
 
 
@@ -969,7 +995,7 @@ iv. Marriott Bonvoy - Titanium Elite: 75 Qualifying Nights and higher
 
 v. Marriott Bonvoy - Ambassador Elite: 100 Qualifying Nights and $20,000 US Dollars in annual qualifying spend based on Qualifying Charges earned on completed Stays alone in a Qualifying Period.
 
-4.2.c. Free Night Award stays will count toward Elite Night Credit.
+4.2.c. Award Redemption Stays will count toward Elite Night Credit.
 
 4.2.d. Qualifying Charges without a personal overnight stay will not earn Elite Night Credit toward Elite membership.
 
@@ -1836,7 +1862,7 @@ A Member may request credits for Points and/or Elite Night Credit that are not r
 
 
 
-9.1      Monitoring Membership Accounts     The Company reserves the right to monitor the Accounts of all Members, at any time and without notice, for compliance with Program Rules.  The Company may review all Members Points, Qualifying Stays, and Qualifying Nights balances and transaction history including, without limitation, requests for Loyalty Program Awards, promotional Awards and other benefits.
+9.1      Monitoring Membership Accounts     The Company reserves the right to monitor the Accounts of all Members, at any time and without notice, for compliance with Program Rules. The Company may review all Members Points, Qualifying Stays, and Qualifying Nights balances and transaction history including, without limitation, requests for Loyalty Program Awards, Awards and other benefits.
 
 
 
