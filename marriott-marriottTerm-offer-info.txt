@@ -785,7 +785,7 @@ North Island, a Luxury Collection Resort, Seychelles
 
 3.3.b. PointSavers Award. A PointSavers Award offers Point savings on the Award Redemption Stay for a standard guest room or Premium Room at the Participating Property and is available for limited periods of time. Members can redeem their Points for PointSavers Awards at Participating Properties when and where available. Participation in and availability of PointSavers Awards are at the discretion of Participating Properties.
 
-3.3.c. Free Night Award. A Free Night Award is issued through a Loyalty Program benefit, promotion, or Partner Programme. Each Free Night Award carries a specific Points value that can be applied to one (1) night in a standard guest room at a Participating Property offering a Standard Redemption Award rate or PointSavers Award rate for the requested stay date that is less than or equal to the value of the Free Night Award. Free Night Awards are valid only for use by the Member designated on the Free Night Award and are not transferable. More than one (1) Free Night Award can be used for a Stay with multiple nights, as well as for multiple rooms where the Member is present for the Stay and the room is under the Members name (see Section 3.2.j). Free Night Award examples include the Free Night Award option with the 75-Night Annual Choice Benefit (see Section 4.3.d) and the Free Night Award issued through certain Marriott International co-brand credit cards (see Section 6).
+3.3.c. Free Night Award. A Free Night Award is issued through a Loyalty Program benefit, promotion, or Partner Program. Each Free Night Award carries a specific Points value that can be applied to one (1) night in a standard guest room at a Participating Property offering a Standard Redemption Award rate or PointSavers Award rate for the requested stay date that is less than or equal to the value of the Free Night Award. Free Night Awards are valid only for use by the Member designated on the Free Night Award and are not transferable. More than one (1) Free Night Award can be used for a Stay with multiple nights, as well as for multiple rooms where the Member is present for the Stay and the room is under the Members name (see Section 3.2.j). Free Night Award examples include the Free Night Award option with the 75-Night Annual Choice Benefit (see Section 4.3.d) and the Free Night Award issued through certain Marriott International co-brand credit cards (see Section 6).
 
 i. Members who apply the Free Night Award on a night where the value of the Free Night Award is higher than the standard guest room Award Redemption rate or PointSavers Award rate will forfeit the difference in Points and not receive a Points refund.
 
@@ -805,7 +805,7 @@ i. There are two types of Upgrade Awards:
 
 ii. Upgrade Award requirements may vary by Participating Property, room type and season. Participating Properties, at their discretion, may offer Premium Room(s) that require an Upgrade Award, e.g. rooms with special views such as ocean or bay views. Marriott Vacation Club and Marriott Grand Residence Club properties require Upgrade Awards for all unit types other than studio units. Some upgrades to Premium Rooms require payment in local currency and cannot be purchased with Points. Check the room description for currency and other redemption requirements when booking an Award Redemption Stay reservation online. The amount of cash or Points required per night for an Upgrade Award is updated continuously and may change at any time. Pursuant to Section 3.2.e, if the Member makes a modification to the Award Redemption Stay, the Member is responsible for changes to the cash or Points required. Upgrade Awards are not offered at All-Inclusive Resorts and Design Hotels.
 
-3.3.f. Cash + Points Awards. With the Cash + Points Award Members can apply a mix of cash and Points for one or more nights in a standard room at a Participating Property when available. Participation in and availability of Cash + Points Awards are at the discretion of the Participating Property. The amount of cash and the amount of Points required per night for a Cash + Points Award are updated continuously and may change at any time. Pursuant to Section 3.2.e, if the Member makes a modification to the Award Redemption Stay, the Member is responsible for changes to the cash and Points required. Members will not earn Points or Miles on the cash portion of Cash + Points Awards. In addition, the cash portion does not count toward the Ambassador Elite annual qualifying spend requirement (see 4.3.e). Members are responsible for all applicable taxes and service charges associated with the cash portion of Cash + Points Awards. The Stay for 5, Pay for 4 Offer does not apply to Cash + Points Awards. The Cash + Points Award structure is subject to modification, cancellation or limitation at any time without notice at the discretion of the Loyalty Programme. The Cash & Points Payment for Homes & Villas by Marriott International is different from Cash + Points Awards and follows the Programme Rules under Section 8.2.
+3.3.f. Cash + Points Awards. With the Cash + Points Award Members can apply a mix of cash and Points for one or more nights in a standard room at a Participating Property when available. Participation in and availability of Cash + Points Awards are at the discretion of the Participating Property. The amount of cash and the amount of Points required per night for a Cash + Points Award are updated continuously and may change at any time. Pursuant to Section 3.2.e, if the Member makes a modification to the Award Redemption Stay, the Member is responsible for changes to the cash and Points required. Members will not earn Points or Miles on the cash portion of Cash + Points Awards. In addition, the cash portion does not count toward the Ambassador Elite annual qualifying spend requirement (see 4.3.e). Members are responsible for all applicable taxes and service charges associated with the cash portion of Cash + Points Awards. The Stay for 5, Pay for 4 Offer does not apply to Cash + Points Awards. The Cash + Points Award structure is subject to modification, cancellation or limitation at any time without notice at the discretion of the Loyalty Program. The Cash & Points Payment for Homes & Villas by Marriott International is different from Cash + Points Awards and follows the Program Rules under Section 8.2.
 
 3.3.g. Points Advance. Members who seek to make an Award Redemption Stay reservation with an insufficient Points balance may book an Award Redemption Stay reservation ("Points Advance Redemption Reservation") that is at least thirty (30) or more days from the arrival date, and hold it for sixty (60) days from time of booking, or no later than fourteen (14) days prior to the Members arrival date, whichever occurs sooner.
 
@@ -1950,7 +1950,7 @@ Our Company            About Marriott      Careers      Travel Professionals    
 
 
 
-Follow Us:     Facebook      Instagram      Twitter      Facebook Messenger      YouTube
+
 
 
 
@@ -1961,10 +1961,3 @@ Follow Us:     Facebook      Instagram      Twitter      Facebook Messenger     
 
 
 © 1996  2022  Marriott International, Inc.  All rights reserved. Marriott Proprietary Information     Careers     Terms of Use     Program Terms & Conditions     Privacy Center     Do Not Sell My Personal Information     Digital Accessibility     Site Map     Help
-
-
-
-
-
-
-English
