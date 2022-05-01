@@ -800,17 +800,13 @@ iv. Points Advance can only be used for Award Redemption Stay types, including S
 
 
 
-3.4        Instant Redemptions at Participating Properties.     Members may use Points during their stay to redeem an Instant Redemption Award, which they may apply as a credit against their room folio upon check-out. An Instant Redemption Award must be ordered at the Participating Property during the stay to which it will be applied and cannot be booked in advance of the stay. When a Member requests an Instant Redemption Award for a specific U.S. dollar amount or for up to a specific U.S. dollar amount, the Loyalty Program will deduct those Points from the Members Account. For a listing of the Instant Redemption Awards required to redeem specific U.S. dollar values, please refer to the Loyalty Program website under USE POINTS / CERTIFICATES.
-
+3.4        Instant Redemptions at Participating Properties.     Members may use Points during their stay to redeem an Instant Redemption Award, which they may apply as a credit against their room folio upon check-out. An Instant Redemption Award must be ordered at the Participating Property during the stay to which it will be applied and cannot be booked in advance of the stay. When a Member requests an Instant Redemption Award for a specific U.S. dollar amount or for up to a specific U.S. dollar amount, the Loyalty Program will deduct those Points from the Members Account. For a listing of the Instant Redemption Awards required to redeem specific U.S. dollar values, please refer to the Loyalty Program website under USE POINTS / AWARDS.
 3.4.a. A request for an Instant Redemption Award may only be made by a Member of the Loyalty Program who is in good standing. As proof of eligibility, a valid Membership Number is required when redeeming an Instant Redemption Award.
-
 3.4.b. Instant Redemption Awards are valid only when used toward the expenses charged to a Members room folio, including, but not limited to room charges, food and beverages, golf, spa services and incidental expenses. Instant Redemption Awards cannot be redeemed for cash or gift cards. Instant Redemption Awards are valid only for individual travel, and are not applicable to group travel, package tours, or conventions that have been charged to and/or paid by a third party. Instant Redemption Award credits may be used by the Member only and may not be gifted, although if requested at the time of redemption, Instant Redemption Awards may be credited against a third partys room folio if the room was booked under the Members Loyalty Program Membership Number.
-
 3.4.c. The Member requesting the Instant Redemption Award must have the total Points value required to purchase the Instant Redemption Award requested available in his or her Membership Account at the time of ordering. Once accrued Points in the Members Account have been redeemed for an Instant Redemption Award, the Points cannot be returned to the Members Account. Any portion of the Instant Redemption Award not applied to the Members room folio will be forfeited; if the amount requested for the Instant Redemption Award is more than the room folio balance, cash will not be returned to the Member.
-
 3.4.d. Redeemed Instant Redemption Awards are not refundable, exchangeable, replaceable or transferable for cash or credit.
-
 3.4.e. Not all Participating Properties offer Instant Redemption Awards. The following Participating Brands do not offer Instant Redemption Awards: Marriott Vacation Club, Marriott Grand Residence Club, Design Hotels, Vistana properties, Atlantis, Paradise Island, and The Cosmopolitan of Las Vegas. In addition, Instant Redemption Awards are not offered at select Participating Properties. Contact the Participating Property directly for Instant Redemption Award participation.
+
 
 
 
@@ -1274,7 +1270,7 @@ One (1) Free Night Award
 The list of 75-Night Annual Choice Benefits on choice-benefit.marriott.com is subject to change at any time. Once a Titanium Elite Member becomes eligible to receive a 75-Night Annual Choice Benefit, he/she must choose his/her 75-Night Annual Choice Benefit by visiting choice-benefit.marriott.com and selecting one of the 75-Night Annual Choice Benefits. A selection must be made through choice-benefit.marriott.com and may not be made through Member Support. All 75-Night Annual Choice Benefit selections are final and may not be changed after they are made. In the event that an eligible Titanium Elite Member fails to select a 75-Night Annual Choice Benefit by 11:59 p.m. Eastern US Time on January 7th of the year following the applicable Qualifying Period, such Titanium Elite Members will receive five (5) Suite Night Awards as his/her 75-Night Annual Choice Benefit ("Suite Night Awards," individually "Suite Night Award"). The terms & conditions for each 75-Annual Choice Benefit option are listed under section 4.3.c.(vi), except for the following:
 A. One Free Night Award
 (1) The Free Night Award (up to 40,000 Points) must be redeemed for a stay that occurs no later than December 31 of the year following the year in which the additional benefit is selected (e.g. if the benefit is selected in 2022, the deadline for redemption is December 31, 2023).
-(2) The Free Night Award will be credited to the Titanium Elite Member's Account within two (2) weeks of the Titanium Elite Member selecting this option as his/her Titanium Elite Annual Choice Benefit. The Free Night Award can be redeemed at any available Participating Property for one (1) night, up to 40,000 Points, for a standard room.
+(2) The Free Night Award will be credited to the Titanium Elite Member's Account within two (2) weeks of the Titanium Elite Member selecting this option as his/her Titanium Elite Annual Choice Benefit. The Free Night Award can be redeemed at any available Participating Property for one (1) night, up to 40,000 Points, for a standard room. When applying a Free Night Award to a night in a reservation, Members are able to redeem or purchase up to 15,000 Points to expand the value of such Free Night Award.
 (3) Members can use their Free Night Award while booking an eligible Award Redemption Stay on Marriott Websites or they may call the Customer Engagement Center and mention they wish to use their Free Night Award. Free Night Award is not transferable and may not be redeemed for cash or converted into Points. Any unused Free Night Award will be forfeited. Free Night Award stay(s) and night(s) will count toward earning Elite membership status. Free Night Awards may be applied to existing paid Stays or Award Redemption Stays.
 (4) The Free Night Award includes all applicable taxes; however, the Titanium Elite Member may be responsible for payment of additional mandatory resort fees at Participating Properties where resort fees are applicable.
 (5) Free Night Award redemptions may be canceled pursuant to the standard guarantee and cancellation policies as described in Section 3.2.d.
@@ -1779,7 +1775,7 @@ Our Company            About Marriott      Careers      Travel Professionals    
 
 
 
-Follow Us:     Facebook      Instagram      Twitter      Facebook Messenger      YouTube
+
 
 
 
