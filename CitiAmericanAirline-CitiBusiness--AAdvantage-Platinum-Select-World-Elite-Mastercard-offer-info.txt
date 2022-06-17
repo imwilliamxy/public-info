@@ -1,7 +1,7 @@
 FIRST TIME EVER
 
 @media only screen and (max-width: 980px) {
-.yribmob { position: relative; top: -12vw; right: -32.5vw; }
+.gribmob { position: relative; top: -12vw; right: -32.5vw; }
 }
 .mob-menu-header-holder{
 max-width:100vw !important;
