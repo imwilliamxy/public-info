@@ -1,21 +1,12 @@
-OUR BEST OFFER
-
-@media only screen and (max-width: 980px) {
-.gribmob { position: relative; top: -12vw; right: -32.5vw; }
-}
-
-
-
-
 For all your travel needs
 
 
 
-Earn 75,000 American Airlines AAdvantage bonus miles after
+Earn 50,000 American Airlines AAdvantage bonus miles after
 
 
 
-$3,500 in purchases within the first 4 months of account opening
+$2,500 in purchases within the first 3 months of account opening
 
 
 
