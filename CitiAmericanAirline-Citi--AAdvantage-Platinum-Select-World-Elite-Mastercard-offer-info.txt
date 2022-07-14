@@ -1,7 +1,7 @@
-FIRST TIME EVER
+LIMITED-TIME OFFER
 
 @media only screen and (max-width: 980px) {
-.gribmob { position: relative; top: -12vw; right: -32.5vw; }
+.yribmob { position: relative; top: -12vw; right: -32.5vw; }
 }
 .mob-menu-header-holder{
 max-width:100vw !important;
@@ -20,7 +20,7 @@ For all your travel needs
 
 
 Up to
-$400
+$250
 
 statement credit
 
@@ -28,7 +28,7 @@ statement credit
 +
 
 
-30,000
+40,000
 bonus miles
 
 
@@ -58,7 +58,7 @@ bonus miles
 
 
 
-Earn up to a $400 statement credit on eligible American Airlines purchases in the first 6 months of account opening. Plus, earn 30,000 bonus miles after $1,500 in purchases within the first 3 months of account opening.
+Earn up to a $250 statement credit on eligible American Airlines purchases in the first 6 months of account opening. Plus, earn 40,000 bonus miles after $2,000 in purchases within the first 3 months of account opening.
 
 
 
