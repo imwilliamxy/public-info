@@ -56,7 +56,7 @@ Loyalty Program Terms & Conditions
 
 
 
-Updated May 2022
+Updated June 2022
 Effective in February 2019, the loyalty program for Marriott International, Inc. is Marriott Bonvoy (hereinafter, the Loyalty Program). Prior to this, the Loyalty Program operated as a unified program under three names: Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the SPG Program) (each a Legacy Program). These Legacy Programs were operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the Company).
 The Loyalty Program operates under the terms and conditions as set out below unless otherwise expressly stated (the Program Rules). The Program Rules hereby incorporate the additional Managed Associate Rules that shall apply to employees of the Company and to associates working at Company owned, leased, licensed and managed locations. The Managed Associate Rules do not apply to employees of Company franchisees, licensees and owners of Company managed properties.
 The Program Rules govern the Companys relationship with members of the Loyalty Program (collectively, Loyalty Program Members, and individually, a Loyalty Program Member, Member, or you), including how Members manage their accounts, book reservations, achieve elite status, earn and redeem Loyalty Program points (Points) with participating hotels and properties (each a Participating Property), as well as with third party programs which have a business relationship with the Loyalty Program such as airline frequent flyer programs (Partner Programs).
@@ -653,79 +653,45 @@ v. A voucher or third-party award was redeemed for the guest room.
 
 
 3.2      Award Redemption Stays at Participating Properties.     Unless otherwise noted, a Member may apply an Award Redemption for a Stay in a standard guest room or Premium Room (with existing bedding) at a Participating Property (Award Redemption Stay). General terms for Award Redemption Stays including the Award Redemption Stay types in Section 3.3 are covered below. Please note some Participating Brands have different Award Redemption Stay policies including Homes & Villas by Marriott International (as described in Section 8.2).
-
 3.2.a. Subject to Availability. The ability to use an Award Redemption for a Stay at a Participating Property is subject to availability at the time of reservation and must be booked through the Marriott Channels as described in Section 1.2.b.
-
 3.2.b. Award Redemption Reservation. When making a reservation for an Award Redemption Stay, the required Points and/or applied Free Night Award(s) will be deducted and the Award Redemption attached to the reservation automatically, provided the Member has sufficient Points for the entire stay and/or sufficient Free Night Award(s) as described in Section 3.3.c, as applicable. Award Redemption Stays are valid only for individual travel and are not valid for group travel, package tours, conventions or other special rates and/or package programs.
-
 3.2.c. Gifted Award Redemption Stays (Third Party Transfers). Award Redemption Stays are valid only for use by the Member from whose Account the Award Redemption Stay was processed and are not transferable, except as set forth below:
-
 i. A Member may request an Award Redemption Stay to be issued to another person and where the Member will not be present for the stay (each such stay, a Gifted Award Redemption Stay and, collectively, Gifted Award Redemption Stays), only when booking the Award Redemption Stay reservation through Member Support. All Award Redemption Stay Types listed under Section 3.3 are eligible to be gifted to another person, except for Free Night Awards.
-
 ii. A Member may book a maximum of five (5) Gifted Award Redemption Stays in a calendar year on a single Membership Account.
-
 iii. When booking a Gifted Award Redemption Stay reservation, a Member must provide to Member Support their Membership Number and name, as well as the name of the person who will be staying at the Participating Property (the recipient). Both names and the Members Membership Number must be provided to Member Support at time of booking the Gifted Award Redemption Stay and cannot be modified once booked. A Member cannot make an Award Redemption Stay reservation first and then contact Member Support or the Participating Property directly to gift or otherwise transfer the Award Redemption Stay to another person. If a Member needs to make a change to an Award Redemption Stay reservation, the reservation will need to be cancelled and a new reservation booked (if available) through Member Support, and the Member is responsible for the changes to the Points or cash, as applicable, required to book a new reservation.
-
 iv. With a Gifted Award Redemption Stay neither the Member nor the recipient will earn any Points/Miles, Elite Night Credit, Qualifying Nights, or Qualifying Stays in connection with such Gifted Award Redemption Stay. In addition, the recipient on the Gifted Award Redemption Stay will not receive the transfer of any Elite benefits associated with the Members Account.
-
 v. At check-in, the recipient of the Gifted Award Redemption Stay must show valid identification and provide a credit card or cash deposit to the Participating Property for incidental charges.
-
 3.2.d. Guarantee and Cancellation Policies. The standard guarantee and cancellation policies of a Participating Property will apply to Award Redemption Stay reservations including, without limitation, all minimum length of stay requirements, credit card guarantee requirements and charges for late cancellation, no-shows, and early check-out.
-
-A Point refund may be issued for a stay that is less than the number of days on the Redemption Award, but the Member must inform the Participating Propertys front desk in advance of the early check-out time in order for the Point refund to be issued to the Members Account.
-
+A Point refund may be issued for a stay that is less than the number of days on the Award Redemption, but the Member must inform the Participating Propertys front desk in advance of the early check-out time in order for the Point refund to be issued to the Members Account.
 If a Member fails to cancel a guaranteed Award Redemption Stay reservation within the permitted cancellation period, the Participating Property will charge the applicable cancellation fee to the credit card provided by the Member at the time the reservation was made and the Points that were redeemed will be re-deposited into the Members Account.
-
 3.2.e. Amount of Points Required. The amount of Points required per night for an Award Redemption Stay varies by the Participating Property, the room types available at the Participating Property, length of stay, and may also vary by time of year. Points required per night are updated continuously and may change at any time. If the Member makes a modification to the Award Redemption Stay, the Member is responsible for the changes to the Points required.
-
 3.2.f. Award Redemption Stay Inclusions & Exclusions. The Award Redemption Stay includes the cost of a guest room (with existing bedding) at a Participating Property, room tax, service charge, and extra-person charges (except at eligible all-inclusive properties), if any. All other charges, including incidentals, resort fees and The Ritz-Carlton Club level charges, rollaways, and other fees, are the responsibility of the Member and are not included in the Award Redemption Stay.
-
 At the all-inclusive properties (described under 2.1.b), the Award Redemption Stay covers the cost of the all-inclusive package which includes, but is not limited to, the standard room (with existing bedding), room tax, service charge, resort fee, and standard food and beverage, for up to two people. Extra-person charges for the third, fourth, or more guests in the room are an additional fee and are not included in the Award Redemption as form of payment. This fee as well as all other property charges are the responsibility of the Loyalty Program Member and are not included in the Award Redemption Stay. Loyalty Program Members must inform any All-Inclusive Resort or Company-designated all-inclusive property of the correct number of guests for each reservation at such All-Inclusive Resort or Company-designated all-inclusive property, including any extra persons beyond the first and second guest, and the correct ages of any children for each such reservation. The Company reserves the right, at its discretion, to modify the room rate a Member must pay for a reservation to reflect the correct guest count, including children, for such reservation.
-
 3.2.g. Room Preferences Not Guaranteed. With an Award Redemption Stay, bedding, smoking, and other room preferences may be requested, but are not guaranteed.
-
 3.2.h. No Points or Miles. Members will not receive Points or Miles for the Award Redemption Stay portion of their stay.
-
 3.2.i. Elite Night Credit. An Award Redemption Stay at a Participating Property is considered a Qualifying Stay and as such the Member will receive Elite Night Credit toward earning Elite Membership Status or Lifetime Elite Membership Status. A Member who uses an Award Redemption will only receive Elite Night Credit(s) for the guest room in which the Member stays and will not receive Elite Night Credits for additional guest rooms.
-
 3.2.j. Multiple Rooms. A Member may redeem Points or apply Free Night Awards for up to a total of nine (9) guest rooms under the Members name and where the Member is staying at the same Participating Property over the same dates. When doing so, the Member agrees to make legitimate Award Redemption Stay reservations in good faith for use by the Member and his or her invited guests only, and not for any other purposes, including without limitation, reselling, impermissibly assigning or posting on third party websites, or making speculative, false or fraudulent reservations, or any reservation in anticipation of demand. The Company reserves the right to cancel any reservations it believes to be in violation of the Program Rules.
-
 3.2.k. Exit of Participating Property. If a Participating Property exits the Loyalty Program for any reason after a Member makes an Award Redemption Stay reservation but before the Members stay, the Company will use reasonable efforts to have such former Participating Property honor the reservation or assist in arranging equivalent accommodations nearby; however, the Company cannot guarantee that any Awards, upgrades or any other benefits a Member may earn under the Loyalty Program will be honored.
-
 3.2.l. Ownership Acquired Points. Points acquired through ownership of an interest at a Marriott Vacation Club or Marriott Grand Residence Club property may not be used to request an Award Redemption Stay reservation at a Marriott Vacation Club, Marriott Grand Residence Club or Vistana property unless otherwise permitted.
-
 Points acquired by a Vistana Owner who converts his/her vacation ownership interest to Points pursuant to Vistanas Marriott Bonvoy Conversion program terms and conditions may not be redeemed at a Vistana property, or Marriott Vacation Club or Marriott Grand Residence Club property unless otherwise permitted.
-
 3.2.m. Award Redemption Stays Outside United States. An Award Redemption Stay at destinations outside the United States is subject to all required government approvals, restrictions, and applicable non-hotel taxes. Awards do not include United States federal inspection fees or any other fees, expenses, surcharges, non-hotel taxes or other costs or expenses that may be imposed by foreign governments for international travel. Members are responsible for these government mandated taxes, fees, etc.
-
 3.2.n. Limited Blackout Dates. The Company has a Limited Blackout Dates policy, which means that, subject to the limitations and exclusions below, Participating Properties have standard rooms available every day for Award Redemptions. These limitations and exclusions are:
-
 i. Participating Properties may limit the number of standard rooms available for redemption on a limited number of days.
-
 ii. The following Participating Brands allow only for Points/Miles earnings and do not offer Points redemption: Marriott Executive Apartments.
-
 iii. The following Participating Properties or Brands either do not participate in or do not fully participate in the Limited Blackout Dates policy at this time:
+
 JW Marriott Scottsdale Camelback Inn Resort & Spa, Scottsdale, AZ
-
 Vistana Signature Network and Vistana Residence Network  all properties
-
 Marriott Vacation Club and Marriott Grand Residence Club  all properties
-
 Rome Marriott Grand Hotel Flora, Rome, Italy
-
 Waikoloa Beach Marriott Resort & Spa, Hawaii
-
 Wailea Beach Resort  Marriott - Maui, Hawaii
-
 Hotel Cala di Volpe, a Luxury Collection Hotel, Costa Smeralda, Italy
-
 Hotel Pitrizza, a Luxury Collection Hotel, Costa Smeralda, Italy
-
 Hotel Romazzino, a Luxury Collection Hotel, Costa Smeralda, Italy
-
 Homes & Villas by Marriott International
-
 North Island, a Luxury Collection Resort, Seychelles
+
 
 
 
@@ -736,7 +702,7 @@ North Island, a Luxury Collection Resort, Seychelles
 3.3.c. Free Night Award. A Free Night Award is issued through a Loyalty Program benefit, promotion, or Partner Program. Each Free Night Award carries a specific Points value that can be applied to one (1) night in a standard guest room at a Participating Property offering a Standard Redemption Award rate or PointSavers Award rate for the requested stay date that is less than or equal to the value of the Free Night Award. Free Night Awards are valid only for use by the Member designated on the Free Night Award and are not transferable. More than one (1) Free Night Award can be used for a Stay with multiple nights, as well as for multiple rooms where the Member is present for the Stay and the room is under the Members name (see Section 3.2.j). Free Night Award examples include the Free Night Award option with the 75-Night Annual Choice Benefit (see Section 4.3.d) and the Free Night Award issued through certain Marriott International co-brand credit cards (see Section 6).
 i. Members who apply the Free Night Award on a night where the value of the Free Night Award is higher than the standard guest room Award Redemption rate or PointSavers Award rate will forfeit the difference in Points and not receive a Points refund. When applying a Free Night Award to a night in a reservation, Members are able to redeem or purchase up to 15,000 Points to expand the value of such Free Night Award.
 ii. Free Night Awards may be used up to its expiration date listed; it cannot be extended beyond the validity date, exchanged, or re-deposited into the Members Account for Points or future use.
-iii. Additional restrictions for using Free Night Awards include, but are not limited to, Free Night Awards: (1) can only be applied to a standard room and does not apply to a Premium Room; (2) value cannot be combined with other Award Redemption types; (3) are not eligible for the Stay for 5, Pay for 4 Offer (see Section 3.3.d); (4) may be used on a Points Advance Redemption Reservation with certain limitations (see Section 3.3.g); and (5) cannot be used at Homes & Villas by Marriott International and The Ritz-Carlton Yacht Collection.
+iii. Additional restrictions for using Free Night Awards include, but are not limited to, Free Night Awards: (1) can only be applied to a standard room and does not apply to a Premium Room; (2) value cannot be combined with cash or other Award Redemption types; (3) are not eligible for the Stay for 5, Pay for 4 Offer (see Section 3.3.d); (4) may be used on a Points Advance Redemption Reservation with certain limitations (see Section 3.3.g); and (5) cannot be used at Homes & Villas by Marriott International and The Ritz-Carlton Yacht Collection.
 3.3.d. Stay for 5, Pay for 4 Offer. A Member who redeems Points for five consecutive nights for an Award Redemption Stay using a Standard Redemption Award or PointSavers Award under one reservation (i.e., one confirmation number) will only need to redeem Points for four nights (Stay for 5, Pay for 4 Offer). The free night offer applies to the night with the lowest Point redemption rate within the same Award Redemption Stay. In the event there is more than one night at the lowest Point redemption rate, the free night offer will apply to the first night at that rate. Stay for 5, Pay for 4 Offer cannot be applied to a stay comprised of multiple reservations with consecutive nights. Also, Stay for 5, Pay for 4 Offer cannot be applied after the Member checks into the hotel. There is no Points refund or free night credit for any unused portion of a Stay for 5, Pay for 4 Offer. Stay for 5, Pay for 4 Offer may only be applied to a standard room and does not apply to a Premium Room. Pursuant to Section 3.2.e, if the Member makes a modification to the Award Redemption Stay, the Member is responsible for changes to the Points required. Stay for 5, Pay for 4 Offer does not apply to Award Redemption Stays using Free Night Awards, Upgrade Awards, Cash + Points Awards, and Suite Night Awards.
 3.3.e. Upgrade Awards. When using Points for an Award Redemption Stay, Members may have to redeem additional Points for an upgrade to Premium Room. This Upgrade Award may only be used when redeeming Points for the full cost of one or more nights in a Premium Room at a Participating Property. Premium Rooms are upgraded rooms based on size, view, services and/or other attributes, and include suites.
 i. There are two types of Upgrade Awards:
@@ -1417,6 +1383,12 @@ Marriott Bonvoy The CLASSIC Shinhan Card for residents of South Korea - Learn Mo
 Marriott Bonvoy Credit Card for residents of Mexico  Learn More (Spanish)
 6.3.k. Marriott Bonvoy Inspire Credit Card for residents of Mexico
 Marriott Bonvoy Inspire Credit Card for residents of Mexico  Learn More (Spanish)
+6.3.l. Marriott Bonvoy CITIC Gold Card for residents of mainland China
+Marriott Bonvoy CITIC Gold Card for residents of mainland China  Learn More
+6.3.m. Marriott Bonvoy CITIC Platinum Card for residents of mainland China
+Marriott Bonvoy CITIC Platinum Card for residents of mainland China  Learn More
+6.3.n. Marriott Bonvoy CITIC Premium Platinum Card for residents of mainland China
+Marriott Bonvoy CITIC Premium Platinum Card for residents of mainland China  Learn More
 
 
 
@@ -1632,7 +1604,8 @@ A Member may request credits for Points/Miles or Qualifying Nights for Elite Sta
 
 
 
-9.6      Taxes     Points, Awards, and other Member benefits may be subject to income or other taxes. The Member is responsible for paying all such taxes and for making all applicable disclosures to third parties including, without limitation, the party who paid for the transaction from which the Member earned Points. The Company will not be liable for any tax liability, duty or other charges in connection with the issuance of Points, Redemption Awards, promotional Awards and other Member benefits.
+9.6      Taxes     Points, Awards, and other Member benefits may be subject to income or other taxes. The Member is responsible for paying all such taxes and for making all applicable disclosures to third parties including, without limitation, the party who paid for the transaction from which the Member earned Points. The Company will not be liable for any tax liability, duty or other charges in connection with the issuance of Points, Awards, and other Member benefits.
+
 
 
 
@@ -1647,7 +1620,8 @@ A Member may request credits for Points/Miles or Qualifying Nights for Elite Sta
 
 
 
-9.9      Not Responsible for Acts, Errors, or Omissions     The Company is not responsible for:  (a) any loss or misdirection of, or delay in receiving, any Member application, correspondence, redemption requests, Redemption Awards or Member benefits; (b) theft or unauthorized redemption of Points or Redemption Awards or use of a Redemption Award; (c) any acts or omissions of third parties (including, without limitation, Participating Properties); or (d) any errors published in relation to the Loyalty Program, including, without limitation, any pricing or typographical errors, errors of description, errors regarding Participating Properties, and Loyalty Program affiliates, and errors in the crediting or debiting of Points from Member Accounts.  The Company reserves the right to correct, without notice, any errors.
+9.9      Not Responsible for Acts, Errors, or Omissions     The Company is not responsible for:  (a) any loss or misdirection of, or delay in receiving, any Member application, correspondence, redemption requests, Awards or Member benefits; (b) theft or unauthorized redemption of Points or Awards or use of an Award; (c) any acts or omissions of third parties (including, without limitation, Participating Properties); or (d) any errors published in relation to the Loyalty Program, including, without limitation, any pricing or typographical errors, errors of description, errors regarding Participating Properties, and Loyalty Program affiliates, and errors in the crediting or debiting of Points from Member Accounts.  The Company reserves the right to correct, without notice, any errors.
+
 
 
 
@@ -1709,7 +1683,7 @@ Our Company            About Marriott      Careers      Travel Professionals    
 
 
 
-
+Follow Us:     Facebook      Instagram      Twitter      Facebook Messenger      YouTube
 
 
 
