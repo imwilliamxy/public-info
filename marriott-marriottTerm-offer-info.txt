@@ -39,7 +39,7 @@ Loyalty Program Terms & Conditions
 
 
 
-7. THE MARRIOTT VACATION CLUBS AND VISTANA RESIDENCE NETWORK
+7. MARRIOTT VACATION CLUB, MARRIOTT GRAND RESIDENCE CLUB, VISTANA SIGNATURE NETWORK, AND VISTANA RESIDENCE NETWORK
 
 
 
@@ -56,7 +56,7 @@ Loyalty Program Terms & Conditions
 
 
 
-Updated June 2022
+Updated August 2022
 Effective in February 2019, the loyalty program for Marriott International, Inc. is Marriott Bonvoy (hereinafter, the Loyalty Program). Prior to this, the Loyalty Program operated as a unified program under three names: Marriott Rewards Program, The Ritz-Carlton Rewards Program, and the Starwood Preferred Guest Program (the SPG Program) (each a Legacy Program). These Legacy Programs were operated by Marriott International, Inc. and its subsidiaries, including Marriott Rewards, LLC and Preferred Guest, Inc. (collectively, the Company).
 The Loyalty Program operates under the terms and conditions as set out below unless otherwise expressly stated (the Program Rules). The Program Rules hereby incorporate the additional Managed Associate Rules that shall apply to employees of the Company and to associates working at Company owned, leased, licensed and managed locations. The Managed Associate Rules do not apply to employees of Company franchisees, licensees and owners of Company managed properties.
 The Program Rules govern the Companys relationship with members of the Loyalty Program (collectively, Loyalty Program Members, and individually, a Loyalty Program Member, Member, or you), including how Members manage their accounts, book reservations, achieve elite status, earn and redeem Loyalty Program points (Points) with participating hotels and properties (each a Participating Property), as well as with third party programs which have a business relationship with the Loyalty Program such as airline frequent flyer programs (Partner Programs).
@@ -94,215 +94,109 @@ These Program Rules supersede all previous terms and conditions applicable to th
 
 
 
-1.1Eligibility.       Membership in the Loyalty Program is free and available to any individual who: (a) possesses the legal authority to agree to the Program Rules; (b) resides in a jurisdiction which legally permits participation in the Loyalty Program; (c) is not a resident of Cuba, Iran, North Korea, Syria, or the Crimea region of Ukraine; (d) provides valid and accurate personal information when enrolling in the Loyalty Program; (e) is not already a member of the Loyalty Program (i.e., does not already have a Membership Account); and (f) has not previously been terminated from the Loyalty Program or any of the three Legacy Programs by the Company.
-
+1.1Eligibility.       Membership in the Loyalty Program is free and available to any individual who: (a) possesses the legal authority to agree to the Program Rules; (b) resides in a jurisdiction which legally permits participation in the Loyalty Program; (c) is not a resident of Crimea, Cuba, Donetsk Peoples Republic, Iran, Luhansk Peoples Republic, North Korea, and Syria; (d) provides valid and accurate personal information when enrolling in the Loyalty Program; (e) is not already a member of the Loyalty Program (i.e., does not already have a Membership Account); and (f) has not previously been terminated from the Loyalty Program or any of the three Legacy Programs by the Company.
 1.1.a. Members are responsible for reading and understanding the Loyalty Program Rules, Account statements, and other communications from the Company about the Loyalty Program in order to understand his/her rights, responsibilities, and status in the Loyalty Program. If a Member has any questions about the Loyalty Program or these Program Rules, the Member should contact Member Support.
-
 1.1.b. Members are responsible for reading the Companys Privacy Statement in order to understand how the Company collects, uses, and discloses a Members data. If a Member has any questions about the Companys Privacy Statement or its collection, use, or disclosure of a Members data, the Member should contact Member Support.
 
 
 
 
+
 1.2Participating Properties and Brands     1.2.a. Participating Properties are hotels, resorts, and other transient stay properties operated under the brands below that are owned, managed, franchised or licensed by Marriott International (Participating Brands) and are bookable through Marriott Channels unless otherwise stated (see 1.2.b.). Residences properties (Residences), whether offered as whole or fractional ownership, as serviced apartments, or condominiums, are by nature, not transient stay properties and therefore, do not participate in the Loyalty Program unless otherwise outlined below. The Participating Properties and Participating Brands include:
-
 i. The Ritz-Carlton - all locations except for:
-
 A. Ritz-Carlton Reserve properties participate in the Loyalty Program as follows:
-
 (1) Earn Points or Miles as described in Section 2
 (2) Redeem Points as described in Section 3
 (3) Members receive benefits as defined in Sections 1 and 4 except for the following: Member Rates, Gift Shop Discount, Complimentary Enhanced Room Upgrades, Late Checkout, Guaranteed Lounge Access, Guaranteed Room Type, 48-Hour Guaranteed Availability, and Suite Night Awards.
 (4) Marriott Bonvoy Events as described in Section 5
-
 B. The Ritz-Carlton Residences, Waikiki Beach participates in the Loyalty Program as follows:
-
 (1) Earn Points or Miles as described in Section 2
 (2) Redeem Points as described in Section 3
 (3) Members receive benefits as defined in Section 4 except for the following: Complimentary Enhanced Room Upgrades, Late Checkout, Suite Night Awards, and Your24.
-
-C. The Ritz-Carlton Destination Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only for Members staying at The Ritz-Carlton Destination Club locations under their ownership benefit; no Points redemption and no Points or Miles earning
-
+C. The Ritz-Carlton Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only for Members staying at The Ritz-Carlton Club locations under their ownership benefit. They do not participate in Points or Miles earning, Points redemption, on-property Member benefits (as outlined in Sections 1 and 4), or Marriott Bonvoy Events.
 D. The Ritz-Carlton Yacht Collection - earning and redemption partner with unique participation in the Loyalty Program as expressly identified in their separate terms of service (RCYC Terms). Members who book and complete reservations through RCYC are subject to the Program Rules, these RCYC Terms, as well as the legal information found on The Ritz-Carlton Yacht Collection.
-
 E. The following properties do not participate in the Loyalty Program:
-
 ● The Ritz-Carlton, Millennia Singapore
 ● The Ritz-Carlton Residences, except as noted above
 ● The following partner properties:
-
 ○ Hotel Ritz-London - London, UK
 ○ Bulgari Hotels and Resorts - all locations
-
 ii. St. Regis - all locations except for:
-
-A. The Residences at The St. Regis Deer Valley, Snow Park participates in the Loyalty Program as follows:
-
-(1) Earn Points or Miles as described in Section 2
-(2) Redeem Points as described in Section 3
-(3) Members receive benefits as defined in Section 4 except for the following: Complimentary Enhanced Room Upgrades, Late Checkout, Suite Night Awards, and Your24.
-
-B. The St. Regis Residences do not participate in the Loyalty Program, except as noted above
-
-C. The St. Regis Residence Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
+A. The St. Regis Residences do not participate in the Loyalty Program:
+B. The St. Regis Residence Club properties - earning partner for Elite Night Credit (as defined by 2.1.a.) only. They do not participate in Points or Miles earning, Points redemption, on-property Member benefits (as outlined in Sections 1 and 4), or Marriott Bonvoy Events.
 
 iii. EDITION - all locations except for:
 
-● EDITION Residences do not participate in the Loyalty Program
-
+A. EDITION Residences do not participate in the Loyalty Program
 iv. The Luxury Collection - all locations except for:
-
-● The Luxury Collection Residences do not participate in the Loyalty Program
-
+A. The Luxury Collection Residences do not participate in the Loyalty Program
+B. The Phoenician Residences, a Luxury Collection Residence Club, Scottsdale has limited on-property benefits as outlined in Section 4, Section 5, and Section 7.
 v. W - all locations except for:
-
-● W Residences do not participate in the Loyalty Program
-
+A. W Residences do not participate in the Loyalty Program
 vi. JW Marriott - all locations
-
 vii. Marriott Hotels - all locations except for:
-
-● The Marriott Ranch Bed and Breakfast
-
-● Marriott Residences do not participate in the Loyalty Program
-
+A. The Marriott Ranch Bed and Breakfast
+B. Marriott Residences do not participate in the Loyalty Program
 viii. Sheraton - all locations except for:
-
-● Sheraton Residences do not participate in the Loyalty Program
-
+A. Sheraton Residences do not participate in the Loyalty Program
+B. Sheraton Vacation Club -  all locations, with limited on-property benefits as outlined in Section 4, and Section 7.
 ix. Marriott Vacation Club and Marriott Grand Residence Club - all locations except for:
-
 A. Grand Residences by Marriott  Mayfair-London, UK
-
 B. Marriott Vacation Club at The Empire Place©, Bangkok, Thailand
-
 Marriott Vacation Club and Marriott Grand Residence Club properties which participate have limited on-property benefits as outlined in Section 4 and Section 7.
-
 x. Delta Hotels by Marriott - all locations except for:
-
-● Delta Hotels by Marriott that are part of All-Inclusive by Marriott Bonvoy (see 1.2.a.xxxiv) participate in the Loyalty Program in a unique capacity as expressly identified in their separate terms of service (All-Inclusive by Marriott Terms).
-
+A. Delta Hotels by Marriott that are part of All-Inclusive by Marriott Bonvoy (see 1.2.a.xxxiii) participate in the Loyalty Program in a unique capacity as expressly identified in their separate terms of service (All-Inclusive by Marriott Terms).
 xi. Le Méridien - all locations except for:
-
-● Le Méridien Residences do not participate in the Loyalty Program
-
+A. Le Méridien Residences do not participate in the Loyalty Program
 xii. Westin - all locations except for:
-
-● Westin properties that are part of All-Inclusive by Marriott Bonvoy (see 1.2.a.xxxiv) participate in the Loyalty Program in a unique capacity as expressly identified in their separate terms of service (All-Inclusive by Marriott Terms).
-
-● Westin Residences do not participate in the Loyalty Program.
-
+A. Westin properties that are part of All-Inclusive by Marriott Bonvoy (see 1.2.a.xxxiii) participate in the Loyalty Program in a unique capacity as expressly identified in their separate terms of service (All-Inclusive by Marriott Terms).
+B. Westin Residences do not participate in the Loyalty Program.
+C. Westin Vacation Club - all locations, with limited on-property benefits as outlined in Section 4, and Section 7.
 xiii. Autograph Collection Hotels - all locations except for:
-
-A. Autograph Collection Hotels that are part of All-Inclusive by Marriott Bonvoy (see 1.2.a.xxxiv) participate in the Loyalty Program in a unique capacity as expressly identified in their separate terms of service (All-Inclusive by Marriott Terms).
-
+A. Autograph Collection Hotels that are part of All-Inclusive by Marriott Bonvoy (see 1.2.a.xxxiii) participate in the Loyalty Program in a unique capacity as expressly identified in their separate terms of service (All-Inclusive by Marriott Terms).
 B. The Cosmopolitan of Las Vegas participates in the Loyalty Program as follows:
-
 (1) The only charges that qualify for Points are the following: Room rate, room service food and beverage, in-room movies, phone calls and in-room minibar purchases. Points cannot be earned on any other purchases at hotel outlets or for hotel services.
-
 (2) Points may be redeemed for all Qualifying Stays (defined in Section 2.1.d.) at The Cosmopolitan of Las Vegas.
-
 (3) Limited benefits are provided as described in Section 1.3, Section 3.4, and Section 4, except for the breakfast option associated with the Elite Welcome Gift benefit which is not available.
-
 (4) Members who hold dual membership in both the Marriott Bonvoy Loyalty Program and The Cosmopolitan of Las Vegas Identity Program can choose to receive the benefits of, and apply their room charges and in-room consumable earnings to, either program, but cannot concurrently receive the benefits of nor apply earnings to both. Marriott Bonvoy and the Identity Program are two separate loyalty programs; therefore accounts may not be linked or merged. Members may elect to earn Marriott Bonvoy Points and receive Marriott Bonvoy program benefits by providing their Membership Number at the time of reservation.
-
 C. Autograph Collection Residences do not participate in the Loyalty Program, except as noted above
-
 xiv. Design Hotels - all locations identified as a property which participates in the Loyalty Program are listed here and participate as follows:
-
 A. Earn Points or Miles as described in Section 2
-
 B. Redeem for Award Redemption Stays only as described in Section 3
-
 C. Provide limited benefits as described in Section 1.3 and Section 4
-
 xv. Renaissance Hotels - all locations
-
 xvi. Tribute Portfolio - all locations
-
 xvii. Gaylord Hotels - all locations
-
 xviii. Courtyard - all locations
-
 xix. Four Points - all locations
-
 xx. SpringHill Suites - all locations
-
 xxi. Protea Hotels - all locations
-
 There are additional terms and conditions for Prokard Explorer members who are also Loyalty Program Members as outlined in Section 1.3.
-
 xxii. Fairfield by Marriott - all locations
-
 xxiii. AC Hotels - all locations
-
 xxiv. Aloft Hotels - all locations
-
 xxv. Moxy Hotels - all locations
-
 xxvi. Residence Inn - all locations
-
 xxvii. TownePlace Suites - all locations
-
 xxviii. Element - all locations
-
 xxix. Marriott Conference Centers - all locations except for:
-
-● Rotary House Hotel, Houston, TX
-
-xxx. Vistana properties  the following Vistana properties participate in the Loyalty Program. Properties that participate provide limited on-property benefits as outlined in Section 4 and Section 7.
-
-● Phoenician, Residences, a Luxury Collection Residence Club, Scottsdale - earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
-● Sheraton Broadway Plantation Resort Villas
-● Sheraton Desert Oasis Villas, Scottsdale
-● Sheraton Kauai Resort
-● Sheraton Lakeside Terrace Villas at Mountain Vista, Avon, Vail Valley
-● Sheraton Mountain Vista Villas, Avon/Vail Valley
-● Sheraton PGA Vacation Resort, Port St. Lucie
-● Sheraton Steamboat Resort Villas
-● Sheraton Vistana Resort Villas, Lake Buena Vista/Orlando
-● Sheraton Vistana Villages Resort Villas, I-Drive/Orlando
-● St. Regis Residence Club, Aspen  earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
-● St. Regis Residence Club, New York  earning partner for Elite Night Credit (as defined by 2.1.a.) only; no Points redemption and no Points or Miles earning
-● The Westin Desert Willow Villas, Palm Desert
-● The Westin Ka'anapali North Villas
-● The Westin Ka'anapali Ocean Resort Villas
-● The Westin Kierland Villas
-● The Westin Lagunamar Ocean Resort Villas & Spa, Cancun
-● The Westin Los Cabos Resort Villas & Spa
-● The Westin Mission Hills Resort Villas, Palm Springs
-● The Westin Nanea Ocean Villas, Ka'anapali
-● The Westin Princeville Ocean Resort Villas
-● The Westin Riverfront Mountain Villas, Beaver Creek Mountain
-● The Westin St. John Resort & Villas
-● Vistana Beach Club
-
-xxxi. Non-branded properties - the following non-branded properties participate:
-
+A. Rotary House Hotel, Houston, TX
+xxx. Non-branded properties - the following non-branded properties participate:
 A. Certain transient stay properties operate in agreement with the Company and are not under a Participating Brand but are bookable through Marriott Channels (noted in 1.2.b) or Marriott Websites (noted in 1.2.c). Unless otherwise indicated through the Marriott Channels and Marriott Websites, these non-branded properties participate in Marriott Bonvoy based on the Participating Brand or All-Inclusive Resort they will convert to at a later date.
-
-B. Atlantis, Paradise Island, Bahamas participates in the Loyalty Program as follows:
-
+B. Vistana Beach Club - participates in the Loyalty Program as outlined under Section 7.1.c as a VSE Resort property (as defined in Section 7.1.a).  For purposes of these Program Rules, owners of timeshare interests in Vistana Beach Club will be subject to the same rules and limitations as owners of timeshare interests in Sheraton Vacation Club.
+C. Atlantis, Paradise Island, Bahamas participates in the Loyalty Program as follows:
 (1) Points or Miles may be earned for reservations booked through www.marriott.com/atlantis/travel.mi, by calling +1 (855) 696-4732, or booked through Atlantis Paradise Vacations, by calling +1 (800) ATLANTIS or +1 (800) 285-2684. Points cannot be redeemed for reservations booked through Atlantis Paradise Vacations. Points or Miles will not be earned and Points cannot be redeemed for reservations booked through AtlantisBahamas.com.
-
 (2) Points or Miles may be earned and Points may be redeemed for stays at The Coral at Atlantis; The Royal at Atlantis; and The Cove at Atlantis.
-
 (3) Redemption stays at The Coral at Atlantis; The Royal at Atlantis; and The Cove at Atlantis will include a single or double standard room, including the cost of the hotel room, room tax. Extra-person charges for the third, fourth, or more guests in the room is an additional fee and not included in the award redemption as form of payment. This fee as well as all other property charges, including resort fees and service charges are the responsibility of the Loyalty Program Member and are not included in the stay.
-
 (4) Points or Miles may be earned on room rate only. The Reef at Atlantis, The Beach at Atlantis, and Harborside at Atlantis do not participate in the Loyalty Program.
-
 (5) Limited benefits are provided as described in Section 1.3, Section 3.4, and Section 4, except for the breakfast option associated with the Elite Welcome Gift benefit which is not available.
-
-xxxii. Marriott Executive Apartments - Base Points and Miles earning partner only (no Points redemption or on-property Elite benefits including Elite bonus Points)
-
-xxxiii. Homes & Villas by Marriott International  short-term home rentals provided through https://homesandvillasbymarriott.com have limited participation in the Loyalty Program as outlined in the HVMI Terms of Service. Members who book through the HVMI website are subject in all respects to the Program Rules and the HVMI Terms of Service.
-
-xxxiv. All-Inclusive by Marriott Bonvoy  Unless otherwise indicated, resort properties identified on https://all-inclusive.marriott.com participate in the Loyalty Program (All-Inclusive Resorts) in a unique capacity as expressly stated in their separate terms of service (All-Inclusive by Marriott Terms). Members who book and stay at an All-Inclusive Resort are subject in all respects to the Program Rules and the All-Inclusive by Marriott Terms.
-
+xxxi. Marriott Executive Apartments - Base Points and Miles earning partner only (no Points redemption or on-property Elite benefits including Elite bonus Points)
+xxxii. Homes & Villas by Marriott International  short-term home rentals provided through https://homesandvillasbymarriott.com have limited participation in the Loyalty Program as outlined in the HVMI Terms of Service. Members who book through the HVMI website are subject in all respects to the Program Rules and the HVMI Terms of Service.
+xxxiii. All-Inclusive by Marriott Bonvoy  Unless otherwise indicated, resort properties identified on https://all-inclusive.marriott.com participate in the Loyalty Program (All-Inclusive Resorts) in a unique capacity as expressly stated in their separate terms of service (All-Inclusive by Marriott Terms). Members who book and stay at an All-Inclusive Resort are subject in all respects to the Program Rules and the All-Inclusive by Marriott Terms.
 1.2.b. Marriott Channels are collectively the Marriott Websites, the Mobile Apps, Participating Properties, and the Customer Engagement Centers (which include Member Support).
-
 1.2.c. Marriott Website is a website operated by or on behalf of the Company or a Loyalty Program Participating Property and currently includes these websites: Marriott.com, RitzCarlton.com, stregis.com, editionhotels.com, theluxurycollection.com, bulgarihotels.com, whotels.com, jwmarriott.com, marriotthotels.com, sheraton.com, deltahotels.com, lemeridien.com, westin.com, autographhotels.com, design-hotels.marriott.com, renhotels.com, tributeportfolio.com, gaylordhotels.com, courtyard.com, fourpoints.com, springhillsuites.com, proteahotels.com, fairfield.marriott.com, achotels.marriott.com, alofthotels.com, moxyhotels.com, marriottexecutiveapartments.com, residenceinn.marriott.com, TownePlaceSuites.com, elementhotelshub.com, homesandvillasbymarriott.com, all-inclusive.marriott.com, and MarriottBonvoy.com.
-
 1.2.d. A Mobile App is a downloadable application operated by or on behalf of the Company in connection with the Loyalty Program including, without limitation, the iPhone and Android versions thereof.
+
 
 
 
@@ -369,36 +263,21 @@ iii. Credit card information included in a Members profile will be used by Parti
 
 
 1.6   Earning Points or Miles.       Members may earn Points (the currency of the Loyalty Program), or Miles (the currency of airline frequent flyer programs, including any currency whether it be miles, kilometers, points, etc., with the participating frequent flyer program of their choice), for eligible charges at a Participating Property in accordance with Section 2.
-
 1.6.a. Points and Miles Subject to Program Rules. As set forth in Section 1.1.a., the accumulation of Points and Miles is subject to the Program Rules and airline frequent flyer program terms and conditions. Each Loyalty Program Member is responsible for reading the Program Rules, newsletters, and Account statements in order to understand his or her rights, responsibilities, and status in the Loyalty Program, as well as the structure for earning Awards.
-
 1.6.b. Taxes. Points, Miles and Awards earned through participating in the Loyalty Program may be subject to tax liability. Any tax liability, including disclosure, connected with the receipt or use of Points, Miles or Awards is the sole responsibility of the Member.
-
 1.6.c. Conditions for Transferring Points and Miles. Accrued Points and Miles do not constitute property of the Member. Points accrued by a Loyalty Program Member are for the Members benefit only and may not be transferred to anyone except as provided below.
-
-i.      Transferring Points to Accounts of Family or Friends. There is a limited exception to the restriction on the transfer of a Members Points to the accounts of friends or family, provided both Accounts are in good standing. See Section 2.8 for more information.
-
+i.      Transferring Points to Accounts of Family or Friends. There are limited exceptions to the restriction on the transfer of a Members Points to the accounts of friends or family, provided both Accounts are in good standing. See Sections 2.8 and 7.1.b.iii for more information.
 ii.      Death. In the event of a Members death, the Company may, in its sole discretion, allow unredeemed Points from the deceased Members Account to be transferred to a family member or a friend who is an active Member upon the Companys receipt and review of all requested documentation and communications. Awards, Elite Membership Status, Lifetime Membership Status, and the related benefits, including, without limitation, Elite Night Credit, will not transfer to the recipient of the Points.
-
 iii.      Divorce. In the event of a Members adjudicated divorce settlement, the Company may, in its sole discretion, allow unredeemed Points to be transferred from one Members Account to another Members Account upon the Companys receipt and review of all requested documentation and communications including, without limitation, legal documents directing such a transfer of Points. Awards, Elite Membership Status, Lifetime Membership Status, and the related benefits, including, without limitation, Elite Night Credit, will not transfer to the recipient of the Points.
-
 iv.      Members are prohibited from bartering or selling Points for cash or other consideration pursuant to Section 1.7.h.
-
 v.      Any Points which the Loyalty Program deems in its sole discretion to have been transferred in violation of the Loyalty Program Terms and Conditions may be confiscated.
-
 1.6.d. Points Expiration Policy. Members must remain active in the Loyalty Program to retain Points they accumulate. If a Member Account is inactive for twenty-four (24) consecutive months, that Member Account will forfeit all accumulated Points. Members can remain active in the Loyalty Program and retain accumulated Points by earning Points or Miles, redeeming Points, or purchasing Points (as described in 2.9) in the Loyalty Program at least once every twenty-four (24) months, subject to the exceptions described below. If a Member does not maintain an active status for five (5) consecutive years, the Members Account may be deactivated. Once Points are forfeited, the Points cannot be reinstated, but a Member can earn new Points, unless that Members Account has been deactivated.
-
 i.      Not all Points activities help maintain active status in the Loyalty Program. Examples of activities that do not count toward maintaining an active status in the Loyalty Program include, but are not limited to:
-
 A.      Gifting or transferring Points; however, converting Points to Miles or Miles to Points does count toward maintaining an active status;
-
 B.      Receiving Points as a gift or transfer
-
 ii.      Awards redeemed by a Member prior to Point forfeiture are still valid even though the Award may not yet have been fulfilled at the time of Point forfeiture.
-
 iii.      The Points expiration policy does not currently affect Points in a Lifetime Elite Membership Account; however, the Loyalty Program may choose to apply a Points expiration policy to Lifetime Elite Membership Accounts in the future.
 
-iv.      Points issued or earned through Vistana, including, without limitation, tour incentives, purchase incentives, Marriott Bonvoy Conversion, sweepstakes and other giveaway prizes, will expire six (6) years following the date they are deposited into a Members Account, regardless of Member activity. All such Points or any portion thereof, which have not been redeemed by their six (6) year expiration period, will be forfeited without notice.
 
 
 
@@ -657,7 +536,7 @@ iii. Additional restrictions for using Free Night Awards include, but are not li
 i. There are two types of Upgrade Awards:
 (A). Point Upgrade Awards. A Point Upgrade Award is issued when Points are redeemed for an upgrade to a Premium Room on an Award Redemption Stay and is subject to availability at Participating Properties.
 (B). Paid Upgrade Awards. At select Participating Properties, Members may pay for an upgrade to a Premium Room on an Award Redemption Stay on a cost per night basis. The price for Paid Upgrade Award varies by Participating Property and will be charged to the folio during the Members stay. Additional Points are not required with Paid Upgrade Awards. Members will not earn Points or Miles on Paid Upgrade Awards. In addition, the cash portion does not count toward the Ambassador Elite annual qualifying spend requirement (see 4.3.e). Members are responsible for all applicable taxes and service charges associated Paid Upgrade Awards.
-ii. Upgrade Award requirements may vary by Participating Property, room type and season. Participating Properties, at their discretion, may offer Premium Room(s) that require an Upgrade Award, e.g. rooms with special views such as ocean or bay views. Marriott Vacation Club, Marriott Grand Residence Club, Sheraton Vacation Club, and Westin Vacation Club properties and The Phoenician Residences, a Luxury Collection Residence Club, Scottsdale, require Upgrade Awards for all unit types other than studio units. Some upgrades to Premium Rooms require payment in local currency and cannot be purchased with Points. Check the room description for currency and other redemption requirements when booking an Award Redemption Stay reservation online. The amount of cash or Points required per night for an Upgrade Award is updated continuously and may change at any time. Pursuant to Section 3.2.e, if the Member makes a modification to the Award Redemption Stay, the Member is responsible for changes to the cash or Points required. Upgrade Awards are not offered at All-Inclusive Resorts and Design Hotels.
+ii. Upgrade Award requirements may vary by Participating Property, room type and season. Participating Properties, at their discretion, may offer Premium Room(s) that require an Upgrade Award, e.g. rooms with special views such as ocean or bay views. Marriott Vacation Club and Marriott Grand Residence Club properties require Upgrade Awards for all unit types other than studio units. Some upgrades to Premium Rooms require payment in local currency and cannot be purchased with Points. Check the room description for currency and other redemption requirements when booking an Award Redemption Stay reservation online. The amount of cash or Points required per night for an Upgrade Award is updated continuously and may change at any time. Pursuant to Section 3.2.e, if the Member makes a modification to the Award Redemption Stay, the Member is responsible for changes to the cash or Points required. Upgrade Awards are not offered at All-Inclusive Resorts and Design Hotels.
 3.3.f. Cash + Points Awards. With the Cash + Points Award Members can apply a mix of cash and Points for one or more nights in a standard room at a Participating Property when available. Participation in and availability of Cash + Points Awards are at the discretion of the Participating Property. The amount of cash and the amount of Points required per night for a Cash + Points Award are updated continuously and may change at any time. Pursuant to Section 3.2.e, if the Member makes a modification to the Award Redemption Stay, the Member is responsible for changes to the cash and Points required. Members will not earn Points or Miles on the cash portion of Cash + Points Awards. In addition, the cash portion does not count toward the Ambassador Elite annual qualifying spend requirement (see 4.3.e). Members are responsible for all applicable taxes and service charges associated with the cash portion of Cash + Points Awards. The Stay for 5, Pay for 4 Offer does not apply to Cash + Points Awards. The Cash + Points Award structure is subject to modification, cancellation or limitation at any time without notice at the discretion of the Loyalty Program. The Cash & Points Payment for Homes & Villas by Marriott International is different from Cash + Points Awards and follows the Program Rules under Section 8.2.
 3.3.g. Points Advance. Members who seek to make an Award Redemption Stay reservation with an insufficient Points balance may book an Award Redemption Stay reservation ("Points Advance Redemption Reservation") that is at least thirty (30) or more days from the arrival date, and hold it for sixty (60) days from time of booking, or no later than fourteen (14) days prior to the Members arrival date, whichever occurs sooner.
 During the time the Points Advance Redemption Reservation is on hold, a Member may either (1) purchase Points (as described in Section 2.9) to make a valid Award Redemption Stay, provided that the aggregate amount of Points purchased and/or received as a gift by the Member is less than or equivalent to the annual maximum per calendar year as noted in section 2.9; or (2) the Member accrues sufficient Points for payment of the Points Advance Redemption Reservation by the end of the 60-day hold, or no later than fourteen (14) days prior to the Members arrival date, whichever occurs sooner; or (3) the Member may modify the Points Advance Redemption Reservation to the best paid rate available; or (4) the Member may rebook a Points Advance Redemption Reservation based on redemption inventory availability.
@@ -761,34 +640,21 @@ iv. Points Advance can only be used for Award Redemption Stay types, including S
 
 
 4.1  Elite Membership General     4.1.a. Elite membership is an exclusive privilege of Marriott Bonvoy Loyalty Program Membership. All Program Rules apply to Elite membership. The Loyalty Program has the right to terminate the Elite recognition program (the Elite Program or the Elite Membership Program) at any time by providing advance notice to Members in accordance with section 1.7.d. The Loyalty Program has the right to change, limit, modify or cancel the Program Rules for the Elite Program at any time, with or without notice, pursuant to section 1.7.c. Participating Properties outside the United States may provide alternative services and benefits to the Elite membership benefits set forth in these Program Rules, depending on local law and policy.
-
-4.1.b. Pursuant to section 1.7.a., the Company reserves the right to revoke, cancel or suspend a Members Elite membership status (including Lifetime Elite Status), any Loyalty Program Membership, Award, and/or any and all unredeemed Points or Miles, or take other action at its discretion, at any time with immediate effect and without written notice if the Company believes the Member has (a) violated any of the Program Rules, (b) failed to pay any bills or accounts due to the Company or a Participating Property or any ownership related fees owed to Marriott Vacation Club properties, Marriott Grand Residence Club properties, or Vistana properties, (c) acted in a manner inconsistent with applicable law, regulations or ordinances, (d) engaged in any misconduct or wrongdoing in connection with the Marriott Bonvoy Loyalty Program, including without limitation, involving Point credit, Mile credit, Award use, or Member benefits, or (e) engaged in abusive, fraudulent, inappropriate, or hostile conduct in connection with the Marriott Bonvoy Loyalty Program, the Participating Properties or their guests or employees, or the Company or its employees. Nothing in these Program Rules will limit Company from exercising any legal rights or remedies that it may have.
-
+4.1.b. Pursuant to section 1.7.a., the Company reserves the right to revoke, cancel or suspend a Members Elite membership status (including Lifetime Elite Status), any Loyalty Program Membership, Award, and/or any and all unredeemed Points or Miles, or take other action at its discretion, at any time with immediate effect and without written notice if the Company believes the Member has (a) violated any of the Program Rules, (b) failed to pay any bills or accounts due to the Company or a Participating Property or any ownership related fees owed to Marriott Vacation Club, Marriott Grand Residence Club, Sheraton Vacation Club, or Westin Vacation Club properties, or The Phoenician Residences, a Luxury Collection Residence Club, Scottsdale, (c) acted in a manner inconsistent with applicable law, regulations or ordinances, (d) engaged in any misconduct or wrongdoing in connection with the Marriott Bonvoy Loyalty Program, including without limitation, involving Point credit, Mile credit, Award use, or Member benefits, or (e) engaged in abusive, fraudulent, inappropriate, or hostile conduct in connection with the Marriott Bonvoy Loyalty Program, the Participating Properties or their guests or employees, or the Company or its employees. Nothing in these Program Rules will limit Company from exercising any legal rights or remedies that it may have.
 4.1.c. Benefits of Elite membership apply to stays on Qualifying Rates (as described in Section 2.1.e.) and are reserved for Members only and apply solely to the one guest room in which the Elite Member stays. Only one Member per guest room can earn Points/Miles and Elite Night Credit, as well as receive benefits as described in Section 2.1.d.(iv). Elite Members receive one set of benefits according to their membership tier on Stays of one or more consecutive nights as described in 2.1.d, even if they check in and check out of the same Participating Property within 24 hours. In order for an Elite Member to be eligible to receive Elite benefits during his/her stay, the Elite Member must provide his/her Loyalty Program Membership Number when making a reservation.
-
 Elite Members will receive Elite membership benefits including, without limitation: bonus Points, priority late checkout and room upgrades. Benefits vary by Elite membership tier. More information can be found in section 4.3.
-
 i. The awarding of Loyalty Program Elite membership benefits is void where prohibited by law and may vary outside the United States and Canada.
-
 ii. Local policy may prevail over Loyalty Program standards at Participating Properties, and some Elite membership benefits may not be available at some locations.
-
 iii. Pursuant to Section 8.3, the only Elite Member benefit provided for stays at Homes & Villas by Marriott International is the Elite Welcome Gift of Points as described in 4.3.b.(ii) and 4.3.c.(iii).
-
 4.1.d. Members with Elite Status (Elite Member) will receive guaranteed compensation for select Elite benefits in the event those benefits are not available during an Elite Members stay (Elite Benefits Guarantee). Due to the global pandemic, participating hotels may offer a food and beverage or lounge alternative for the benefit based on local guidelines or the hotels operational impacts related to COVID-19.
-
 i. The maximum Elite Benefits Guarantee cash compensation in the United States is $200 U.S. dollars, even if more than one guaranteed benefit is not delivered to the Elite Member. The maximum Elite Benefits Guarantee compensation paid to an Elite Member during a stay outside the United States will be the equivalent of $200 U.S. dollars paid in local currency, even if more than one guaranteed benefit is not delivered to the Elite Member.
-
 ii. If an Elite Member believes that compensation is due with respect to any aspect of the Elite Benefits Guarantee, he/she must request payment of the compensation while still a guest at the Participating Property, prior to checking out. Failure to request such payment prior to check out will result in a complete waiver of any right to receive such compensation.
-
 iii. In order to qualify for the Elite Benefits Guarantee, the Elite Members Membership Number, Elite membership status, and bed type preferences must be included with the reservation. Reservations booked on Qualifying Rates made through meeting planners, travel agents, wholesalers or other approved third-party sources must include this information in order to be eligible for the Elite Benefits Guarantee.
-
 iv. Guests accompanying Elite Members to a Participating Property are not eligible for the Elite Benefits Guarantee.
-
 v. The Elite Benefits Guarantee applies to all Qualifying Stays, including Award Redemption Stays.
-
 vi. Elite Members who do not receive their Elite Benefits Guarantee or Ultimate Reservation Guarantee (see section 4.3.a. for Ultimate Reservation Guarantee information) in Russia, any other country subject to currency restrictions or any country prohibited by law from compensating the Member in the form of a cash payment will be compensated with Points.
-
 vii. The following Participating Brands do not participate in the Elite Benefits Guarantee or the Ultimate Reservation Guarantee: Homes & Villas by Marriott International.
+
 
 
 
@@ -1196,9 +1062,9 @@ In addition, for Participating Properties in Asia, Australia & Pacific Islands, 
 
 
 
-5.2Participating Properties     5.2.a.  Participating Brands. Marriott Bonvoy Events is valid at all Participating Properties (see Section 1.2) at these Participating Brands: The Ritz-Carlton, Ritz-Carlton Reserve, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Marriott Vacation Club, Sheraton Vacation Club, Westin Vacation Club, Delta Hotels, Le Méridien Westin, Autograph Collection Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Aloft, Moxy Hotels, and Element.
-5.2.b.  Non-Participating Brands. Marriott Bonvoy Events is not valid at the following brands: Design Hotels, Marriott Executive Apartments, Residence Inn, TownePlace Suites, Bulgari Hotels & Resorts, The St. Regis Residence Club, The Phoenician Residences, a Luxury Collection Residence Club, Scottsdale, The Ritz-Carlton Club, and Homes & Villas by Marriott International.
+5.2Participating Properties     5.2.a.  Participating Brands.Marriott Bonvoy Events is valid at all Participating Properties (see Section 1.2) at these Participating Brands: The Ritz-Carlton, Ritz-Carlton Reserve, St. Regis, EDITION, The Luxury Collection, W Hotels, JW Marriott, Marriott Hotels, Sheraton, Marriott Vacation Club, Delta Hotels, Le Méridien, Westin, Autograph Collection Hotels, Renaissance Hotels, Tribute Portfolio, Gaylord Hotels, Courtyard, Four Points, SpringHill Suites, Protea Hotels, Fairfield by Marriott, AC Hotels, Aloft, Moxy Hotels, and Element.
 
+5.2.b.  Non-Participating Brands. Marriott Bonvoy Events is not valid at the following brands: Design Hotels, Marriott Executive Apartments, Residence Inn TownePlace Suites, Bulgari Hotels & Resorts, Vistana properties, and Homes & Villas by Marriott International.
 
 
 
@@ -1272,24 +1138,19 @@ For example, any event or meeting booked by government employees, officials, emp
 
 6.1      US Chase Credit Cards     6.1.a.  Marriott Bonvoy Bold Credit Card from Chase
 Marriott Bonvoy Bold Credit Card from Chase - Learn More
-
 6.1.b.  Marriott Bonvoy Credit Card from Chase
 Marriott Bonvoy Credit Card from Chase - Learn More
-
 6.1.c.  Marriott Bonvoy Business Credit Card from Chase
 Marriott Bonvoy Business Credit Card from Chase - Learn More
-
 6.1.d.  Marriott Bonvoy Premier Credit Card from Chase
 Marriott Bonvoy Premier Credit Card from Chase - Learn More
-
 6.1.e.  Marriott Bonvoy Premier Plus Business Credit Card from Chase
 Marriott Bonvoy Premier Plus Business Credit Card from Chase - Learn More
-
 6.1.f.  Marriott Bonvoy Boundless Credit Card from Chase
 Marriott Bonvoy Boundless Credit Card from Chase - Learn More
-
 6.1.g.  The Ritz-Carlton Credit Card from JPMorgan
 The Ritz-Carlton Credit Card - Learn More
+
 
 
 
@@ -1357,34 +1218,24 @@ Marriott Bonvoy CITIC Premium Platinum Card for residents of mainland China  Lea
 
 
 
-7.The Marriott Vacation Clubs and Vistana Residence Network
+7.MARRIOTT VACATION CLUB, MARRIOTT GRAND RESIDENCE CLUB, VISTANA SIGNATURE NETWORK, AND VISTANA RESIDENCE NETWORK
 
 
 
 
-7.1    Marriott Vacation Club and Marriott Grand Residence Club     7.1.a Marriott Vacation Club and Marriott Grand Residence Club owners eligible to participate in the Loyalty Program through ownership of a Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interest (collectively, MVC Owners) are subject to the Program Rules, and to any additional rules and regulations promulgated by Marriott Ownership Resorts, Inc. and/or Marriott Resorts, Travel Company, Inc. d/b/a MVC Exchange Company or their respective affiliates or subsidiaries (each an MVC Entity), as such rules and regulations may be modified from time to time (collectively, MVC Rules).
+7.1    Marriott Vacation Club, Marriott Grand Residence Club, Sheraton Vacation Club, Westin Vacation Club     7.1.a. The term Vacation Club Member(s) includes (i) owners of timeshare interest(s) developed, operated or offered under the Marriott Vacation Club brand or Marriott Grand Residence Club brand (collectively, MVC Club(s)) eligible to participate in the Loyalty Program through ownership of their timeshare interests, and (ii) owners of timeshare interest(s) developed, operated or offered under the Sheraton Vacation Club brand or Westin Vacation Club brand, or in Vistana Beach Club (collectively, VSE Resort(s)), which owners are also members of Vistana Signature Network (VSN) and eligible to participate in the Loyalty Program through their VSN membership.  All such Vacation Club Members are subject to the Program Rules, and to any additional rules and regulations applicable to their timeshare interest(s) promulgated by Marriott Ownership Resorts, Inc., Vistana Signature Experiences, Inc. and/or Marriott Resorts, Travel Company, Inc. d/b/a MVC Exchange Company (Exchange Company) or their respective affiliates or subsidiaries (each a Vacation Club Entity), as such rules and regulations may be modified from time to time (collectively, Vacation Club Rules).   Vacation Club Members may be subject to different Vacation Club Rules depending on the timeshare interest(s) owned by such Vacation Club Members.
+7.1.b. Vacation Club Members who receive Loyalty Program Elite upgrades as part of their owner benefits are subject to these Program Rules, as may be modified from time to time pursuant to section 1.7.c, and to the Vacation Club Rules applicable to their timeshare interest(s), including without limitation the following:
+i. Vacation Club Members who, through their ownership of MVC Club timeshare interests and/or ownership of VSE Resort timeshare interests and membership in VSN, or through enrollment of their timeshare interests in the Abound by Marriott Vacations Exchange Program (Abound Exchange Program), as applicable, (A) achieve a Standard or Owner level of membership, may be offered Marriott Bonvoy Gold Elite status, and will not be subject to the Gold Elite Minimum Requirement to maintain Gold Elite status every year; (B) achieve a Select or Executive level of membership, may be offered Marriott Bonvoy Platinum Elite status, and will not be subject to the Platinum Elite Minimum Requirement to maintain Platinum Elite status every year; and (C) achieve a Presidential or Chairmans Club level of membership, may be offered Marriott Bonvoy Titanium Elite status, and will not be subject to the Titanium Elite Minimum Requirement to maintain Titanium Elite status every year.  Only one (1) individual on the deed for an MVC Club or VSE Resort timeshare interest will receive the applicable Elite Status. Certain Vacation Club Members may not have their Elite Status upgraded until 2023.
+ii. A Vacation Club Member will retain his or her Elite status, provided that such Vacation Club Member: (i) maintains his/her membership level through ownership of MVC Club or VSE Resort timeshare interests and/or enrollment in the Abound Exchange Program; (ii) is current in all maintenance fees, Exchange Company dues, fees, taxes, and other payments; and (iii) is current in any other payments owed to any Vacation Club Entity, including payments related to the financing of an MVC Club or VSE Resort timeshare interest.
+iii. Elite status and any accumulated Points in a Vacation Club Members Loyalty Program Membership Account do not transfer upon sale of the Vacation Club Members timeshare interest to a third party.  Notwithstanding the foregoing, Vacation Club Members may transfer Points to another Vacation Club Members Membership Account so long as the two Vacation Club Members are listed as owners on the same deed of such owners timeshare interest, regardless of whether they reside at the same address.
+7.1.c. Due to the nature of the MVC Club and VSE Resort properties, the following special conditions apply to their participation in the Loyalty Program:
+i. Vacation Club Members will earn Elite Night Credit for a Qualifying Stay at MVC Club and VSE Resort properties, and for stays at Participating Properties as part of the Abound Exchange Program (e.g. City Explorer).
+ii. Vacation Club Members will earn Points or Miles for all Qualifying Charges at MVC Club and VSE Resort properties.
+iii. The following benefits are not available at MVC Club or VSE Resort properties: Complimentary Enhanced Room Upgrades, late checkout, Suite Night Awards, Guaranteed Lounge Access, Guaranteed Room Type, 48-Hour Guaranteed Availability, Ultimate Reservation Guarantee, or Your24.
+iv. Award Redemption Stays at MVC Club and VSE Resort properties must be booked at least one (1) day in advance of arrival. MVC Club and VSE Resort properties either do not participate or do not fully participate in the Limited Blackout Dates policy at this time.
+v. Instant Redemption Awards are not available at MVC Club or VSE Resort properties.
+vi. Points acquired through ownership of an interest at an MVC Club or VSE Resort property may not be used to request an Award Redemption Stay reservation at an MVC Club or VSE Resort property or a Residence Club Property (defined below).
 
-7.1.b MVC Owners who receive Loyalty Program Elite upgrades as part of their owner benefits are subject to the Program Rules, as may be modified from time to time pursuant to section 1.7.c, and to the MVC Rules, including without limitation the following:
-
-i. MVC Owners who achieve a Standard or Owner level of membership through their ownership of Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interests, or their enrollment in the Marriott Vacation Club Destinations Exchange Program (MVC Exchange Program), and certain other individuals designated by an MVC Entity, may be offered Marriott Bonvoy Gold Elite status, and are not subject to the Gold Elite Minimum Requirement to maintain Gold Elite status every year. MVC Owners who achieve a Select or Executive level of membership through their ownership of Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interests, or their enrollment in the Marriott Vacation Club Destinations Exchange Program (MVC Exchange Program), and certain other individuals designated by an MVC Entity, may be offered Marriott Bonvoy Platinum Elite status, and are not subject to the Platinum Elite Minimum Requirement to maintain Platinum Elite status every year. MVC Owners who achieve a Presidential or Chairmans Club level of membership through their ownership of Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interests, or their enrollment in the MVC Exchange Program, and certain other individuals designated by an MVC Entity, may be offered Marriott Bonvoy Titanium Elite status, and are not subject to the Titanium Elite Minimum Requirement to maintain Titanium Elite status every year.
-
-ii. An MVC Owner will remain his or her Elite status, provided that such MVC Owner: (i) maintains his/her membership level through ownership of Marriott Vacation Club and/or Marriott Grand Residence Club timeshare interests or enrollment in the MVC Exchange Program; (ii) is current in all maintenance fees, MVC Exchange Company dues, fees, taxes, and other payments; and (iii) is current in any other payments owed to any MVC Entity.
-
-iii. Elite status and any accumulated Points in an MVC Owners Loyalty Program Membership Account do not transfer upon sale of their timeshare interest to a third party.
-
-7.1.c Due to the nature of Marriott Vacation Club and Marriott Grand Residence Club properties, the following special conditions apply to their participation in the Loyalty Program:
-
-i. Members will earn Elite Night Credit for a Qualifying Stay at Marriott Vacation Club and Marriott Grand Residence Club properties, and for stays at Participating Properties as part of the MVC Exchange Program (e.g. City Explorer).
-
-ii. Members will earn Points or Miles for all Qualifying Charges at Marriott Vacation Club and Marriott Grand Residence Club properties.
-
-iii. Members do not receive the following benefits (as defined in Section 4) at Marriott Vacation Club or Marriott Grand Residence Club properties: Complimentary Enhanced Room Upgrades, late checkout, Suite Night Awards, Guaranteed Room Type, 48-Hour Guaranteed Availability, Ultimate Reservation Guarantee, or Your24.
-
-iv. Award Redemption Stays at Marriott Vacation Club and Marriott Grand Residence Club properties must be booked at least one (1) day in advance of arrival. Marriott Vacation Club and Marriott Grand Residence Club properties either do not participate or do not fully participate in the Limited Blackout Dates policy at this time.
-
-v. Instant Redemption Awards are not available at Marriott Vacation Club or Marriott Grand Residence Club properties.
-
-vi. Points acquired through ownership of an interest at a Marriott Vacation Club or Marriott Grand Residence Club property may not be used to request an Award Redemption Stay reservation at a Marriott Vacation Club, Marriott Grand Residence Club or Vistana property.
 
 
 
